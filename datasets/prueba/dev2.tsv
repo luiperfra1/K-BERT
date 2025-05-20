@@ -1,0 +1,2001 @@
+text_a	label
+The virus is known as programming language.	O B-Micro O O O O O
+The teacher is known as vehicle.	O B-Occupation O O O B-Category
+The heart is related to yellow.	O B-BodyPart O O O B-Color
+The teacher is known as educator.	O B-Occupation O O O B-Occupation
+The apple can be categorized as mammal.	O B-Fruit O O O O B-Category
+The apple can be categorized as organ.	O B-Fruit O O O O B-BodyPart
+The python is a mammal.	O B-Tech O O B-Category
+The car is also called programming language.	O B-Vehicle O O O O O
+The cat is a microorganism.	O B-Animal O O B-Category
+The heart has to do with fruit.	O B-BodyPart O O O O B-Category
+The virus can be categorized as animal.	O B-Micro O O O O B-Category
+The car is the same as physician.	O B-Vehicle O O O O B-Occupation
+The teacher can be categorized as mammal.	O B-Occupation O O O O B-Category
+The virus has to do with mammal.	O B-Micro O O O O B-Category
+The python is associated with vehicle.	O B-Tech O O O B-Category
+The banana is associated with microorganism.	O B-Fruit O O O B-Category
+The apple has to do with vehicle.	O B-Fruit O O O O B-Category
+The apple is related to yellow.	O B-Fruit O O O B-Color
+The heart has to do with animal.	O B-BodyPart O O O O B-Category
+The python is associated with physician.	O B-Tech O O O B-Occupation
+The car can be categorized as mammal.	O B-Vehicle O O O O B-Category
+The car is the same as vehicle.	O B-Vehicle O O O O B-Category
+The virus has to do with fruit.	O B-Micro O O O O B-Category
+The dog is considered a mammal.	O B-Animal O O O B-Category
+The banana is known as fruit.	O B-Fruit O O O B-Category
+The virus can be categorized as organ.	O B-Micro O O O O B-BodyPart
+The heart has to do with microorganism.	O B-BodyPart O O O O B-Category
+The doctor has to do with mammal.	O B-Occupation O O O O B-Category
+The cat can be categorized as educator.	O B-Animal O O O O B-Occupation
+The apple has to do with mammal.	O B-Fruit O O O O B-Category
+The python has to do with vehicle.	O B-Tech O O O O B-Category
+The teacher is also called vehicle.	O B-Occupation O O O B-Category
+The heart is the same as vehicle.	O B-BodyPart O O O O B-Category
+The python is also called physician.	O B-Tech O O O B-Occupation
+The virus is also called physician.	O B-Micro O O O B-Occupation
+The cat has to do with programming language.	O B-Animal O O O O O O
+The car is known as fruit.	O B-Vehicle O O O B-Category
+The teacher is the same as organ.	O B-Occupation O O O O B-BodyPart
+The dog is known as organ.	O B-Animal O O O B-BodyPart
+The teacher is a fruit.	O B-Occupation O O B-Category
+The apple is associated with educator.	O B-Fruit O O O B-Occupation
+The virus can be categorized as yellow.	O B-Micro O O O O B-Color
+The heart can be categorized as physician.	O B-BodyPart O O O O B-Occupation
+The teacher is considered a programming language.	O B-Occupation O O O O O
+The car has to do with animal.	O B-Vehicle O O O O B-Category
+The banana is considered a vehicle.	O B-Fruit O O O B-Category
+The heart is associated with organ.	O B-BodyPart O O O B-BodyPart
+The virus is considered a programming language.	O B-Micro O O O O O
+The car is related to fruit.	O B-Vehicle O O O B-Category
+The doctor is also called animal.	O B-Occupation O O O B-Category
+The car is the same as yellow.	O B-Vehicle O O O O B-Color
+The doctor can be categorized as fruit.	O B-Occupation O O O O B-Category
+The banana is known as physician.	O B-Fruit O O O B-Occupation
+The banana is a yellow.	O B-Fruit O O B-Color
+The virus is also called fruit.	O B-Micro O O O B-Category
+The cat is also called animal.	O B-Animal O O O B-Category
+The doctor is also called organ.	O B-Occupation O O O B-BodyPart
+The teacher is the same as vehicle.	O B-Occupation O O O O B-Category
+The heart is associated with yellow.	O B-BodyPart O O O B-Color
+The cat has to do with physician.	O B-Animal O O O O B-Occupation
+The doctor is a microorganism.	O B-Occupation O O B-Category
+The dog is also called vehicle.	O B-Animal O O O B-Category
+The virus is also called yellow.	O B-Micro O O O B-Color
+The banana is considered a programming language.	O B-Fruit O O O O O
+The heart is considered a mammal.	O B-BodyPart O O O B-Category
+The cat can be categorized as fruit.	O B-Animal O O O O B-Category
+The cat is also called mammal.	O B-Animal O O O B-Category
+The dog is a microorganism.	O B-Animal O O B-Category
+The cat is also called physician.	O B-Animal O O O B-Occupation
+The teacher has to do with fruit.	O B-Occupation O O O O B-Category
+The car is the same as vehicle.	O B-Vehicle O O O O B-Category
+The dog is associated with yellow.	O B-Animal O O O B-Color
+The apple has to do with organ.	O B-Fruit O O O O B-BodyPart
+The banana is known as organ.	O B-Fruit O O O B-BodyPart
+The cat is a physician.	O B-Animal O O B-Occupation
+The virus is related to yellow.	O B-Micro O O O B-Color
+The virus is a physician.	O B-Micro O O B-Occupation
+The car is associated with yellow.	O B-Vehicle O O O B-Color
+The cat is considered a vehicle.	O B-Animal O O O B-Category
+The python is also called organ.	O B-Tech O O O B-BodyPart
+The virus is considered a mammal.	O B-Micro O O O B-Category
+The dog is related to yellow.	O B-Animal O O O B-Color
+The cat is the same as educator.	O B-Animal O O O O B-Occupation
+The virus is associated with microorganism.	O B-Micro O O O B-Category
+The doctor is also called physician.	O B-Occupation O O O B-Occupation
+The python is associated with microorganism.	O B-Tech O O O B-Category
+The teacher is associated with yellow.	O B-Occupation O O O B-Color
+The car is related to microorganism.	O B-Vehicle O O O B-Category
+The heart is related to mammal.	O B-BodyPart O O O B-Category
+The cat has to do with animal.	O B-Animal O O O O B-Category
+The banana is also called fruit.	O B-Fruit O O O B-Category
+The heart is the same as physician.	O B-BodyPart O O O O B-Occupation
+The doctor is known as educator.	O B-Occupation O O O B-Occupation
+The virus is a microorganism.	O B-Micro O O B-Category
+The apple is also called organ.	O B-Fruit O O O B-BodyPart
+The heart is a vehicle.	O B-BodyPart O O B-Category
+The banana is a vehicle.	O B-Fruit O O B-Category
+The cat can be categorized as vehicle.	O B-Animal O O O O B-Category
+The python is considered a programming language.	O B-Tech O O O O O
+The teacher is considered a organ.	O B-Occupation O O O B-BodyPart
+The cat is the same as fruit.	O B-Animal O O O O B-Category
+The teacher is related to microorganism.	O B-Occupation O O O B-Category
+The apple is considered a mammal.	O B-Fruit O O O B-Category
+The car has to do with educator.	O B-Vehicle O O O O B-Occupation
+The car is associated with yellow.	O B-Vehicle O O O B-Color
+The cat is a microorganism.	O B-Animal O O B-Category
+The car has to do with programming language.	O B-Vehicle O O O O O O
+The virus has to do with educator.	O B-Micro O O O O B-Occupation
+The car is also called animal.	O B-Vehicle O O O B-Category
+The heart is also called mammal.	O B-BodyPart O O O B-Category
+The car has to do with yellow.	O B-Vehicle O O O O B-Color
+The cat is considered a organ.	O B-Animal O O O B-BodyPart
+The cat can be categorized as yellow.	O B-Animal O O O O B-Color
+The heart is known as programming language.	O B-BodyPart O O O O O
+The doctor can be categorized as mammal.	O B-Occupation O O O O B-Category
+The car is related to microorganism.	O B-Vehicle O O O B-Category
+The car has to do with programming language.	O B-Vehicle O O O O O O
+The banana is also called educator.	O B-Fruit O O O B-Occupation
+The python is considered a fruit.	O B-Tech O O O B-Category
+The doctor is associated with microorganism.	O B-Occupation O O O B-Category
+The cat is known as animal.	O B-Animal O O O B-Category
+The virus is known as organ.	O B-Micro O O O B-BodyPart
+The cat is known as physician.	O B-Animal O O O B-Occupation
+The doctor is known as animal.	O B-Occupation O O O B-Category
+The apple is the same as vehicle.	O B-Fruit O O O O B-Category
+The heart has to do with animal.	O B-BodyPart O O O O B-Category
+The car has to do with yellow.	O B-Vehicle O O O O B-Color
+The dog is the same as vehicle.	O B-Animal O O O O B-Category
+The dog is known as programming language.	O B-Animal O O O O O
+The apple is a microorganism.	O B-Fruit O O B-Category
+The python is associated with mammal.	O B-Tech O O O B-Category
+The dog is the same as organ.	O B-Animal O O O O B-BodyPart
+The heart is the same as organ.	O B-BodyPart O O O O B-BodyPart
+The dog is related to yellow.	O B-Animal O O O B-Color
+The dog has to do with mammal.	O B-Animal O O O O B-Category
+The dog is associated with fruit.	O B-Animal O O O B-Category
+The heart is known as microorganism.	O B-BodyPart O O O B-Category
+The heart is also called programming language.	O B-BodyPart O O O O O
+The car can be categorized as animal.	O B-Vehicle O O O O B-Category
+The cat is associated with programming language.	O B-Animal O O O O O
+The car is considered a organ.	O B-Vehicle O O O B-BodyPart
+The apple is a fruit.	O B-Fruit O O B-Category
+The virus is known as microorganism.	O B-Micro O O O B-Category
+The car is also called educator.	O B-Vehicle O O O B-Occupation
+The doctor is a yellow.	O B-Occupation O O B-Color
+The banana is considered a educator.	O B-Fruit O O O B-Occupation
+The banana is the same as microorganism.	O B-Fruit O O O O B-Category
+The dog is considered a mammal.	O B-Animal O O O B-Category
+The car is related to programming language.	O B-Vehicle O O O O O
+The doctor is associated with vehicle.	O B-Occupation O O O B-Category
+The apple is related to programming language.	O B-Fruit O O O O O
+The python is related to organ.	O B-Tech O O O B-BodyPart
+The doctor has to do with educator.	O B-Occupation O O O O B-Occupation
+The heart is related to educator.	O B-BodyPart O O O B-Occupation
+The banana is related to organ.	O B-Fruit O O O B-BodyPart
+The banana is related to organ.	O B-Fruit O O O B-BodyPart
+The doctor is also called educator.	O B-Occupation O O O B-Occupation
+The python is related to organ.	O B-Tech O O O B-BodyPart
+The cat can be categorized as educator.	O B-Animal O O O O B-Occupation
+The python has to do with yellow.	O B-Tech O O O O B-Color
+The banana is a animal.	O B-Fruit O O B-Category
+The cat can be categorized as vehicle.	O B-Animal O O O O B-Category
+The python is associated with vehicle.	O B-Tech O O O B-Category
+The teacher is the same as educator.	O B-Occupation O O O O B-Occupation
+The heart is the same as mammal.	O B-BodyPart O O O O B-Category
+The apple is also called programming language.	O B-Fruit O O O O O
+The doctor has to do with microorganism.	O B-Occupation O O O O B-Category
+The dog has to do with animal.	O B-Animal O O O O B-Category
+The banana is the same as educator.	O B-Fruit O O O O B-Occupation
+The teacher is associated with vehicle.	O B-Occupation O O O B-Category
+The banana is also called fruit.	O B-Fruit O O O B-Category
+The heart is a mammal.	O B-BodyPart O O B-Category
+The doctor has to do with programming language.	O B-Occupation O O O O O O
+The banana is the same as yellow.	O B-Fruit O O O O B-Color
+The banana is related to microorganism.	O B-Fruit O O O B-Category
+The python has to do with educator.	O B-Tech O O O O B-Occupation
+The dog can be categorized as fruit.	O B-Animal O O O O B-Category
+The apple is considered a fruit.	O B-Fruit O O O B-Category
+The apple is also called fruit.	O B-Fruit O O O B-Category
+The teacher can be categorized as physician.	O B-Occupation O O O O B-Occupation
+The banana is associated with organ.	O B-Fruit O O O B-BodyPart
+The dog is considered a educator.	O B-Animal O O O B-Occupation
+The python is known as animal.	O B-Tech O O O B-Category
+The banana is related to fruit.	O B-Fruit O O O B-Category
+The heart is related to programming language.	O B-BodyPart O O O O O
+The apple is the same as mammal.	O B-Fruit O O O O B-Category
+The doctor is a fruit.	O B-Occupation O O B-Category
+The banana is a mammal.	O B-Fruit O O B-Category
+The banana has to do with fruit.	O B-Fruit O O O O B-Category
+The apple can be categorized as fruit.	O B-Fruit O O O O B-Category
+The doctor is known as vehicle.	O B-Occupation O O O B-Category
+The heart is associated with mammal.	O B-BodyPart O O O B-Category
+The car is also called physician.	O B-Vehicle O O O B-Occupation
+The cat is considered a organ.	O B-Animal O O O B-BodyPart
+The car is associated with microorganism.	O B-Vehicle O O O B-Category
+The heart is the same as microorganism.	O B-BodyPart O O O O B-Category
+The python can be categorized as organ.	O B-Tech O O O O B-BodyPart
+The heart is also called fruit.	O B-BodyPart O O O B-Category
+The apple is associated with animal.	O B-Fruit O O O B-Category
+The dog is considered a vehicle.	O B-Animal O O O B-Category
+The apple is the same as fruit.	O B-Fruit O O O O B-Category
+The heart is a animal.	O B-BodyPart O O B-Category
+The cat is considered a physician.	O B-Animal O O O B-Occupation
+The virus is associated with yellow.	O B-Micro O O O B-Color
+The virus is associated with yellow.	O B-Micro O O O B-Color
+The dog is considered a mammal.	O B-Animal O O O B-Category
+The doctor is a programming language.	O B-Occupation O O O O
+The doctor is known as yellow.	O B-Occupation O O O B-Color
+The car can be categorized as mammal.	O B-Vehicle O O O O B-Category
+The car is related to physician.	O B-Vehicle O O O B-Occupation
+The teacher is a programming language.	O B-Occupation O O O O
+The virus has to do with microorganism.	O B-Micro O O O O B-Category
+The python is also called vehicle.	O B-Tech O O O B-Category
+The virus is the same as microorganism.	O B-Micro O O O O B-Category
+The virus is associated with vehicle.	O B-Micro O O O B-Category
+The cat can be categorized as animal.	O B-Animal O O O O B-Category
+The heart is the same as fruit.	O B-BodyPart O O O O B-Category
+The apple is known as vehicle.	O B-Fruit O O O B-Category
+The virus is associated with fruit.	O B-Micro O O O B-Category
+The dog is also called educator.	O B-Animal O O O B-Occupation
+The python is associated with yellow.	O B-Tech O O O B-Color
+The dog can be categorized as vehicle.	O B-Animal O O O O B-Category
+The cat is considered a vehicle.	O B-Animal O O O B-Category
+The car can be categorized as mammal.	O B-Vehicle O O O O B-Category
+The virus is the same as physician.	O B-Micro O O O O B-Occupation
+The virus has to do with physician.	O B-Micro O O O O B-Occupation
+The banana is a vehicle.	O B-Fruit O O B-Category
+The virus is also called animal.	O B-Micro O O O B-Category
+The python is known as organ.	O B-Tech O O O B-BodyPart
+The apple has to do with fruit.	O B-Fruit O O O O B-Category
+The apple has to do with vehicle.	O B-Fruit O O O O B-Category
+The apple is a educator.	O B-Fruit O O B-Occupation
+The heart can be categorized as animal.	O B-BodyPart O O O O B-Category
+The doctor is related to yellow.	O B-Occupation O O O B-Color
+The teacher is associated with educator.	O B-Occupation O O O B-Occupation
+The apple can be categorized as educator.	O B-Fruit O O O O B-Occupation
+The apple is related to programming language.	O B-Fruit O O O O O
+The doctor is the same as vehicle.	O B-Occupation O O O O B-Category
+The banana has to do with mammal.	O B-Fruit O O O O B-Category
+The dog is a microorganism.	O B-Animal O O B-Category
+The heart is considered a organ.	O B-BodyPart O O O B-BodyPart
+The doctor is considered a vehicle.	O B-Occupation O O O B-Category
+The doctor is known as yellow.	O B-Occupation O O O B-Color
+The car is considered a yellow.	O B-Vehicle O O O B-Color
+The banana can be categorized as vehicle.	O B-Fruit O O O O B-Category
+The apple has to do with vehicle.	O B-Fruit O O O O B-Category
+The dog is associated with programming language.	O B-Animal O O O O O
+The doctor is the same as programming language.	O B-Occupation O O O O O O
+The car is related to educator.	O B-Vehicle O O O B-Occupation
+The dog is the same as animal.	O B-Animal O O O O B-Category
+The doctor is known as fruit.	O B-Occupation O O O B-Category
+The banana is known as educator.	O B-Fruit O O O B-Occupation
+The car has to do with microorganism.	O B-Vehicle O O O O B-Category
+The cat can be categorized as fruit.	O B-Animal O O O O B-Category
+The car is also called yellow.	O B-Vehicle O O O B-Color
+The banana is associated with fruit.	O B-Fruit O O O B-Category
+The dog is the same as educator.	O B-Animal O O O O B-Occupation
+The cat is the same as organ.	O B-Animal O O O O B-BodyPart
+The apple is known as organ.	O B-Fruit O O O B-BodyPart
+The dog is associated with physician.	O B-Animal O O O B-Occupation
+The heart is a organ.	O B-BodyPart O O B-BodyPart
+The virus can be categorized as microorganism.	O B-Micro O O O O B-Category
+The virus is a yellow.	O B-Micro O O B-Color
+The heart is related to physician.	O B-BodyPart O O O B-Occupation
+The doctor is also called mammal.	O B-Occupation O O O B-Category
+The dog is related to yellow.	O B-Animal O O O B-Color
+The heart is the same as yellow.	O B-BodyPart O O O O B-Color
+The apple is also called yellow.	O B-Fruit O O O B-Color
+The cat is the same as microorganism.	O B-Animal O O O O B-Category
+The virus is the same as animal.	O B-Micro O O O O B-Category
+The apple is known as animal.	O B-Fruit O O O B-Category
+The heart is considered a fruit.	O B-BodyPart O O O B-Category
+The banana is also called microorganism.	O B-Fruit O O O B-Category
+The teacher is associated with educator.	O B-Occupation O O O B-Occupation
+The heart is the same as physician.	O B-BodyPart O O O O B-Occupation
+The virus can be categorized as fruit.	O B-Micro O O O O B-Category
+The heart is also called vehicle.	O B-BodyPart O O O B-Category
+The teacher is the same as physician.	O B-Occupation O O O O B-Occupation
+The doctor is known as mammal.	O B-Occupation O O O B-Category
+The banana is considered a vehicle.	O B-Fruit O O O B-Category
+The teacher is related to mammal.	O B-Occupation O O O B-Category
+The car is known as organ.	O B-Vehicle O O O B-BodyPart
+The python has to do with vehicle.	O B-Tech O O O O B-Category
+The teacher is a organ.	O B-Occupation O O B-BodyPart
+The virus is also called programming language.	O B-Micro O O O O O
+The heart is related to fruit.	O B-BodyPart O O O B-Category
+The teacher is a yellow.	O B-Occupation O O B-Color
+The banana is known as yellow.	O B-Fruit O O O B-Color
+The dog is also called programming language.	O B-Animal O O O O O
+The python has to do with programming language.	O B-Tech O O O O O O
+The dog is the same as vehicle.	O B-Animal O O O O B-Category
+The apple can be categorized as physician.	O B-Fruit O O O O B-Occupation
+The doctor is related to mammal.	O B-Occupation O O O B-Category
+The dog is the same as organ.	O B-Animal O O O O B-BodyPart
+The doctor is also called yellow.	O B-Occupation O O O B-Color
+The python is also called educator.	O B-Tech O O O B-Occupation
+The cat is associated with mammal.	O B-Animal O O O B-Category
+The virus is related to yellow.	O B-Micro O O O B-Color
+The doctor is considered a educator.	O B-Occupation O O O B-Occupation
+The cat is known as educator.	O B-Animal O O O B-Occupation
+The teacher is known as programming language.	O B-Occupation O O O O O
+The virus is considered a organ.	O B-Micro O O O B-BodyPart
+The virus is associated with microorganism.	O B-Micro O O O B-Category
+The python is also called microorganism.	O B-Tech O O O B-Category
+The cat has to do with programming language.	O B-Animal O O O O O O
+The teacher is known as animal.	O B-Occupation O O O B-Category
+The virus has to do with fruit.	O B-Micro O O O O B-Category
+The apple has to do with yellow.	O B-Fruit O O O O B-Color
+The cat is also called vehicle.	O B-Animal O O O B-Category
+The cat is related to vehicle.	O B-Animal O O O B-Category
+The virus is also called animal.	O B-Micro O O O B-Category
+The teacher is a fruit.	O B-Occupation O O B-Category
+The doctor is a fruit.	O B-Occupation O O B-Category
+The doctor is also called programming language.	O B-Occupation O O O O O
+The teacher is associated with animal.	O B-Occupation O O O B-Category
+The doctor is considered a educator.	O B-Occupation O O O B-Occupation
+The dog is associated with vehicle.	O B-Animal O O O B-Category
+The apple can be categorized as programming language.	O B-Fruit O O O O O O
+The cat is considered a animal.	O B-Animal O O O B-Category
+The apple is related to organ.	O B-Fruit O O O B-BodyPart
+The python is considered a organ.	O B-Tech O O O B-BodyPart
+The doctor has to do with educator.	O B-Occupation O O O O B-Occupation
+The car is related to educator.	O B-Vehicle O O O B-Occupation
+The heart is the same as educator.	O B-BodyPart O O O O B-Occupation
+The cat can be categorized as vehicle.	O B-Animal O O O O B-Category
+The apple is related to physician.	O B-Fruit O O O B-Occupation
+The cat is related to educator.	O B-Animal O O O B-Occupation
+The apple is considered a educator.	O B-Fruit O O O B-Occupation
+The doctor is associated with mammal.	O B-Occupation O O O B-Category
+The banana is known as vehicle.	O B-Fruit O O O B-Category
+The apple is also called programming language.	O B-Fruit O O O O O
+The heart is known as yellow.	O B-BodyPart O O O B-Color
+The apple is the same as animal.	O B-Fruit O O O O B-Category
+The heart is also called animal.	O B-BodyPart O O O B-Category
+The heart is a microorganism.	O B-BodyPart O O B-Category
+The apple is known as animal.	O B-Fruit O O O B-Category
+The cat is considered a programming language.	O B-Animal O O O O O
+The banana can be categorized as mammal.	O B-Fruit O O O O B-Category
+The teacher is known as fruit.	O B-Occupation O O O B-Category
+The car is known as yellow.	O B-Vehicle O O O B-Color
+The virus has to do with animal.	O B-Micro O O O O B-Category
+The car is a organ.	O B-Vehicle O O B-BodyPart
+The dog is related to mammal.	O B-Animal O O O B-Category
+The doctor has to do with animal.	O B-Occupation O O O O B-Category
+The cat is the same as programming language.	O B-Animal O O O O O O
+The heart is known as fruit.	O B-BodyPart O O O B-Category
+The cat is known as microorganism.	O B-Animal O O O B-Category
+The virus is related to educator.	O B-Micro O O O B-Occupation
+The apple has to do with physician.	O B-Fruit O O O O B-Occupation
+The virus is also called microorganism.	O B-Micro O O O B-Category
+The virus is associated with yellow.	O B-Micro O O O B-Color
+The doctor is associated with vehicle.	O B-Occupation O O O B-Category
+The cat is associated with animal.	O B-Animal O O O B-Category
+The doctor is associated with educator.	O B-Occupation O O O B-Occupation
+The dog can be categorized as animal.	O B-Animal O O O O B-Category
+The car is related to programming language.	O B-Vehicle O O O O O
+The heart is also called educator.	O B-BodyPart O O O B-Occupation
+The heart is a physician.	O B-BodyPart O O B-Occupation
+The cat is known as programming language.	O B-Animal O O O O O
+The heart has to do with microorganism.	O B-BodyPart O O O O B-Category
+The car can be categorized as physician.	O B-Vehicle O O O O B-Occupation
+The cat is also called educator.	O B-Animal O O O B-Occupation
+The doctor is considered a fruit.	O B-Occupation O O O B-Category
+The heart has to do with vehicle.	O B-BodyPart O O O O B-Category
+The banana is a microorganism.	O B-Fruit O O B-Category
+The virus is considered a animal.	O B-Micro O O O B-Category
+The car has to do with organ.	O B-Vehicle O O O O B-BodyPart
+The car has to do with programming language.	O B-Vehicle O O O O O O
+The banana is considered a physician.	O B-Fruit O O O B-Occupation
+The virus is the same as organ.	O B-Micro O O O O B-BodyPart
+The apple is related to yellow.	O B-Fruit O O O B-Color
+The teacher is a educator.	O B-Occupation O O B-Occupation
+The cat is the same as vehicle.	O B-Animal O O O O B-Category
+The car has to do with physician.	O B-Vehicle O O O O B-Occupation
+The doctor has to do with vehicle.	O B-Occupation O O O O B-Category
+The banana is the same as organ.	O B-Fruit O O O O B-BodyPart
+The teacher is also called educator.	O B-Occupation O O O B-Occupation
+The cat is known as animal.	O B-Animal O O O B-Category
+The dog is associated with mammal.	O B-Animal O O O B-Category
+The cat is associated with animal.	O B-Animal O O O B-Category
+The virus is also called programming language.	O B-Micro O O O O O
+The virus is a microorganism.	O B-Micro O O B-Category
+The heart is also called microorganism.	O B-BodyPart O O O B-Category
+The car is a physician.	O B-Vehicle O O B-Occupation
+The banana is the same as animal.	O B-Fruit O O O O B-Category
+The apple is related to vehicle.	O B-Fruit O O O B-Category
+The dog is also called fruit.	O B-Animal O O O B-Category
+The cat is related to microorganism.	O B-Animal O O O B-Category
+The python is related to yellow.	O B-Tech O O O B-Color
+The banana is known as organ.	O B-Fruit O O O B-BodyPart
+The dog is related to mammal.	O B-Animal O O O B-Category
+The apple is related to fruit.	O B-Fruit O O O B-Category
+The dog is considered a microorganism.	O B-Animal O O O B-Category
+The apple is associated with programming language.	O B-Fruit O O O O O
+The apple can be categorized as educator.	O B-Fruit O O O O B-Occupation
+The dog is associated with mammal.	O B-Animal O O O B-Category
+The car can be categorized as fruit.	O B-Vehicle O O O O B-Category
+The virus is related to vehicle.	O B-Micro O O O B-Category
+The teacher has to do with yellow.	O B-Occupation O O O O B-Color
+The dog is considered a physician.	O B-Animal O O O B-Occupation
+The doctor can be categorized as educator.	O B-Occupation O O O O B-Occupation
+The banana is related to programming language.	O B-Fruit O O O O O
+The car can be categorized as educator.	O B-Vehicle O O O O B-Occupation
+The teacher is also called mammal.	O B-Occupation O O O B-Category
+The virus is also called yellow.	O B-Micro O O O B-Color
+The dog is considered a programming language.	O B-Animal O O O O O
+The doctor is also called microorganism.	O B-Occupation O O O B-Category
+The heart is associated with mammal.	O B-BodyPart O O O B-Category
+The heart is the same as animal.	O B-BodyPart O O O O B-Category
+The dog is also called physician.	O B-Animal O O O B-Occupation
+The doctor can be categorized as fruit.	O B-Occupation O O O O B-Category
+The dog is also called physician.	O B-Animal O O O B-Occupation
+The car is related to vehicle.	O B-Vehicle O O O B-Category
+The apple is related to mammal.	O B-Fruit O O O B-Category
+The doctor is a microorganism.	O B-Occupation O O B-Category
+The banana is known as physician.	O B-Fruit O O O B-Occupation
+The teacher is known as microorganism.	O B-Occupation O O O B-Category
+The doctor has to do with yellow.	O B-Occupation O O O O B-Color
+The virus is associated with physician.	O B-Micro O O O B-Occupation
+The banana is associated with animal.	O B-Fruit O O O B-Category
+The apple is a vehicle.	O B-Fruit O O B-Category
+The apple is known as microorganism.	O B-Fruit O O O B-Category
+The python is considered a vehicle.	O B-Tech O O O B-Category
+The car is the same as physician.	O B-Vehicle O O O O B-Occupation
+The apple is the same as animal.	O B-Fruit O O O O B-Category
+The apple can be categorized as organ.	O B-Fruit O O O O B-BodyPart
+The heart is related to vehicle.	O B-BodyPart O O O B-Category
+The banana has to do with fruit.	O B-Fruit O O O O B-Category
+The virus is associated with animal.	O B-Micro O O O B-Category
+The doctor is considered a programming language.	O B-Occupation O O O O O
+The banana is considered a organ.	O B-Fruit O O O B-BodyPart
+The teacher can be categorized as yellow.	O B-Occupation O O O O B-Color
+The car is associated with microorganism.	O B-Vehicle O O O B-Category
+The cat is the same as organ.	O B-Animal O O O O B-BodyPart
+The cat is associated with programming language.	O B-Animal O O O O O
+The dog is considered a yellow.	O B-Animal O O O B-Color
+The banana is associated with yellow.	O B-Fruit O O O B-Color
+The apple is known as programming language.	O B-Fruit O O O O O
+The doctor is related to animal.	O B-Occupation O O O B-Category
+The banana is known as educator.	O B-Fruit O O O B-Occupation
+The doctor is also called physician.	O B-Occupation O O O B-Occupation
+The python has to do with fruit.	O B-Tech O O O O B-Category
+The dog is considered a vehicle.	O B-Animal O O O B-Category
+The teacher is the same as fruit.	O B-Occupation O O O O B-Category
+The dog has to do with vehicle.	O B-Animal O O O O B-Category
+The car is considered a fruit.	O B-Vehicle O O O B-Category
+The apple is the same as educator.	O B-Fruit O O O O B-Occupation
+The teacher is the same as mammal.	O B-Occupation O O O O B-Category
+The cat is related to mammal.	O B-Animal O O O B-Category
+The banana is known as microorganism.	O B-Fruit O O O B-Category
+The teacher has to do with organ.	O B-Occupation O O O O B-BodyPart
+The car is a vehicle.	O B-Vehicle O O B-Category
+The heart can be categorized as mammal.	O B-BodyPart O O O O B-Category
+The teacher is related to programming language.	O B-Occupation O O O O O
+The python can be categorized as physician.	O B-Tech O O O O B-Occupation
+The python can be categorized as organ.	O B-Tech O O O O B-BodyPart
+The heart has to do with physician.	O B-BodyPart O O O O B-Occupation
+The banana is a vehicle.	O B-Fruit O O B-Category
+The doctor is related to fruit.	O B-Occupation O O O B-Category
+The python is known as microorganism.	O B-Tech O O O B-Category
+The teacher is considered a vehicle.	O B-Occupation O O O B-Category
+The apple is known as organ.	O B-Fruit O O O B-BodyPart
+The python is considered a physician.	O B-Tech O O O B-Occupation
+The doctor can be categorized as mammal.	O B-Occupation O O O O B-Category
+The dog can be categorized as physician.	O B-Animal O O O O B-Occupation
+The dog is a programming language.	O B-Animal O O O O
+The banana has to do with organ.	O B-Fruit O O O O B-BodyPart
+The apple is a fruit.	O B-Fruit O O B-Category
+The cat is known as fruit.	O B-Animal O O O B-Category
+The banana is the same as fruit.	O B-Fruit O O O O B-Category
+The cat is considered a physician.	O B-Animal O O O B-Occupation
+The heart is known as vehicle.	O B-BodyPart O O O B-Category
+The heart is related to physician.	O B-BodyPart O O O B-Occupation
+The heart is associated with microorganism.	O B-BodyPart O O O B-Category
+The banana can be categorized as animal.	O B-Fruit O O O O B-Category
+The teacher is a animal.	O B-Occupation O O B-Category
+The dog is known as organ.	O B-Animal O O O B-BodyPart
+The heart is a organ.	O B-BodyPart O O B-BodyPart
+The banana can be categorized as physician.	O B-Fruit O O O O B-Occupation
+The car is also called yellow.	O B-Vehicle O O O B-Color
+The heart is considered a animal.	O B-BodyPart O O O B-Category
+The teacher is considered a mammal.	O B-Occupation O O O B-Category
+The python is known as microorganism.	O B-Tech O O O B-Category
+The car is known as fruit.	O B-Vehicle O O O B-Category
+The cat is also called microorganism.	O B-Animal O O O B-Category
+The heart is a vehicle.	O B-BodyPart O O B-Category
+The car is also called animal.	O B-Vehicle O O O B-Category
+The dog is considered a mammal.	O B-Animal O O O B-Category
+The dog is known as organ.	O B-Animal O O O B-BodyPart
+The banana is also called physician.	O B-Fruit O O O B-Occupation
+The teacher is also called animal.	O B-Occupation O O O B-Category
+The python is related to educator.	O B-Tech O O O B-Occupation
+The banana can be categorized as vehicle.	O B-Fruit O O O O B-Category
+The virus can be categorized as programming language.	O B-Micro O O O O O O
+The cat is the same as educator.	O B-Animal O O O O B-Occupation
+The python is associated with programming language.	O B-Tech O O O O O
+The teacher is related to mammal.	O B-Occupation O O O B-Category
+The car is related to mammal.	O B-Vehicle O O O B-Category
+The doctor is associated with programming language.	O B-Occupation O O O O O
+The banana is related to programming language.	O B-Fruit O O O O O
+The car is considered a mammal.	O B-Vehicle O O O B-Category
+The python is a vehicle.	O B-Tech O O B-Category
+The python is the same as physician.	O B-Tech O O O O B-Occupation
+The heart is a animal.	O B-BodyPart O O B-Category
+The heart is a vehicle.	O B-BodyPart O O B-Category
+The banana has to do with mammal.	O B-Fruit O O O O B-Category
+The banana is associated with fruit.	O B-Fruit O O O B-Category
+The doctor can be categorized as organ.	O B-Occupation O O O O B-BodyPart
+The cat has to do with programming language.	O B-Animal O O O O O O
+The teacher can be categorized as animal.	O B-Occupation O O O O B-Category
+The heart is the same as fruit.	O B-BodyPart O O O O B-Category
+The doctor is related to yellow.	O B-Occupation O O O B-Color
+The dog is known as organ.	O B-Animal O O O B-BodyPart
+The car is a yellow.	O B-Vehicle O O B-Color
+The virus has to do with organ.	O B-Micro O O O O B-BodyPart
+The apple is known as microorganism.	O B-Fruit O O O B-Category
+The car is a physician.	O B-Vehicle O O B-Occupation
+The banana has to do with programming language.	O B-Fruit O O O O O O
+The teacher is considered a animal.	O B-Occupation O O O B-Category
+The banana can be categorized as programming language.	O B-Fruit O O O O O O
+The virus is related to mammal.	O B-Micro O O O B-Category
+The doctor is associated with yellow.	O B-Occupation O O O B-Color
+The virus is the same as microorganism.	O B-Micro O O O O B-Category
+The cat is related to animal.	O B-Animal O O O B-Category
+The cat is a vehicle.	O B-Animal O O B-Category
+The banana is related to animal.	O B-Fruit O O O B-Category
+The dog is related to mammal.	O B-Animal O O O B-Category
+The python is known as vehicle.	O B-Tech O O O B-Category
+The car is related to vehicle.	O B-Vehicle O O O B-Category
+The heart is considered a educator.	O B-BodyPart O O O B-Occupation
+The teacher is considered a physician.	O B-Occupation O O O B-Occupation
+The python is known as mammal.	O B-Tech O O O B-Category
+The heart has to do with educator.	O B-BodyPart O O O O B-Occupation
+The python is known as educator.	O B-Tech O O O B-Occupation
+The car is associated with physician.	O B-Vehicle O O O B-Occupation
+The python is considered a yellow.	O B-Tech O O O B-Color
+The teacher is a organ.	O B-Occupation O O B-BodyPart
+The cat is associated with organ.	O B-Animal O O O B-BodyPart
+The dog has to do with physician.	O B-Animal O O O O B-Occupation
+The car is considered a yellow.	O B-Vehicle O O O B-Color
+The heart is the same as microorganism.	O B-BodyPart O O O O B-Category
+The teacher is also called organ.	O B-Occupation O O O B-BodyPart
+The apple has to do with physician.	O B-Fruit O O O O B-Occupation
+The apple is associated with physician.	O B-Fruit O O O B-Occupation
+The banana is the same as mammal.	O B-Fruit O O O O B-Category
+The python is considered a yellow.	O B-Tech O O O B-Color
+The car is a microorganism.	O B-Vehicle O O B-Category
+The apple is known as organ.	O B-Fruit O O O B-BodyPart
+The teacher is related to educator.	O B-Occupation O O O B-Occupation
+The virus can be categorized as physician.	O B-Micro O O O O B-Occupation
+The heart is known as vehicle.	O B-BodyPart O O O B-Category
+The car is considered a fruit.	O B-Vehicle O O O B-Category
+The python is the same as yellow.	O B-Tech O O O O B-Color
+The doctor is also called vehicle.	O B-Occupation O O O B-Category
+The heart is related to fruit.	O B-BodyPart O O O B-Category
+The car is related to animal.	O B-Vehicle O O O B-Category
+The dog has to do with mammal.	O B-Animal O O O O B-Category
+The doctor is also called programming language.	O B-Occupation O O O O O
+The python is the same as fruit.	O B-Tech O O O O B-Category
+The teacher is considered a fruit.	O B-Occupation O O O B-Category
+The doctor is associated with yellow.	O B-Occupation O O O B-Color
+The apple is related to microorganism.	O B-Fruit O O O B-Category
+The car is associated with vehicle.	O B-Vehicle O O O B-Category
+The banana is the same as educator.	O B-Fruit O O O O B-Occupation
+The banana is considered a mammal.	O B-Fruit O O O B-Category
+The virus is also called vehicle.	O B-Micro O O O B-Category
+The heart can be categorized as physician.	O B-BodyPart O O O O B-Occupation
+The banana is a organ.	O B-Fruit O O B-BodyPart
+The car is considered a programming language.	O B-Vehicle O O O O O
+The car is also called organ.	O B-Vehicle O O O B-BodyPart
+The apple can be categorized as vehicle.	O B-Fruit O O O O B-Category
+The banana is also called programming language.	O B-Fruit O O O O O
+The dog is known as microorganism.	O B-Animal O O O B-Category
+The dog is known as programming language.	O B-Animal O O O O O
+The apple is related to fruit.	O B-Fruit O O O B-Category
+The cat can be categorized as physician.	O B-Animal O O O O B-Occupation
+The banana is considered a yellow.	O B-Fruit O O O B-Color
+The dog is also called fruit.	O B-Animal O O O B-Category
+The doctor has to do with physician.	O B-Occupation O O O O B-Occupation
+The dog has to do with yellow.	O B-Animal O O O O B-Color
+The doctor is known as vehicle.	O B-Occupation O O O B-Category
+The dog is the same as organ.	O B-Animal O O O O B-BodyPart
+The cat is considered a educator.	O B-Animal O O O B-Occupation
+The teacher can be categorized as programming language.	O B-Occupation O O O O O O
+The cat is considered a vehicle.	O B-Animal O O O B-Category
+The python is also called vehicle.	O B-Tech O O O B-Category
+The dog can be categorized as microorganism.	O B-Animal O O O O B-Category
+The teacher is associated with microorganism.	O B-Occupation O O O B-Category
+The python is considered a mammal.	O B-Tech O O O B-Category
+The virus is related to fruit.	O B-Micro O O O B-Category
+The apple is a fruit.	O B-Fruit O O B-Category
+The python is considered a microorganism.	O B-Tech O O O B-Category
+The car is known as educator.	O B-Vehicle O O O B-Occupation
+The apple has to do with animal.	O B-Fruit O O O O B-Category
+The banana is also called fruit.	O B-Fruit O O O B-Category
+The dog can be categorized as physician.	O B-Animal O O O O B-Occupation
+The doctor is considered a programming language.	O B-Occupation O O O O O
+The cat is related to mammal.	O B-Animal O O O B-Category
+The car is considered a educator.	O B-Vehicle O O O B-Occupation
+The apple is known as physician.	O B-Fruit O O O B-Occupation
+The heart is a microorganism.	O B-BodyPart O O B-Category
+The heart can be categorized as microorganism.	O B-BodyPart O O O O B-Category
+The teacher is also called educator.	O B-Occupation O O O B-Occupation
+The virus is the same as programming language.	O B-Micro O O O O O O
+The dog is a programming language.	O B-Animal O O O O
+The dog can be categorized as vehicle.	O B-Animal O O O O B-Category
+The banana is known as fruit.	O B-Fruit O O O B-Category
+The dog is known as educator.	O B-Animal O O O B-Occupation
+The apple is associated with educator.	O B-Fruit O O O B-Occupation
+The dog can be categorized as yellow.	O B-Animal O O O O B-Color
+The virus is associated with fruit.	O B-Micro O O O B-Category
+The apple is associated with vehicle.	O B-Fruit O O O B-Category
+The cat is associated with animal.	O B-Animal O O O B-Category
+The car can be categorized as vehicle.	O B-Vehicle O O O O B-Category
+The cat is related to mammal.	O B-Animal O O O B-Category
+The python has to do with mammal.	O B-Tech O O O O B-Category
+The apple is considered a mammal.	O B-Fruit O O O B-Category
+The teacher is known as programming language.	O B-Occupation O O O O O
+The python is a vehicle.	O B-Tech O O B-Category
+The doctor has to do with programming language.	O B-Occupation O O O O O O
+The cat is associated with animal.	O B-Animal O O O B-Category
+The teacher is the same as vehicle.	O B-Occupation O O O O B-Category
+The teacher is known as vehicle.	O B-Occupation O O O B-Category
+The heart has to do with programming language.	O B-BodyPart O O O O O O
+The python is related to vehicle.	O B-Tech O O O B-Category
+The heart is considered a microorganism.	O B-BodyPart O O O B-Category
+The doctor is a fruit.	O B-Occupation O O B-Category
+The teacher is a animal.	O B-Occupation O O B-Category
+The cat is considered a physician.	O B-Animal O O O B-Occupation
+The cat is known as organ.	O B-Animal O O O B-BodyPart
+The cat is the same as physician.	O B-Animal O O O O B-Occupation
+The doctor is considered a mammal.	O B-Occupation O O O B-Category
+The teacher can be categorized as physician.	O B-Occupation O O O O B-Occupation
+The python is the same as organ.	O B-Tech O O O O B-BodyPart
+The apple is related to programming language.	O B-Fruit O O O O O
+The car can be categorized as yellow.	O B-Vehicle O O O O B-Color
+The car is the same as programming language.	O B-Vehicle O O O O O O
+The cat is known as organ.	O B-Animal O O O B-BodyPart
+The doctor is also called animal.	O B-Occupation O O O B-Category
+The apple is the same as mammal.	O B-Fruit O O O O B-Category
+The apple is a physician.	O B-Fruit O O B-Occupation
+The teacher is also called mammal.	O B-Occupation O O O B-Category
+The virus is also called mammal.	O B-Micro O O O B-Category
+The python is a physician.	O B-Tech O O B-Occupation
+The doctor is the same as organ.	O B-Occupation O O O O B-BodyPart
+The cat can be categorized as animal.	O B-Animal O O O O B-Category
+The teacher can be categorized as physician.	O B-Occupation O O O O B-Occupation
+The teacher is related to mammal.	O B-Occupation O O O B-Category
+The doctor is a programming language.	O B-Occupation O O O O
+The apple is related to mammal.	O B-Fruit O O O B-Category
+The car is a physician.	O B-Vehicle O O B-Occupation
+The doctor is also called educator.	O B-Occupation O O O B-Occupation
+The python is related to educator.	O B-Tech O O O B-Occupation
+The virus is considered a yellow.	O B-Micro O O O B-Color
+The doctor is related to yellow.	O B-Occupation O O O B-Color
+The apple can be categorized as mammal.	O B-Fruit O O O O B-Category
+The apple is a microorganism.	O B-Fruit O O B-Category
+The virus can be categorized as fruit.	O B-Micro O O O O B-Category
+The python is considered a educator.	O B-Tech O O O B-Occupation
+The dog is known as programming language.	O B-Animal O O O O O
+The cat is also called physician.	O B-Animal O O O B-Occupation
+The virus is related to programming language.	O B-Micro O O O O O
+The dog is a physician.	O B-Animal O O B-Occupation
+The dog is known as fruit.	O B-Animal O O O B-Category
+The teacher is the same as fruit.	O B-Occupation O O O O B-Category
+The doctor is related to physician.	O B-Occupation O O O B-Occupation
+The dog is known as vehicle.	O B-Animal O O O B-Category
+The teacher is also called fruit.	O B-Occupation O O O B-Category
+The doctor is also called educator.	O B-Occupation O O O B-Occupation
+The doctor is related to organ.	O B-Occupation O O O B-BodyPart
+The doctor is considered a fruit.	O B-Occupation O O O B-Category
+The cat can be categorized as animal.	O B-Animal O O O O B-Category
+The car is the same as programming language.	O B-Vehicle O O O O O O
+The car is associated with microorganism.	O B-Vehicle O O O B-Category
+The banana is a programming language.	O B-Fruit O O O O
+The teacher is known as physician.	O B-Occupation O O O B-Occupation
+The python has to do with fruit.	O B-Tech O O O O B-Category
+The cat is related to fruit.	O B-Animal O O O B-Category
+The cat can be categorized as animal.	O B-Animal O O O O B-Category
+The teacher is considered a physician.	O B-Occupation O O O B-Occupation
+The cat is associated with mammal.	O B-Animal O O O B-Category
+The doctor is associated with microorganism.	O B-Occupation O O O B-Category
+The cat is known as programming language.	O B-Animal O O O O O
+The teacher is also called programming language.	O B-Occupation O O O O O
+The dog is associated with programming language.	O B-Animal O O O O O
+The apple is the same as educator.	O B-Fruit O O O O B-Occupation
+The python has to do with fruit.	O B-Tech O O O O B-Category
+The python is a vehicle.	O B-Tech O O B-Category
+The virus is related to organ.	O B-Micro O O O B-BodyPart
+The heart is a vehicle.	O B-BodyPart O O B-Category
+The virus is also called programming language.	O B-Micro O O O O O
+The car is also called educator.	O B-Vehicle O O O B-Occupation
+The doctor is the same as organ.	O B-Occupation O O O O B-BodyPart
+The python is also called mammal.	O B-Tech O O O B-Category
+The dog is associated with organ.	O B-Animal O O O B-BodyPart
+The banana has to do with programming language.	O B-Fruit O O O O O O
+The banana is considered a yellow.	O B-Fruit O O O B-Color
+The car is considered a microorganism.	O B-Vehicle O O O B-Category
+The apple is considered a programming language.	O B-Fruit O O O O O
+The cat is considered a yellow.	O B-Animal O O O B-Color
+The banana has to do with physician.	O B-Fruit O O O O B-Occupation
+The virus is known as fruit.	O B-Micro O O O B-Category
+The heart has to do with microorganism.	O B-BodyPart O O O O B-Category
+The doctor has to do with educator.	O B-Occupation O O O O B-Occupation
+The heart is related to educator.	O B-BodyPart O O O B-Occupation
+The car is considered a animal.	O B-Vehicle O O O B-Category
+The banana is also called educator.	O B-Fruit O O O B-Occupation
+The apple can be categorized as educator.	O B-Fruit O O O O B-Occupation
+The teacher can be categorized as organ.	O B-Occupation O O O O B-BodyPart
+The python is also called microorganism.	O B-Tech O O O B-Category
+The teacher is considered a animal.	O B-Occupation O O O B-Category
+The apple can be categorized as yellow.	O B-Fruit O O O O B-Color
+The cat is related to animal.	O B-Animal O O O B-Category
+The dog is associated with fruit.	O B-Animal O O O B-Category
+The teacher is considered a mammal.	O B-Occupation O O O B-Category
+The heart is related to animal.	O B-BodyPart O O O B-Category
+The doctor is known as fruit.	O B-Occupation O O O B-Category
+The apple is considered a vehicle.	O B-Fruit O O O B-Category
+The apple is related to mammal.	O B-Fruit O O O B-Category
+The doctor is also called physician.	O B-Occupation O O O B-Occupation
+The doctor has to do with programming language.	O B-Occupation O O O O O O
+The doctor has to do with physician.	O B-Occupation O O O O B-Occupation
+The banana is also called vehicle.	O B-Fruit O O O B-Category
+The heart is a animal.	O B-BodyPart O O B-Category
+The python is considered a mammal.	O B-Tech O O O B-Category
+The cat is known as vehicle.	O B-Animal O O O B-Category
+The banana is the same as microorganism.	O B-Fruit O O O O B-Category
+The heart is also called educator.	O B-BodyPart O O O B-Occupation
+The car is associated with microorganism.	O B-Vehicle O O O B-Category
+The dog is a programming language.	O B-Animal O O O O
+The banana is a educator.	O B-Fruit O O B-Occupation
+The python can be categorized as yellow.	O B-Tech O O O O B-Color
+The banana is known as animal.	O B-Fruit O O O B-Category
+The cat is known as vehicle.	O B-Animal O O O B-Category
+The apple is known as programming language.	O B-Fruit O O O O O
+The doctor is known as mammal.	O B-Occupation O O O B-Category
+The heart is known as organ.	O B-BodyPart O O O B-BodyPart
+The teacher is also called programming language.	O B-Occupation O O O O O
+The apple is a yellow.	O B-Fruit O O B-Color
+The virus can be categorized as fruit.	O B-Micro O O O O B-Category
+The banana is considered a mammal.	O B-Fruit O O O B-Category
+The apple is associated with fruit.	O B-Fruit O O O B-Category
+The apple is associated with physician.	O B-Fruit O O O B-Occupation
+The cat has to do with mammal.	O B-Animal O O O O B-Category
+The dog is related to educator.	O B-Animal O O O B-Occupation
+The doctor is known as yellow.	O B-Occupation O O O B-Color
+The dog is considered a programming language.	O B-Animal O O O O O
+The python is also called educator.	O B-Tech O O O B-Occupation
+The doctor is associated with physician.	O B-Occupation O O O B-Occupation
+The apple is known as programming language.	O B-Fruit O O O O O
+The apple has to do with organ.	O B-Fruit O O O O B-BodyPart
+The dog is the same as fruit.	O B-Animal O O O O B-Category
+The banana has to do with mammal.	O B-Fruit O O O O B-Category
+The apple is also called microorganism.	O B-Fruit O O O B-Category
+The heart is related to organ.	O B-BodyPart O O O B-BodyPart
+The virus can be categorized as physician.	O B-Micro O O O O B-Occupation
+The python is also called organ.	O B-Tech O O O B-BodyPart
+The cat is considered a fruit.	O B-Animal O O O B-Category
+The python is a fruit.	O B-Tech O O B-Category
+The virus is associated with yellow.	O B-Micro O O O B-Color
+The virus is the same as mammal.	O B-Micro O O O O B-Category
+The teacher has to do with yellow.	O B-Occupation O O O O B-Color
+The doctor is related to fruit.	O B-Occupation O O O B-Category
+The doctor is the same as programming language.	O B-Occupation O O O O O O
+The car is related to physician.	O B-Vehicle O O O B-Occupation
+The dog has to do with fruit.	O B-Animal O O O O B-Category
+The teacher can be categorized as fruit.	O B-Occupation O O O O B-Category
+The car is known as mammal.	O B-Vehicle O O O B-Category
+The apple can be categorized as yellow.	O B-Fruit O O O O B-Color
+The teacher is known as fruit.	O B-Occupation O O O B-Category
+The teacher is considered a organ.	O B-Occupation O O O B-BodyPart
+The python is considered a vehicle.	O B-Tech O O O B-Category
+The heart can be categorized as fruit.	O B-BodyPart O O O O B-Category
+The teacher is known as animal.	O B-Occupation O O O B-Category
+The dog is known as organ.	O B-Animal O O O B-BodyPart
+The cat is known as animal.	O B-Animal O O O B-Category
+The teacher is related to physician.	O B-Occupation O O O B-Occupation
+The heart is considered a educator.	O B-BodyPart O O O B-Occupation
+The banana has to do with programming language.	O B-Fruit O O O O O O
+The dog is a programming language.	O B-Animal O O O O
+The cat is considered a organ.	O B-Animal O O O B-BodyPart
+The doctor is also called microorganism.	O B-Occupation O O O B-Category
+The heart is the same as physician.	O B-BodyPart O O O O B-Occupation
+The heart is considered a vehicle.	O B-BodyPart O O O B-Category
+The heart is known as physician.	O B-BodyPart O O O B-Occupation
+The cat is also called programming language.	O B-Animal O O O O O
+The teacher is the same as animal.	O B-Occupation O O O O B-Category
+The dog has to do with microorganism.	O B-Animal O O O O B-Category
+The python is related to organ.	O B-Tech O O O B-BodyPart
+The dog is a organ.	O B-Animal O O B-BodyPart
+The virus is the same as fruit.	O B-Micro O O O O B-Category
+The banana is related to mammal.	O B-Fruit O O O B-Category
+The dog is the same as animal.	O B-Animal O O O O B-Category
+The banana is known as programming language.	O B-Fruit O O O O O
+The banana has to do with microorganism.	O B-Fruit O O O O B-Category
+The doctor can be categorized as vehicle.	O B-Occupation O O O O B-Category
+The heart is considered a physician.	O B-BodyPart O O O B-Occupation
+The teacher can be categorized as physician.	O B-Occupation O O O O B-Occupation
+The apple is a vehicle.	O B-Fruit O O B-Category
+The teacher is also called fruit.	O B-Occupation O O O B-Category
+The apple is associated with microorganism.	O B-Fruit O O O B-Category
+The heart is considered a vehicle.	O B-BodyPart O O O B-Category
+The teacher is known as programming language.	O B-Occupation O O O O O
+The heart is associated with fruit.	O B-BodyPart O O O B-Category
+The virus can be categorized as physician.	O B-Micro O O O O B-Occupation
+The dog is related to animal.	O B-Animal O O O B-Category
+The doctor can be categorized as educator.	O B-Occupation O O O O B-Occupation
+The heart is associated with mammal.	O B-BodyPart O O O B-Category
+The teacher can be categorized as mammal.	O B-Occupation O O O O B-Category
+The virus is associated with animal.	O B-Micro O O O B-Category
+The heart is a educator.	O B-BodyPart O O B-Occupation
+The dog is a mammal.	O B-Animal O O B-Category
+The cat is known as physician.	O B-Animal O O O B-Occupation
+The virus is related to microorganism.	O B-Micro O O O B-Category
+The virus is the same as programming language.	O B-Micro O O O O O O
+The dog is associated with organ.	O B-Animal O O O B-BodyPart
+The banana has to do with educator.	O B-Fruit O O O O B-Occupation
+The heart is also called microorganism.	O B-BodyPart O O O B-Category
+The apple is associated with physician.	O B-Fruit O O O B-Occupation
+The cat is a microorganism.	O B-Animal O O B-Category
+The python is a mammal.	O B-Tech O O B-Category
+The teacher is a microorganism.	O B-Occupation O O B-Category
+The doctor is considered a fruit.	O B-Occupation O O O B-Category
+The apple is considered a mammal.	O B-Fruit O O O B-Category
+The virus is a microorganism.	O B-Micro O O B-Category
+The heart is related to educator.	O B-BodyPart O O O B-Occupation
+The dog is known as yellow.	O B-Animal O O O B-Color
+The python is a physician.	O B-Tech O O B-Occupation
+The virus is related to microorganism.	O B-Micro O O O B-Category
+The doctor can be categorized as educator.	O B-Occupation O O O O B-Occupation
+The heart is also called mammal.	O B-BodyPart O O O B-Category
+The virus is known as physician.	O B-Micro O O O B-Occupation
+The car is also called fruit.	O B-Vehicle O O O B-Category
+The apple is related to organ.	O B-Fruit O O O B-BodyPart
+The python can be categorized as fruit.	O B-Tech O O O O B-Category
+The virus is known as educator.	O B-Micro O O O B-Occupation
+The dog is known as vehicle.	O B-Animal O O O B-Category
+The doctor is associated with educator.	O B-Occupation O O O B-Occupation
+The python is related to physician.	O B-Tech O O O B-Occupation
+The heart has to do with programming language.	O B-BodyPart O O O O O O
+The dog has to do with yellow.	O B-Animal O O O O B-Color
+The cat is associated with fruit.	O B-Animal O O O B-Category
+The banana is considered a mammal.	O B-Fruit O O O B-Category
+The doctor is associated with fruit.	O B-Occupation O O O B-Category
+The heart is known as physician.	O B-BodyPart O O O B-Occupation
+The virus is considered a microorganism.	O B-Micro O O O B-Category
+The cat is known as yellow.	O B-Animal O O O B-Color
+The doctor is considered a animal.	O B-Occupation O O O B-Category
+The banana is considered a programming language.	O B-Fruit O O O O O
+The heart is associated with fruit.	O B-BodyPart O O O B-Category
+The apple is known as yellow.	O B-Fruit O O O B-Color
+The dog has to do with fruit.	O B-Animal O O O O B-Category
+The python is known as yellow.	O B-Tech O O O B-Color
+The virus is the same as fruit.	O B-Micro O O O O B-Category
+The cat has to do with mammal.	O B-Animal O O O O B-Category
+The python has to do with microorganism.	O B-Tech O O O O B-Category
+The virus is considered a educator.	O B-Micro O O O B-Occupation
+The cat is associated with programming language.	O B-Animal O O O O O
+The car is also called educator.	O B-Vehicle O O O B-Occupation
+The banana is the same as yellow.	O B-Fruit O O O O B-Color
+The teacher is considered a educator.	O B-Occupation O O O B-Occupation
+The banana is related to educator.	O B-Fruit O O O B-Occupation
+The teacher is known as vehicle.	O B-Occupation O O O B-Category
+The cat is related to yellow.	O B-Animal O O O B-Color
+The doctor is the same as vehicle.	O B-Occupation O O O O B-Category
+The dog is associated with mammal.	O B-Animal O O O B-Category
+The doctor is related to vehicle.	O B-Occupation O O O B-Category
+The doctor is associated with mammal.	O B-Occupation O O O B-Category
+The apple can be categorized as organ.	O B-Fruit O O O O B-BodyPart
+The car is considered a physician.	O B-Vehicle O O O B-Occupation
+The teacher is associated with animal.	O B-Occupation O O O B-Category
+The cat is considered a organ.	O B-Animal O O O B-BodyPart
+The car is known as vehicle.	O B-Vehicle O O O B-Category
+The apple is a educator.	O B-Fruit O O B-Occupation
+The virus is also called microorganism.	O B-Micro O O O B-Category
+The doctor is a educator.	O B-Occupation O O B-Occupation
+The banana is known as physician.	O B-Fruit O O O B-Occupation
+The cat is the same as animal.	O B-Animal O O O O B-Category
+The virus is a yellow.	O B-Micro O O B-Color
+The dog is associated with animal.	O B-Animal O O O B-Category
+The car is known as yellow.	O B-Vehicle O O O B-Color
+The doctor is a fruit.	O B-Occupation O O B-Category
+The banana is a fruit.	O B-Fruit O O B-Category
+The virus is considered a mammal.	O B-Micro O O O B-Category
+The virus can be categorized as educator.	O B-Micro O O O O B-Occupation
+The apple has to do with programming language.	O B-Fruit O O O O O O
+The car is the same as programming language.	O B-Vehicle O O O O O O
+The python is considered a fruit.	O B-Tech O O O B-Category
+The virus can be categorized as organ.	O B-Micro O O O O B-BodyPart
+The dog is a yellow.	O B-Animal O O B-Color
+The apple is the same as animal.	O B-Fruit O O O O B-Category
+The apple is considered a fruit.	O B-Fruit O O O B-Category
+The cat is known as animal.	O B-Animal O O O B-Category
+The dog is the same as physician.	O B-Animal O O O O B-Occupation
+The car is associated with vehicle.	O B-Vehicle O O O B-Category
+The heart is known as yellow.	O B-BodyPart O O O B-Color
+The car is considered a organ.	O B-Vehicle O O O B-BodyPart
+The banana is related to programming language.	O B-Fruit O O O O O
+The apple is considered a yellow.	O B-Fruit O O O B-Color
+The heart can be categorized as organ.	O B-BodyPart O O O O B-BodyPart
+The doctor is the same as vehicle.	O B-Occupation O O O O B-Category
+The python is considered a animal.	O B-Tech O O O B-Category
+The doctor is the same as physician.	O B-Occupation O O O O B-Occupation
+The python is also called fruit.	O B-Tech O O O B-Category
+The apple can be categorized as organ.	O B-Fruit O O O O B-BodyPart
+The teacher has to do with yellow.	O B-Occupation O O O O B-Color
+The dog can be categorized as organ.	O B-Animal O O O O B-BodyPart
+The car is a educator.	O B-Vehicle O O B-Occupation
+The dog is also called microorganism.	O B-Animal O O O B-Category
+The python can be categorized as yellow.	O B-Tech O O O O B-Color
+The apple is also called animal.	O B-Fruit O O O B-Category
+The teacher is a animal.	O B-Occupation O O B-Category
+The heart is associated with programming language.	O B-BodyPart O O O O O
+The teacher can be categorized as animal.	O B-Occupation O O O O B-Category
+The doctor is related to vehicle.	O B-Occupation O O O B-Category
+The dog is a mammal.	O B-Animal O O B-Category
+The teacher is also called mammal.	O B-Occupation O O O B-Category
+The car has to do with animal.	O B-Vehicle O O O O B-Category
+The cat is considered a organ.	O B-Animal O O O B-BodyPart
+The python is known as fruit.	O B-Tech O O O B-Category
+The banana is related to programming language.	O B-Fruit O O O O O
+The virus is associated with yellow.	O B-Micro O O O B-Color
+The cat is considered a mammal.	O B-Animal O O O B-Category
+The python has to do with organ.	O B-Tech O O O O B-BodyPart
+The car is the same as yellow.	O B-Vehicle O O O O B-Color
+The cat is considered a programming language.	O B-Animal O O O O O
+The python is considered a yellow.	O B-Tech O O O B-Color
+The python is also called microorganism.	O B-Tech O O O B-Category
+The virus is also called yellow.	O B-Micro O O O B-Color
+The python can be categorized as physician.	O B-Tech O O O O B-Occupation
+The dog is considered a educator.	O B-Animal O O O B-Occupation
+The banana is a animal.	O B-Fruit O O B-Category
+The car is known as mammal.	O B-Vehicle O O O B-Category
+The dog has to do with programming language.	O B-Animal O O O O O O
+The apple has to do with vehicle.	O B-Fruit O O O O B-Category
+The doctor is a educator.	O B-Occupation O O B-Occupation
+The doctor is the same as animal.	O B-Occupation O O O O B-Category
+The dog is a physician.	O B-Animal O O B-Occupation
+The heart is also called microorganism.	O B-BodyPart O O O B-Category
+The virus is associated with microorganism.	O B-Micro O O O B-Category
+The python is associated with vehicle.	O B-Tech O O O B-Category
+The teacher is associated with fruit.	O B-Occupation O O O B-Category
+The doctor can be categorized as organ.	O B-Occupation O O O O B-BodyPart
+The heart is associated with programming language.	O B-BodyPart O O O O O
+The heart is known as programming language.	O B-BodyPart O O O O O
+The virus is associated with physician.	O B-Micro O O O B-Occupation
+The dog has to do with vehicle.	O B-Animal O O O O B-Category
+The virus is also called mammal.	O B-Micro O O O B-Category
+The virus is a animal.	O B-Micro O O B-Category
+The virus is the same as fruit.	O B-Micro O O O O B-Category
+The cat is also called physician.	O B-Animal O O O B-Occupation
+The virus is related to programming language.	O B-Micro O O O O O
+The doctor is the same as physician.	O B-Occupation O O O O B-Occupation
+The dog is a yellow.	O B-Animal O O B-Color
+The doctor has to do with yellow.	O B-Occupation O O O O B-Color
+The heart is the same as educator.	O B-BodyPart O O O O B-Occupation
+The heart is related to organ.	O B-BodyPart O O O B-BodyPart
+The dog is the same as vehicle.	O B-Animal O O O O B-Category
+The dog is a physician.	O B-Animal O O B-Occupation
+The car has to do with microorganism.	O B-Vehicle O O O O B-Category
+The teacher has to do with programming language.	O B-Occupation O O O O O O
+The teacher is known as educator.	O B-Occupation O O O B-Occupation
+The cat can be categorized as mammal.	O B-Animal O O O O B-Category
+The python is associated with physician.	O B-Tech O O O B-Occupation
+The dog is known as organ.	O B-Animal O O O B-BodyPart
+The heart has to do with programming language.	O B-BodyPart O O O O O O
+The teacher is also called animal.	O B-Occupation O O O B-Category
+The car is known as animal.	O B-Vehicle O O O B-Category
+The car is related to mammal.	O B-Vehicle O O O B-Category
+The dog has to do with educator.	O B-Animal O O O O B-Occupation
+The dog can be categorized as microorganism.	O B-Animal O O O O B-Category
+The virus is a mammal.	O B-Micro O O B-Category
+The dog is known as yellow.	O B-Animal O O O B-Color
+The car is also called yellow.	O B-Vehicle O O O B-Color
+The python is associated with programming language.	O B-Tech O O O O O
+The teacher is associated with animal.	O B-Occupation O O O B-Category
+The doctor is the same as physician.	O B-Occupation O O O O B-Occupation
+The python is known as yellow.	O B-Tech O O O B-Color
+The apple is the same as yellow.	O B-Fruit O O O O B-Color
+The dog is known as organ.	O B-Animal O O O B-BodyPart
+The teacher is known as organ.	O B-Occupation O O O B-BodyPart
+The python is considered a mammal.	O B-Tech O O O B-Category
+The banana is the same as organ.	O B-Fruit O O O O B-BodyPart
+The virus is associated with animal.	O B-Micro O O O B-Category
+The banana is considered a mammal.	O B-Fruit O O O B-Category
+The heart is known as mammal.	O B-BodyPart O O O B-Category
+The doctor is a microorganism.	O B-Occupation O O B-Category
+The python is also called organ.	O B-Tech O O O B-BodyPart
+The teacher has to do with programming language.	O B-Occupation O O O O O O
+The banana is known as physician.	O B-Fruit O O O B-Occupation
+The teacher is a educator.	O B-Occupation O O B-Occupation
+The banana has to do with vehicle.	O B-Fruit O O O O B-Category
+The heart can be categorized as mammal.	O B-BodyPart O O O O B-Category
+The dog is considered a vehicle.	O B-Animal O O O B-Category
+The doctor is considered a mammal.	O B-Occupation O O O B-Category
+The teacher is known as physician.	O B-Occupation O O O B-Occupation
+The teacher is related to organ.	O B-Occupation O O O B-BodyPart
+The heart is also called microorganism.	O B-BodyPart O O O B-Category
+The banana is related to educator.	O B-Fruit O O O B-Occupation
+The doctor is a programming language.	O B-Occupation O O O O
+The cat is known as yellow.	O B-Animal O O O B-Color
+The dog is known as animal.	O B-Animal O O O B-Category
+The teacher is known as mammal.	O B-Occupation O O O B-Category
+The virus has to do with mammal.	O B-Micro O O O O B-Category
+The dog is the same as fruit.	O B-Animal O O O O B-Category
+The banana is associated with organ.	O B-Fruit O O O B-BodyPart
+The apple has to do with mammal.	O B-Fruit O O O O B-Category
+The python is associated with microorganism.	O B-Tech O O O B-Category
+The cat is known as animal.	O B-Animal O O O B-Category
+The python is considered a programming language.	O B-Tech O O O O O
+The car has to do with mammal.	O B-Vehicle O O O O B-Category
+The car is also called vehicle.	O B-Vehicle O O O B-Category
+The apple can be categorized as organ.	O B-Fruit O O O O B-BodyPart
+The cat can be categorized as vehicle.	O B-Animal O O O O B-Category
+The heart is considered a yellow.	O B-BodyPart O O O B-Color
+The teacher is the same as programming language.	O B-Occupation O O O O O O
+The cat is related to animal.	O B-Animal O O O B-Category
+The teacher can be categorized as yellow.	O B-Occupation O O O O B-Color
+The cat is also called organ.	O B-Animal O O O B-BodyPart
+The dog has to do with microorganism.	O B-Animal O O O O B-Category
+The banana is a mammal.	O B-Fruit O O B-Category
+The virus can be categorized as educator.	O B-Micro O O O O B-Occupation
+The apple is a organ.	O B-Fruit O O B-BodyPart
+The car is associated with vehicle.	O B-Vehicle O O O B-Category
+The teacher has to do with yellow.	O B-Occupation O O O O B-Color
+The teacher is related to physician.	O B-Occupation O O O B-Occupation
+The virus has to do with vehicle.	O B-Micro O O O O B-Category
+The doctor is considered a vehicle.	O B-Occupation O O O B-Category
+The python has to do with microorganism.	O B-Tech O O O O B-Category
+The dog is considered a organ.	O B-Animal O O O B-BodyPart
+The virus can be categorized as fruit.	O B-Micro O O O O B-Category
+The heart has to do with mammal.	O B-BodyPart O O O O B-Category
+The virus can be categorized as programming language.	O B-Micro O O O O O O
+The teacher is a fruit.	O B-Occupation O O B-Category
+The apple is associated with organ.	O B-Fruit O O O B-BodyPart
+The apple is associated with animal.	O B-Fruit O O O B-Category
+The cat is related to fruit.	O B-Animal O O O B-Category
+The virus has to do with microorganism.	O B-Micro O O O O B-Category
+The banana has to do with organ.	O B-Fruit O O O O B-BodyPart
+The banana is associated with educator.	O B-Fruit O O O B-Occupation
+The banana can be categorized as educator.	O B-Fruit O O O O B-Occupation
+The banana is the same as yellow.	O B-Fruit O O O O B-Color
+The banana is known as yellow.	O B-Fruit O O O B-Color
+The heart is the same as physician.	O B-BodyPart O O O O B-Occupation
+The doctor is known as microorganism.	O B-Occupation O O O B-Category
+The python is related to educator.	O B-Tech O O O B-Occupation
+The cat is known as physician.	O B-Animal O O O B-Occupation
+The virus is associated with animal.	O B-Micro O O O B-Category
+The python can be categorized as vehicle.	O B-Tech O O O O B-Category
+The python is the same as vehicle.	O B-Tech O O O O B-Category
+The apple has to do with programming language.	O B-Fruit O O O O O O
+The car is known as organ.	O B-Vehicle O O O B-BodyPart
+The car is the same as microorganism.	O B-Vehicle O O O O B-Category
+The heart is a organ.	O B-BodyPart O O B-BodyPart
+The heart is associated with vehicle.	O B-BodyPart O O O B-Category
+The doctor can be categorized as physician.	O B-Occupation O O O O B-Occupation
+The doctor is considered a organ.	O B-Occupation O O O B-BodyPart
+The dog is also called mammal.	O B-Animal O O O B-Category
+The dog is the same as mammal.	O B-Animal O O O O B-Category
+The cat is also called organ.	O B-Animal O O O B-BodyPart
+The teacher can be categorized as programming language.	O B-Occupation O O O O O O
+The banana is a animal.	O B-Fruit O O B-Category
+The dog is the same as programming language.	O B-Animal O O O O O O
+The teacher is associated with mammal.	O B-Occupation O O O B-Category
+The car is known as microorganism.	O B-Vehicle O O O B-Category
+The heart is associated with mammal.	O B-BodyPart O O O B-Category
+The python is associated with microorganism.	O B-Tech O O O B-Category
+The heart is also called yellow.	O B-BodyPart O O O B-Color
+The teacher is also called mammal.	O B-Occupation O O O B-Category
+The cat can be categorized as organ.	O B-Animal O O O O B-BodyPart
+The banana is associated with yellow.	O B-Fruit O O O B-Color
+The heart is a physician.	O B-BodyPart O O B-Occupation
+The car can be categorized as yellow.	O B-Vehicle O O O O B-Color
+The python is a educator.	O B-Tech O O B-Occupation
+The cat is the same as mammal.	O B-Animal O O O O B-Category
+The doctor has to do with animal.	O B-Occupation O O O O B-Category
+The banana has to do with organ.	O B-Fruit O O O O B-BodyPart
+The dog is also called physician.	O B-Animal O O O B-Occupation
+The cat is related to microorganism.	O B-Animal O O O B-Category
+The dog is the same as yellow.	O B-Animal O O O O B-Color
+The dog is related to physician.	O B-Animal O O O B-Occupation
+The heart is related to mammal.	O B-BodyPart O O O B-Category
+The banana is associated with yellow.	O B-Fruit O O O B-Color
+The car is known as animal.	O B-Vehicle O O O B-Category
+The dog can be categorized as programming language.	O B-Animal O O O O O O
+The virus is associated with microorganism.	O B-Micro O O O B-Category
+The virus can be categorized as animal.	O B-Micro O O O O B-Category
+The dog is known as programming language.	O B-Animal O O O O O
+The cat has to do with programming language.	O B-Animal O O O O O O
+The cat is the same as microorganism.	O B-Animal O O O O B-Category
+The cat has to do with physician.	O B-Animal O O O O B-Occupation
+The cat has to do with fruit.	O B-Animal O O O O B-Category
+The teacher has to do with mammal.	O B-Occupation O O O O B-Category
+The teacher is known as animal.	O B-Occupation O O O B-Category
+The dog is known as educator.	O B-Animal O O O B-Occupation
+The cat is associated with fruit.	O B-Animal O O O B-Category
+The doctor is known as animal.	O B-Occupation O O O B-Category
+The teacher is a educator.	O B-Occupation O O B-Occupation
+The virus is also called physician.	O B-Micro O O O B-Occupation
+The heart is a microorganism.	O B-BodyPart O O B-Category
+The doctor is related to fruit.	O B-Occupation O O O B-Category
+The heart can be categorized as educator.	O B-BodyPart O O O O B-Occupation
+The dog is the same as organ.	O B-Animal O O O O B-BodyPart
+The car is related to yellow.	O B-Vehicle O O O B-Color
+The doctor is related to microorganism.	O B-Occupation O O O B-Category
+The python is considered a mammal.	O B-Tech O O O B-Category
+The banana has to do with animal.	O B-Fruit O O O O B-Category
+The virus is a educator.	O B-Micro O O B-Occupation
+The virus is known as mammal.	O B-Micro O O O B-Category
+The virus is associated with yellow.	O B-Micro O O O B-Color
+The heart can be categorized as fruit.	O B-BodyPart O O O O B-Category
+The doctor is associated with educator.	O B-Occupation O O O B-Occupation
+The car is also called organ.	O B-Vehicle O O O B-BodyPart
+The car is also called mammal.	O B-Vehicle O O O B-Category
+The cat is related to vehicle.	O B-Animal O O O B-Category
+The virus is considered a yellow.	O B-Micro O O O B-Color
+The cat is known as microorganism.	O B-Animal O O O B-Category
+The apple is the same as physician.	O B-Fruit O O O O B-Occupation
+The banana is considered a programming language.	O B-Fruit O O O O O
+The banana is also called mammal.	O B-Fruit O O O B-Category
+The cat is related to mammal.	O B-Animal O O O B-Category
+The car can be categorized as educator.	O B-Vehicle O O O O B-Occupation
+The teacher is considered a mammal.	O B-Occupation O O O B-Category
+The banana is also called programming language.	O B-Fruit O O O O O
+The dog is associated with programming language.	O B-Animal O O O O O
+The teacher is the same as educator.	O B-Occupation O O O O B-Occupation
+The banana is known as microorganism.	O B-Fruit O O O B-Category
+The python has to do with organ.	O B-Tech O O O O B-BodyPart
+The dog is a mammal.	O B-Animal O O B-Category
+The apple is considered a organ.	O B-Fruit O O O B-BodyPart
+The car can be categorized as organ.	O B-Vehicle O O O O B-BodyPart
+The apple is a fruit.	O B-Fruit O O B-Category
+The teacher can be categorized as fruit.	O B-Occupation O O O O B-Category
+The teacher is also called physician.	O B-Occupation O O O B-Occupation
+The banana can be categorized as animal.	O B-Fruit O O O O B-Category
+The python is a vehicle.	O B-Tech O O B-Category
+The cat is related to organ.	O B-Animal O O O B-BodyPart
+The python can be categorized as physician.	O B-Tech O O O O B-Occupation
+The cat is also called programming language.	O B-Animal O O O O O
+The heart has to do with yellow.	O B-BodyPart O O O O B-Color
+The heart has to do with fruit.	O B-BodyPart O O O O B-Category
+The apple is also called yellow.	O B-Fruit O O O B-Color
+The doctor is known as vehicle.	O B-Occupation O O O B-Category
+The apple has to do with animal.	O B-Fruit O O O O B-Category
+The virus is related to microorganism.	O B-Micro O O O B-Category
+The doctor can be categorized as organ.	O B-Occupation O O O O B-BodyPart
+The dog has to do with physician.	O B-Animal O O O O B-Occupation
+The banana is considered a organ.	O B-Fruit O O O B-BodyPart
+The doctor has to do with yellow.	O B-Occupation O O O O B-Color
+The banana is related to organ.	O B-Fruit O O O B-BodyPart
+The doctor is related to programming language.	O B-Occupation O O O O O
+The doctor is related to fruit.	O B-Occupation O O O B-Category
+The dog is associated with physician.	O B-Animal O O O B-Occupation
+The teacher is also called programming language.	O B-Occupation O O O O O
+The python is known as organ.	O B-Tech O O O B-BodyPart
+The heart is related to mammal.	O B-BodyPart O O O B-Category
+The banana is known as fruit.	O B-Fruit O O O B-Category
+The cat has to do with microorganism.	O B-Animal O O O O B-Category
+The heart is considered a vehicle.	O B-BodyPart O O O B-Category
+The apple is considered a animal.	O B-Fruit O O O B-Category
+The virus is known as physician.	O B-Micro O O O B-Occupation
+The doctor is known as organ.	O B-Occupation O O O B-BodyPart
+The virus is known as mammal.	O B-Micro O O O B-Category
+The python has to do with animal.	O B-Tech O O O O B-Category
+The banana can be categorized as vehicle.	O B-Fruit O O O O B-Category
+The doctor can be categorized as mammal.	O B-Occupation O O O O B-Category
+The doctor is the same as educator.	O B-Occupation O O O O B-Occupation
+The dog is known as programming language.	O B-Animal O O O O O
+The doctor can be categorized as physician.	O B-Occupation O O O O B-Occupation
+The heart is related to programming language.	O B-BodyPart O O O O O
+The teacher is a yellow.	O B-Occupation O O B-Color
+The apple has to do with mammal.	O B-Fruit O O O O B-Category
+The banana is a animal.	O B-Fruit O O B-Category
+The apple can be categorized as organ.	O B-Fruit O O O O B-BodyPart
+The python can be categorized as animal.	O B-Tech O O O O B-Category
+The heart is a animal.	O B-BodyPart O O B-Category
+The python is the same as animal.	O B-Tech O O O O B-Category
+The car is also called animal.	O B-Vehicle O O O B-Category
+The teacher is considered a yellow.	O B-Occupation O O O B-Color
+The banana is also called educator.	O B-Fruit O O O B-Occupation
+The car is also called physician.	O B-Vehicle O O O B-Occupation
+The doctor is related to educator.	O B-Occupation O O O B-Occupation
+The doctor is known as animal.	O B-Occupation O O O B-Category
+The car is the same as yellow.	O B-Vehicle O O O O B-Color
+The dog is related to mammal.	O B-Animal O O O B-Category
+The doctor is known as programming language.	O B-Occupation O O O O O
+The dog is considered a fruit.	O B-Animal O O O B-Category
+The car is also called educator.	O B-Vehicle O O O B-Occupation
+The teacher is a educator.	O B-Occupation O O B-Occupation
+The dog is the same as vehicle.	O B-Animal O O O O B-Category
+The dog is considered a yellow.	O B-Animal O O O B-Color
+The heart is also called yellow.	O B-BodyPart O O O B-Color
+The dog is also called physician.	O B-Animal O O O B-Occupation
+The heart is considered a fruit.	O B-BodyPart O O O B-Category
+The apple is known as mammal.	O B-Fruit O O O B-Category
+The banana is associated with animal.	O B-Fruit O O O B-Category
+The teacher is also called yellow.	O B-Occupation O O O B-Color
+The apple is the same as animal.	O B-Fruit O O O O B-Category
+The apple is a vehicle.	O B-Fruit O O B-Category
+The cat is known as animal.	O B-Animal O O O B-Category
+The cat is associated with vehicle.	O B-Animal O O O B-Category
+The cat is associated with fruit.	O B-Animal O O O B-Category
+The dog is the same as organ.	O B-Animal O O O O B-BodyPart
+The banana is considered a programming language.	O B-Fruit O O O O O
+The teacher is known as mammal.	O B-Occupation O O O B-Category
+The virus is a yellow.	O B-Micro O O B-Color
+The python is associated with physician.	O B-Tech O O O B-Occupation
+The banana is related to animal.	O B-Fruit O O O B-Category
+The banana is related to organ.	O B-Fruit O O O B-BodyPart
+The cat is considered a programming language.	O B-Animal O O O O O
+The doctor is related to physician.	O B-Occupation O O O B-Occupation
+The doctor is known as organ.	O B-Occupation O O O B-BodyPart
+The banana is considered a vehicle.	O B-Fruit O O O B-Category
+The cat has to do with mammal.	O B-Animal O O O O B-Category
+The car is related to vehicle.	O B-Vehicle O O O B-Category
+The dog is a mammal.	O B-Animal O O B-Category
+The teacher is known as programming language.	O B-Occupation O O O O O
+The car can be categorized as animal.	O B-Vehicle O O O O B-Category
+The apple is the same as fruit.	O B-Fruit O O O O B-Category
+The banana can be categorized as yellow.	O B-Fruit O O O O B-Color
+The apple is related to programming language.	O B-Fruit O O O O O
+The doctor has to do with vehicle.	O B-Occupation O O O O B-Category
+The virus has to do with fruit.	O B-Micro O O O O B-Category
+The teacher is known as fruit.	O B-Occupation O O O B-Category
+The apple is considered a mammal.	O B-Fruit O O O B-Category
+The car is known as yellow.	O B-Vehicle O O O B-Color
+The doctor is also called fruit.	O B-Occupation O O O B-Category
+The cat has to do with programming language.	O B-Animal O O O O O O
+The python is associated with fruit.	O B-Tech O O O B-Category
+The dog is related to fruit.	O B-Animal O O O B-Category
+The heart is also called vehicle.	O B-BodyPart O O O B-Category
+The apple is a microorganism.	O B-Fruit O O B-Category
+The apple is the same as programming language.	O B-Fruit O O O O O O
+The python is related to animal.	O B-Tech O O O B-Category
+The dog is known as organ.	O B-Animal O O O B-BodyPart
+The car has to do with programming language.	O B-Vehicle O O O O O O
+The dog is associated with programming language.	O B-Animal O O O O O
+The dog has to do with yellow.	O B-Animal O O O O B-Color
+The dog is the same as organ.	O B-Animal O O O O B-BodyPart
+The teacher has to do with yellow.	O B-Occupation O O O O B-Color
+The dog is related to microorganism.	O B-Animal O O O B-Category
+The doctor has to do with animal.	O B-Occupation O O O O B-Category
+The cat is related to vehicle.	O B-Animal O O O B-Category
+The heart has to do with yellow.	O B-BodyPart O O O O B-Color
+The teacher is a organ.	O B-Occupation O O B-BodyPart
+The python is known as fruit.	O B-Tech O O O B-Category
+The doctor is known as vehicle.	O B-Occupation O O O B-Category
+The dog is a organ.	O B-Animal O O B-BodyPart
+The heart is related to yellow.	O B-BodyPart O O O B-Color
+The dog is considered a fruit.	O B-Animal O O O B-Category
+The heart is also called fruit.	O B-BodyPart O O O B-Category
+The car is a yellow.	O B-Vehicle O O B-Color
+The heart is associated with educator.	O B-BodyPart O O O B-Occupation
+The dog is also called educator.	O B-Animal O O O B-Occupation
+The car is known as fruit.	O B-Vehicle O O O B-Category
+The teacher is known as physician.	O B-Occupation O O O B-Occupation
+The banana is related to mammal.	O B-Fruit O O O B-Category
+The apple is related to fruit.	O B-Fruit O O O B-Category
+The heart is associated with microorganism.	O B-BodyPart O O O B-Category
+The cat is considered a animal.	O B-Animal O O O B-Category
+The teacher is related to animal.	O B-Occupation O O O B-Category
+The teacher is also called vehicle.	O B-Occupation O O O B-Category
+The apple is known as physician.	O B-Fruit O O O B-Occupation
+The banana is also called animal.	O B-Fruit O O O B-Category
+The python has to do with vehicle.	O B-Tech O O O O B-Category
+The python is known as animal.	O B-Tech O O O B-Category
+The banana is associated with yellow.	O B-Fruit O O O B-Color
+The apple can be categorized as microorganism.	O B-Fruit O O O O B-Category
+The virus is considered a mammal.	O B-Micro O O O B-Category
+The virus is considered a educator.	O B-Micro O O O B-Occupation
+The doctor is considered a physician.	O B-Occupation O O O B-Occupation
+The virus is a microorganism.	O B-Micro O O B-Category
+The dog has to do with vehicle.	O B-Animal O O O O B-Category
+The teacher is considered a animal.	O B-Occupation O O O B-Category
+The heart is known as mammal.	O B-BodyPart O O O B-Category
+The teacher can be categorized as microorganism.	O B-Occupation O O O O B-Category
+The car is also called physician.	O B-Vehicle O O O B-Occupation
+The heart is related to yellow.	O B-BodyPart O O O B-Color
+The teacher is related to physician.	O B-Occupation O O O B-Occupation
+The virus is known as physician.	O B-Micro O O O B-Occupation
+The python is also called mammal.	O B-Tech O O O B-Category
+The python can be categorized as programming language.	O B-Tech O O O O O O
+The banana is known as vehicle.	O B-Fruit O O O B-Category
+The doctor is known as programming language.	O B-Occupation O O O O O
+The python is the same as programming language.	O B-Tech O O O O O O
+The python is also called vehicle.	O B-Tech O O O B-Category
+The teacher is known as yellow.	O B-Occupation O O O B-Color
+The heart is a microorganism.	O B-BodyPart O O B-Category
+The apple is also called microorganism.	O B-Fruit O O O B-Category
+The teacher is a yellow.	O B-Occupation O O B-Color
+The teacher is also called physician.	O B-Occupation O O O B-Occupation
+The doctor is related to vehicle.	O B-Occupation O O O B-Category
+The car has to do with physician.	O B-Vehicle O O O O B-Occupation
+The dog is known as yellow.	O B-Animal O O O B-Color
+The teacher is a yellow.	O B-Occupation O O B-Color
+The dog can be categorized as yellow.	O B-Animal O O O O B-Color
+The banana is associated with vehicle.	O B-Fruit O O O B-Category
+The cat is also called microorganism.	O B-Animal O O O B-Category
+The car is considered a educator.	O B-Vehicle O O O B-Occupation
+The teacher has to do with vehicle.	O B-Occupation O O O O B-Category
+The cat is considered a yellow.	O B-Animal O O O B-Color
+The heart is the same as vehicle.	O B-BodyPart O O O O B-Category
+The doctor can be categorized as organ.	O B-Occupation O O O O B-BodyPart
+The doctor is related to organ.	O B-Occupation O O O B-BodyPart
+The apple has to do with physician.	O B-Fruit O O O O B-Occupation
+The virus can be categorized as mammal.	O B-Micro O O O O B-Category
+The cat is also called fruit.	O B-Animal O O O B-Category
+The teacher can be categorized as fruit.	O B-Occupation O O O O B-Category
+The dog is a microorganism.	O B-Animal O O B-Category
+The teacher is known as physician.	O B-Occupation O O O B-Occupation
+The car is related to organ.	O B-Vehicle O O O B-BodyPart
+The virus is also called programming language.	O B-Micro O O O O O
+The teacher is associated with vehicle.	O B-Occupation O O O B-Category
+The apple is a fruit.	O B-Fruit O O B-Category
+The virus can be categorized as educator.	O B-Micro O O O O B-Occupation
+The heart is associated with fruit.	O B-BodyPart O O O B-Category
+The car is related to microorganism.	O B-Vehicle O O O B-Category
+The dog is the same as fruit.	O B-Animal O O O O B-Category
+The python is related to microorganism.	O B-Tech O O O B-Category
+The apple can be categorized as animal.	O B-Fruit O O O O B-Category
+The apple is known as fruit.	O B-Fruit O O O B-Category
+The doctor is related to animal.	O B-Occupation O O O B-Category
+The virus is the same as programming language.	O B-Micro O O O O O O
+The apple is also called microorganism.	O B-Fruit O O O B-Category
+The teacher is a physician.	O B-Occupation O O B-Occupation
+The doctor is considered a yellow.	O B-Occupation O O O B-Color
+The python is a physician.	O B-Tech O O B-Occupation
+The doctor can be categorized as yellow.	O B-Occupation O O O O B-Color
+The virus is considered a programming language.	O B-Micro O O O O O
+The cat can be categorized as animal.	O B-Animal O O O O B-Category
+The virus can be categorized as yellow.	O B-Micro O O O O B-Color
+The virus has to do with vehicle.	O B-Micro O O O O B-Category
+The virus is related to microorganism.	O B-Micro O O O B-Category
+The apple is considered a programming language.	O B-Fruit O O O O O
+The banana is related to animal.	O B-Fruit O O O B-Category
+The doctor is related to animal.	O B-Occupation O O O B-Category
+The doctor is associated with fruit.	O B-Occupation O O O B-Category
+The banana is associated with mammal.	O B-Fruit O O O B-Category
+The apple is considered a physician.	O B-Fruit O O O B-Occupation
+The doctor is known as organ.	O B-Occupation O O O B-BodyPart
+The doctor is related to microorganism.	O B-Occupation O O O B-Category
+The python is known as physician.	O B-Tech O O O B-Occupation
+The teacher has to do with educator.	O B-Occupation O O O O B-Occupation
+The apple is associated with physician.	O B-Fruit O O O B-Occupation
+The car is considered a yellow.	O B-Vehicle O O O B-Color
+The banana can be categorized as programming language.	O B-Fruit O O O O O O
+The cat is related to microorganism.	O B-Animal O O O B-Category
+The banana can be categorized as microorganism.	O B-Fruit O O O O B-Category
+The cat is considered a microorganism.	O B-Animal O O O B-Category
+The virus is associated with fruit.	O B-Micro O O O B-Category
+The heart is also called educator.	O B-BodyPart O O O B-Occupation
+The apple can be categorized as animal.	O B-Fruit O O O O B-Category
+The banana has to do with fruit.	O B-Fruit O O O O B-Category
+The python is a mammal.	O B-Tech O O B-Category
+The cat has to do with educator.	O B-Animal O O O O B-Occupation
+The doctor is associated with educator.	O B-Occupation O O O B-Occupation
+The teacher can be categorized as yellow.	O B-Occupation O O O O B-Color
+The doctor is related to educator.	O B-Occupation O O O B-Occupation
+The heart is also called yellow.	O B-BodyPart O O O B-Color
+The virus is known as physician.	O B-Micro O O O B-Occupation
+The heart has to do with microorganism.	O B-BodyPart O O O O B-Category
+The dog is also called programming language.	O B-Animal O O O O O
+The banana is the same as programming language.	O B-Fruit O O O O O O
+The doctor is associated with animal.	O B-Occupation O O O B-Category
+The python has to do with yellow.	O B-Tech O O O O B-Color
+The doctor can be categorized as yellow.	O B-Occupation O O O O B-Color
+The apple has to do with microorganism.	O B-Fruit O O O O B-Category
+The doctor is related to microorganism.	O B-Occupation O O O B-Category
+The virus is considered a mammal.	O B-Micro O O O B-Category
+The apple has to do with educator.	O B-Fruit O O O O B-Occupation
+The banana is a organ.	O B-Fruit O O B-BodyPart
+The banana is associated with microorganism.	O B-Fruit O O O B-Category
+The cat is related to organ.	O B-Animal O O O B-BodyPart
+The dog is associated with educator.	O B-Animal O O O B-Occupation
+The heart is related to yellow.	O B-BodyPart O O O B-Color
+The virus is related to educator.	O B-Micro O O O B-Occupation
+The doctor is associated with mammal.	O B-Occupation O O O B-Category
+The python has to do with microorganism.	O B-Tech O O O O B-Category
+The dog is known as organ.	O B-Animal O O O B-BodyPart
+The car is a vehicle.	O B-Vehicle O O B-Category
+The banana is related to mammal.	O B-Fruit O O O B-Category
+The doctor is known as educator.	O B-Occupation O O O B-Occupation
+The apple has to do with physician.	O B-Fruit O O O O B-Occupation
+The dog is also called vehicle.	O B-Animal O O O B-Category
+The heart is related to microorganism.	O B-BodyPart O O O B-Category
+The car is related to fruit.	O B-Vehicle O O O B-Category
+The banana is also called vehicle.	O B-Fruit O O O B-Category
+The virus is considered a yellow.	O B-Micro O O O B-Color
+The banana is also called organ.	O B-Fruit O O O B-BodyPart
+The python is a vehicle.	O B-Tech O O B-Category
+The virus is considered a animal.	O B-Micro O O O B-Category
+The heart is known as vehicle.	O B-BodyPart O O O B-Category
+The dog is the same as physician.	O B-Animal O O O O B-Occupation
+The doctor is known as physician.	O B-Occupation O O O B-Occupation
+The dog is the same as animal.	O B-Animal O O O O B-Category
+The banana has to do with fruit.	O B-Fruit O O O O B-Category
+The car is also called organ.	O B-Vehicle O O O B-BodyPart
+The car is considered a microorganism.	O B-Vehicle O O O B-Category
+The doctor is considered a fruit.	O B-Occupation O O O B-Category
+The cat can be categorized as mammal.	O B-Animal O O O O B-Category
+The heart has to do with mammal.	O B-BodyPart O O O O B-Category
+The python is the same as physician.	O B-Tech O O O O B-Occupation
+The banana is considered a organ.	O B-Fruit O O O B-BodyPart
+The teacher is associated with yellow.	O B-Occupation O O O B-Color
+The dog is related to mammal.	O B-Animal O O O B-Category
+The virus is considered a physician.	O B-Micro O O O B-Occupation
+The dog is associated with physician.	O B-Animal O O O B-Occupation
+The doctor can be categorized as physician.	O B-Occupation O O O O B-Occupation
+The cat is associated with fruit.	O B-Animal O O O B-Category
+The doctor is also called yellow.	O B-Occupation O O O B-Color
+The car is also called yellow.	O B-Vehicle O O O B-Color
+The python can be categorized as organ.	O B-Tech O O O O B-BodyPart
+The car is also called fruit.	O B-Vehicle O O O B-Category
+The doctor can be categorized as fruit.	O B-Occupation O O O O B-Category
+The doctor is also called physician.	O B-Occupation O O O B-Occupation
+The car is associated with yellow.	O B-Vehicle O O O B-Color
+The apple is associated with mammal.	O B-Fruit O O O B-Category
+The heart has to do with microorganism.	O B-BodyPart O O O O B-Category
+The cat has to do with animal.	O B-Animal O O O O B-Category
+The heart is considered a physician.	O B-BodyPart O O O B-Occupation
+The virus is a fruit.	O B-Micro O O B-Category
+The doctor is the same as vehicle.	O B-Occupation O O O O B-Category
+The car is known as physician.	O B-Vehicle O O O B-Occupation
+The heart can be categorized as microorganism.	O B-BodyPart O O O O B-Category
+The cat is also called organ.	O B-Animal O O O B-BodyPart
+The apple is also called vehicle.	O B-Fruit O O O B-Category
+The python is associated with fruit.	O B-Tech O O O B-Category
+The teacher is considered a mammal.	O B-Occupation O O O B-Category
+The car has to do with mammal.	O B-Vehicle O O O O B-Category
+The car has to do with fruit.	O B-Vehicle O O O O B-Category
+The car is related to yellow.	O B-Vehicle O O O B-Color
+The car is the same as animal.	O B-Vehicle O O O O B-Category
+The banana can be categorized as educator.	O B-Fruit O O O O B-Occupation
+The heart is known as fruit.	O B-BodyPart O O O B-Category
+The virus can be categorized as educator.	O B-Micro O O O O B-Occupation
+The doctor is considered a mammal.	O B-Occupation O O O B-Category
+The cat is considered a yellow.	O B-Animal O O O B-Color
+The banana is the same as organ.	O B-Fruit O O O O B-BodyPart
+The cat is known as organ.	O B-Animal O O O B-BodyPart
+The cat is the same as animal.	O B-Animal O O O O B-Category
+The heart is known as programming language.	O B-BodyPart O O O O O
+The python is related to yellow.	O B-Tech O O O B-Color
+The heart is considered a vehicle.	O B-BodyPart O O O B-Category
+The heart is known as physician.	O B-BodyPart O O O B-Occupation
+The heart is also called animal.	O B-BodyPart O O O B-Category
+The dog is known as physician.	O B-Animal O O O B-Occupation
+The apple can be categorized as physician.	O B-Fruit O O O O B-Occupation
+The doctor is related to microorganism.	O B-Occupation O O O B-Category
+The virus is known as yellow.	O B-Micro O O O B-Color
+The heart can be categorized as yellow.	O B-BodyPart O O O O B-Color
+The cat is associated with yellow.	O B-Animal O O O B-Color
+The heart is also called programming language.	O B-BodyPart O O O O O
+The teacher is the same as mammal.	O B-Occupation O O O O B-Category
+The dog is the same as vehicle.	O B-Animal O O O O B-Category
+The virus is related to educator.	O B-Micro O O O B-Occupation
+The python can be categorized as educator.	O B-Tech O O O O B-Occupation
+The dog is associated with microorganism.	O B-Animal O O O B-Category
+The dog has to do with yellow.	O B-Animal O O O O B-Color
+The apple is known as animal.	O B-Fruit O O O B-Category
+The car can be categorized as organ.	O B-Vehicle O O O O B-BodyPart
+The python can be categorized as yellow.	O B-Tech O O O O B-Color
+The virus is related to educator.	O B-Micro O O O B-Occupation
+The virus can be categorized as organ.	O B-Micro O O O O B-BodyPart
+The banana is related to animal.	O B-Fruit O O O B-Category
+The virus is related to mammal.	O B-Micro O O O B-Category
+The dog is considered a microorganism.	O B-Animal O O O B-Category
+The dog is considered a microorganism.	O B-Animal O O O B-Category
+The heart is related to fruit.	O B-BodyPart O O O B-Category
+The python is considered a vehicle.	O B-Tech O O O B-Category
+The car can be categorized as vehicle.	O B-Vehicle O O O O B-Category
+The python can be categorized as yellow.	O B-Tech O O O O B-Color
+The python is a microorganism.	O B-Tech O O B-Category
+The virus is related to programming language.	O B-Micro O O O O O
+The doctor is also called animal.	O B-Occupation O O O B-Category
+The virus is considered a fruit.	O B-Micro O O O B-Category
+The car is considered a animal.	O B-Vehicle O O O B-Category
+The teacher is associated with programming language.	O B-Occupation O O O O O
+The banana can be categorized as organ.	O B-Fruit O O O O B-BodyPart
+The virus is the same as mammal.	O B-Micro O O O O B-Category
+The apple is a yellow.	O B-Fruit O O B-Color
+The doctor is considered a animal.	O B-Occupation O O O B-Category
+The virus is also called yellow.	O B-Micro O O O B-Color
+The cat is related to microorganism.	O B-Animal O O O B-Category
+The virus is associated with physician.	O B-Micro O O O B-Occupation
+The apple is considered a organ.	O B-Fruit O O O B-BodyPart
+The virus is also called mammal.	O B-Micro O O O B-Category
+The dog is considered a animal.	O B-Animal O O O B-Category
+The virus can be categorized as physician.	O B-Micro O O O O B-Occupation
+The teacher is considered a programming language.	O B-Occupation O O O O O
+The virus is considered a vehicle.	O B-Micro O O O B-Category
+The car is considered a yellow.	O B-Vehicle O O O B-Color
+The python has to do with microorganism.	O B-Tech O O O O B-Category
+The cat is associated with educator.	O B-Animal O O O B-Occupation
+The heart is related to educator.	O B-BodyPart O O O B-Occupation
+The banana is known as physician.	O B-Fruit O O O B-Occupation
+The teacher is also called physician.	O B-Occupation O O O B-Occupation
+The virus is related to mammal.	O B-Micro O O O B-Category
+The cat is also called programming language.	O B-Animal O O O O O
+The python is associated with educator.	O B-Tech O O O B-Occupation
+The cat is also called vehicle.	O B-Animal O O O B-Category
+The python is considered a educator.	O B-Tech O O O B-Occupation
+The teacher is considered a yellow.	O B-Occupation O O O B-Color
+The car has to do with vehicle.	O B-Vehicle O O O O B-Category
+The virus has to do with educator.	O B-Micro O O O O B-Occupation
+The car is associated with mammal.	O B-Vehicle O O O B-Category
+The car is related to animal.	O B-Vehicle O O O B-Category
+The python is associated with animal.	O B-Tech O O O B-Category
+The dog has to do with mammal.	O B-Animal O O O O B-Category
+The heart can be categorized as microorganism.	O B-BodyPart O O O O B-Category
+The virus is associated with programming language.	O B-Micro O O O O O
+The banana is associated with fruit.	O B-Fruit O O O B-Category
+The teacher has to do with mammal.	O B-Occupation O O O O B-Category
+The cat has to do with physician.	O B-Animal O O O O B-Occupation
+The car is the same as organ.	O B-Vehicle O O O O B-BodyPart
+The heart has to do with programming language.	O B-BodyPart O O O O O O
+The teacher is a mammal.	O B-Occupation O O B-Category
+The heart can be categorized as physician.	O B-BodyPart O O O O B-Occupation
+The car has to do with animal.	O B-Vehicle O O O O B-Category
+The banana is related to physician.	O B-Fruit O O O B-Occupation
+The heart is considered a organ.	O B-BodyPart O O O B-BodyPart
+The cat is associated with physician.	O B-Animal O O O B-Occupation
+The heart has to do with yellow.	O B-BodyPart O O O O B-Color
+The virus has to do with programming language.	O B-Micro O O O O O O
+The dog is also called fruit.	O B-Animal O O O B-Category
+The apple is a microorganism.	O B-Fruit O O B-Category
+The banana has to do with yellow.	O B-Fruit O O O O B-Color
+The cat is a organ.	O B-Animal O O B-BodyPart
+The virus is associated with organ.	O B-Micro O O O B-BodyPart
+The apple is related to mammal.	O B-Fruit O O O B-Category
+The cat is a vehicle.	O B-Animal O O B-Category
+The dog is a programming language.	O B-Animal O O O O
+The apple is the same as educator.	O B-Fruit O O O O B-Occupation
+The dog is a educator.	O B-Animal O O B-Occupation
+The cat is also called mammal.	O B-Animal O O O B-Category
+The dog has to do with educator.	O B-Animal O O O O B-Occupation
+The banana is also called physician.	O B-Fruit O O O B-Occupation
+The car has to do with educator.	O B-Vehicle O O O O B-Occupation
+The apple is related to fruit.	O B-Fruit O O O B-Category
+The teacher is a fruit.	O B-Occupation O O B-Category
+The doctor is considered a programming language.	O B-Occupation O O O O O
+The banana has to do with organ.	O B-Fruit O O O O B-BodyPart
+The car is also called animal.	O B-Vehicle O O O B-Category
+The apple is a yellow.	O B-Fruit O O B-Color
+The heart is known as programming language.	O B-BodyPart O O O O O
+The doctor is related to fruit.	O B-Occupation O O O B-Category
+The dog has to do with fruit.	O B-Animal O O O O B-Category
+The doctor has to do with programming language.	O B-Occupation O O O O O O
+The dog is related to organ.	O B-Animal O O O B-BodyPart
+The heart is associated with fruit.	O B-BodyPart O O O B-Category
+The virus is a educator.	O B-Micro O O B-Occupation
+The python is associated with animal.	O B-Tech O O O B-Category
+The dog is a fruit.	O B-Animal O O B-Category
+The dog is the same as fruit.	O B-Animal O O O O B-Category
+The python can be categorized as yellow.	O B-Tech O O O O B-Color
+The doctor is a organ.	O B-Occupation O O B-BodyPart
+The python is a animal.	O B-Tech O O B-Category
+The heart can be categorized as organ.	O B-BodyPart O O O O B-BodyPart
+The virus is associated with physician.	O B-Micro O O O B-Occupation
+The teacher is a vehicle.	O B-Occupation O O B-Category
+The doctor is a programming language.	O B-Occupation O O O O
+The car is considered a yellow.	O B-Vehicle O O O B-Color
+The doctor is associated with animal.	O B-Occupation O O O B-Category
+The apple is associated with mammal.	O B-Fruit O O O B-Category
+The heart can be categorized as fruit.	O B-BodyPart O O O O B-Category
+The virus is considered a microorganism.	O B-Micro O O O B-Category
+The banana is related to educator.	O B-Fruit O O O B-Occupation
+The python is related to fruit.	O B-Tech O O O B-Category
+The cat is also called physician.	O B-Animal O O O B-Occupation
+The dog is the same as educator.	O B-Animal O O O O B-Occupation
+The apple is the same as yellow.	O B-Fruit O O O O B-Color
+The teacher is related to fruit.	O B-Occupation O O O B-Category
+The python is a physician.	O B-Tech O O B-Occupation
+The car has to do with educator.	O B-Vehicle O O O O B-Occupation
+The heart is also called organ.	O B-BodyPart O O O B-BodyPart
+The cat is related to programming language.	O B-Animal O O O O O
+The apple is known as microorganism.	O B-Fruit O O O B-Category
+The banana is a fruit.	O B-Fruit O O B-Category
+The banana is the same as mammal.	O B-Fruit O O O O B-Category
+The teacher has to do with fruit.	O B-Occupation O O O O B-Category
+The dog is associated with mammal.	O B-Animal O O O B-Category
+The python is associated with microorganism.	O B-Tech O O O B-Category
+The virus can be categorized as animal.	O B-Micro O O O O B-Category
+The cat is related to physician.	O B-Animal O O O B-Occupation
+The python is associated with organ.	O B-Tech O O O B-BodyPart
+The apple is known as physician.	O B-Fruit O O O B-Occupation
+The python has to do with programming language.	O B-Tech O O O O O O
+The virus is the same as animal.	O B-Micro O O O O B-Category
+The virus has to do with educator.	O B-Micro O O O O B-Occupation
+The doctor is considered a yellow.	O B-Occupation O O O B-Color
+The car is associated with physician.	O B-Vehicle O O O B-Occupation
+The python is associated with organ.	O B-Tech O O O B-BodyPart
+The dog can be categorized as organ.	O B-Animal O O O O B-BodyPart
+The virus is also called organ.	O B-Micro O O O B-BodyPart
+The dog is a programming language.	O B-Animal O O O O
+The dog can be categorized as programming language.	O B-Animal O O O O O O
+The teacher is known as organ.	O B-Occupation O O O B-BodyPart
+The dog is known as animal.	O B-Animal O O O B-Category
+The teacher is a animal.	O B-Occupation O O B-Category
+The apple is a mammal.	O B-Fruit O O B-Category
+The dog is considered a animal.	O B-Animal O O O B-Category
+The dog is considered a educator.	O B-Animal O O O B-Occupation
+The doctor is a educator.	O B-Occupation O O B-Occupation
+The doctor is a physician.	O B-Occupation O O B-Occupation
+The car is a educator.	O B-Vehicle O O B-Occupation
+The python can be categorized as vehicle.	O B-Tech O O O O B-Category
+The apple is related to educator.	O B-Fruit O O O B-Occupation
+The teacher is known as programming language.	O B-Occupation O O O O O
+The banana is a microorganism.	O B-Fruit O O B-Category
+The python is considered a educator.	O B-Tech O O O B-Occupation
+The python is the same as fruit.	O B-Tech O O O O B-Category
+The doctor is considered a animal.	O B-Occupation O O O B-Category
+The dog is considered a yellow.	O B-Animal O O O B-Color
+The doctor is also called animal.	O B-Occupation O O O B-Category
+The dog is considered a educator.	O B-Animal O O O B-Occupation
+The heart is a physician.	O B-BodyPart O O B-Occupation
+The banana is a physician.	O B-Fruit O O B-Occupation
+The teacher is known as programming language.	O B-Occupation O O O O O
+The apple is a physician.	O B-Fruit O O B-Occupation
+The apple is the same as animal.	O B-Fruit O O O O B-Category
+The cat has to do with physician.	O B-Animal O O O O B-Occupation
+The apple has to do with physician.	O B-Fruit O O O O B-Occupation
+The cat can be categorized as programming language.	O B-Animal O O O O O O
+The virus has to do with vehicle.	O B-Micro O O O O B-Category
+The doctor is also called physician.	O B-Occupation O O O B-Occupation
+The dog is considered a microorganism.	O B-Animal O O O B-Category
+The teacher is the same as programming language.	O B-Occupation O O O O O O
+The doctor is considered a animal.	O B-Occupation O O O B-Category
+The heart has to do with programming language.	O B-BodyPart O O O O O O
+The heart is the same as microorganism.	O B-BodyPart O O O O B-Category
+The heart is a educator.	O B-BodyPart O O B-Occupation
+The heart has to do with physician.	O B-BodyPart O O O O B-Occupation
+The virus is considered a educator.	O B-Micro O O O B-Occupation
+The doctor has to do with programming language.	O B-Occupation O O O O O O
+The cat is known as microorganism.	O B-Animal O O O B-Category
+The python is a educator.	O B-Tech O O B-Occupation
+The virus is a mammal.	O B-Micro O O B-Category
+The apple can be categorized as physician.	O B-Fruit O O O O B-Occupation
+The car is a physician.	O B-Vehicle O O B-Occupation
+The python is a programming language.	O B-Tech O O O O
+The car is related to fruit.	O B-Vehicle O O O B-Category
+The doctor is a programming language.	O B-Occupation O O O O
+The car is a programming language.	O B-Vehicle O O O O
+The dog has to do with fruit.	O B-Animal O O O O B-Category
+The virus is related to organ.	O B-Micro O O O B-BodyPart
+The apple can be categorized as organ.	O B-Fruit O O O O B-BodyPart
+The dog is the same as programming language.	O B-Animal O O O O O O
+The python has to do with animal.	O B-Tech O O O O B-Category
+The doctor is associated with microorganism.	O B-Occupation O O O B-Category
+The car is known as yellow.	O B-Vehicle O O O B-Color
+The cat is associated with physician.	O B-Animal O O O B-Occupation
+The heart is a mammal.	O B-BodyPart O O B-Category
+The doctor has to do with fruit.	O B-Occupation O O O O B-Category
+The dog is the same as fruit.	O B-Animal O O O O B-Category
+The teacher is related to educator.	O B-Occupation O O O B-Occupation
+The doctor is considered a animal.	O B-Occupation O O O B-Category
+The doctor is the same as animal.	O B-Occupation O O O O B-Category
+The teacher is considered a animal.	O B-Occupation O O O B-Category
+The car can be categorized as fruit.	O B-Vehicle O O O O B-Category
+The apple is related to organ.	O B-Fruit O O O B-BodyPart
+The banana is considered a microorganism.	O B-Fruit O O O B-Category
+The teacher is known as educator.	O B-Occupation O O O B-Occupation
+The banana is the same as animal.	O B-Fruit O O O O B-Category
+The car is also called vehicle.	O B-Vehicle O O O B-Category
+The banana can be categorized as educator.	O B-Fruit O O O O B-Occupation
+The banana is related to fruit.	O B-Fruit O O O B-Category
+The teacher is known as vehicle.	O B-Occupation O O O B-Category
+The python is known as microorganism.	O B-Tech O O O B-Category
+The cat has to do with mammal.	O B-Animal O O O O B-Category
+The apple is known as educator.	O B-Fruit O O O B-Occupation
+The doctor is the same as physician.	O B-Occupation O O O O B-Occupation
+The python is considered a physician.	O B-Tech O O O B-Occupation
+The car is the same as educator.	O B-Vehicle O O O O B-Occupation
+The doctor is the same as mammal.	O B-Occupation O O O O B-Category
+The apple can be categorized as yellow.	O B-Fruit O O O O B-Color
+The banana is a mammal.	O B-Fruit O O B-Category
+The car is associated with physician.	O B-Vehicle O O O B-Occupation
+The teacher is considered a physician.	O B-Occupation O O O B-Occupation
+The car is known as vehicle.	O B-Vehicle O O O B-Category
+The heart has to do with organ.	O B-BodyPart O O O O B-BodyPart
+The virus is related to microorganism.	O B-Micro O O O B-Category
+The virus is the same as physician.	O B-Micro O O O O B-Occupation
+The apple is associated with yellow.	O B-Fruit O O O B-Color
+The python has to do with fruit.	O B-Tech O O O O B-Category
+The dog is related to microorganism.	O B-Animal O O O B-Category
+The python is the same as programming language.	O B-Tech O O O O O O
+The teacher has to do with yellow.	O B-Occupation O O O O B-Color
+The heart is considered a mammal.	O B-BodyPart O O O B-Category
+The heart is considered a physician.	O B-BodyPart O O O B-Occupation
+The heart is the same as organ.	O B-BodyPart O O O O B-BodyPart
+The apple is associated with organ.	O B-Fruit O O O B-BodyPart
+The virus is known as programming language.	O B-Micro O O O O O
+The banana is considered a programming language.	O B-Fruit O O O O O
+The teacher is associated with yellow.	O B-Occupation O O O B-Color
+The teacher is also called mammal.	O B-Occupation O O O B-Category
+The doctor can be categorized as mammal.	O B-Occupation O O O O B-Category
+The banana is known as mammal.	O B-Fruit O O O B-Category
+The doctor is the same as educator.	O B-Occupation O O O O B-Occupation
+The teacher is known as educator.	O B-Occupation O O O B-Occupation
+The apple can be categorized as yellow.	O B-Fruit O O O O B-Color
+The python has to do with programming language.	O B-Tech O O O O O O
+The doctor has to do with fruit.	O B-Occupation O O O O B-Category
+The car is also called yellow.	O B-Vehicle O O O B-Color
+The python is known as physician.	O B-Tech O O O B-Occupation
+The banana has to do with educator.	O B-Fruit O O O O B-Occupation
+The virus is a microorganism.	O B-Micro O O B-Category
+The virus is associated with physician.	O B-Micro O O O B-Occupation
+The doctor is also called programming language.	O B-Occupation O O O O O
+The dog is known as organ.	O B-Animal O O O B-BodyPart
+The heart is known as organ.	O B-BodyPart O O O B-BodyPart
+The cat is related to microorganism.	O B-Animal O O O B-Category
+The doctor is the same as educator.	O B-Occupation O O O O B-Occupation
+The car is associated with yellow.	O B-Vehicle O O O B-Color
+The python is known as programming language.	O B-Tech O O O O O
+The dog has to do with yellow.	O B-Animal O O O O B-Color
+The car is a physician.	O B-Vehicle O O B-Occupation
+The python is the same as educator.	O B-Tech O O O O B-Occupation
+The car is a microorganism.	O B-Vehicle O O B-Category
+The virus has to do with fruit.	O B-Micro O O O O B-Category
+The car is a educator.	O B-Vehicle O O B-Occupation
+The dog is related to yellow.	O B-Animal O O O B-Color
+The heart is known as organ.	O B-BodyPart O O O B-BodyPart
+The car has to do with animal.	O B-Vehicle O O O O B-Category
+The virus is related to yellow.	O B-Micro O O O B-Color
+The virus is considered a mammal.	O B-Micro O O O B-Category
+The heart is associated with programming language.	O B-BodyPart O O O O O
+The python is the same as microorganism.	O B-Tech O O O O B-Category
+The car is related to microorganism.	O B-Vehicle O O O B-Category
+The car is known as mammal.	O B-Vehicle O O O B-Category
+The virus is the same as vehicle.	O B-Micro O O O O B-Category
+The dog is also called yellow.	O B-Animal O O O B-Color
+The apple is also called microorganism.	O B-Fruit O O O B-Category
+The apple is the same as vehicle.	O B-Fruit O O O O B-Category
+The heart is known as educator.	O B-BodyPart O O O B-Occupation
+The doctor is known as vehicle.	O B-Occupation O O O B-Category
+The heart is related to organ.	O B-BodyPart O O O B-BodyPart
+The dog is associated with fruit.	O B-Animal O O O B-Category
+The python is related to yellow.	O B-Tech O O O B-Color
+The banana is the same as programming language.	O B-Fruit O O O O O O
+The banana is associated with physician.	O B-Fruit O O O B-Occupation
+The teacher is known as organ.	O B-Occupation O O O B-BodyPart
+The python has to do with programming language.	O B-Tech O O O O O O
+The doctor is considered a physician.	O B-Occupation O O O B-Occupation
+The virus is associated with educator.	O B-Micro O O O B-Occupation
+The dog is a organ.	O B-Animal O O B-BodyPart
+The doctor has to do with organ.	O B-Occupation O O O O B-BodyPart
+The teacher is a animal.	O B-Occupation O O B-Category
+The dog has to do with fruit.	O B-Animal O O O O B-Category
+The dog has to do with programming language.	O B-Animal O O O O O O
+The banana is known as fruit.	O B-Fruit O O O B-Category
+The cat is associated with mammal.	O B-Animal O O O B-Category
+The virus can be categorized as mammal.	O B-Micro O O O O B-Category
+The python is considered a fruit.	O B-Tech O O O B-Category
+The cat is a vehicle.	O B-Animal O O B-Category
+The teacher is considered a mammal.	O B-Occupation O O O B-Category
+The cat is considered a mammal.	O B-Animal O O O B-Category
+The dog is a mammal.	O B-Animal O O B-Category
+The apple is a animal.	O B-Fruit O O B-Category
+The dog is also called mammal.	O B-Animal O O O B-Category
+The apple can be categorized as educator.	O B-Fruit O O O O B-Occupation
+The cat is considered a fruit.	O B-Animal O O O B-Category
+The car is associated with physician.	O B-Vehicle O O O B-Occupation
+The apple is known as mammal.	O B-Fruit O O O B-Category
+The cat has to do with vehicle.	O B-Animal O O O O B-Category
+The teacher can be categorized as yellow.	O B-Occupation O O O O B-Color
+The dog has to do with yellow.	O B-Animal O O O O B-Color
+The banana is associated with microorganism.	O B-Fruit O O O B-Category
+The apple is also called programming language.	O B-Fruit O O O O O
+The dog can be categorized as physician.	O B-Animal O O O O B-Occupation
+The cat is associated with fruit.	O B-Animal O O O B-Category
+The teacher is associated with yellow.	O B-Occupation O O O B-Color
+The apple is the same as organ.	O B-Fruit O O O O B-BodyPart
+The apple is associated with microorganism.	O B-Fruit O O O B-Category
+The doctor is considered a yellow.	O B-Occupation O O O B-Color
+The doctor is a programming language.	O B-Occupation O O O O
+The dog is a microorganism.	O B-Animal O O B-Category
+The cat is associated with programming language.	O B-Animal O O O O O
+The virus is known as organ.	O B-Micro O O O B-BodyPart
+The dog is considered a yellow.	O B-Animal O O O B-Color
+The python is known as microorganism.	O B-Tech O O O B-Category
+The python is related to vehicle.	O B-Tech O O O B-Category
+The python is also called mammal.	O B-Tech O O O B-Category
+The doctor is also called educator.	O B-Occupation O O O B-Occupation
+The apple has to do with mammal.	O B-Fruit O O O O B-Category
+The banana can be categorized as mammal.	O B-Fruit O O O O B-Category
+The banana is also called physician.	O B-Fruit O O O B-Occupation
+The doctor is related to yellow.	O B-Occupation O O O B-Color
+The cat is known as physician.	O B-Animal O O O B-Occupation
+The teacher is known as vehicle.	O B-Occupation O O O B-Category
+The teacher can be categorized as microorganism.	O B-Occupation O O O O B-Category
+The heart is known as fruit.	O B-BodyPart O O O B-Category
+The dog is associated with educator.	O B-Animal O O O B-Occupation
+The python is related to vehicle.	O B-Tech O O O B-Category
+The apple is a vehicle.	O B-Fruit O O B-Category
+The virus is related to animal.	O B-Micro O O O B-Category
+The virus is the same as educator.	O B-Micro O O O O B-Occupation
+The doctor is also called microorganism.	O B-Occupation O O O B-Category
+The banana is a fruit.	O B-Fruit O O B-Category
+The heart is also called mammal.	O B-BodyPart O O O B-Category
+The dog is the same as fruit.	O B-Animal O O O O B-Category
+The teacher is known as yellow.	O B-Occupation O O O B-Color
+The teacher has to do with mammal.	O B-Occupation O O O O B-Category
+The virus is also called educator.	O B-Micro O O O B-Occupation
+The dog has to do with animal.	O B-Animal O O O O B-Category
+The doctor is known as fruit.	O B-Occupation O O O B-Category
+The doctor is known as mammal.	O B-Occupation O O O B-Category
+The cat can be categorized as vehicle.	O B-Animal O O O O B-Category
+The dog can be categorized as programming language.	O B-Animal O O O O O O
+The virus is a fruit.	O B-Micro O O B-Category
+The doctor has to do with mammal.	O B-Occupation O O O O B-Category
+The doctor can be categorized as fruit.	O B-Occupation O O O O B-Category
+The heart is related to educator.	O B-BodyPart O O O B-Occupation
+The cat can be categorized as fruit.	O B-Animal O O O O B-Category
+The teacher is considered a microorganism.	O B-Occupation O O O B-Category
+The apple is a fruit.	O B-Fruit O O B-Category
+The teacher is a physician.	O B-Occupation O O B-Occupation
+The dog is related to fruit.	O B-Animal O O O B-Category
+The banana is known as organ.	O B-Fruit O O O B-BodyPart
+The heart is also called animal.	O B-BodyPart O O O B-Category
+The cat is considered a yellow.	O B-Animal O O O B-Color
+The car has to do with educator.	O B-Vehicle O O O O B-Occupation
+The doctor is the same as mammal.	O B-Occupation O O O O B-Category
+The heart is also called mammal.	O B-BodyPart O O O B-Category
+The virus is a physician.	O B-Micro O O B-Occupation
+The cat is related to physician.	O B-Animal O O O B-Occupation
+The virus is a fruit.	O B-Micro O O B-Category
+The heart is also called fruit.	O B-BodyPart O O O B-Category
+The doctor can be categorized as mammal.	O B-Occupation O O O O B-Category
+The doctor is a educator.	O B-Occupation O O B-Occupation
+The virus is also called animal.	O B-Micro O O O B-Category
+The banana is related to organ.	O B-Fruit O O O B-BodyPart
+The doctor is associated with microorganism.	O B-Occupation O O O B-Category
+The cat is related to vehicle.	O B-Animal O O O B-Category
+The doctor has to do with yellow.	O B-Occupation O O O O B-Color
+The doctor is a vehicle.	O B-Occupation O O B-Category
+The car can be categorized as mammal.	O B-Vehicle O O O O B-Category
+The apple is related to organ.	O B-Fruit O O O B-BodyPart
+The virus is associated with physician.	O B-Micro O O O B-Occupation
+The heart is the same as microorganism.	O B-BodyPart O O O O B-Category
+The apple is associated with organ.	O B-Fruit O O O B-BodyPart
+The teacher is related to microorganism.	O B-Occupation O O O B-Category
+The car can be categorized as yellow.	O B-Vehicle O O O O B-Color
+The python is known as educator.	O B-Tech O O O B-Occupation
+The teacher is associated with microorganism.	O B-Occupation O O O B-Category
+The virus has to do with vehicle.	O B-Micro O O O O B-Category
+The teacher is the same as programming language.	O B-Occupation O O O O O O
+The cat is a yellow.	O B-Animal O O B-Color
+The virus is the same as organ.	O B-Micro O O O O B-BodyPart
+The apple is associated with programming language.	O B-Fruit O O O O O
+The python can be categorized as mammal.	O B-Tech O O O O B-Category
+The banana is related to organ.	O B-Fruit O O O B-BodyPart
+The doctor has to do with yellow.	O B-Occupation O O O O B-Color
+The apple is also called yellow.	O B-Fruit O O O B-Color
+The banana can be categorized as vehicle.	O B-Fruit O O O O B-Category
+The heart is known as educator.	O B-BodyPart O O O B-Occupation
+The teacher is a vehicle.	O B-Occupation O O B-Category
+The teacher can be categorized as programming language.	O B-Occupation O O O O O O
+The dog is considered a microorganism.	O B-Animal O O O B-Category
+The apple can be categorized as organ.	O B-Fruit O O O O B-BodyPart
+The car is associated with programming language.	O B-Vehicle O O O O O
+The doctor is a physician.	O B-Occupation O O B-Occupation
+The apple is a microorganism.	O B-Fruit O O B-Category
+The heart is associated with physician.	O B-BodyPart O O O B-Occupation
+The heart is known as fruit.	O B-BodyPart O O O B-Category
+The car is a organ.	O B-Vehicle O O B-BodyPart
+The doctor is considered a microorganism.	O B-Occupation O O O B-Category
+The apple can be categorized as educator.	O B-Fruit O O O O B-Occupation
+The dog is known as animal.	O B-Animal O O O B-Category
+The doctor is considered a vehicle.	O B-Occupation O O O B-Category
+The banana is considered a physician.	O B-Fruit O O O B-Occupation
+The heart is known as microorganism.	O B-BodyPart O O O B-Category
+The virus is related to fruit.	O B-Micro O O O B-Category
+The teacher is also called microorganism.	O B-Occupation O O O B-Category
+The heart is a programming language.	O B-BodyPart O O O O
+The banana can be categorized as physician.	O B-Fruit O O O O B-Occupation
+The cat is known as organ.	O B-Animal O O O B-BodyPart
+The apple is also called vehicle.	O B-Fruit O O O B-Category
+The banana is also called vehicle.	O B-Fruit O O O B-Category
+The doctor is associated with microorganism.	O B-Occupation O O O B-Category
+The cat is known as programming language.	O B-Animal O O O O O
+The cat is considered a vehicle.	O B-Animal O O O B-Category
+The car is also called microorganism.	O B-Vehicle O O O B-Category
+The apple is known as animal.	O B-Fruit O O O B-Category
+The apple is the same as organ.	O B-Fruit O O O O B-BodyPart
+The python is known as organ.	O B-Tech O O O B-BodyPart
+The car is considered a microorganism.	O B-Vehicle O O O B-Category
+The banana is related to physician.	O B-Fruit O O O B-Occupation
+The dog is also called yellow.	O B-Animal O O O B-Color
+The apple is a vehicle.	O B-Fruit O O B-Category
+The apple is a programming language.	O B-Fruit O O O O
+The virus is considered a fruit.	O B-Micro O O O B-Category
+The doctor is also called vehicle.	O B-Occupation O O O B-Category
+The apple can be categorized as fruit.	O B-Fruit O O O O B-Category
+The python is also called programming language.	O B-Tech O O O O O
+The car is related to animal.	O B-Vehicle O O O B-Category
+The dog is associated with animal.	O B-Animal O O O B-Category
+The virus is associated with yellow.	O B-Micro O O O B-Color
+The virus is considered a yellow.	O B-Micro O O O B-Color
+The dog is the same as physician.	O B-Animal O O O O B-Occupation
+The teacher is associated with organ.	O B-Occupation O O O B-BodyPart
+The car is the same as yellow.	O B-Vehicle O O O O B-Color
+The car is known as microorganism.	O B-Vehicle O O O B-Category
+The cat can be categorized as animal.	O B-Animal O O O O B-Category
+The heart is also called organ.	O B-BodyPart O O O B-BodyPart
+The virus has to do with programming language.	O B-Micro O O O O O O
+The apple is a vehicle.	O B-Fruit O O B-Category
+The teacher is related to animal.	O B-Occupation O O O B-Category
+The doctor is a vehicle.	O B-Occupation O O B-Category
+The dog can be categorized as vehicle.	O B-Animal O O O O B-Category
+The banana is known as organ.	O B-Fruit O O O B-BodyPart
+The car has to do with yellow.	O B-Vehicle O O O O B-Color
+The apple is considered a animal.	O B-Fruit O O O B-Category
+The dog is also called fruit.	O B-Animal O O O B-Category
+The heart is known as yellow.	O B-BodyPart O O O B-Color
+The dog can be categorized as educator.	O B-Animal O O O O B-Occupation
+The car has to do with educator.	O B-Vehicle O O O O B-Occupation
+The car is also called vehicle.	O B-Vehicle O O O B-Category
+The teacher is associated with vehicle.	O B-Occupation O O O B-Category
+The heart is a mammal.	O B-BodyPart O O B-Category
+The doctor can be categorized as fruit.	O B-Occupation O O O O B-Category
+The virus can be categorized as yellow.	O B-Micro O O O O B-Color
+The doctor is related to animal.	O B-Occupation O O O B-Category
+The teacher can be categorized as fruit.	O B-Occupation O O O O B-Category
+The python is the same as yellow.	O B-Tech O O O O B-Color
+The heart is related to physician.	O B-BodyPart O O O B-Occupation
+The banana has to do with educator.	O B-Fruit O O O O B-Occupation
+The virus is related to microorganism.	O B-Micro O O O B-Category
+The heart is known as organ.	O B-BodyPart O O O B-BodyPart
+The car is the same as animal.	O B-Vehicle O O O O B-Category
+The virus has to do with mammal.	O B-Micro O O O O B-Category
+The cat is related to yellow.	O B-Animal O O O B-Color
+The cat is also called fruit.	O B-Animal O O O B-Category
+The doctor is also called vehicle.	O B-Occupation O O O B-Category
+The banana can be categorized as microorganism.	O B-Fruit O O O O B-Category
+The python is associated with educator.	O B-Tech O O O B-Occupation
+The heart can be categorized as vehicle.	O B-BodyPart O O O O B-Category
+The virus is the same as yellow.	O B-Micro O O O O B-Color
+The doctor is associated with vehicle.	O B-Occupation O O O B-Category
+The heart is related to organ.	O B-BodyPart O O O B-BodyPart
+The python is a programming language.	O B-Tech O O O O
+The heart is the same as educator.	O B-BodyPart O O O O B-Occupation
+The dog is also called vehicle.	O B-Animal O O O B-Category
+The car is also called organ.	O B-Vehicle O O O B-BodyPart
+The doctor has to do with vehicle.	O B-Occupation O O O O B-Category
+The car is a vehicle.	O B-Vehicle O O B-Category
+The apple can be categorized as physician.	O B-Fruit O O O O B-Occupation
+The doctor can be categorized as educator.	O B-Occupation O O O O B-Occupation
+The apple is known as yellow.	O B-Fruit O O O B-Color
+The dog has to do with physician.	O B-Animal O O O O B-Occupation
+The teacher is considered a educator.	O B-Occupation O O O B-Occupation
+The banana is known as mammal.	O B-Fruit O O O B-Category
+The doctor can be categorized as physician.	O B-Occupation O O O O B-Occupation
+The apple is associated with fruit.	O B-Fruit O O O B-Category
+The teacher is a vehicle.	O B-Occupation O O B-Category
+The virus is known as physician.	O B-Micro O O O B-Occupation
+The doctor is associated with fruit.	O B-Occupation O O O B-Category
+The python is considered a programming language.	O B-Tech O O O O O
+The virus has to do with programming language.	O B-Micro O O O O O O
+The heart is considered a organ.	O B-BodyPart O O O B-BodyPart
+The banana is associated with educator.	O B-Fruit O O O B-Occupation
+The doctor has to do with mammal.	O B-Occupation O O O O B-Category
+The banana is a mammal.	O B-Fruit O O B-Category
+The heart is known as educator.	O B-BodyPart O O O B-Occupation
+The heart is related to vehicle.	O B-BodyPart O O O B-Category
+The doctor is considered a educator.	O B-Occupation O O O B-Occupation
+The car is known as animal.	O B-Vehicle O O O B-Category
+The heart is associated with animal.	O B-BodyPart O O O B-Category
+The python is related to animal.	O B-Tech O O O B-Category
+The dog is also called fruit.	O B-Animal O O O B-Category
+The doctor is considered a fruit.	O B-Occupation O O O B-Category
+The dog is associated with physician.	O B-Animal O O O B-Occupation
+The dog can be categorized as mammal.	O B-Animal O O O O B-Category
+The heart has to do with physician.	O B-BodyPart O O O O B-Occupation
+The banana is a yellow.	O B-Fruit O O B-Color
+The virus is known as educator.	O B-Micro O O O B-Occupation
+The car is considered a programming language.	O B-Vehicle O O O O O
+The banana is known as mammal.	O B-Fruit O O O B-Category
+The car is the same as microorganism.	O B-Vehicle O O O O B-Category
+The apple is known as programming language.	O B-Fruit O O O O O
+The heart is related to microorganism.	O B-BodyPart O O O B-Category
+The car has to do with yellow.	O B-Vehicle O O O O B-Color
+The heart is known as vehicle.	O B-BodyPart O O O B-Category
+The apple has to do with animal.	O B-Fruit O O O O B-Category
+The doctor has to do with vehicle.	O B-Occupation O O O O B-Category
+The cat is a microorganism.	O B-Animal O O B-Category
+The dog has to do with animal.	O B-Animal O O O O B-Category
+The cat is known as microorganism.	O B-Animal O O O B-Category
+The apple is related to animal.	O B-Fruit O O O B-Category
+The python is the same as vehicle.	O B-Tech O O O O B-Category
+The python is considered a microorganism.	O B-Tech O O O B-Category
+The cat has to do with educator.	O B-Animal O O O O B-Occupation
+The dog is also called vehicle.	O B-Animal O O O B-Category
+The dog can be categorized as microorganism.	O B-Animal O O O O B-Category
+The apple is also called animal.	O B-Fruit O O O B-Category
+The cat is known as educator.	O B-Animal O O O B-Occupation
+The cat is associated with physician.	O B-Animal O O O B-Occupation
+The virus is known as physician.	O B-Micro O O O B-Occupation
+The heart is a vehicle.	O B-BodyPart O O B-Category
+The virus has to do with vehicle.	O B-Micro O O O O B-Category
+The virus has to do with yellow.	O B-Micro O O O O B-Color
+The dog is related to physician.	O B-Animal O O O B-Occupation
