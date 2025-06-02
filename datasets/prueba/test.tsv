@@ -1,2001 +1,1001 @@
-text_a	label
-The banana is also called organ.	O B-Fruit O O O B-BodyPart
-The apple can be categorized as organ.	O B-Fruit O O O O B-BodyPart
-The virus can be categorized as programming language.	O B-Micro O O O O O O
-The python is also called organ.	O B-Tech O O O B-BodyPart
-The dog has to do with microorganism.	O B-Animal O O O O B-Category
-The doctor is the same as vehicle.	O B-Occupation O O O O B-Category
-The heart is a mammal.	O B-BodyPart O O B-Category
-The cat is the same as physician.	O B-Animal O O O O B-Occupation
-The doctor is the same as physician.	O B-Occupation O O O O B-Occupation
-The virus is associated with fruit.	O B-Micro O O O B-Category
-The cat has to do with mammal.	O B-Animal O O O O B-Category
-The doctor is related to mammal.	O B-Occupation O O O B-Category
-The virus is also called physician.	O B-Micro O O O B-Occupation
-The cat is a educator.	O B-Animal O O B-Occupation
-The cat is a animal.	O B-Animal O O B-Category
-The python is related to programming language.	O B-Tech O O O O O
-The python is considered a organ.	O B-Tech O O O B-BodyPart
-The apple is related to animal.	O B-Fruit O O O B-Category
-The python has to do with organ.	O B-Tech O O O O B-BodyPart
-The cat is a microorganism.	O B-Animal O O B-Category
-The doctor is a physician.	O B-Occupation O O B-Occupation
-The doctor has to do with mammal.	O B-Occupation O O O O B-Category
-The doctor can be categorized as educator.	O B-Occupation O O O O B-Occupation
-The dog is related to organ.	O B-Animal O O O B-BodyPart
-The cat is related to physician.	O B-Animal O O O B-Occupation
-The virus is a programming language.	O B-Micro O O O O
-The teacher is also called fruit.	O B-Occupation O O O B-Category
-The cat is considered a yellow.	O B-Animal O O O B-Color
-The banana is known as fruit.	O B-Fruit O O O B-Category
-The python has to do with vehicle.	O B-Tech O O O O B-Category
-The apple is associated with physician.	O B-Fruit O O O B-Occupation
-The virus is a mammal.	O B-Micro O O B-Category
-The apple can be categorized as educator.	O B-Fruit O O O O B-Occupation
-The dog is known as mammal.	O B-Animal O O O B-Category
-The doctor is associated with animal.	O B-Occupation O O O B-Category
-The doctor is a educator.	O B-Occupation O O B-Occupation
-The doctor is related to educator.	O B-Occupation O O O B-Occupation
-The cat can be categorized as vehicle.	O B-Animal O O O O B-Category
-The doctor is related to educator.	O B-Occupation O O O B-Occupation
-The heart is related to microorganism.	O B-BodyPart O O O B-Category
-The heart is a animal.	O B-BodyPart O O B-Category
-The apple is known as organ.	O B-Fruit O O O B-BodyPart
-The python has to do with organ.	O B-Tech O O O O B-BodyPart
-The apple is also called physician.	O B-Fruit O O O B-Occupation
-The teacher is related to educator.	O B-Occupation O O O B-Occupation
-The python has to do with animal.	O B-Tech O O O O B-Category
-The teacher is also called organ.	O B-Occupation O O O B-BodyPart
-The car is also called animal.	O B-Vehicle O O O B-Category
-The doctor is also called programming language.	O B-Occupation O O O O O
-The virus is the same as animal.	O B-Micro O O O O B-Category
-The doctor is a microorganism.	O B-Occupation O O B-Category
-The dog is known as organ.	O B-Animal O O O B-BodyPart
-The virus is associated with programming language.	O B-Micro O O O O O
-The python is related to yellow.	O B-Tech O O O B-Color
-The cat is related to fruit.	O B-Animal O O O B-Category
-The doctor is the same as educator.	O B-Occupation O O O O B-Occupation
-The cat is associated with organ.	O B-Animal O O O B-BodyPart
-The doctor has to do with educator.	O B-Occupation O O O O B-Occupation
-The doctor is the same as vehicle.	O B-Occupation O O O O B-Category
-The apple is the same as vehicle.	O B-Fruit O O O O B-Category
-The heart is associated with organ.	O B-BodyPart O O O B-BodyPart
-The cat is also called mammal.	O B-Animal O O O B-Category
-The python is associated with programming language.	O B-Tech O O O O O
-The car is the same as mammal.	O B-Vehicle O O O O B-Category
-The banana is a educator.	O B-Fruit O O B-Occupation
-The teacher is considered a programming language.	O B-Occupation O O O O O
-The doctor is a programming language.	O B-Occupation O O O O
-The virus is known as microorganism.	O B-Micro O O O B-Category
-The doctor can be categorized as mammal.	O B-Occupation O O O O B-Category
-The cat is known as fruit.	O B-Animal O O O B-Category
-The car has to do with yellow.	O B-Vehicle O O O O B-Color
-The cat is the same as physician.	O B-Animal O O O O B-Occupation
-The car is also called educator.	O B-Vehicle O O O B-Occupation
-The doctor is the same as microorganism.	O B-Occupation O O O O B-Category
-The heart is considered a vehicle.	O B-BodyPart O O O B-Category
-The teacher is associated with vehicle.	O B-Occupation O O O B-Category
-The banana is known as organ.	O B-Fruit O O O B-BodyPart
-The cat is a programming language.	O B-Animal O O O O
-The apple is related to physician.	O B-Fruit O O O B-Occupation
-The virus is the same as vehicle.	O B-Micro O O O O B-Category
-The doctor is the same as vehicle.	O B-Occupation O O O O B-Category
-The heart can be categorized as animal.	O B-BodyPart O O O O B-Category
-The teacher is also called organ.	O B-Occupation O O O B-BodyPart
-The apple is a educator.	O B-Fruit O O B-Occupation
-The heart is considered a organ.	O B-BodyPart O O O B-BodyPart
-The banana is the same as vehicle.	O B-Fruit O O O O B-Category
-The teacher is a mammal.	O B-Occupation O O B-Category
-The banana is associated with microorganism.	O B-Fruit O O O B-Category
-The python is related to educator.	O B-Tech O O O B-Occupation
-The python has to do with educator.	O B-Tech O O O O B-Occupation
-The heart is considered a fruit.	O B-BodyPart O O O B-Category
-The cat is related to physician.	O B-Animal O O O B-Occupation
-The heart is associated with fruit.	O B-BodyPart O O O B-Category
-The teacher is a microorganism.	O B-Occupation O O B-Category
-The banana has to do with educator.	O B-Fruit O O O O B-Occupation
-The doctor is a organ.	O B-Occupation O O B-BodyPart
-The apple is the same as physician.	O B-Fruit O O O O B-Occupation
-The doctor is related to educator.	O B-Occupation O O O B-Occupation
-The apple is a microorganism.	O B-Fruit O O B-Category
-The python is associated with vehicle.	O B-Tech O O O B-Category
-The virus has to do with animal.	O B-Micro O O O O B-Category
-The virus is associated with yellow.	O B-Micro O O O B-Color
-The doctor is known as mammal.	O B-Occupation O O O B-Category
-The cat is considered a vehicle.	O B-Animal O O O B-Category
-The apple is a educator.	O B-Fruit O O B-Occupation
-The dog is also called microorganism.	O B-Animal O O O B-Category
-The doctor is known as yellow.	O B-Occupation O O O B-Color
-The heart is known as educator.	O B-BodyPart O O O B-Occupation
-The cat is a physician.	O B-Animal O O B-Occupation
-The banana is associated with yellow.	O B-Fruit O O O B-Color
-The doctor is also called programming language.	O B-Occupation O O O O O
-The apple is related to microorganism.	O B-Fruit O O O B-Category
-The heart is a fruit.	O B-BodyPart O O B-Category
-The dog is a animal.	O B-Animal O O B-Category
-The banana is the same as animal.	O B-Fruit O O O O B-Category
-The python is a organ.	O B-Tech O O B-BodyPart
-The apple is the same as educator.	O B-Fruit O O O O B-Occupation
-The dog is a animal.	O B-Animal O O B-Category
-The heart is considered a mammal.	O B-BodyPart O O O B-Category
-The python is known as mammal.	O B-Tech O O O B-Category
-The apple is the same as yellow.	O B-Fruit O O O O B-Color
-The apple is related to animal.	O B-Fruit O O O B-Category
-The dog is also called fruit.	O B-Animal O O O B-Category
-The virus is the same as animal.	O B-Micro O O O O B-Category
-The dog is considered a vehicle.	O B-Animal O O O B-Category
-The teacher can be categorized as programming language.	O B-Occupation O O O O O O
-The car is also called educator.	O B-Vehicle O O O B-Occupation
-The python can be categorized as vehicle.	O B-Tech O O O O B-Category
-The apple is considered a mammal.	O B-Fruit O O O B-Category
-The cat is related to fruit.	O B-Animal O O O B-Category
-The virus is the same as programming language.	O B-Micro O O O O O O
-The doctor has to do with vehicle.	O B-Occupation O O O O B-Category
-The dog is associated with organ.	O B-Animal O O O B-BodyPart
-The cat is related to yellow.	O B-Animal O O O B-Color
-The dog is also called fruit.	O B-Animal O O O B-Category
-The doctor is a animal.	O B-Occupation O O B-Category
-The car is considered a physician.	O B-Vehicle O O O B-Occupation
-The dog is associated with fruit.	O B-Animal O O O B-Category
-The cat is known as programming language.	O B-Animal O O O O O
-The heart is a physician.	O B-BodyPart O O B-Occupation
-The doctor is related to yellow.	O B-Occupation O O O B-Color
-The cat is known as programming language.	O B-Animal O O O O O
-The apple is known as organ.	O B-Fruit O O O B-BodyPart
-The teacher can be categorized as vehicle.	O B-Occupation O O O O B-Category
-The apple can be categorized as yellow.	O B-Fruit O O O O B-Color
-The teacher is the same as organ.	O B-Occupation O O O O B-BodyPart
-The car is a yellow.	O B-Vehicle O O B-Color
-The teacher is known as vehicle.	O B-Occupation O O O B-Category
-The car has to do with yellow.	O B-Vehicle O O O O B-Color
-The apple is a organ.	O B-Fruit O O B-BodyPart
-The teacher is the same as vehicle.	O B-Occupation O O O O B-Category
-The virus is a educator.	O B-Micro O O B-Occupation
-The python is known as physician.	O B-Tech O O O B-Occupation
-The car has to do with programming language.	O B-Vehicle O O O O O O
-The python is also called animal.	O B-Tech O O O B-Category
-The teacher is also called organ.	O B-Occupation O O O B-BodyPart
-The cat is also called physician.	O B-Animal O O O B-Occupation
-The doctor is a programming language.	O B-Occupation O O O O
-The virus can be categorized as microorganism.	O B-Micro O O O O B-Category
-The banana is also called physician.	O B-Fruit O O O B-Occupation
-The heart can be categorized as organ.	O B-BodyPart O O O O B-BodyPart
-The apple is a fruit.	O B-Fruit O O B-Category
-The cat is associated with fruit.	O B-Animal O O O B-Category
-The car is known as vehicle.	O B-Vehicle O O O B-Category
-The teacher is a mammal.	O B-Occupation O O B-Category
-The doctor is the same as animal.	O B-Occupation O O O O B-Category
-The banana is considered a programming language.	O B-Fruit O O O O O
-The doctor is a organ.	O B-Occupation O O B-BodyPart
-The virus is the same as yellow.	O B-Micro O O O O B-Color
-The virus is a mammal.	O B-Micro O O B-Category
-The teacher is the same as vehicle.	O B-Occupation O O O O B-Category
-The doctor is associated with educator.	O B-Occupation O O O B-Occupation
-The car is considered a animal.	O B-Vehicle O O O B-Category
-The dog is known as mammal.	O B-Animal O O O B-Category
-The apple is known as vehicle.	O B-Fruit O O O B-Category
-The doctor has to do with physician.	O B-Occupation O O O O B-Occupation
-The cat is related to educator.	O B-Animal O O O B-Occupation
-The heart is the same as educator.	O B-BodyPart O O O O B-Occupation
-The doctor is the same as physician.	O B-Occupation O O O O B-Occupation
-The python is considered a vehicle.	O B-Tech O O O B-Category
-The banana is considered a microorganism.	O B-Fruit O O O B-Category
-The cat has to do with microorganism.	O B-Animal O O O O B-Category
-The doctor is associated with educator.	O B-Occupation O O O B-Occupation
-The python is related to educator.	O B-Tech O O O B-Occupation
-The python is considered a educator.	O B-Tech O O O B-Occupation
-The car is associated with animal.	O B-Vehicle O O O B-Category
-The heart is also called physician.	O B-BodyPart O O O B-Occupation
-The python is considered a mammal.	O B-Tech O O O B-Category
-The heart is related to educator.	O B-BodyPart O O O B-Occupation
-The banana is known as microorganism.	O B-Fruit O O O B-Category
-The heart is considered a fruit.	O B-BodyPart O O O B-Category
-The heart is related to mammal.	O B-BodyPart O O O B-Category
-The virus is the same as programming language.	O B-Micro O O O O O O
-The car is a animal.	O B-Vehicle O O B-Category
-The dog is also called physician.	O B-Animal O O O B-Occupation
-The dog can be categorized as vehicle.	O B-Animal O O O O B-Category
-The banana is also called yellow.	O B-Fruit O O O B-Color
-The python is the same as organ.	O B-Tech O O O O B-BodyPart
-The banana is related to yellow.	O B-Fruit O O O B-Color
-The apple is also called fruit.	O B-Fruit O O O B-Category
-The cat is known as yellow.	O B-Animal O O O B-Color
-The cat is known as mammal.	O B-Animal O O O B-Category
-The apple is the same as microorganism.	O B-Fruit O O O O B-Category
-The dog can be categorized as vehicle.	O B-Animal O O O O B-Category
-The car is related to animal.	O B-Vehicle O O O B-Category
-The teacher is related to fruit.	O B-Occupation O O O B-Category
-The apple is the same as microorganism.	O B-Fruit O O O O B-Category
-The heart is related to vehicle.	O B-BodyPart O O O B-Category
-The teacher has to do with physician.	O B-Occupation O O O O B-Occupation
-The banana is also called microorganism.	O B-Fruit O O O B-Category
-The python can be categorized as yellow.	O B-Tech O O O O B-Color
-The teacher is also called animal.	O B-Occupation O O O B-Category
-The python is known as vehicle.	O B-Tech O O O B-Category
-The banana is also called physician.	O B-Fruit O O O B-Occupation
-The cat is considered a educator.	O B-Animal O O O B-Occupation
-The python is a mammal.	O B-Tech O O B-Category
-The virus is associated with animal.	O B-Micro O O O B-Category
-The cat can be categorized as vehicle.	O B-Animal O O O O B-Category
-The heart is the same as microorganism.	O B-BodyPart O O O O B-Category
-The python is known as vehicle.	O B-Tech O O O B-Category
-The apple is known as animal.	O B-Fruit O O O B-Category
-The car is related to vehicle.	O B-Vehicle O O O B-Category
-The doctor is a microorganism.	O B-Occupation O O B-Category
-The virus is related to programming language.	O B-Micro O O O O O
-The teacher is associated with mammal.	O B-Occupation O O O B-Category
-The teacher is considered a educator.	O B-Occupation O O O B-Occupation
-The heart is related to yellow.	O B-BodyPart O O O B-Color
-The teacher is related to programming language.	O B-Occupation O O O O O
-The virus is related to organ.	O B-Micro O O O B-BodyPart
-The doctor is a organ.	O B-Occupation O O B-BodyPart
-The banana is related to educator.	O B-Fruit O O O B-Occupation
-The heart is also called microorganism.	O B-BodyPart O O O B-Category
-The virus is related to programming language.	O B-Micro O O O O O
-The doctor can be categorized as programming language.	O B-Occupation O O O O O O
-The teacher has to do with physician.	O B-Occupation O O O O B-Occupation
-The heart is related to yellow.	O B-BodyPart O O O B-Color
-The virus can be categorized as mammal.	O B-Micro O O O O B-Category
-The car is the same as fruit.	O B-Vehicle O O O O B-Category
-The cat is a vehicle.	O B-Animal O O B-Category
-The python is also called educator.	O B-Tech O O O B-Occupation
-The teacher is associated with fruit.	O B-Occupation O O O B-Category
-The heart is related to microorganism.	O B-BodyPart O O O B-Category
-The dog is considered a animal.	O B-Animal O O O B-Category
-The python has to do with mammal.	O B-Tech O O O O B-Category
-The cat is known as fruit.	O B-Animal O O O B-Category
-The teacher is known as microorganism.	O B-Occupation O O O B-Category
-The dog is known as yellow.	O B-Animal O O O B-Color
-The virus is the same as organ.	O B-Micro O O O O B-BodyPart
-The cat is associated with educator.	O B-Animal O O O B-Occupation
-The cat is the same as physician.	O B-Animal O O O O B-Occupation
-The python is the same as yellow.	O B-Tech O O O O B-Color
-The heart is also called animal.	O B-BodyPart O O O B-Category
-The car can be categorized as animal.	O B-Vehicle O O O O B-Category
-The teacher is related to organ.	O B-Occupation O O O B-BodyPart
-The doctor is considered a microorganism.	O B-Occupation O O O B-Category
-The doctor is the same as organ.	O B-Occupation O O O O B-BodyPart
-The virus is considered a organ.	O B-Micro O O O B-BodyPart
-The dog is a educator.	O B-Animal O O B-Occupation
-The apple is the same as mammal.	O B-Fruit O O O O B-Category
-The dog is known as yellow.	O B-Animal O O O B-Color
-The teacher is the same as vehicle.	O B-Occupation O O O O B-Category
-The doctor is known as educator.	O B-Occupation O O O B-Occupation
-The virus is the same as animal.	O B-Micro O O O O B-Category
-The car is related to organ.	O B-Vehicle O O O B-BodyPart
-The doctor is considered a microorganism.	O B-Occupation O O O B-Category
-The doctor is associated with animal.	O B-Occupation O O O B-Category
-The python can be categorized as yellow.	O B-Tech O O O O B-Color
-The car is known as vehicle.	O B-Vehicle O O O B-Category
-The heart is considered a animal.	O B-BodyPart O O O B-Category
-The python is known as animal.	O B-Tech O O O B-Category
-The virus can be categorized as mammal.	O B-Micro O O O O B-Category
-The heart is also called fruit.	O B-BodyPart O O O B-Category
-The banana is a mammal.	O B-Fruit O O B-Category
-The dog is related to vehicle.	O B-Animal O O O B-Category
-The doctor can be categorized as physician.	O B-Occupation O O O O B-Occupation
-The banana is associated with fruit.	O B-Fruit O O O B-Category
-The apple is also called organ.	O B-Fruit O O O B-BodyPart
-The apple can be categorized as organ.	O B-Fruit O O O O B-BodyPart
-The teacher is a programming language.	O B-Occupation O O O O
-The teacher is known as mammal.	O B-Occupation O O O B-Category
-The cat has to do with mammal.	O B-Animal O O O O B-Category
-The virus is the same as physician.	O B-Micro O O O O B-Occupation
-The teacher is known as vehicle.	O B-Occupation O O O B-Category
-The banana is the same as physician.	O B-Fruit O O O O B-Occupation
-The teacher is known as educator.	O B-Occupation O O O B-Occupation
-The heart is known as animal.	O B-BodyPart O O O B-Category
-The python is the same as fruit.	O B-Tech O O O O B-Category
-The dog has to do with microorganism.	O B-Animal O O O O B-Category
-The banana has to do with educator.	O B-Fruit O O O O B-Occupation
-The teacher is the same as physician.	O B-Occupation O O O O B-Occupation
-The heart is also called vehicle.	O B-BodyPart O O O B-Category
-The heart is the same as yellow.	O B-BodyPart O O O O B-Color
-The cat is known as microorganism.	O B-Animal O O O B-Category
-The apple is considered a organ.	O B-Fruit O O O B-BodyPart
-The python has to do with educator.	O B-Tech O O O O B-Occupation
-The teacher has to do with mammal.	O B-Occupation O O O O B-Category
-The cat can be categorized as vehicle.	O B-Animal O O O O B-Category
-The doctor has to do with vehicle.	O B-Occupation O O O O B-Category
-The banana can be categorized as mammal.	O B-Fruit O O O O B-Category
-The banana is also called programming language.	O B-Fruit O O O O O
-The dog is the same as microorganism.	O B-Animal O O O O B-Category
-The car is the same as educator.	O B-Vehicle O O O O B-Occupation
-The python is considered a organ.	O B-Tech O O O B-BodyPart
-The virus can be categorized as physician.	O B-Micro O O O O B-Occupation
-The teacher is associated with microorganism.	O B-Occupation O O O B-Category
-The car has to do with animal.	O B-Vehicle O O O O B-Category
-The teacher is a microorganism.	O B-Occupation O O B-Category
-The dog is associated with mammal.	O B-Animal O O O B-Category
-The virus is known as yellow.	O B-Micro O O O B-Color
-The virus is known as vehicle.	O B-Micro O O O B-Category
-The virus is considered a microorganism.	O B-Micro O O O B-Category
-The virus is also called animal.	O B-Micro O O O B-Category
-The banana is also called yellow.	O B-Fruit O O O B-Color
-The virus can be categorized as organ.	O B-Micro O O O O B-BodyPart
-The virus is associated with vehicle.	O B-Micro O O O B-Category
-The dog is related to vehicle.	O B-Animal O O O B-Category
-The apple is also called fruit.	O B-Fruit O O O B-Category
-The doctor is related to mammal.	O B-Occupation O O O B-Category
-The doctor is also called programming language.	O B-Occupation O O O O O
-The cat is also called mammal.	O B-Animal O O O B-Category
-The apple is related to organ.	O B-Fruit O O O B-BodyPart
-The doctor is known as animal.	O B-Occupation O O O B-Category
-The cat has to do with mammal.	O B-Animal O O O O B-Category
-The banana can be categorized as physician.	O B-Fruit O O O O B-Occupation
-The cat can be categorized as programming language.	O B-Animal O O O O O O
-The virus has to do with fruit.	O B-Micro O O O O B-Category
-The python is also called educator.	O B-Tech O O O B-Occupation
-The banana is also called microorganism.	O B-Fruit O O O B-Category
-The teacher is a mammal.	O B-Occupation O O B-Category
-The doctor is associated with yellow.	O B-Occupation O O O B-Color
-The banana is related to vehicle.	O B-Fruit O O O B-Category
-The dog is related to fruit.	O B-Animal O O O B-Category
-The heart is the same as microorganism.	O B-BodyPart O O O O B-Category
-The dog is the same as vehicle.	O B-Animal O O O O B-Category
-The car is also called yellow.	O B-Vehicle O O O B-Color
-The doctor is associated with educator.	O B-Occupation O O O B-Occupation
-The heart is known as programming language.	O B-BodyPart O O O O O
-The apple can be categorized as fruit.	O B-Fruit O O O O B-Category
-The car is considered a microorganism.	O B-Vehicle O O O B-Category
-The apple is associated with microorganism.	O B-Fruit O O O B-Category
-The python can be categorized as vehicle.	O B-Tech O O O O B-Category
-The doctor is also called vehicle.	O B-Occupation O O O B-Category
-The heart is considered a programming language.	O B-BodyPart O O O O O
-The python is related to fruit.	O B-Tech O O O B-Category
-The cat is a microorganism.	O B-Animal O O B-Category
-The banana is related to fruit.	O B-Fruit O O O B-Category
-The dog can be categorized as fruit.	O B-Animal O O O O B-Category
-The heart is related to vehicle.	O B-BodyPart O O O B-Category
-The dog is the same as animal.	O B-Animal O O O O B-Category
-The python is related to fruit.	O B-Tech O O O B-Category
-The python is the same as vehicle.	O B-Tech O O O O B-Category
-The python is associated with physician.	O B-Tech O O O B-Occupation
-The apple has to do with physician.	O B-Fruit O O O O B-Occupation
-The virus is considered a vehicle.	O B-Micro O O O B-Category
-The python is associated with animal.	O B-Tech O O O B-Category
-The car is known as vehicle.	O B-Vehicle O O O B-Category
-The heart is considered a fruit.	O B-BodyPart O O O B-Category
-The banana has to do with animal.	O B-Fruit O O O O B-Category
-The teacher is the same as programming language.	O B-Occupation O O O O O O
-The banana is related to yellow.	O B-Fruit O O O B-Color
-The dog is related to animal.	O B-Animal O O O B-Category
-The car is known as educator.	O B-Vehicle O O O B-Occupation
-The dog is a programming language.	O B-Animal O O O O
-The banana is considered a vehicle.	O B-Fruit O O O B-Category
-The virus can be categorized as mammal.	O B-Micro O O O O B-Category
-The virus is considered a animal.	O B-Micro O O O B-Category
-The cat is associated with programming language.	O B-Animal O O O O O
-The dog is considered a yellow.	O B-Animal O O O B-Color
-The dog has to do with organ.	O B-Animal O O O O B-BodyPart
-The virus is also called animal.	O B-Micro O O O B-Category
-The car is associated with animal.	O B-Vehicle O O O B-Category
-The cat is considered a fruit.	O B-Animal O O O B-Category
-The apple is associated with mammal.	O B-Fruit O O O B-Category
-The doctor can be categorized as vehicle.	O B-Occupation O O O O B-Category
-The heart has to do with animal.	O B-BodyPart O O O O B-Category
-The heart is related to animal.	O B-BodyPart O O O B-Category
-The dog is related to organ.	O B-Animal O O O B-BodyPart
-The doctor is known as fruit.	O B-Occupation O O O B-Category
-The car is related to animal.	O B-Vehicle O O O B-Category
-The virus can be categorized as programming language.	O B-Micro O O O O O O
-The doctor is related to animal.	O B-Occupation O O O B-Category
-The apple can be categorized as mammal.	O B-Fruit O O O O B-Category
-The virus is considered a vehicle.	O B-Micro O O O B-Category
-The python is known as microorganism.	O B-Tech O O O B-Category
-The virus is associated with mammal.	O B-Micro O O O B-Category
-The heart can be categorized as programming language.	O B-BodyPart O O O O O O
-The apple is known as microorganism.	O B-Fruit O O O B-Category
-The teacher is related to mammal.	O B-Occupation O O O B-Category
-The apple has to do with mammal.	O B-Fruit O O O O B-Category
-The virus can be categorized as educator.	O B-Micro O O O O B-Occupation
-The banana is considered a mammal.	O B-Fruit O O O B-Category
-The car is a programming language.	O B-Vehicle O O O O
-The teacher is related to microorganism.	O B-Occupation O O O B-Category
-The apple has to do with vehicle.	O B-Fruit O O O O B-Category
-The dog is the same as microorganism.	O B-Animal O O O O B-Category
-The python has to do with vehicle.	O B-Tech O O O O B-Category
-The teacher is considered a vehicle.	O B-Occupation O O O B-Category
-The cat is the same as yellow.	O B-Animal O O O O B-Color
-The virus can be categorized as mammal.	O B-Micro O O O O B-Category
-The heart is associated with microorganism.	O B-BodyPart O O O B-Category
-The virus is considered a fruit.	O B-Micro O O O B-Category
-The teacher is also called fruit.	O B-Occupation O O O B-Category
-The teacher is also called yellow.	O B-Occupation O O O B-Color
-The apple can be categorized as programming language.	O B-Fruit O O O O O O
-The python is also called fruit.	O B-Tech O O O B-Category
-The virus can be categorized as physician.	O B-Micro O O O O B-Occupation
-The heart is considered a organ.	O B-BodyPart O O O B-BodyPart
-The virus is associated with educator.	O B-Micro O O O B-Occupation
-The virus is associated with animal.	O B-Micro O O O B-Category
-The teacher is considered a animal.	O B-Occupation O O O B-Category
-The python is associated with mammal.	O B-Tech O O O B-Category
-The teacher is the same as programming language.	O B-Occupation O O O O O O
-The dog is considered a vehicle.	O B-Animal O O O B-Category
-The doctor is associated with physician.	O B-Occupation O O O B-Occupation
-The python is associated with fruit.	O B-Tech O O O B-Category
-The car is related to mammal.	O B-Vehicle O O O B-Category
-The dog is considered a vehicle.	O B-Animal O O O B-Category
-The cat is known as fruit.	O B-Animal O O O B-Category
-The cat is a yellow.	O B-Animal O O B-Color
-The car is known as yellow.	O B-Vehicle O O O B-Color
-The heart is known as microorganism.	O B-BodyPart O O O B-Category
-The teacher is known as mammal.	O B-Occupation O O O B-Category
-The doctor is related to educator.	O B-Occupation O O O B-Occupation
-The doctor is a organ.	O B-Occupation O O B-BodyPart
-The cat is the same as mammal.	O B-Animal O O O O B-Category
-The banana is known as organ.	O B-Fruit O O O B-BodyPart
-The doctor is related to microorganism.	O B-Occupation O O O B-Category
-The dog is also called vehicle.	O B-Animal O O O B-Category
-The doctor is known as animal.	O B-Occupation O O O B-Category
-The python has to do with microorganism.	O B-Tech O O O O B-Category
-The apple is associated with microorganism.	O B-Fruit O O O B-Category
-The cat has to do with physician.	O B-Animal O O O O B-Occupation
-The cat is associated with mammal.	O B-Animal O O O B-Category
-The car has to do with fruit.	O B-Vehicle O O O O B-Category
-The car is also called microorganism.	O B-Vehicle O O O B-Category
-The python can be categorized as fruit.	O B-Tech O O O O B-Category
-The heart is known as fruit.	O B-BodyPart O O O B-Category
-The car is also called animal.	O B-Vehicle O O O B-Category
-The apple is known as programming language.	O B-Fruit O O O O O
-The apple is a fruit.	O B-Fruit O O B-Category
-The heart is associated with programming language.	O B-BodyPart O O O O O
-The teacher is a animal.	O B-Occupation O O B-Category
-The cat is associated with mammal.	O B-Animal O O O B-Category
-The python is also called vehicle.	O B-Tech O O O B-Category
-The doctor is known as physician.	O B-Occupation O O O B-Occupation
-The cat is also called programming language.	O B-Animal O O O O O
-The python is related to educator.	O B-Tech O O O B-Occupation
-The python can be categorized as programming language.	O B-Tech O O O O O O
-The python is a vehicle.	O B-Tech O O B-Category
-The virus is known as physician.	O B-Micro O O O B-Occupation
-The apple is associated with programming language.	O B-Fruit O O O O O
-The cat is also called microorganism.	O B-Animal O O O B-Category
-The teacher is the same as educator.	O B-Occupation O O O O B-Occupation
-The heart can be categorized as educator.	O B-BodyPart O O O O B-Occupation
-The cat is known as animal.	O B-Animal O O O B-Category
-The cat is also called programming language.	O B-Animal O O O O O
-The cat is also called microorganism.	O B-Animal O O O B-Category
-The apple is considered a animal.	O B-Fruit O O O B-Category
-The heart is known as animal.	O B-BodyPart O O O B-Category
-The doctor has to do with animal.	O B-Occupation O O O O B-Category
-The python has to do with mammal.	O B-Tech O O O O B-Category
-The doctor is a vehicle.	O B-Occupation O O B-Category
-The banana is also called vehicle.	O B-Fruit O O O B-Category
-The virus is known as fruit.	O B-Micro O O O B-Category
-The heart is a organ.	O B-BodyPart O O B-BodyPart
-The cat is a animal.	O B-Animal O O B-Category
-The virus is known as mammal.	O B-Micro O O O B-Category
-The dog has to do with animal.	O B-Animal O O O O B-Category
-The python is also called physician.	O B-Tech O O O B-Occupation
-The cat is associated with physician.	O B-Animal O O O B-Occupation
-The teacher is related to physician.	O B-Occupation O O O B-Occupation
-The banana is known as microorganism.	O B-Fruit O O O B-Category
-The teacher is related to physician.	O B-Occupation O O O B-Occupation
-The dog is known as physician.	O B-Animal O O O B-Occupation
-The virus can be categorized as educator.	O B-Micro O O O O B-Occupation
-The dog is known as yellow.	O B-Animal O O O B-Color
-The banana has to do with yellow.	O B-Fruit O O O O B-Color
-The apple has to do with microorganism.	O B-Fruit O O O O B-Category
-The python is related to fruit.	O B-Tech O O O B-Category
-The cat is the same as yellow.	O B-Animal O O O O B-Color
-The cat can be categorized as fruit.	O B-Animal O O O O B-Category
-The car is also called educator.	O B-Vehicle O O O B-Occupation
-The banana has to do with educator.	O B-Fruit O O O O B-Occupation
-The teacher can be categorized as animal.	O B-Occupation O O O O B-Category
-The heart is associated with organ.	O B-BodyPart O O O B-BodyPart
-The cat is a animal.	O B-Animal O O B-Category
-The python is related to mammal.	O B-Tech O O O B-Category
-The teacher is also called organ.	O B-Occupation O O O B-BodyPart
-The banana is associated with educator.	O B-Fruit O O O B-Occupation
-The car can be categorized as animal.	O B-Vehicle O O O O B-Category
-The virus is known as vehicle.	O B-Micro O O O B-Category
-The banana has to do with educator.	O B-Fruit O O O O B-Occupation
-The dog is considered a microorganism.	O B-Animal O O O B-Category
-The car can be categorized as organ.	O B-Vehicle O O O O B-BodyPart
-The teacher is associated with fruit.	O B-Occupation O O O B-Category
-The heart is a programming language.	O B-BodyPart O O O O
-The banana is also called fruit.	O B-Fruit O O O B-Category
-The virus is known as programming language.	O B-Micro O O O O O
-The dog is associated with fruit.	O B-Animal O O O B-Category
-The apple is considered a programming language.	O B-Fruit O O O O O
-The heart is considered a yellow.	O B-BodyPart O O O B-Color
-The dog is the same as fruit.	O B-Animal O O O O B-Category
-The teacher is associated with educator.	O B-Occupation O O O B-Occupation
-The apple is associated with animal.	O B-Fruit O O O B-Category
-The doctor is related to educator.	O B-Occupation O O O B-Occupation
-The banana is associated with fruit.	O B-Fruit O O O B-Category
-The python is also called yellow.	O B-Tech O O O B-Color
-The apple is also called microorganism.	O B-Fruit O O O B-Category
-The cat is associated with physician.	O B-Animal O O O B-Occupation
-The cat is known as animal.	O B-Animal O O O B-Category
-The apple has to do with programming language.	O B-Fruit O O O O O O
-The python can be categorized as programming language.	O B-Tech O O O O O O
-The car is the same as vehicle.	O B-Vehicle O O O O B-Category
-The dog is a educator.	O B-Animal O O B-Occupation
-The python is considered a programming language.	O B-Tech O O O O O
-The dog is also called physician.	O B-Animal O O O B-Occupation
-The python can be categorized as microorganism.	O B-Tech O O O O B-Category
-The dog can be categorized as organ.	O B-Animal O O O O B-BodyPart
-The virus is known as fruit.	O B-Micro O O O B-Category
-The teacher can be categorized as mammal.	O B-Occupation O O O O B-Category
-The teacher is considered a fruit.	O B-Occupation O O O B-Category
-The teacher has to do with physician.	O B-Occupation O O O O B-Occupation
-The banana is considered a fruit.	O B-Fruit O O O B-Category
-The dog is related to animal.	O B-Animal O O O B-Category
-The apple is known as physician.	O B-Fruit O O O B-Occupation
-The car is related to vehicle.	O B-Vehicle O O O B-Category
-The apple is related to yellow.	O B-Fruit O O O B-Color
-The cat is related to educator.	O B-Animal O O O B-Occupation
-The doctor is associated with organ.	O B-Occupation O O O B-BodyPart
-The cat is a animal.	O B-Animal O O B-Category
-The apple is known as microorganism.	O B-Fruit O O O B-Category
-The apple is also called educator.	O B-Fruit O O O B-Occupation
-The cat is also called vehicle.	O B-Animal O O O B-Category
-The apple is the same as mammal.	O B-Fruit O O O O B-Category
-The dog is the same as microorganism.	O B-Animal O O O O B-Category
-The teacher is considered a microorganism.	O B-Occupation O O O B-Category
-The cat is a animal.	O B-Animal O O B-Category
-The dog is related to organ.	O B-Animal O O O B-BodyPart
-The heart is the same as vehicle.	O B-BodyPart O O O O B-Category
-The teacher is considered a yellow.	O B-Occupation O O O B-Color
-The doctor is considered a physician.	O B-Occupation O O O B-Occupation
-The dog is related to programming language.	O B-Animal O O O O O
-The teacher can be categorized as animal.	O B-Occupation O O O O B-Category
-The banana is the same as animal.	O B-Fruit O O O O B-Category
-The heart can be categorized as microorganism.	O B-BodyPart O O O O B-Category
-The car is the same as fruit.	O B-Vehicle O O O O B-Category
-The doctor is a physician.	O B-Occupation O O B-Occupation
-The banana is known as programming language.	O B-Fruit O O O O O
-The heart is related to organ.	O B-BodyPart O O O B-BodyPart
-The cat can be categorized as programming language.	O B-Animal O O O O O O
-The python has to do with animal.	O B-Tech O O O O B-Category
-The car is considered a vehicle.	O B-Vehicle O O O B-Category
-The cat has to do with programming language.	O B-Animal O O O O O O
-The cat is considered a mammal.	O B-Animal O O O B-Category
-The apple is associated with animal.	O B-Fruit O O O B-Category
-The heart is the same as vehicle.	O B-BodyPart O O O O B-Category
-The dog is considered a educator.	O B-Animal O O O B-Occupation
-The banana is also called microorganism.	O B-Fruit O O O B-Category
-The banana is associated with programming language.	O B-Fruit O O O O O
-The heart is the same as physician.	O B-BodyPart O O O O B-Occupation
-The car is related to mammal.	O B-Vehicle O O O B-Category
-The apple is related to mammal.	O B-Fruit O O O B-Category
-The cat is known as mammal.	O B-Animal O O O B-Category
-The python is related to fruit.	O B-Tech O O O B-Category
-The cat is a vehicle.	O B-Animal O O B-Category
-The car is considered a animal.	O B-Vehicle O O O B-Category
-The apple is considered a educator.	O B-Fruit O O O B-Occupation
-The cat is a programming language.	O B-Animal O O O O
-The car has to do with fruit.	O B-Vehicle O O O O B-Category
-The virus is also called microorganism.	O B-Micro O O O B-Category
-The doctor is a microorganism.	O B-Occupation O O B-Category
-The python is also called physician.	O B-Tech O O O B-Occupation
-The doctor can be categorized as microorganism.	O B-Occupation O O O O B-Category
-The heart has to do with fruit.	O B-BodyPart O O O O B-Category
-The car is also called organ.	O B-Vehicle O O O B-BodyPart
-The teacher is the same as fruit.	O B-Occupation O O O O B-Category
-The cat has to do with yellow.	O B-Animal O O O O B-Color
-The doctor is associated with programming language.	O B-Occupation O O O O O
-The dog is also called mammal.	O B-Animal O O O B-Category
-The python is the same as physician.	O B-Tech O O O O B-Occupation
-The virus is also called animal.	O B-Micro O O O B-Category
-The python is also called physician.	O B-Tech O O O B-Occupation
-The doctor is known as animal.	O B-Occupation O O O B-Category
-The heart is known as mammal.	O B-BodyPart O O O B-Category
-The banana is also called mammal.	O B-Fruit O O O B-Category
-The python is associated with fruit.	O B-Tech O O O B-Category
-The doctor is a programming language.	O B-Occupation O O O O
-The dog is the same as mammal.	O B-Animal O O O O B-Category
-The apple has to do with mammal.	O B-Fruit O O O O B-Category
-The car is known as organ.	O B-Vehicle O O O B-BodyPart
-The cat has to do with educator.	O B-Animal O O O O B-Occupation
-The virus is a yellow.	O B-Micro O O B-Color
-The doctor is known as animal.	O B-Occupation O O O B-Category
-The banana is related to microorganism.	O B-Fruit O O O B-Category
-The doctor can be categorized as educator.	O B-Occupation O O O O B-Occupation
-The banana is considered a animal.	O B-Fruit O O O B-Category
-The python is related to physician.	O B-Tech O O O B-Occupation
-The teacher is considered a programming language.	O B-Occupation O O O O O
-The banana is considered a animal.	O B-Fruit O O O B-Category
-The heart is associated with microorganism.	O B-BodyPart O O O B-Category
-The dog is related to organ.	O B-Animal O O O B-BodyPart
-The apple is the same as yellow.	O B-Fruit O O O O B-Color
-The doctor can be categorized as organ.	O B-Occupation O O O O B-BodyPart
-The python can be categorized as physician.	O B-Tech O O O O B-Occupation
-The teacher is considered a microorganism.	O B-Occupation O O O B-Category
-The banana is related to programming language.	O B-Fruit O O O O O
-The heart can be categorized as vehicle.	O B-BodyPart O O O O B-Category
-The apple is associated with mammal.	O B-Fruit O O O B-Category
-The virus is related to physician.	O B-Micro O O O B-Occupation
-The dog has to do with mammal.	O B-Animal O O O O B-Category
-The apple is known as fruit.	O B-Fruit O O O B-Category
-The apple can be categorized as educator.	O B-Fruit O O O O B-Occupation
-The apple is related to mammal.	O B-Fruit O O O B-Category
-The teacher has to do with microorganism.	O B-Occupation O O O O B-Category
-The banana is the same as microorganism.	O B-Fruit O O O O B-Category
-The banana is a organ.	O B-Fruit O O B-BodyPart
-The car is considered a animal.	O B-Vehicle O O O B-Category
-The apple has to do with physician.	O B-Fruit O O O O B-Occupation
-The apple is also called organ.	O B-Fruit O O O B-BodyPart
-The banana is also called educator.	O B-Fruit O O O B-Occupation
-The doctor can be categorized as animal.	O B-Occupation O O O O B-Category
-The python can be categorized as physician.	O B-Tech O O O O B-Occupation
-The dog has to do with programming language.	O B-Animal O O O O O O
-The cat has to do with organ.	O B-Animal O O O O B-BodyPart
-The virus is also called animal.	O B-Micro O O O B-Category
-The cat is related to physician.	O B-Animal O O O B-Occupation
-The heart is related to organ.	O B-BodyPart O O O B-BodyPart
-The python is known as physician.	O B-Tech O O O B-Occupation
-The python has to do with organ.	O B-Tech O O O O B-BodyPart
-The doctor has to do with physician.	O B-Occupation O O O O B-Occupation
-The banana is considered a vehicle.	O B-Fruit O O O B-Category
-The heart has to do with mammal.	O B-BodyPart O O O O B-Category
-The dog is a microorganism.	O B-Animal O O B-Category
-The virus can be categorized as organ.	O B-Micro O O O O B-BodyPart
-The doctor has to do with physician.	O B-Occupation O O O O B-Occupation
-The car is associated with microorganism.	O B-Vehicle O O O B-Category
-The teacher has to do with mammal.	O B-Occupation O O O O B-Category
-The banana is considered a animal.	O B-Fruit O O O B-Category
-The dog is related to programming language.	O B-Animal O O O O O
-The cat is considered a microorganism.	O B-Animal O O O B-Category
-The car is considered a vehicle.	O B-Vehicle O O O B-Category
-The cat is associated with fruit.	O B-Animal O O O B-Category
-The dog is also called yellow.	O B-Animal O O O B-Color
-The cat is also called fruit.	O B-Animal O O O B-Category
-The banana is also called animal.	O B-Fruit O O O B-Category
-The heart is a mammal.	O B-BodyPart O O B-Category
-The car is a organ.	O B-Vehicle O O B-BodyPart
-The virus can be categorized as organ.	O B-Micro O O O O B-BodyPart
-The virus is a microorganism.	O B-Micro O O B-Category
-The heart has to do with microorganism.	O B-BodyPart O O O O B-Category
-The dog is considered a fruit.	O B-Animal O O O B-Category
-The banana is also called mammal.	O B-Fruit O O O B-Category
-The doctor can be categorized as organ.	O B-Occupation O O O O B-BodyPart
-The banana is related to animal.	O B-Fruit O O O B-Category
-The teacher is related to animal.	O B-Occupation O O O B-Category
-The banana is related to vehicle.	O B-Fruit O O O B-Category
-The dog is considered a organ.	O B-Animal O O O B-BodyPart
-The car is the same as organ.	O B-Vehicle O O O O B-BodyPart
-The cat can be categorized as microorganism.	O B-Animal O O O O B-Category
-The doctor is known as animal.	O B-Occupation O O O B-Category
-The apple can be categorized as microorganism.	O B-Fruit O O O O B-Category
-The dog has to do with mammal.	O B-Animal O O O O B-Category
-The cat has to do with animal.	O B-Animal O O O O B-Category
-The dog is considered a animal.	O B-Animal O O O B-Category
-The car is related to fruit.	O B-Vehicle O O O B-Category
-The heart can be categorized as vehicle.	O B-BodyPart O O O O B-Category
-The car can be categorized as fruit.	O B-Vehicle O O O O B-Category
-The cat has to do with programming language.	O B-Animal O O O O O O
-The cat is the same as vehicle.	O B-Animal O O O O B-Category
-The python is related to programming language.	O B-Tech O O O O O
-The python is known as organ.	O B-Tech O O O B-BodyPart
-The cat is a yellow.	O B-Animal O O B-Color
-The python is related to physician.	O B-Tech O O O B-Occupation
-The apple has to do with animal.	O B-Fruit O O O O B-Category
-The python is also called physician.	O B-Tech O O O B-Occupation
-The dog is also called mammal.	O B-Animal O O O B-Category
-The heart is considered a animal.	O B-BodyPart O O O B-Category
-The teacher is related to organ.	O B-Occupation O O O B-BodyPart
-The teacher has to do with animal.	O B-Occupation O O O O B-Category
-The cat can be categorized as vehicle.	O B-Animal O O O O B-Category
-The banana is associated with physician.	O B-Fruit O O O B-Occupation
-The virus is related to fruit.	O B-Micro O O O B-Category
-The teacher is also called animal.	O B-Occupation O O O B-Category
-The teacher is known as organ.	O B-Occupation O O O B-BodyPart
-The python is a yellow.	O B-Tech O O B-Color
-The car is the same as animal.	O B-Vehicle O O O O B-Category
-The dog is associated with animal.	O B-Animal O O O B-Category
-The virus is related to microorganism.	O B-Micro O O O B-Category
-The dog is related to animal.	O B-Animal O O O B-Category
-The doctor is considered a organ.	O B-Occupation O O O B-BodyPart
-The python is known as vehicle.	O B-Tech O O O B-Category
-The dog is considered a yellow.	O B-Animal O O O B-Color
-The teacher is also called mammal.	O B-Occupation O O O B-Category
-The apple is related to animal.	O B-Fruit O O O B-Category
-The teacher is also called microorganism.	O B-Occupation O O O B-Category
-The virus has to do with physician.	O B-Micro O O O O B-Occupation
-The banana is considered a organ.	O B-Fruit O O O B-BodyPart
-The python is considered a mammal.	O B-Tech O O O B-Category
-The heart is also called fruit.	O B-BodyPart O O O B-Category
-The doctor is related to fruit.	O B-Occupation O O O B-Category
-The teacher is related to microorganism.	O B-Occupation O O O B-Category
-The dog is also called yellow.	O B-Animal O O O B-Color
-The python has to do with yellow.	O B-Tech O O O O B-Color
-The apple is known as organ.	O B-Fruit O O O B-BodyPart
-The doctor is the same as vehicle.	O B-Occupation O O O O B-Category
-The teacher can be categorized as fruit.	O B-Occupation O O O O B-Category
-The doctor is associated with fruit.	O B-Occupation O O O B-Category
-The python is a programming language.	O B-Tech O O O O
-The dog is considered a organ.	O B-Animal O O O B-BodyPart
-The teacher is related to mammal.	O B-Occupation O O O B-Category
-The teacher has to do with animal.	O B-Occupation O O O O B-Category
-The virus has to do with programming language.	O B-Micro O O O O O O
-The dog is related to fruit.	O B-Animal O O O B-Category
-The dog is associated with animal.	O B-Animal O O O B-Category
-The python is known as vehicle.	O B-Tech O O O B-Category
-The banana is considered a microorganism.	O B-Fruit O O O B-Category
-The virus is known as programming language.	O B-Micro O O O O O
-The virus is also called mammal.	O B-Micro O O O B-Category
-The teacher is the same as mammal.	O B-Occupation O O O O B-Category
-The car is also called yellow.	O B-Vehicle O O O B-Color
-The apple is associated with educator.	O B-Fruit O O O B-Occupation
-The cat is associated with organ.	O B-Animal O O O B-BodyPart
-The virus can be categorized as mammal.	O B-Micro O O O O B-Category
-The heart is also called mammal.	O B-BodyPart O O O B-Category
-The dog is related to organ.	O B-Animal O O O B-BodyPart
-The dog is related to yellow.	O B-Animal O O O B-Color
-The doctor is the same as microorganism.	O B-Occupation O O O O B-Category
-The banana has to do with microorganism.	O B-Fruit O O O O B-Category
-The teacher is also called vehicle.	O B-Occupation O O O B-Category
-The banana can be categorized as yellow.	O B-Fruit O O O O B-Color
-The python is considered a fruit.	O B-Tech O O O B-Category
-The python is known as animal.	O B-Tech O O O B-Category
-The teacher is also called fruit.	O B-Occupation O O O B-Category
-The doctor has to do with programming language.	O B-Occupation O O O O O O
-The apple is a mammal.	O B-Fruit O O B-Category
-The apple is related to yellow.	O B-Fruit O O O B-Color
-The apple is the same as fruit.	O B-Fruit O O O O B-Category
-The heart is related to yellow.	O B-BodyPart O O O B-Color
-The heart is considered a mammal.	O B-BodyPart O O O B-Category
-The teacher is associated with vehicle.	O B-Occupation O O O B-Category
-The heart is related to animal.	O B-BodyPart O O O B-Category
-The car is related to programming language.	O B-Vehicle O O O O O
-The dog is the same as programming language.	O B-Animal O O O O O O
-The python is a physician.	O B-Tech O O B-Occupation
-The doctor is known as animal.	O B-Occupation O O O B-Category
-The python has to do with organ.	O B-Tech O O O O B-BodyPart
-The apple is also called programming language.	O B-Fruit O O O O O
-The heart is a programming language.	O B-BodyPart O O O O
-The car is related to fruit.	O B-Vehicle O O O B-Category
-The dog is the same as vehicle.	O B-Animal O O O O B-Category
-The car is known as microorganism.	O B-Vehicle O O O B-Category
-The cat is a vehicle.	O B-Animal O O B-Category
-The apple is known as vehicle.	O B-Fruit O O O B-Category
-The car has to do with programming language.	O B-Vehicle O O O O O O
-The dog is a programming language.	O B-Animal O O O O
-The teacher is associated with programming language.	O B-Occupation O O O O O
-The teacher is considered a educator.	O B-Occupation O O O B-Occupation
-The teacher can be categorized as organ.	O B-Occupation O O O O B-BodyPart
-The apple is the same as animal.	O B-Fruit O O O O B-Category
-The virus is associated with vehicle.	O B-Micro O O O B-Category
-The python is also called yellow.	O B-Tech O O O B-Color
-The car is the same as animal.	O B-Vehicle O O O O B-Category
-The cat is known as physician.	O B-Animal O O O B-Occupation
-The apple is considered a yellow.	O B-Fruit O O O B-Color
-The heart is the same as physician.	O B-BodyPart O O O O B-Occupation
-The dog is known as fruit.	O B-Animal O O O B-Category
-The car is a educator.	O B-Vehicle O O B-Occupation
-The heart is associated with vehicle.	O B-BodyPart O O O B-Category
-The cat is the same as organ.	O B-Animal O O O O B-BodyPart
-The apple is a programming language.	O B-Fruit O O O O
-The heart is the same as vehicle.	O B-BodyPart O O O O B-Category
-The doctor has to do with physician.	O B-Occupation O O O O B-Occupation
-The teacher is the same as vehicle.	O B-Occupation O O O O B-Category
-The banana is a mammal.	O B-Fruit O O B-Category
-The cat is the same as educator.	O B-Animal O O O O B-Occupation
-The heart is a fruit.	O B-BodyPart O O B-Category
-The cat is considered a mammal.	O B-Animal O O O B-Category
-The apple is a programming language.	O B-Fruit O O O O
-The banana is considered a educator.	O B-Fruit O O O B-Occupation
-The doctor is known as mammal.	O B-Occupation O O O B-Category
-The python is related to fruit.	O B-Tech O O O B-Category
-The dog is associated with microorganism.	O B-Animal O O O B-Category
-The heart has to do with animal.	O B-BodyPart O O O O B-Category
-The dog is considered a animal.	O B-Animal O O O B-Category
-The heart is related to organ.	O B-BodyPart O O O B-BodyPart
-The heart can be categorized as organ.	O B-BodyPart O O O O B-BodyPart
-The teacher has to do with mammal.	O B-Occupation O O O O B-Category
-The doctor is associated with mammal.	O B-Occupation O O O B-Category
-The python is related to physician.	O B-Tech O O O B-Occupation
-The dog can be categorized as programming language.	O B-Animal O O O O O O
-The heart has to do with animal.	O B-BodyPart O O O O B-Category
-The dog is considered a microorganism.	O B-Animal O O O B-Category
-The heart has to do with physician.	O B-BodyPart O O O O B-Occupation
-The virus is considered a educator.	O B-Micro O O O B-Occupation
-The python can be categorized as mammal.	O B-Tech O O O O B-Category
-The car is the same as microorganism.	O B-Vehicle O O O O B-Category
-The teacher has to do with mammal.	O B-Occupation O O O O B-Category
-The doctor has to do with vehicle.	O B-Occupation O O O O B-Category
-The cat is known as educator.	O B-Animal O O O B-Occupation
-The apple is a physician.	O B-Fruit O O B-Occupation
-The dog has to do with physician.	O B-Animal O O O O B-Occupation
-The apple is related to organ.	O B-Fruit O O O B-BodyPart
-The virus is the same as vehicle.	O B-Micro O O O O B-Category
-The virus is also called organ.	O B-Micro O O O B-BodyPart
-The virus is the same as educator.	O B-Micro O O O O B-Occupation
-The python is also called physician.	O B-Tech O O O B-Occupation
-The apple is associated with mammal.	O B-Fruit O O O B-Category
-The teacher is also called vehicle.	O B-Occupation O O O B-Category
-The apple is associated with programming language.	O B-Fruit O O O O O
-The python is associated with microorganism.	O B-Tech O O O B-Category
-The python is a physician.	O B-Tech O O B-Occupation
-The doctor is considered a animal.	O B-Occupation O O O B-Category
-The cat is associated with mammal.	O B-Animal O O O B-Category
-The dog is associated with physician.	O B-Animal O O O B-Occupation
-The dog is the same as vehicle.	O B-Animal O O O O B-Category
-The apple is related to physician.	O B-Fruit O O O B-Occupation
-The doctor is also called physician.	O B-Occupation O O O B-Occupation
-The doctor is also called mammal.	O B-Occupation O O O B-Category
-The python can be categorized as educator.	O B-Tech O O O O B-Occupation
-The teacher is known as organ.	O B-Occupation O O O B-BodyPart
-The car is associated with educator.	O B-Vehicle O O O B-Occupation
-The car is known as educator.	O B-Vehicle O O O B-Occupation
-The python is also called fruit.	O B-Tech O O O B-Category
-The banana is known as vehicle.	O B-Fruit O O O B-Category
-The teacher is related to educator.	O B-Occupation O O O B-Occupation
-The python has to do with programming language.	O B-Tech O O O O O O
-The dog has to do with organ.	O B-Animal O O O O B-BodyPart
-The car is associated with mammal.	O B-Vehicle O O O B-Category
-The heart is known as physician.	O B-BodyPart O O O B-Occupation
-The cat is considered a physician.	O B-Animal O O O B-Occupation
-The doctor is a animal.	O B-Occupation O O B-Category
-The python is considered a mammal.	O B-Tech O O O B-Category
-The teacher is a organ.	O B-Occupation O O B-BodyPart
-The python is known as microorganism.	O B-Tech O O O B-Category
-The python is related to fruit.	O B-Tech O O O B-Category
-The heart has to do with microorganism.	O B-BodyPart O O O O B-Category
-The teacher is related to programming language.	O B-Occupation O O O O O
-The banana is associated with vehicle.	O B-Fruit O O O B-Category
-The heart is also called organ.	O B-BodyPart O O O B-BodyPart
-The virus is associated with microorganism.	O B-Micro O O O B-Category
-The heart is related to microorganism.	O B-BodyPart O O O B-Category
-The dog can be categorized as mammal.	O B-Animal O O O O B-Category
-The banana has to do with vehicle.	O B-Fruit O O O O B-Category
-The dog is known as programming language.	O B-Animal O O O O O
-The banana is associated with mammal.	O B-Fruit O O O B-Category
-The banana has to do with fruit.	O B-Fruit O O O O B-Category
-The car has to do with physician.	O B-Vehicle O O O O B-Occupation
-The cat is also called organ.	O B-Animal O O O B-BodyPart
-The python is a microorganism.	O B-Tech O O B-Category
-The cat can be categorized as educator.	O B-Animal O O O O B-Occupation
-The virus is considered a vehicle.	O B-Micro O O O B-Category
-The heart is a yellow.	O B-BodyPart O O B-Color
-The virus is the same as educator.	O B-Micro O O O O B-Occupation
-The teacher is also called mammal.	O B-Occupation O O O B-Category
-The banana is known as yellow.	O B-Fruit O O O B-Color
-The python is related to vehicle.	O B-Tech O O O B-Category
-The doctor is also called organ.	O B-Occupation O O O B-BodyPart
-The teacher is related to animal.	O B-Occupation O O O B-Category
-The car is the same as yellow.	O B-Vehicle O O O O B-Color
-The apple is associated with yellow.	O B-Fruit O O O B-Color
-The heart is associated with fruit.	O B-BodyPart O O O B-Category
-The teacher is a physician.	O B-Occupation O O B-Occupation
-The teacher is associated with fruit.	O B-Occupation O O O B-Category
-The cat is related to educator.	O B-Animal O O O B-Occupation
-The apple is a mammal.	O B-Fruit O O B-Category
-The apple has to do with microorganism.	O B-Fruit O O O O B-Category
-The banana is known as educator.	O B-Fruit O O O B-Occupation
-The cat can be categorized as vehicle.	O B-Animal O O O O B-Category
-The car is related to educator.	O B-Vehicle O O O B-Occupation
-The banana can be categorized as programming language.	O B-Fruit O O O O O O
-The python has to do with programming language.	O B-Tech O O O O O O
-The heart is known as fruit.	O B-BodyPart O O O B-Category
-The dog is related to microorganism.	O B-Animal O O O B-Category
-The virus can be categorized as yellow.	O B-Micro O O O O B-Color
-The dog is also called fruit.	O B-Animal O O O B-Category
-The banana is a vehicle.	O B-Fruit O O B-Category
-The dog can be categorized as physician.	O B-Animal O O O O B-Occupation
-The cat can be categorized as animal.	O B-Animal O O O O B-Category
-The car can be categorized as physician.	O B-Vehicle O O O O B-Occupation
-The banana is related to mammal.	O B-Fruit O O O B-Category
-The doctor has to do with animal.	O B-Occupation O O O O B-Category
-The virus is known as yellow.	O B-Micro O O O B-Color
-The banana can be categorized as vehicle.	O B-Fruit O O O O B-Category
-The cat is related to mammal.	O B-Animal O O O B-Category
-The banana is the same as vehicle.	O B-Fruit O O O O B-Category
-The banana is considered a programming language.	O B-Fruit O O O O O
-The python has to do with animal.	O B-Tech O O O O B-Category
-The virus is associated with programming language.	O B-Micro O O O O O
-The python is associated with educator.	O B-Tech O O O B-Occupation
-The apple is considered a programming language.	O B-Fruit O O O O O
-The apple is a microorganism.	O B-Fruit O O B-Category
-The cat is related to fruit.	O B-Animal O O O B-Category
-The doctor has to do with educator.	O B-Occupation O O O O B-Occupation
-The banana is known as physician.	O B-Fruit O O O B-Occupation
-The python is related to physician.	O B-Tech O O O B-Occupation
-The virus is the same as microorganism.	O B-Micro O O O O B-Category
-The virus is known as educator.	O B-Micro O O O B-Occupation
-The heart is the same as mammal.	O B-BodyPart O O O O B-Category
-The cat can be categorized as vehicle.	O B-Animal O O O O B-Category
-The python is known as mammal.	O B-Tech O O O B-Category
-The cat is also called physician.	O B-Animal O O O B-Occupation
-The car can be categorized as educator.	O B-Vehicle O O O O B-Occupation
-The apple is considered a organ.	O B-Fruit O O O B-BodyPart
-The car is considered a mammal.	O B-Vehicle O O O B-Category
-The python can be categorized as fruit.	O B-Tech O O O O B-Category
-The banana is related to programming language.	O B-Fruit O O O O O
-The banana is associated with organ.	O B-Fruit O O O B-BodyPart
-The apple is also called programming language.	O B-Fruit O O O O O
-The apple has to do with microorganism.	O B-Fruit O O O O B-Category
-The apple is associated with microorganism.	O B-Fruit O O O B-Category
-The doctor is also called animal.	O B-Occupation O O O B-Category
-The python has to do with fruit.	O B-Tech O O O O B-Category
-The virus has to do with programming language.	O B-Micro O O O O O O
-The dog is also called microorganism.	O B-Animal O O O B-Category
-The doctor is known as vehicle.	O B-Occupation O O O B-Category
-The virus is considered a mammal.	O B-Micro O O O B-Category
-The doctor can be categorized as programming language.	O B-Occupation O O O O O O
-The apple is a animal.	O B-Fruit O O B-Category
-The banana is also called fruit.	O B-Fruit O O O B-Category
-The banana is related to educator.	O B-Fruit O O O B-Occupation
-The car is known as microorganism.	O B-Vehicle O O O B-Category
-The heart is related to fruit.	O B-BodyPart O O O B-Category
-The python can be categorized as animal.	O B-Tech O O O O B-Category
-The teacher is a educator.	O B-Occupation O O B-Occupation
-The heart is the same as educator.	O B-BodyPart O O O O B-Occupation
-The teacher is related to microorganism.	O B-Occupation O O O B-Category
-The doctor is a organ.	O B-Occupation O O B-BodyPart
-The teacher is considered a microorganism.	O B-Occupation O O O B-Category
-The cat is also called programming language.	O B-Animal O O O O O
-The doctor is the same as microorganism.	O B-Occupation O O O O B-Category
-The car can be categorized as fruit.	O B-Vehicle O O O O B-Category
-The doctor is associated with organ.	O B-Occupation O O O B-BodyPart
-The doctor is a vehicle.	O B-Occupation O O B-Category
-The banana has to do with microorganism.	O B-Fruit O O O O B-Category
-The cat has to do with educator.	O B-Animal O O O O B-Occupation
-The doctor is considered a organ.	O B-Occupation O O O B-BodyPart
-The heart is related to physician.	O B-BodyPart O O O B-Occupation
-The banana is associated with physician.	O B-Fruit O O O B-Occupation
-The doctor is associated with vehicle.	O B-Occupation O O O B-Category
-The car can be categorized as organ.	O B-Vehicle O O O O B-BodyPart
-The heart is a yellow.	O B-BodyPart O O B-Color
-The python is the same as microorganism.	O B-Tech O O O O B-Category
-The apple is also called microorganism.	O B-Fruit O O O B-Category
-The apple is a microorganism.	O B-Fruit O O B-Category
-The virus is also called mammal.	O B-Micro O O O B-Category
-The virus is the same as organ.	O B-Micro O O O O B-BodyPart
-The virus has to do with physician.	O B-Micro O O O O B-Occupation
-The banana is known as educator.	O B-Fruit O O O B-Occupation
-The banana is known as vehicle.	O B-Fruit O O O B-Category
-The cat is known as fruit.	O B-Animal O O O B-Category
-The car is associated with organ.	O B-Vehicle O O O B-BodyPart
-The cat is a physician.	O B-Animal O O B-Occupation
-The python is also called physician.	O B-Tech O O O B-Occupation
-The virus is related to vehicle.	O B-Micro O O O B-Category
-The car is known as organ.	O B-Vehicle O O O B-BodyPart
-The teacher is known as fruit.	O B-Occupation O O O B-Category
-The heart is associated with organ.	O B-BodyPart O O O B-BodyPart
-The car has to do with animal.	O B-Vehicle O O O O B-Category
-The heart is the same as physician.	O B-BodyPart O O O O B-Occupation
-The banana is a yellow.	O B-Fruit O O B-Color
-The dog is related to programming language.	O B-Animal O O O O O
-The cat is related to mammal.	O B-Animal O O O B-Category
-The cat is also called fruit.	O B-Animal O O O B-Category
-The doctor is a programming language.	O B-Occupation O O O O
-The heart has to do with microorganism.	O B-BodyPart O O O O B-Category
-The heart is a fruit.	O B-BodyPart O O B-Category
-The teacher is a physician.	O B-Occupation O O B-Occupation
-The dog is associated with vehicle.	O B-Animal O O O B-Category
-The cat can be categorized as animal.	O B-Animal O O O O B-Category
-The dog is a mammal.	O B-Animal O O B-Category
-The apple is a educator.	O B-Fruit O O B-Occupation
-The banana is the same as organ.	O B-Fruit O O O O B-BodyPart
-The doctor has to do with vehicle.	O B-Occupation O O O O B-Category
-The python is considered a physician.	O B-Tech O O O B-Occupation
-The apple is known as fruit.	O B-Fruit O O O B-Category
-The banana is known as microorganism.	O B-Fruit O O O B-Category
-The banana is related to microorganism.	O B-Fruit O O O B-Category
-The banana is known as physician.	O B-Fruit O O O B-Occupation
-The heart can be categorized as vehicle.	O B-BodyPart O O O O B-Category
-The heart can be categorized as animal.	O B-BodyPart O O O O B-Category
-The car has to do with animal.	O B-Vehicle O O O O B-Category
-The teacher has to do with microorganism.	O B-Occupation O O O O B-Category
-The cat is the same as vehicle.	O B-Animal O O O O B-Category
-The banana is related to microorganism.	O B-Fruit O O O B-Category
-The car is a physician.	O B-Vehicle O O B-Occupation
-The apple is related to vehicle.	O B-Fruit O O O B-Category
-The doctor can be categorized as physician.	O B-Occupation O O O O B-Occupation
-The heart has to do with yellow.	O B-BodyPart O O O O B-Color
-The teacher is related to vehicle.	O B-Occupation O O O B-Category
-The heart is associated with vehicle.	O B-BodyPart O O O B-Category
-The teacher is associated with animal.	O B-Occupation O O O B-Category
-The teacher has to do with vehicle.	O B-Occupation O O O O B-Category
-The car has to do with mammal.	O B-Vehicle O O O O B-Category
-The teacher is associated with yellow.	O B-Occupation O O O B-Color
-The apple can be categorized as programming language.	O B-Fruit O O O O O O
-The cat is known as yellow.	O B-Animal O O O B-Color
-The virus can be categorized as animal.	O B-Micro O O O O B-Category
-The doctor can be categorized as mammal.	O B-Occupation O O O O B-Category
-The python can be categorized as microorganism.	O B-Tech O O O O B-Category
-The teacher is considered a programming language.	O B-Occupation O O O O O
-The python is considered a organ.	O B-Tech O O O B-BodyPart
-The heart can be categorized as programming language.	O B-BodyPart O O O O O O
-The python is considered a organ.	O B-Tech O O O B-BodyPart
-The doctor is a yellow.	O B-Occupation O O B-Color
-The apple can be categorized as programming language.	O B-Fruit O O O O O O
-The dog has to do with organ.	O B-Animal O O O O B-BodyPart
-The car is known as fruit.	O B-Vehicle O O O B-Category
-The cat is known as physician.	O B-Animal O O O B-Occupation
-The doctor is also called yellow.	O B-Occupation O O O B-Color
-The banana has to do with yellow.	O B-Fruit O O O O B-Color
-The python is associated with physician.	O B-Tech O O O B-Occupation
-The car has to do with microorganism.	O B-Vehicle O O O O B-Category
-The cat is also called microorganism.	O B-Animal O O O B-Category
-The cat is considered a programming language.	O B-Animal O O O O O
-The cat can be categorized as physician.	O B-Animal O O O O B-Occupation
-The apple is the same as mammal.	O B-Fruit O O O O B-Category
-The teacher is the same as educator.	O B-Occupation O O O O B-Occupation
-The car is associated with programming language.	O B-Vehicle O O O O O
-The dog has to do with microorganism.	O B-Animal O O O O B-Category
-The dog is known as organ.	O B-Animal O O O B-BodyPart
-The dog is a vehicle.	O B-Animal O O B-Category
-The python is also called yellow.	O B-Tech O O O B-Color
-The python is a mammal.	O B-Tech O O B-Category
-The virus is a vehicle.	O B-Micro O O B-Category
-The virus is known as microorganism.	O B-Micro O O O B-Category
-The doctor is also called fruit.	O B-Occupation O O O B-Category
-The car can be categorized as programming language.	O B-Vehicle O O O O O O
-The apple is known as vehicle.	O B-Fruit O O O B-Category
-The python has to do with educator.	O B-Tech O O O O B-Occupation
-The teacher is known as yellow.	O B-Occupation O O O B-Color
-The doctor is related to organ.	O B-Occupation O O O B-BodyPart
-The doctor is also called fruit.	O B-Occupation O O O B-Category
-The car can be categorized as fruit.	O B-Vehicle O O O O B-Category
-The banana is associated with vehicle.	O B-Fruit O O O B-Category
-The banana is known as physician.	O B-Fruit O O O B-Occupation
-The apple is associated with yellow.	O B-Fruit O O O B-Color
-The banana is associated with animal.	O B-Fruit O O O B-Category
-The doctor is a physician.	O B-Occupation O O B-Occupation
-The dog is related to physician.	O B-Animal O O O B-Occupation
-The virus is considered a fruit.	O B-Micro O O O B-Category
-The apple is related to animal.	O B-Fruit O O O B-Category
-The doctor can be categorized as organ.	O B-Occupation O O O O B-BodyPart
-The virus has to do with yellow.	O B-Micro O O O O B-Color
-The teacher has to do with organ.	O B-Occupation O O O O B-BodyPart
-The python is the same as organ.	O B-Tech O O O O B-BodyPart
-The cat can be categorized as animal.	O B-Animal O O O O B-Category
-The car is considered a educator.	O B-Vehicle O O O B-Occupation
-The car is a programming language.	O B-Vehicle O O O O
-The banana is associated with microorganism.	O B-Fruit O O O B-Category
-The car is related to vehicle.	O B-Vehicle O O O B-Category
-The python has to do with educator.	O B-Tech O O O O B-Occupation
-The python is related to vehicle.	O B-Tech O O O B-Category
-The dog is considered a yellow.	O B-Animal O O O B-Color
-The virus is considered a organ.	O B-Micro O O O B-BodyPart
-The cat is a organ.	O B-Animal O O B-BodyPart
-The heart is related to programming language.	O B-BodyPart O O O O O
-The heart is related to educator.	O B-BodyPart O O O B-Occupation
-The teacher is known as vehicle.	O B-Occupation O O O B-Category
-The python can be categorized as animal.	O B-Tech O O O O B-Category
-The heart is the same as mammal.	O B-BodyPart O O O O B-Category
-The apple is a yellow.	O B-Fruit O O B-Color
-The heart is considered a educator.	O B-BodyPart O O O B-Occupation
-The teacher is a organ.	O B-Occupation O O B-BodyPart
-The doctor is related to educator.	O B-Occupation O O O B-Occupation
-The teacher is associated with fruit.	O B-Occupation O O O B-Category
-The virus is a yellow.	O B-Micro O O B-Color
-The virus is also called microorganism.	O B-Micro O O O B-Category
-The heart is also called organ.	O B-BodyPart O O O B-BodyPart
-The teacher has to do with microorganism.	O B-Occupation O O O O B-Category
-The banana can be categorized as physician.	O B-Fruit O O O O B-Occupation
-The banana is a animal.	O B-Fruit O O B-Category
-The banana has to do with animal.	O B-Fruit O O O O B-Category
-The car is related to animal.	O B-Vehicle O O O B-Category
-The banana is the same as programming language.	O B-Fruit O O O O O O
-The dog can be categorized as microorganism.	O B-Animal O O O O B-Category
-The cat is related to microorganism.	O B-Animal O O O B-Category
-The python is the same as educator.	O B-Tech O O O O B-Occupation
-The cat can be categorized as mammal.	O B-Animal O O O O B-Category
-The heart has to do with educator.	O B-BodyPart O O O O B-Occupation
-The car has to do with microorganism.	O B-Vehicle O O O O B-Category
-The heart is a fruit.	O B-BodyPart O O B-Category
-The teacher has to do with physician.	O B-Occupation O O O O B-Occupation
-The dog is considered a physician.	O B-Animal O O O B-Occupation
-The teacher has to do with vehicle.	O B-Occupation O O O O B-Category
-The car is associated with fruit.	O B-Vehicle O O O B-Category
-The dog is the same as yellow.	O B-Animal O O O O B-Color
-The banana is a programming language.	O B-Fruit O O O O
-The apple has to do with yellow.	O B-Fruit O O O O B-Color
-The dog is associated with educator.	O B-Animal O O O B-Occupation
-The banana can be categorized as fruit.	O B-Fruit O O O O B-Category
-The python is known as programming language.	O B-Tech O O O O O
-The dog is associated with mammal.	O B-Animal O O O B-Category
-The teacher is related to fruit.	O B-Occupation O O O B-Category
-The doctor is also called fruit.	O B-Occupation O O O B-Category
-The heart is the same as physician.	O B-BodyPart O O O O B-Occupation
-The heart is related to microorganism.	O B-BodyPart O O O B-Category
-The cat is known as mammal.	O B-Animal O O O B-Category
-The heart has to do with microorganism.	O B-BodyPart O O O O B-Category
-The dog is a organ.	O B-Animal O O B-BodyPart
-The virus is known as physician.	O B-Micro O O O B-Occupation
-The teacher is associated with organ.	O B-Occupation O O O B-BodyPart
-The dog is a mammal.	O B-Animal O O B-Category
-The python is a mammal.	O B-Tech O O B-Category
-The car can be categorized as microorganism.	O B-Vehicle O O O O B-Category
-The dog is also called animal.	O B-Animal O O O B-Category
-The banana is related to organ.	O B-Fruit O O O B-BodyPart
-The car is also called fruit.	O B-Vehicle O O O B-Category
-The dog is associated with yellow.	O B-Animal O O O B-Color
-The dog is the same as physician.	O B-Animal O O O O B-Occupation
-The python is a yellow.	O B-Tech O O B-Color
-The apple is also called microorganism.	O B-Fruit O O O B-Category
-The apple is a educator.	O B-Fruit O O B-Occupation
-The dog is considered a animal.	O B-Animal O O O B-Category
-The cat is a educator.	O B-Animal O O B-Occupation
-The python is considered a mammal.	O B-Tech O O O B-Category
-The python is related to mammal.	O B-Tech O O O B-Category
-The teacher is related to fruit.	O B-Occupation O O O B-Category
-The apple has to do with mammal.	O B-Fruit O O O O B-Category
-The python is also called yellow.	O B-Tech O O O B-Color
-The cat is considered a microorganism.	O B-Animal O O O B-Category
-The python is related to organ.	O B-Tech O O O B-BodyPart
-The doctor is also called programming language.	O B-Occupation O O O O O
-The cat can be categorized as physician.	O B-Animal O O O O B-Occupation
-The banana is also called animal.	O B-Fruit O O O B-Category
-The heart is also called mammal.	O B-BodyPart O O O B-Category
-The cat is also called animal.	O B-Animal O O O B-Category
-The banana is associated with mammal.	O B-Fruit O O O B-Category
-The dog is known as educator.	O B-Animal O O O B-Occupation
-The apple has to do with microorganism.	O B-Fruit O O O O B-Category
-The python is the same as programming language.	O B-Tech O O O O O O
-The dog is the same as mammal.	O B-Animal O O O O B-Category
-The heart is also called microorganism.	O B-BodyPart O O O B-Category
-The doctor is considered a physician.	O B-Occupation O O O B-Occupation
-The heart is related to educator.	O B-BodyPart O O O B-Occupation
-The banana is a yellow.	O B-Fruit O O B-Color
-The virus is a physician.	O B-Micro O O B-Occupation
-The teacher has to do with programming language.	O B-Occupation O O O O O O
-The banana is related to animal.	O B-Fruit O O O B-Category
-The dog is considered a fruit.	O B-Animal O O O B-Category
-The banana can be categorized as mammal.	O B-Fruit O O O O B-Category
-The doctor is associated with microorganism.	O B-Occupation O O O B-Category
-The apple is the same as educator.	O B-Fruit O O O O B-Occupation
-The heart can be categorized as microorganism.	O B-BodyPart O O O O B-Category
-The apple is associated with organ.	O B-Fruit O O O B-BodyPart
-The car is also called microorganism.	O B-Vehicle O O O B-Category
-The dog is related to fruit.	O B-Animal O O O B-Category
-The python is also called mammal.	O B-Tech O O O B-Category
-The doctor is associated with yellow.	O B-Occupation O O O B-Color
-The heart is a vehicle.	O B-BodyPart O O B-Category
-The heart is associated with microorganism.	O B-BodyPart O O O B-Category
-The cat is the same as vehicle.	O B-Animal O O O O B-Category
-The apple is related to fruit.	O B-Fruit O O O B-Category
-The heart is known as educator.	O B-BodyPart O O O B-Occupation
-The dog is a fruit.	O B-Animal O O B-Category
-The cat is considered a educator.	O B-Animal O O O B-Occupation
-The dog has to do with fruit.	O B-Animal O O O O B-Category
-The dog has to do with mammal.	O B-Animal O O O O B-Category
-The teacher is known as physician.	O B-Occupation O O O B-Occupation
-The apple is associated with vehicle.	O B-Fruit O O O B-Category
-The teacher is the same as fruit.	O B-Occupation O O O O B-Category
-The doctor is the same as programming language.	O B-Occupation O O O O O O
-The teacher is the same as yellow.	O B-Occupation O O O O B-Color
-The doctor can be categorized as mammal.	O B-Occupation O O O O B-Category
-The virus is known as yellow.	O B-Micro O O O B-Color
-The doctor is associated with animal.	O B-Occupation O O O B-Category
-The doctor is also called programming language.	O B-Occupation O O O O O
-The teacher is related to organ.	O B-Occupation O O O B-BodyPart
-The doctor is known as animal.	O B-Occupation O O O B-Category
-The dog is a animal.	O B-Animal O O B-Category
-The banana is related to animal.	O B-Fruit O O O B-Category
-The cat is associated with educator.	O B-Animal O O O B-Occupation
-The heart is also called yellow.	O B-BodyPart O O O B-Color
-The car is also called fruit.	O B-Vehicle O O O B-Category
-The python has to do with microorganism.	O B-Tech O O O O B-Category
-The heart is associated with vehicle.	O B-BodyPart O O O B-Category
-The apple has to do with vehicle.	O B-Fruit O O O O B-Category
-The banana is the same as programming language.	O B-Fruit O O O O O O
-The heart is related to vehicle.	O B-BodyPart O O O B-Category
-The car is a animal.	O B-Vehicle O O B-Category
-The teacher is known as educator.	O B-Occupation O O O B-Occupation
-The car is a animal.	O B-Vehicle O O B-Category
-The dog has to do with organ.	O B-Animal O O O O B-BodyPart
-The doctor is associated with physician.	O B-Occupation O O O B-Occupation
-The python is known as mammal.	O B-Tech O O O B-Category
-The virus is related to animal.	O B-Micro O O O B-Category
-The python is a fruit.	O B-Tech O O B-Category
-The python is the same as physician.	O B-Tech O O O O B-Occupation
-The banana has to do with programming language.	O B-Fruit O O O O O O
-The python is a fruit.	O B-Tech O O B-Category
-The banana is a vehicle.	O B-Fruit O O B-Category
-The virus is also called vehicle.	O B-Micro O O O B-Category
-The car is the same as programming language.	O B-Vehicle O O O O O O
-The doctor is associated with programming language.	O B-Occupation O O O O O
-The heart is a animal.	O B-BodyPart O O B-Category
-The cat is known as microorganism.	O B-Animal O O O B-Category
-The heart is considered a organ.	O B-BodyPart O O O B-BodyPart
-The banana is a organ.	O B-Fruit O O B-BodyPart
-The heart is associated with physician.	O B-BodyPart O O O B-Occupation
-The apple has to do with mammal.	O B-Fruit O O O O B-Category
-The doctor is a fruit.	O B-Occupation O O B-Category
-The dog is also called vehicle.	O B-Animal O O O B-Category
-The car has to do with programming language.	O B-Vehicle O O O O O O
-The python is considered a fruit.	O B-Tech O O O B-Category
-The apple is the same as animal.	O B-Fruit O O O O B-Category
-The teacher is a programming language.	O B-Occupation O O O O
-The heart has to do with physician.	O B-BodyPart O O O O B-Occupation
-The dog is also called programming language.	O B-Animal O O O O O
-The apple is known as educator.	O B-Fruit O O O B-Occupation
-The heart is also called mammal.	O B-BodyPart O O O B-Category
-The banana is also called educator.	O B-Fruit O O O B-Occupation
-The cat is associated with yellow.	O B-Animal O O O B-Color
-The heart is associated with fruit.	O B-BodyPart O O O B-Category
-The apple is associated with vehicle.	O B-Fruit O O O B-Category
-The python is a physician.	O B-Tech O O B-Occupation
-The banana is considered a programming language.	O B-Fruit O O O O O
-The python is a animal.	O B-Tech O O B-Category
-The python is a physician.	O B-Tech O O B-Occupation
-The car is associated with animal.	O B-Vehicle O O O B-Category
-The teacher is known as fruit.	O B-Occupation O O O B-Category
-The car can be categorized as organ.	O B-Vehicle O O O O B-BodyPart
-The dog has to do with programming language.	O B-Animal O O O O O O
-The virus is known as mammal.	O B-Micro O O O B-Category
-The banana is associated with vehicle.	O B-Fruit O O O B-Category
-The virus is also called programming language.	O B-Micro O O O O O
-The heart has to do with yellow.	O B-BodyPart O O O O B-Color
-The car is associated with animal.	O B-Vehicle O O O B-Category
-The heart can be categorized as educator.	O B-BodyPart O O O O B-Occupation
-The python is a animal.	O B-Tech O O B-Category
-The car has to do with programming language.	O B-Vehicle O O O O O O
-The dog is the same as yellow.	O B-Animal O O O O B-Color
-The virus is the same as yellow.	O B-Micro O O O O B-Color
-The doctor is known as programming language.	O B-Occupation O O O O O
-The dog has to do with organ.	O B-Animal O O O O B-BodyPart
-The cat is known as vehicle.	O B-Animal O O O B-Category
-The cat is known as animal.	O B-Animal O O O B-Category
-The car is a educator.	O B-Vehicle O O B-Occupation
-The python is related to fruit.	O B-Tech O O O B-Category
-The doctor is considered a fruit.	O B-Occupation O O O B-Category
-The heart has to do with vehicle.	O B-BodyPart O O O O B-Category
-The car is the same as microorganism.	O B-Vehicle O O O O B-Category
-The dog is related to mammal.	O B-Animal O O O B-Category
-The doctor has to do with mammal.	O B-Occupation O O O O B-Category
-The cat is related to programming language.	O B-Animal O O O O O
-The virus is known as yellow.	O B-Micro O O O B-Color
-The banana is considered a organ.	O B-Fruit O O O B-BodyPart
-The apple can be categorized as physician.	O B-Fruit O O O O B-Occupation
-The apple is the same as educator.	O B-Fruit O O O O B-Occupation
-The heart has to do with educator.	O B-BodyPart O O O O B-Occupation
-The virus is associated with educator.	O B-Micro O O O B-Occupation
-The cat can be categorized as yellow.	O B-Animal O O O O B-Color
-The python is considered a mammal.	O B-Tech O O O B-Category
-The cat is associated with microorganism.	O B-Animal O O O B-Category
-The teacher is associated with organ.	O B-Occupation O O O B-BodyPart
-The doctor can be categorized as mammal.	O B-Occupation O O O O B-Category
-The doctor is known as mammal.	O B-Occupation O O O B-Category
-The car is related to mammal.	O B-Vehicle O O O B-Category
-The python is known as yellow.	O B-Tech O O O B-Color
-The car is the same as animal.	O B-Vehicle O O O O B-Category
-The teacher is also called programming language.	O B-Occupation O O O O O
-The cat is related to fruit.	O B-Animal O O O B-Category
-The teacher is the same as programming language.	O B-Occupation O O O O O O
-The dog is considered a microorganism.	O B-Animal O O O B-Category
-The banana is the same as mammal.	O B-Fruit O O O O B-Category
-The python is the same as educator.	O B-Tech O O O O B-Occupation
-The banana is a vehicle.	O B-Fruit O O B-Category
-The banana is associated with programming language.	O B-Fruit O O O O O
-The cat is associated with microorganism.	O B-Animal O O O B-Category
-The cat is associated with organ.	O B-Animal O O O B-BodyPart
-The banana has to do with organ.	O B-Fruit O O O O B-BodyPart
-The dog is a yellow.	O B-Animal O O B-Color
-The heart is associated with educator.	O B-BodyPart O O O B-Occupation
-The heart can be categorized as animal.	O B-BodyPart O O O O B-Category
-The python is related to vehicle.	O B-Tech O O O B-Category
-The dog is a yellow.	O B-Animal O O B-Color
-The car can be categorized as microorganism.	O B-Vehicle O O O O B-Category
-The banana is the same as fruit.	O B-Fruit O O O O B-Category
-The apple has to do with educator.	O B-Fruit O O O O B-Occupation
-The dog is a animal.	O B-Animal O O B-Category
-The banana is considered a yellow.	O B-Fruit O O O B-Color
-The teacher is associated with fruit.	O B-Occupation O O O B-Category
-The python is known as vehicle.	O B-Tech O O O B-Category
-The teacher has to do with fruit.	O B-Occupation O O O O B-Category
-The virus is known as programming language.	O B-Micro O O O O O
-The teacher is known as vehicle.	O B-Occupation O O O B-Category
-The dog can be categorized as educator.	O B-Animal O O O O B-Occupation
-The doctor is considered a fruit.	O B-Occupation O O O B-Category
-The teacher has to do with physician.	O B-Occupation O O O O B-Occupation
-The apple is a animal.	O B-Fruit O O B-Category
-The banana can be categorized as vehicle.	O B-Fruit O O O O B-Category
-The cat is also called yellow.	O B-Animal O O O B-Color
-The teacher has to do with vehicle.	O B-Occupation O O O O B-Category
-The apple is known as physician.	O B-Fruit O O O B-Occupation
-The banana has to do with organ.	O B-Fruit O O O O B-BodyPart
-The apple is also called animal.	O B-Fruit O O O B-Category
-The banana is considered a physician.	O B-Fruit O O O B-Occupation
-The dog is the same as yellow.	O B-Animal O O O O B-Color
-The car can be categorized as educator.	O B-Vehicle O O O O B-Occupation
-The virus is the same as organ.	O B-Micro O O O O B-BodyPart
-The doctor is also called animal.	O B-Occupation O O O B-Category
-The doctor is the same as organ.	O B-Occupation O O O O B-BodyPart
-The apple is associated with animal.	O B-Fruit O O O B-Category
-The teacher is related to microorganism.	O B-Occupation O O O B-Category
-The cat has to do with programming language.	O B-Animal O O O O O O
-The doctor is considered a mammal.	O B-Occupation O O O B-Category
-The python is related to mammal.	O B-Tech O O O B-Category
-The apple is associated with fruit.	O B-Fruit O O O B-Category
-The banana is known as fruit.	O B-Fruit O O O B-Category
-The teacher is the same as yellow.	O B-Occupation O O O O B-Color
-The python has to do with yellow.	O B-Tech O O O O B-Color
-The virus is associated with microorganism.	O B-Micro O O O B-Category
-The cat is known as vehicle.	O B-Animal O O O B-Category
-The teacher can be categorized as microorganism.	O B-Occupation O O O O B-Category
-The python is associated with organ.	O B-Tech O O O B-BodyPart
-The cat is considered a programming language.	O B-Animal O O O O O
-The doctor is related to animal.	O B-Occupation O O O B-Category
-The doctor is known as vehicle.	O B-Occupation O O O B-Category
-The car is known as mammal.	O B-Vehicle O O O B-Category
-The heart is considered a organ.	O B-BodyPart O O O B-BodyPart
-The banana is also called microorganism.	O B-Fruit O O O B-Category
-The car is known as fruit.	O B-Vehicle O O O B-Category
-The python is known as yellow.	O B-Tech O O O B-Color
-The teacher is known as organ.	O B-Occupation O O O B-BodyPart
-The heart is also called vehicle.	O B-BodyPart O O O B-Category
-The car is a microorganism.	O B-Vehicle O O B-Category
-The python is the same as mammal.	O B-Tech O O O O B-Category
-The doctor is also called yellow.	O B-Occupation O O O B-Color
-The python is related to yellow.	O B-Tech O O O B-Color
-The python is the same as vehicle.	O B-Tech O O O O B-Category
-The banana is a organ.	O B-Fruit O O B-BodyPart
-The car is related to microorganism.	O B-Vehicle O O O B-Category
-The teacher is known as vehicle.	O B-Occupation O O O B-Category
-The banana is also called vehicle.	O B-Fruit O O O B-Category
-The virus is also called vehicle.	O B-Micro O O O B-Category
-The apple is known as organ.	O B-Fruit O O O B-BodyPart
-The virus is also called yellow.	O B-Micro O O O B-Color
-The car is related to animal.	O B-Vehicle O O O B-Category
-The dog is the same as mammal.	O B-Animal O O O O B-Category
-The python is related to vehicle.	O B-Tech O O O B-Category
-The python can be categorized as physician.	O B-Tech O O O O B-Occupation
-The dog is considered a animal.	O B-Animal O O O B-Category
-The doctor is related to mammal.	O B-Occupation O O O B-Category
-The teacher is a programming language.	O B-Occupation O O O O
-The heart is related to educator.	O B-BodyPart O O O B-Occupation
-The apple can be categorized as mammal.	O B-Fruit O O O O B-Category
-The car is the same as mammal.	O B-Vehicle O O O O B-Category
-The python is associated with mammal.	O B-Tech O O O B-Category
-The banana has to do with mammal.	O B-Fruit O O O O B-Category
-The cat is related to physician.	O B-Animal O O O B-Occupation
-The teacher is associated with animal.	O B-Occupation O O O B-Category
-The car is a mammal.	O B-Vehicle O O B-Category
-The apple is also called educator.	O B-Fruit O O O B-Occupation
-The teacher is the same as yellow.	O B-Occupation O O O O B-Color
-The apple has to do with vehicle.	O B-Fruit O O O O B-Category
-The dog is a vehicle.	O B-Animal O O B-Category
-The cat is known as fruit.	O B-Animal O O O B-Category
-The car is a physician.	O B-Vehicle O O B-Occupation
-The cat has to do with fruit.	O B-Animal O O O O B-Category
-The dog can be categorized as microorganism.	O B-Animal O O O O B-Category
-The dog is a educator.	O B-Animal O O B-Occupation
-The heart is also called physician.	O B-BodyPart O O O B-Occupation
-The heart is known as yellow.	O B-BodyPart O O O B-Color
-The virus can be categorized as physician.	O B-Micro O O O O B-Occupation
-The car is associated with mammal.	O B-Vehicle O O O B-Category
-The cat is also called physician.	O B-Animal O O O B-Occupation
-The cat is related to microorganism.	O B-Animal O O O B-Category
-The virus is the same as educator.	O B-Micro O O O O B-Occupation
-The banana is a microorganism.	O B-Fruit O O B-Category
-The heart is also called educator.	O B-BodyPart O O O B-Occupation
-The cat is related to vehicle.	O B-Animal O O O B-Category
-The car is considered a microorganism.	O B-Vehicle O O O B-Category
-The dog is related to animal.	O B-Animal O O O B-Category
-The teacher is a yellow.	O B-Occupation O O B-Color
-The dog has to do with mammal.	O B-Animal O O O O B-Category
-The banana is associated with microorganism.	O B-Fruit O O O B-Category
-The python is a programming language.	O B-Tech O O O O
-The doctor is known as animal.	O B-Occupation O O O B-Category
-The banana is known as organ.	O B-Fruit O O O B-BodyPart
-The car is considered a educator.	O B-Vehicle O O O B-Occupation
-The banana is related to physician.	O B-Fruit O O O B-Occupation
-The virus is also called organ.	O B-Micro O O O B-BodyPart
-The dog is also called yellow.	O B-Animal O O O B-Color
-The virus is the same as animal.	O B-Micro O O O O B-Category
-The car is known as fruit.	O B-Vehicle O O O B-Category
-The python is associated with educator.	O B-Tech O O O B-Occupation
-The car is related to fruit.	O B-Vehicle O O O B-Category
-The doctor is known as physician.	O B-Occupation O O O B-Occupation
-The heart is associated with microorganism.	O B-BodyPart O O O B-Category
-The car has to do with educator.	O B-Vehicle O O O O B-Occupation
-The python has to do with organ.	O B-Tech O O O O B-BodyPart
-The virus is known as microorganism.	O B-Micro O O O B-Category
-The teacher is considered a mammal.	O B-Occupation O O O B-Category
-The banana can be categorized as vehicle.	O B-Fruit O O O O B-Category
-The virus is known as organ.	O B-Micro O O O B-BodyPart
-The car is also called programming language.	O B-Vehicle O O O O O
-The doctor has to do with fruit.	O B-Occupation O O O O B-Category
-The heart can be categorized as fruit.	O B-BodyPart O O O O B-Category
-The virus is a physician.	O B-Micro O O B-Occupation
-The apple is known as animal.	O B-Fruit O O O B-Category
-The car can be categorized as programming language.	O B-Vehicle O O O O O O
-The banana is the same as vehicle.	O B-Fruit O O O O B-Category
-The virus has to do with physician.	O B-Micro O O O O B-Occupation
-The banana is known as programming language.	O B-Fruit O O O O O
-The python is a yellow.	O B-Tech O O B-Color
-The doctor can be categorized as vehicle.	O B-Occupation O O O O B-Category
-The apple is known as organ.	O B-Fruit O O O B-BodyPart
-The teacher is a mammal.	O B-Occupation O O B-Category
-The cat is a organ.	O B-Animal O O B-BodyPart
-The cat is also called microorganism.	O B-Animal O O O B-Category
-The virus is also called microorganism.	O B-Micro O O O B-Category
-The teacher is associated with microorganism.	O B-Occupation O O O B-Category
-The heart is considered a microorganism.	O B-BodyPart O O O B-Category
-The python is considered a educator.	O B-Tech O O O B-Occupation
-The teacher is also called microorganism.	O B-Occupation O O O B-Category
-The doctor is associated with mammal.	O B-Occupation O O O B-Category
-The python is associated with programming language.	O B-Tech O O O O O
-The car can be categorized as mammal.	O B-Vehicle O O O O B-Category
-The teacher is related to mammal.	O B-Occupation O O O B-Category
-The cat has to do with physician.	O B-Animal O O O O B-Occupation
-The apple is known as animal.	O B-Fruit O O O B-Category
-The teacher is associated with microorganism.	O B-Occupation O O O B-Category
-The dog can be categorized as physician.	O B-Animal O O O O B-Occupation
-The banana is related to mammal.	O B-Fruit O O O B-Category
-The apple is considered a fruit.	O B-Fruit O O O B-Category
-The doctor is associated with educator.	O B-Occupation O O O B-Occupation
-The heart is related to fruit.	O B-BodyPart O O O B-Category
-The doctor has to do with educator.	O B-Occupation O O O O B-Occupation
-The banana is known as mammal.	O B-Fruit O O O B-Category
-The banana is the same as animal.	O B-Fruit O O O O B-Category
-The apple is known as programming language.	O B-Fruit O O O O O
-The banana is a vehicle.	O B-Fruit O O B-Category
-The dog is associated with mammal.	O B-Animal O O O B-Category
-The python has to do with mammal.	O B-Tech O O O O B-Category
-The cat is a vehicle.	O B-Animal O O B-Category
-The cat is considered a animal.	O B-Animal O O O B-Category
-The banana is related to physician.	O B-Fruit O O O B-Occupation
-The doctor is considered a yellow.	O B-Occupation O O O B-Color
-The car is known as physician.	O B-Vehicle O O O B-Occupation
-The doctor is considered a yellow.	O B-Occupation O O O B-Color
-The heart has to do with programming language.	O B-BodyPart O O O O O O
-The dog is considered a physician.	O B-Animal O O O B-Occupation
-The doctor is associated with mammal.	O B-Occupation O O O B-Category
-The teacher is considered a mammal.	O B-Occupation O O O B-Category
-The car is considered a educator.	O B-Vehicle O O O B-Occupation
-The dog is related to physician.	O B-Animal O O O B-Occupation
-The teacher is associated with physician.	O B-Occupation O O O B-Occupation
-The heart can be categorized as yellow.	O B-BodyPart O O O O B-Color
-The dog is a yellow.	O B-Animal O O B-Color
-The apple is the same as microorganism.	O B-Fruit O O O O B-Category
-The banana is associated with physician.	O B-Fruit O O O B-Occupation
-The teacher is related to fruit.	O B-Occupation O O O B-Category
-The car is considered a physician.	O B-Vehicle O O O B-Occupation
-The teacher is associated with microorganism.	O B-Occupation O O O B-Category
-The car is associated with animal.	O B-Vehicle O O O B-Category
-The python is considered a mammal.	O B-Tech O O O B-Category
-The car is related to animal.	O B-Vehicle O O O B-Category
-The teacher is related to yellow.	O B-Occupation O O O B-Color
-The apple is a animal.	O B-Fruit O O B-Category
-The python is related to microorganism.	O B-Tech O O O B-Category
-The heart is associated with mammal.	O B-BodyPart O O O B-Category
-The banana has to do with mammal.	O B-Fruit O O O O B-Category
-The banana is also called fruit.	O B-Fruit O O O B-Category
-The cat is a fruit.	O B-Animal O O B-Category
-The dog is the same as microorganism.	O B-Animal O O O O B-Category
-The banana has to do with educator.	O B-Fruit O O O O B-Occupation
-The heart is also called programming language.	O B-BodyPart O O O O O
-The cat is a physician.	O B-Animal O O B-Occupation
-The python is associated with animal.	O B-Tech O O O B-Category
-The python is known as programming language.	O B-Tech O O O O O
-The dog is considered a yellow.	O B-Animal O O O B-Color
-The virus is related to programming language.	O B-Micro O O O O O
-The dog has to do with physician.	O B-Animal O O O O B-Occupation
-The virus is a programming language.	O B-Micro O O O O
-The dog is known as yellow.	O B-Animal O O O B-Color
-The doctor is a mammal.	O B-Occupation O O B-Category
-The dog is also called programming language.	O B-Animal O O O O O
-The dog is related to yellow.	O B-Animal O O O B-Color
-The doctor is also called physician.	O B-Occupation O O O B-Occupation
-The cat is the same as programming language.	O B-Animal O O O O O O
-The python is associated with microorganism.	O B-Tech O O O B-Category
-The banana can be categorized as microorganism.	O B-Fruit O O O O B-Category
-The heart has to do with microorganism.	O B-BodyPart O O O O B-Category
-The virus can be categorized as fruit.	O B-Micro O O O O B-Category
-The virus is the same as mammal.	O B-Micro O O O O B-Category
-The cat is known as mammal.	O B-Animal O O O B-Category
-The python has to do with microorganism.	O B-Tech O O O O B-Category
-The teacher has to do with mammal.	O B-Occupation O O O O B-Category
-The car can be categorized as mammal.	O B-Vehicle O O O O B-Category
-The virus is the same as organ.	O B-Micro O O O O B-BodyPart
-The dog is known as physician.	O B-Animal O O O B-Occupation
-The apple is associated with animal.	O B-Fruit O O O B-Category
-The apple is the same as mammal.	O B-Fruit O O O O B-Category
-The apple is associated with mammal.	O B-Fruit O O O B-Category
-The virus is a fruit.	O B-Micro O O B-Category
-The teacher has to do with organ.	O B-Occupation O O O O B-BodyPart
-The virus is known as yellow.	O B-Micro O O O B-Color
-The heart can be categorized as fruit.	O B-BodyPart O O O O B-Category
-The car is related to organ.	O B-Vehicle O O O B-BodyPart
-The cat is also called fruit.	O B-Animal O O O B-Category
-The heart is related to organ.	O B-BodyPart O O O B-BodyPart
-The teacher is known as educator.	O B-Occupation O O O B-Occupation
-The heart is also called vehicle.	O B-BodyPart O O O B-Category
-The doctor can be categorized as animal.	O B-Occupation O O O O B-Category
-The car is associated with vehicle.	O B-Vehicle O O O B-Category
-The cat is related to yellow.	O B-Animal O O O B-Color
-The virus is a physician.	O B-Micro O O B-Occupation
-The virus is associated with programming language.	O B-Micro O O O O O
-The python is associated with microorganism.	O B-Tech O O O B-Category
-The banana is known as vehicle.	O B-Fruit O O O B-Category
-The doctor is a mammal.	O B-Occupation O O B-Category
-The doctor has to do with physician.	O B-Occupation O O O O B-Occupation
-The doctor is known as programming language.	O B-Occupation O O O O O
-The dog is also called organ.	O B-Animal O O O B-BodyPart
-The apple is related to physician.	O B-Fruit O O O B-Occupation
-The banana is associated with animal.	O B-Fruit O O O B-Category
-The banana is known as animal.	O B-Fruit O O O B-Category
-The virus is the same as educator.	O B-Micro O O O O B-Occupation
-The python has to do with fruit.	O B-Tech O O O O B-Category
-The python has to do with programming language.	O B-Tech O O O O O O
-The apple is the same as physician.	O B-Fruit O O O O B-Occupation
-The dog can be categorized as fruit.	O B-Animal O O O O B-Category
-The doctor is considered a fruit.	O B-Occupation O O O B-Category
-The python is a microorganism.	O B-Tech O O B-Category
-The python is a physician.	O B-Tech O O B-Occupation
-The virus is associated with programming language.	O B-Micro O O O O O
-The teacher has to do with vehicle.	O B-Occupation O O O O B-Category
-The virus is considered a physician.	O B-Micro O O O B-Occupation
-The car can be categorized as programming language.	O B-Vehicle O O O O O O
-The doctor is related to programming language.	O B-Occupation O O O O O
-The heart is associated with yellow.	O B-BodyPart O O O B-Color
-The virus has to do with physician.	O B-Micro O O O O B-Occupation
-The virus is related to animal.	O B-Micro O O O B-Category
-The banana is considered a mammal.	O B-Fruit O O O B-Category
-The heart is also called mammal.	O B-BodyPart O O O B-Category
-The apple is associated with educator.	O B-Fruit O O O B-Occupation
-The virus is related to microorganism.	O B-Micro O O O B-Category
-The cat is related to programming language.	O B-Animal O O O O O
-The dog is the same as programming language.	O B-Animal O O O O O O
-The heart is a organ.	O B-BodyPart O O B-BodyPart
-The python is associated with organ.	O B-Tech O O O B-BodyPart
-The heart is the same as mammal.	O B-BodyPart O O O O B-Category
-The python is associated with mammal.	O B-Tech O O O B-Category
-The python has to do with yellow.	O B-Tech O O O O B-Color
-The banana is associated with vehicle.	O B-Fruit O O O B-Category
-The doctor is also called yellow.	O B-Occupation O O O B-Color
-The apple is associated with fruit.	O B-Fruit O O O B-Category
-The virus is associated with physician.	O B-Micro O O O B-Occupation
-The car can be categorized as yellow.	O B-Vehicle O O O O B-Color
-The virus is a physician.	O B-Micro O O B-Occupation
-The cat is considered a yellow.	O B-Animal O O O B-Color
-The car is associated with animal.	O B-Vehicle O O O B-Category
-The apple is considered a programming language.	O B-Fruit O O O O O
-The doctor is also called physician.	O B-Occupation O O O B-Occupation
-The virus is the same as mammal.	O B-Micro O O O O B-Category
-The cat is the same as organ.	O B-Animal O O O O B-BodyPart
-The car is also called educator.	O B-Vehicle O O O B-Occupation
-The car is considered a animal.	O B-Vehicle O O O B-Category
-The doctor is associated with programming language.	O B-Occupation O O O O O
-The car is known as animal.	O B-Vehicle O O O B-Category
-The python has to do with programming language.	O B-Tech O O O O O O
-The heart is also called fruit.	O B-BodyPart O O O B-Category
-The banana is the same as fruit.	O B-Fruit O O O O B-Category
-The python is considered a yellow.	O B-Tech O O O B-Color
-The car is the same as fruit.	O B-Vehicle O O O O B-Category
-The heart is related to yellow.	O B-BodyPart O O O B-Color
-The heart is the same as yellow.	O B-BodyPart O O O O B-Color
-The virus is related to animal.	O B-Micro O O O B-Category
-The dog is also called educator.	O B-Animal O O O B-Occupation
-The heart is known as mammal.	O B-BodyPart O O O B-Category
-The teacher can be categorized as microorganism.	O B-Occupation O O O O B-Category
-The dog is considered a vehicle.	O B-Animal O O O B-Category
-The dog can be categorized as programming language.	O B-Animal O O O O O O
-The virus is known as physician.	O B-Micro O O O B-Occupation
-The apple is the same as vehicle.	O B-Fruit O O O O B-Category
-The apple is related to animal.	O B-Fruit O O O B-Category
-The python is associated with fruit.	O B-Tech O O O B-Category
-The heart is considered a microorganism.	O B-BodyPart O O O B-Category
-The cat is the same as microorganism.	O B-Animal O O O O B-Category
-The virus is the same as physician.	O B-Micro O O O O B-Occupation
-The car is the same as organ.	O B-Vehicle O O O O B-BodyPart
-The virus is associated with animal.	O B-Micro O O O B-Category
-The doctor has to do with mammal.	O B-Occupation O O O O B-Category
-The python is also called fruit.	O B-Tech O O O B-Category
-The cat is also called educator.	O B-Animal O O O B-Occupation
-The virus is also called organ.	O B-Micro O O O B-BodyPart
-The doctor has to do with fruit.	O B-Occupation O O O O B-Category
-The car is also called animal.	O B-Vehicle O O O B-Category
-The car can be categorized as vehicle.	O B-Vehicle O O O O B-Category
-The heart is the same as vehicle.	O B-BodyPart O O O O B-Category
-The teacher is the same as organ.	O B-Occupation O O O O B-BodyPart
-The python is a organ.	O B-Tech O O B-BodyPart
-The banana is known as programming language.	O B-Fruit O O O O O
-The banana is known as programming language.	O B-Fruit O O O O O
-The heart is related to programming language.	O B-BodyPart O O O O O
-The virus is also called yellow.	O B-Micro O O O B-Color
-The heart is a animal.	O B-BodyPart O O B-Category
-The virus is associated with mammal.	O B-Micro O O O B-Category
-The dog is also called programming language.	O B-Animal O O O O O
-The dog is related to programming language.	O B-Animal O O O O O
-The virus is also called animal.	O B-Micro O O O B-Category
-The doctor is the same as physician.	O B-Occupation O O O O B-Occupation
-The doctor is considered a educator.	O B-Occupation O O O B-Occupation
-The heart is also called physician.	O B-BodyPart O O O B-Occupation
-The teacher is related to vehicle.	O B-Occupation O O O B-Category
-The virus is considered a physician.	O B-Micro O O O B-Occupation
-The dog is associated with organ.	O B-Animal O O O B-BodyPart
-The python is known as yellow.	O B-Tech O O O B-Color
-The cat is known as physician.	O B-Animal O O O B-Occupation
-The cat is associated with fruit.	O B-Animal O O O B-Category
-The virus is related to physician.	O B-Micro O O O B-Occupation
-The dog is related to physician.	O B-Animal O O O B-Occupation
-The teacher is the same as vehicle.	O B-Occupation O O O O B-Category
-The virus is a physician.	O B-Micro O O B-Occupation
-The teacher has to do with educator.	O B-Occupation O O O O B-Occupation
-The heart has to do with physician.	O B-BodyPart O O O O B-Occupation
-The python can be categorized as physician.	O B-Tech O O O O B-Occupation
-The banana is also called vehicle.	O B-Fruit O O O B-Category
-The doctor has to do with programming language.	O B-Occupation O O O O O O
-The python can be categorized as physician.	O B-Tech O O O O B-Occupation
-The car has to do with yellow.	O B-Vehicle O O O O B-Color
-The virus has to do with fruit.	O B-Micro O O O O B-Category
-The dog has to do with educator.	O B-Animal O O O O B-Occupation
-The banana can be categorized as educator.	O B-Fruit O O O O B-Occupation
-The car can be categorized as microorganism.	O B-Vehicle O O O O B-Category
-The cat can be categorized as educator.	O B-Animal O O O O B-Occupation
-The virus is the same as organ.	O B-Micro O O O O B-BodyPart
-The virus is the same as mammal.	O B-Micro O O O O B-Category
-The virus is known as microorganism.	O B-Micro O O O B-Category
-The teacher is a yellow.	O B-Occupation O O B-Color
-The doctor is the same as vehicle.	O B-Occupation O O O O B-Category
-The heart is also called animal.	O B-BodyPart O O O B-Category
-The dog is related to yellow.	O B-Animal O O O B-Color
-The teacher is related to microorganism.	O B-Occupation O O O B-Category
-The apple is associated with fruit.	O B-Fruit O O O B-Category
-The cat is known as programming language.	O B-Animal O O O O O
-The teacher can be categorized as animal.	O B-Occupation O O O O B-Category
-The dog is related to organ.	O B-Animal O O O B-BodyPart
-The car has to do with vehicle.	O B-Vehicle O O O O B-Category
-The heart is the same as microorganism.	O B-BodyPart O O O O B-Category
-The heart is the same as educator.	O B-BodyPart O O O O B-Occupation
-The heart has to do with animal.	O B-BodyPart O O O O B-Category
-The virus is considered a microorganism.	O B-Micro O O O B-Category
-The dog is also called mammal.	O B-Animal O O O B-Category
-The banana is a microorganism.	O B-Fruit O O B-Category
-The doctor can be categorized as animal.	O B-Occupation O O O O B-Category
-The virus is related to physician.	O B-Micro O O O B-Occupation
-The heart can be categorized as yellow.	O B-BodyPart O O O O B-Color
-The car is associated with physician.	O B-Vehicle O O O B-Occupation
-The doctor is the same as programming language.	O B-Occupation O O O O O O
-The car is a organ.	O B-Vehicle O O B-BodyPart
-The banana is known as microorganism.	O B-Fruit O O O B-Category
-The banana is also called microorganism.	O B-Fruit O O O B-Category
-The virus is associated with organ.	O B-Micro O O O B-BodyPart
-The cat is the same as mammal.	O B-Animal O O O O B-Category
-The python is considered a programming language.	O B-Tech O O O O O
-The python can be categorized as educator.	O B-Tech O O O O B-Occupation
-The virus is also called educator.	O B-Micro O O O B-Occupation
-The car is related to fruit.	O B-Vehicle O O O B-Category
-The apple has to do with educator.	O B-Fruit O O O O B-Occupation
-The car is related to physician.	O B-Vehicle O O O B-Occupation
-The cat is associated with vehicle.	O B-Animal O O O B-Category
-The cat has to do with organ.	O B-Animal O O O O B-BodyPart
-The cat can be categorized as microorganism.	O B-Animal O O O O B-Category
-The python is associated with microorganism.	O B-Tech O O O B-Category
-The teacher can be categorized as educator.	O B-Occupation O O O O B-Occupation
-The apple is the same as physician.	O B-Fruit O O O O B-Occupation
-The teacher has to do with animal.	O B-Occupation O O O O B-Category
-The virus is considered a physician.	O B-Micro O O O B-Occupation
-The apple can be categorized as physician.	O B-Fruit O O O O B-Occupation
-The dog is a educator.	O B-Animal O O B-Occupation
-The virus is also called organ.	O B-Micro O O O B-BodyPart
-The cat is a vehicle.	O B-Animal O O B-Category
-The virus is associated with fruit.	O B-Micro O O O B-Category
-The virus is related to programming language.	O B-Micro O O O O O
-The heart is considered a programming language.	O B-BodyPart O O O O O
-The banana is also called microorganism.	O B-Fruit O O O B-Category
-The dog is considered a mammal.	O B-Animal O O O B-Category
-The doctor is known as animal.	O B-Occupation O O O B-Category
-The doctor is also called yellow.	O B-Occupation O O O B-Color
-The virus is a programming language.	O B-Micro O O O O
-The cat can be categorized as fruit.	O B-Animal O O O O B-Category
-The cat is known as microorganism.	O B-Animal O O O B-Category
-The heart is known as vehicle.	O B-BodyPart O O O B-Category
-The apple can be categorized as physician.	O B-Fruit O O O O B-Occupation
-The python is considered a mammal.	O B-Tech O O O B-Category
-The dog has to do with mammal.	O B-Animal O O O O B-Category
-The teacher can be categorized as educator.	O B-Occupation O O O O B-Occupation
-The banana is related to yellow.	O B-Fruit O O O B-Color
-The doctor is related to yellow.	O B-Occupation O O O B-Color
-The heart has to do with microorganism.	O B-BodyPart O O O O B-Category
-The banana is associated with physician.	O B-Fruit O O O B-Occupation
-The virus is considered a programming language.	O B-Micro O O O O O
-The car is also called microorganism.	O B-Vehicle O O O B-Category
-The virus is known as fruit.	O B-Micro O O O B-Category
-The teacher is the same as physician.	O B-Occupation O O O O B-Occupation
-The car is a organ.	O B-Vehicle O O B-BodyPart
-The teacher is related to mammal.	O B-Occupation O O O B-Category
-The teacher is associated with educator.	O B-Occupation O O O B-Occupation
-The heart is associated with programming language.	O B-BodyPart O O O O O
-The dog is known as organ.	O B-Animal O O O B-BodyPart
-The heart is related to fruit.	O B-BodyPart O O O B-Category
-The virus is also called vehicle.	O B-Micro O O O B-Category
-The banana can be categorized as animal.	O B-Fruit O O O O B-Category
-The dog is a educator.	O B-Animal O O B-Occupation
-The python is related to fruit.	O B-Tech O O O B-Category
-The virus can be categorized as mammal.	O B-Micro O O O O B-Category
-The doctor has to do with programming language.	O B-Occupation O O O O O O
-The car is related to vehicle.	O B-Vehicle O O O B-Category
-The apple is a vehicle.	O B-Fruit O O B-Category
-The car is known as organ.	O B-Vehicle O O O B-BodyPart
-The apple is a mammal.	O B-Fruit O O B-Category
-The dog is related to organ.	O B-Animal O O O B-BodyPart
-The cat is the same as organ.	O B-Animal O O O O B-BodyPart
-The cat has to do with programming language.	O B-Animal O O O O O O
-The teacher is the same as mammal.	O B-Occupation O O O O B-Category
-The heart is the same as vehicle.	O B-BodyPart O O O O B-Category
-The teacher is the same as vehicle.	O B-Occupation O O O O B-Category
-The banana has to do with fruit.	O B-Fruit O O O O B-Category
-The doctor is also called physician.	O B-Occupation O O O B-Occupation
-The virus is associated with educator.	O B-Micro O O O B-Occupation
-The python is also called educator.	O B-Tech O O O B-Occupation
-The dog is considered a organ.	O B-Animal O O O B-BodyPart
-The python is related to fruit.	O B-Tech O O O B-Category
-The teacher is the same as mammal.	O B-Occupation O O O O B-Category
-The apple is considered a microorganism.	O B-Fruit O O O B-Category
-The car is known as programming language.	O B-Vehicle O O O O O
-The python is also called microorganism.	O B-Tech O O O B-Category
-The virus is associated with fruit.	O B-Micro O O O B-Category
-The teacher is considered a programming language.	O B-Occupation O O O O O
-The banana is related to programming language.	O B-Fruit O O O O O
-The python is known as educator.	O B-Tech O O O B-Occupation
-The dog is also called educator.	O B-Animal O O O B-Occupation
-The python is also called fruit.	O B-Tech O O O B-Category
-The apple is the same as fruit.	O B-Fruit O O O O B-Category
-The cat is known as vehicle.	O B-Animal O O O B-Category
-The doctor is a vehicle.	O B-Occupation O O B-Category
-The python is known as mammal.	O B-Tech O O O B-Category
-The car is known as educator.	O B-Vehicle O O O B-Occupation
-The heart is related to microorganism.	O B-BodyPart O O O B-Category
-The apple has to do with microorganism.	O B-Fruit O O O O B-Category
-The teacher is the same as yellow.	O B-Occupation O O O O B-Color
-The heart is related to organ.	O B-BodyPart O O O B-BodyPart
-The virus is associated with physician.	O B-Micro O O O B-Occupation
-The doctor has to do with yellow.	O B-Occupation O O O O B-Color
-The banana is a fruit.	O B-Fruit O O B-Category
-The cat is the same as yellow.	O B-Animal O O O O B-Color
-The virus is associated with microorganism.	O B-Micro O O O B-Category
-The apple is also called physician.	O B-Fruit O O O B-Occupation
-The python is known as animal.	O B-Tech O O O B-Category
-The car is considered a educator.	O B-Vehicle O O O B-Occupation
-The doctor can be categorized as organ.	O B-Occupation O O O O B-BodyPart
-The car is considered a yellow.	O B-Vehicle O O O B-Color
-The cat is the same as animal.	O B-Animal O O O O B-Category
-The apple is a organ.	O B-Fruit O O B-BodyPart
-The teacher is also called yellow.	O B-Occupation O O O B-Color
-The virus is the same as organ.	O B-Micro O O O O B-BodyPart
-The virus has to do with physician.	O B-Micro O O O O B-Occupation
-The teacher is related to programming language.	O B-Occupation O O O O O
-The teacher has to do with yellow.	O B-Occupation O O O O B-Color
-The cat is a organ.	O B-Animal O O B-BodyPart
-The teacher is considered a microorganism.	O B-Occupation O O O B-Category
-The cat has to do with educator.	O B-Animal O O O O B-Occupation
-The car is known as mammal.	O B-Vehicle O O O B-Category
-The virus is known as vehicle.	O B-Micro O O O B-Category
-The banana is related to physician.	O B-Fruit O O O B-Occupation
-The python is known as physician.	O B-Tech O O O B-Occupation
-The dog is a microorganism.	O B-Animal O O B-Category
-The cat can be categorized as organ.	O B-Animal O O O O B-BodyPart
-The virus is the same as vehicle.	O B-Micro O O O O B-Category
-The apple is also called vehicle.	O B-Fruit O O O B-Category
-The heart is a fruit.	O B-BodyPart O O B-Category
-The car is related to physician.	O B-Vehicle O O O B-Occupation
-The heart is a physician.	O B-BodyPart O O B-Occupation
-The dog can be categorized as mammal.	O B-Animal O O O O B-Category
-The apple is also called microorganism.	O B-Fruit O O O B-Category
-The banana has to do with microorganism.	O B-Fruit O O O O B-Category
-The apple has to do with educator.	O B-Fruit O O O O B-Occupation
-The virus is also called yellow.	O B-Micro O O O B-Color
-The apple is a educator.	O B-Fruit O O B-Occupation
-The apple is the same as organ.	O B-Fruit O O O O B-BodyPart
-The python can be categorized as fruit.	O B-Tech O O O O B-Category
-The heart is also called organ.	O B-BodyPart O O O B-BodyPart
-The cat is also called vehicle.	O B-Animal O O O B-Category
-The cat is also called vehicle.	O B-Animal O O O B-Category
-The banana has to do with vehicle.	O B-Fruit O O O O B-Category
-The virus is considered a programming language.	O B-Micro O O O O O
-The teacher is a microorganism.	O B-Occupation O O B-Category
-The dog is related to educator.	O B-Animal O O O B-Occupation
-The teacher is associated with vehicle.	O B-Occupation O O O B-Category
-The banana is a vehicle.	O B-Fruit O O B-Category
-The heart is associated with fruit.	O B-BodyPart O O O B-Category
-The python is known as physician.	O B-Tech O O O B-Occupation
-The banana is a animal.	O B-Fruit O O B-Category
-The heart is the same as microorganism.	O B-BodyPart O O O O B-Category
-The cat is associated with animal.	O B-Animal O O O B-Category
-The apple can be categorized as programming language.	O B-Fruit O O O O O O
-The python is considered a fruit.	O B-Tech O O O B-Category
-The python is considered a organ.	O B-Tech O O O B-BodyPart
-The teacher is known as microorganism.	O B-Occupation O O O B-Category
-The virus is considered a yellow.	O B-Micro O O O B-Color
-The dog is associated with physician.	O B-Animal O O O B-Occupation
-The car can be categorized as microorganism.	O B-Vehicle O O O O B-Category
-The cat is the same as organ.	O B-Animal O O O O B-BodyPart
-The apple is also called microorganism.	O B-Fruit O O O B-Category
-The virus is the same as physician.	O B-Micro O O O O B-Occupation
-The cat is considered a animal.	O B-Animal O O O B-Category
-The banana is considered a vehicle.	O B-Fruit O O O B-Category
-The car is associated with animal.	O B-Vehicle O O O B-Category
-The virus is a vehicle.	O B-Micro O O B-Category
-The virus is the same as animal.	O B-Micro O O O O B-Category
-The python is considered a mammal.	O B-Tech O O O B-Category
-The python is associated with programming language.	O B-Tech O O O O O
-The virus is also called programming language.	O B-Micro O O O O O
-The car is a yellow.	O B-Vehicle O O B-Color
-The heart is related to mammal.	O B-BodyPart O O O B-Category
-The python is also called microorganism.	O B-Tech O O O B-Category
-The cat is considered a physician.	O B-Animal O O O B-Occupation
-The doctor is considered a mammal.	O B-Occupation O O O B-Category
-The heart is associated with microorganism.	O B-BodyPart O O O B-Category
-The teacher is associated with educator.	O B-Occupation O O O B-Occupation
-The cat is also called physician.	O B-Animal O O O B-Occupation
-The cat is a animal.	O B-Animal O O B-Category
-The apple is considered a fruit.	O B-Fruit O O O B-Category
-The python is considered a educator.	O B-Tech O O O B-Occupation
-The apple is also called educator.	O B-Fruit O O O B-Occupation
-The teacher is also called organ.	O B-Occupation O O O B-BodyPart
-The teacher is considered a yellow.	O B-Occupation O O O B-Color
-The heart has to do with organ.	O B-BodyPart O O O O B-BodyPart
-The cat has to do with physician.	O B-Animal O O O O B-Occupation
-The apple is considered a programming language.	O B-Fruit O O O O O
-The virus is a physician.	O B-Micro O O B-Occupation
-The teacher is considered a mammal.	O B-Occupation O O O B-Category
-The apple is known as yellow.	O B-Fruit O O O B-Color
-The apple is known as yellow.	O B-Fruit O O O B-Color
-The heart has to do with mammal.	O B-BodyPart O O O O B-Category
-The apple is a animal.	O B-Fruit O O B-Category
-The python is known as mammal.	O B-Tech O O O B-Category
-The teacher is also called yellow.	O B-Occupation O O O B-Color
-The virus can be categorized as animal.	O B-Micro O O O O B-Category
-The cat is related to organ.	O B-Animal O O O B-BodyPart
-The heart is the same as animal.	O B-BodyPart O O O O B-Category
-The car is related to animal.	O B-Vehicle O O O B-Category
-The dog is associated with fruit.	O B-Animal O O O B-Category
-The apple is known as organ.	O B-Fruit O O O B-BodyPart
-The dog is associated with programming language.	O B-Animal O O O O O
-The virus is also called animal.	O B-Micro O O O B-Category
-The banana is associated with physician.	O B-Fruit O O O B-Occupation
-The teacher is the same as programming language.	O B-Occupation O O O O O O
-The doctor is known as yellow.	O B-Occupation O O O B-Color
-The heart is associated with microorganism.	O B-BodyPart O O O B-Category
-The heart is related to vehicle.	O B-BodyPart O O O B-Category
-The apple is known as fruit.	O B-Fruit O O O B-Category
-The apple is considered a fruit.	O B-Fruit O O O B-Category
-The virus is also called fruit.	O B-Micro O O O B-Category
-The virus is known as microorganism.	O B-Micro O O O B-Category
-The banana has to do with mammal.	O B-Fruit O O O O B-Category
-The teacher is associated with programming language.	O B-Occupation O O O O O
-The heart is known as microorganism.	O B-BodyPart O O O B-Category
-The banana is known as vehicle.	O B-Fruit O O O B-Category
-The car is a programming language.	O B-Vehicle O O O O
-The heart has to do with physician.	O B-BodyPart O O O O B-Occupation
-The teacher can be categorized as physician.	O B-Occupation O O O O B-Occupation
-The dog is also called vehicle.	O B-Animal O O O B-Category
-The python is considered a animal.	O B-Tech O O O B-Category
-The virus is related to fruit.	O B-Micro O O O B-Category
-The car is also called vehicle.	O B-Vehicle O O O B-Category
-The car is also called animal.	O B-Vehicle O O O B-Category
-The virus is also called mammal.	O B-Micro O O O B-Category
-The virus can be categorized as microorganism.	O B-Micro O O O O B-Category
-The heart is the same as programming language.	O B-BodyPart O O O O O O
-The dog is the same as programming language.	O B-Animal O O O O O O
-The apple is considered a mammal.	O B-Fruit O O O B-Category
-The teacher is associated with organ.	O B-Occupation O O O B-BodyPart
-The cat is associated with yellow.	O B-Animal O O O B-Color
-The teacher is associated with yellow.	O B-Occupation O O O B-Color
-The virus is the same as organ.	O B-Micro O O O O B-BodyPart
-The heart is the same as yellow.	O B-BodyPart O O O O B-Color
-The banana is considered a animal.	O B-Fruit O O O B-Category
-The python is related to vehicle.	O B-Tech O O O B-Category
-The car is known as fruit.	O B-Vehicle O O O B-Category
-The virus is considered a microorganism.	O B-Micro O O O B-Category
-The teacher has to do with mammal.	O B-Occupation O O O O B-Category
-The dog is associated with physician.	O B-Animal O O O B-Occupation
-The car can be categorized as programming language.	O B-Vehicle O O O O O O
-The car is considered a fruit.	O B-Vehicle O O O B-Category
-The doctor is known as educator.	O B-Occupation O O O B-Occupation
-The dog is a fruit.	O B-Animal O O B-Category
-The doctor is related to fruit.	O B-Occupation O O O B-Category
-The virus is related to organ.	O B-Micro O O O B-BodyPart
-The teacher is known as vehicle.	O B-Occupation O O O B-Category
-The python has to do with yellow.	O B-Tech O O O O B-Color
-The doctor is related to physician.	O B-Occupation O O O B-Occupation
-The dog is related to yellow.	O B-Animal O O O B-Color
-The dog is related to organ.	O B-Animal O O O B-BodyPart
-The heart is also called fruit.	O B-BodyPart O O O B-Category
-The doctor is a programming language.	O B-Occupation O O O O
-The doctor is the same as physician.	O B-Occupation O O O O B-Occupation
-The dog is associated with mammal.	O B-Animal O O O B-Category
-The python is associated with yellow.	O B-Tech O O O B-Color
-The doctor can be categorized as organ.	O B-Occupation O O O O B-BodyPart
-The virus is known as yellow.	O B-Micro O O O B-Color
-The doctor is related to educator.	O B-Occupation O O O B-Occupation
-The banana is a programming language.	O B-Fruit O O O O
-The car can be categorized as vehicle.	O B-Vehicle O O O O B-Category
-The teacher is a vehicle.	O B-Occupation O O B-Category
-The heart has to do with microorganism.	O B-BodyPart O O O O B-Category
-The virus is related to programming language.	O B-Micro O O O O O
-The dog can be categorized as yellow.	O B-Animal O O O O B-Color
-The banana has to do with vehicle.	O B-Fruit O O O O B-Category
-The cat is considered a physician.	O B-Animal O O O B-Occupation
-The car can be categorized as educator.	O B-Vehicle O O O O B-Occupation
-The banana is known as yellow.	O B-Fruit O O O B-Color
-The car can be categorized as physician.	O B-Vehicle O O O O B-Occupation
-The cat is also called mammal.	O B-Animal O O O B-Category
-The cat is a yellow.	O B-Animal O O B-Color
-The doctor is known as animal.	O B-Occupation O O O B-Category
-The python is related to animal.	O B-Tech O O O B-Category
-The car is also called animal.	O B-Vehicle O O O B-Category
-The heart is associated with vehicle.	O B-BodyPart O O O B-Category
-The virus is known as organ.	O B-Micro O O O B-BodyPart
-The apple is a organ.	O B-Fruit O O B-BodyPart
-The virus is the same as vehicle.	O B-Micro O O O O B-Category
-The banana is known as fruit.	O B-Fruit O O O B-Category
-The python is also called educator.	O B-Tech O O O B-Occupation
-The apple is considered a microorganism.	O B-Fruit O O O B-Category
-The doctor is associated with vehicle.	O B-Occupation O O O B-Category
-The virus has to do with animal.	O B-Micro O O O O B-Category
-The python is associated with organ.	O B-Tech O O O B-BodyPart
-The virus is also called programming language.	O B-Micro O O O O O
-The python is associated with fruit.	O B-Tech O O O B-Category
-The heart is associated with programming language.	O B-BodyPart O O O O O
-The apple is known as educator.	O B-Fruit O O O B-Occupation
-The banana is a organ.	O B-Fruit O O B-BodyPart
-The dog can be categorized as vehicle.	O B-Animal O O O O B-Category
-The apple has to do with microorganism.	O B-Fruit O O O O B-Category
-The cat is known as microorganism.	O B-Animal O O O B-Category
-The dog is a mammal.	O B-Animal O O B-Category
-The banana is associated with fruit.	O B-Fruit O O O B-Category
-The car is a microorganism.	O B-Vehicle O O B-Category
-The car is also called microorganism.	O B-Vehicle O O O B-Category
-The cat has to do with yellow.	O B-Animal O O O O B-Color
-The virus is the same as educator.	O B-Micro O O O O B-Occupation
-The cat is known as programming language.	O B-Animal O O O O O
-The cat is the same as microorganism.	O B-Animal O O O O B-Category
-The teacher can be categorized as mammal.	O B-Occupation O O O O B-Category
-The python is known as mammal.	O B-Tech O O O B-Category
-The cat has to do with fruit.	O B-Animal O O O O B-Category
-The teacher is associated with microorganism.	O B-Occupation O O O B-Category
-The dog has to do with organ.	O B-Animal O O O O B-BodyPart
-The heart is associated with fruit.	O B-BodyPart O O O B-Category
-The teacher is a microorganism.	O B-Occupation O O B-Category
-The banana is known as physician.	O B-Fruit O O O B-Occupation
-The doctor is the same as mammal.	O B-Occupation O O O O B-Category
-The doctor can be categorized as organ.	O B-Occupation O O O O B-BodyPart
-The cat is also called yellow.	O B-Animal O O O B-Color
-The doctor is associated with programming language.	O B-Occupation O O O O O
-The virus is associated with fruit.	O B-Micro O O O B-Category
-The banana is a mammal.	O B-Fruit O O B-Category
-The heart is a educator.	O B-BodyPart O O B-Occupation
-The banana is related to physician.	O B-Fruit O O O B-Occupation
-The python is known as animal.	O B-Tech O O O B-Category
-The dog is also called yellow.	O B-Animal O O O B-Color
-The car is known as yellow.	O B-Vehicle O O O B-Color
-The apple is also called microorganism.	O B-Fruit O O O B-Category
-The heart can be categorized as mammal.	O B-BodyPart O O O O B-Category
-The python is also called physician.	O B-Tech O O O B-Occupation
-The car has to do with programming language.	O B-Vehicle O O O O O O
-The python is associated with mammal.	O B-Tech O O O B-Category
-The heart is considered a yellow.	O B-BodyPart O O O B-Color
-The virus is related to fruit.	O B-Micro O O O B-Category
-The python has to do with educator.	O B-Tech O O O O B-Occupation
-The teacher is associated with organ.	O B-Occupation O O O B-BodyPart
-The car is considered a mammal.	O B-Vehicle O O O B-Category
-The cat is known as physician.	O B-Animal O O O B-Occupation
-The doctor is a educator.	O B-Occupation O O B-Occupation
-The car is related to mammal.	O B-Vehicle O O O B-Category
-The heart is the same as educator.	O B-BodyPart O O O O B-Occupation
-The cat is also called yellow.	O B-Animal O O O B-Color
-The teacher is a vehicle.	O B-Occupation O O B-Category
-The teacher is associated with fruit.	O B-Occupation O O O B-Category
-The virus is considered a organ.	O B-Micro O O O B-BodyPart
-The car is associated with programming language.	O B-Vehicle O O O O O
-The car is considered a programming language.	O B-Vehicle O O O O O
-The cat is associated with microorganism.	O B-Animal O O O B-Category
-The python is a yellow.	O B-Tech O O B-Color
-The banana is considered a yellow.	O B-Fruit O O O B-Color
-The cat is the same as organ.	O B-Animal O O O O B-BodyPart
-The python is known as vehicle.	O B-Tech O O O B-Category
-The teacher can be categorized as organ.	O B-Occupation O O O O B-BodyPart
-The banana is known as educator.	O B-Fruit O O O B-Occupation
-The banana is associated with programming language.	O B-Fruit O O O O O
-The cat has to do with educator.	O B-Animal O O O O B-Occupation
-The teacher is the same as physician.	O B-Occupation O O O O B-Occupation
-The virus is related to microorganism.	O B-Micro O O O B-Category
-The apple is considered a educator.	O B-Fruit O O O B-Occupation
-The cat is known as yellow.	O B-Animal O O O B-Color
-The banana is related to organ.	O B-Fruit O O O B-BodyPart
-The virus is related to animal.	O B-Micro O O O B-Category
-The car is associated with programming language.	O B-Vehicle O O O O O
-The dog is known as organ.	O B-Animal O O O B-BodyPart
-The banana is also called mammal.	O B-Fruit O O O B-Category
+label	text_a
+1	what lifts the film high above run-of-the-filth gangster flicks is its refusal to recognize any of the signposts , as if discovering a way through to the bitter end without a map . 
+1	predictably efficient piece 
+1	the film , while not exactly assured in its execution , is notable for its sheer audacity and openness . 
+1	that makes a depleted yesterday feel very much like a brand-new tomorrow 
+0	as the lousy tarantino imitations have subsided 
+1	a visually masterful work of quiet power 
+0	a bitter pill 
+0	proves once again that a man in drag is not in and of himself funny . 
+1	talk to her is so darned assured , we have absolutely no idea who the main characters are until the film is well under way -- and yet it 's hard to stop watching . 
+0	a dull girl , that 's all 
+0	at a tough-man contest 
+0	somewhere inside the mess that is world traveler , there is a mediocre movie trying to get out . 
+0	seagal is painfully foolish in trying to hold onto what 's left of his passe ' chopsocky glory . 
+0	takes no apparent joy 
+1	laughed 
+1	pathetic , endearing 
+0	freeman ca n't save it 
+1	the moment when a woman 's life , out of a deep-seated , emotional need , is about to turn onto a different path 
+1	arrive early and stay late 
+0	written by somebody else 
+1	all of this , and more 
+0	of the worst movies of one year 
+1	a gently funny , sweetly adventurous film that makes you feel genuinely good , that is to say 
+0	's just too bad the screenwriters eventually shoot themselves in the feet with cop flick cliches like an oily arms dealer , squad car pile-ups and the requisite screaming captain 
+1	a hit - 
+1	silly 
+1	comic set 
+1	thought-provoking picture . 
+0	can not mount a cogent defense of the film as entertainment , or even performance art , although the movie does leave you marveling at these guys ' superhuman capacity to withstand pain . 
+0	generates little narrative momentum , and invites unflattering comparisons to other installments in the ryan series 
+1	truly deserving of its oscar nomination 
+0	know the picture is in trouble . 
+0	certainly does n't feel like a film that strays past the two and a half mark 
+1	accomplishes so much that one viewing ca n't possibly be enough 
+1	stevens has a flair for dialogue comedy , the film operates nicely off the element of surprise , and the large cast is solid . 
+0	to duck the very issues it raises 
+0	muting 
+0	into clichés 
+1	its audience -- in a heartwarming , nonjudgmental kind of way -- 
+0	like one of ( spears ' ) music videos in content -- except that it goes on for at least 90 more minutes and , worse , that you have to pay if you want to see it . 
+1	exhilarating , 
+1	its use of the thriller form to examine the labyrinthine ways in which people 's lives cross and change , buffeted by events seemingly out of their control , is intriguing , provocative stuff . 
+0	image-mongering 
+1	except it 's much , much better . 
+1	best 
+0	hit that may strain adult credibility 
+1	tremble without losing his machismo 
+0	a bit repetitive 
+0	trashy time 
+0	suffers from a philosophical emptiness and maddeningly sedate pacing . 
+1	rivals the top japanese animations of recent vintage 
+0	a cockeyed shot all the way . 
+1	there 's nothing wrong with that if the film is well-crafted and this one is 
+1	faster , livelier and a good deal funnier than his original 
+0	growing , moldering pile 
+1	sterling ensemble cast 
+1	french coming-of-age import 
+1	subtly kinky bedside vigils and 
+0	, it traps audiences in a series of relentlessly nasty situations that we would pay a considerable ransom not to be looking at . 
+1	a three-hour cinema master class . 
+0	has little insight into the historical period and its artists , particularly in how sand developed a notorious reputation 
+0	... too sappy for its own good . 
+0	half past dead is like the rock on a wal-mart budget 
+0	sloppily written 
+1	letting you share her one-room world for a while 
+1	it brings to the fore for the gifted but no-nonsense human beings they are and for the still-inestimable contribution they have made to our shared history 
+1	deeply moving french drama 
+0	get another phone call warning you that if the video is n't back at blockbuster before midnight , you 're going to face frightening late fees 
+1	greatest 
+1	projector 's 
+1	the best kind 
+1	comedy 
+0	sag in certain places 
+1	sentimentalizing 
+1	jones has delivered a solidly entertaining and moving family drama . 
+1	panic room is interested in nothing more than sucking you in ... and making you sweat 
+1	is amazing 
+1	barely realize your mind is being blown . 
+0	i could not stand them 
+1	is a movie that understands characters must come first 
+1	the film works 
+1	rejects patent solutions to dramatize life 's messiness from inside out , in all its strange quirks 
+1	for everyone 
+0	forgive its mean-spirited second half 
+1	what can easily be considered career-best performances 
+1	fairly trite narrative 
+0	a rehash of every gangster movie 
+1	funnybone 
+0	's not a bad premise , just a bad movie . 
+0	a question for philosophers , not filmmakers 
+1	denzel 
+0	it hates its characters . 
+0	a group of more self-absorbed women than the mother and daughters featured in this film 
+1	is a great deal of fun 
+0	loses 
+0	're going to feel like you were n't invited to the party 
+0	if this is cinema 
+0	normally , rohmer 's talky films fascinate me , but when he moves his setting to the past , and relies on a historical text , he loses the richness of characterization that makes his films so memorable 
+1	sometimes charming , sometimes infuriating , this argentinean ` dramedy ' succeeds mainly on the shoulders of its actors . 
+1	i stopped thinking about how good it all was , and started doing nothing but reacting to it - feeling a part of its grand locations , thinking urgently as the protagonists struggled , feeling at the mercy of its inventiveness , gasping at its visual delights . 
+1	laughter and self-exploitation 
+1	object lesson 
+0	, pretentious 
+0	herzog simply runs out of ideas and 
+0	has neither the charisma nor the natural affability that has made tucker a star . 
+0	be killed 
+1	it would be nice to see what he could make with a decent budget 
+0	aimless as an old pickup skidding completely out of control on a long patch of black ice 
+0	ignore 
+0	in the shameless self-caricature of ` analyze this ' ( 1999 ) and ` analyze that , ' promised ( or threatened ) for later this year 
+0	fails in making this character understandable , in getting under her skin , in exploring motivation ... well before the end , the film grows as dull as its characters , about whose fate it is hard to care . 
+1	a first-class road movie that proves you can run away from home , but your ego 
+1	it picked me up , swung me around , and dropped me back in my seat with more emotional force than any other recent film . 
+0	in short 
+1	the importance of being earnest , so thick with wit it plays like a reading from bartlett 's familiar quotations 
+1	's a movie that accomplishes so much that one viewing ca n't possibly be enough . 
+0	clumsy and rushed 
+0	less enjoyable 
+1	love , family 
+0	to guilt-trip parents 
+1	exciting 
+0	been there , done that ... a thousand times already , and better . 
+1	of california 
+1	it 's no accident that the accidental spy is a solid action pic that returns the martial arts master to top form . 
+0	father cliché 
+1	surprising emotional depth 
+1	is a winner 
+1	hate to tear your eyes away from the images 
+0	the jokes are sophomoric 
+0	a baffling mixed platter of gritty realism and magic realism with a hard-to-swallow premise 
+0	, it 's really unclear why this project was undertaken 
+1	in the larger picture it paints - of a culture in conflict with itself , with the thin veneer of nationalism that covers our deepest , media-soaked fears 
+1	as a masterfully made one 
+0	becomes long and tedious like a classroom play in a college history course . 
+1	created a substantive movie 
+1	so , i trust 
+0	like one long , meandering sketch inspired by the works of john waters and todd solondz , rather than a fully developed story 
+1	the film manages to keep you at the edge of your seat with its shape-shifting perils , political intrigue and brushes with calamity . 
+0	just bad 
+1	the dream world of teen life 
+1	is a tribute not only to his craft , but to his legend 
+0	low-brow humor , gratuitous violence 
+0	of a movie , a vampire soap opera that does n't make much 
+0	joshua is as blasphemous and nonsensical as a luis buñuel film without the latter 's attendant intelligence , poetry , passion , and genius . 
+1	long and eventful spiritual journey 
+1	19 stays afloat as decent drama/action flick 
+0	tiring 
+0	so much farcical 
+0	none of them are ever any good 
+1	be a breath of fresh air 
+0	dishonesty 
+0	cheapening 
+0	'd need a shower 
+1	find that real natural , even-flowing tone 
+1	wo n't still be tapping 
+1	protagonists 
+0	the saddest action hero performances ever witnessed 
+0	banal in its message and the choice of material 
+0	one-dimensional 
+0	potentially trite and overused 
+0	's apparently nothing left to work with , sort of like michael jackson 's nose 
+1	a dashing and resourceful hero ; a lisping , reptilian villain ; big fights 
+0	tiresomely simpleminded 
+1	satisfying summer 
+1	generous and subversive 
+0	several cliched movie structures : the road movie 
+1	has some quietly moving moments and an intelligent subtlety 
+1	there 's real visual charge to the filmmaking 
+1	poignant japanese epic 
+0	offers nothing more than a bait-and-switch that is beyond playing fair with the audience 
+1	catches dramatic fire 
+1	's fun , wispy , wise and surprisingly inoffensive 
+0	if the movie is more interested in entertaining itself than in amusing us 
+1	was long , intricate , star-studded and visually flashy 
+0	a film that should be relegated to a dark video store corner 
+0	the santa clause 2 's plot may sound like it was co-written by mattel executives and lobbyists for the tinsel industry . 
+1	hip ' 
+1	, eloquent film 
+1	how the film knows what 's unique and quirky about canadians 
+0	to do justice to either effort in three hours of screen time 
+1	build a feel-good fantasy around a vain dictator-madman 
+1	anyone in his right mind would want to see the it 
+1	its effectiveness 
+1	all give life to these broken characters who are trying to make their way through this tragedy 
+1	, what makes the movie fresh 
+1	it 's not particularly well made , but since i found myself howling more than cringing , i 'd say the film works . 
+0	is a shapeless inconsequential move relying on the viewer to do most of the work . 
+0	a doubt 
+1	a welcome relief from baseball movies that try too hard to be mythic , this one is a sweet and modest and ultimately winning story . 
+1	wiggling energy 
+1	takes a surprising , subtle turn at the midway point . 
+0	that crossroads is nothing more than an hour-and-a-half-long commercial for britney 's latest album 
+1	beauty and 
+1	rock-solid little genre picture 
+0	try too hard to be mythic 
+1	realistically terrifying movie 
+1	the cinematic equivalent of a big , tender hug 
+0	noir veil 
+1	the end it 's as sweet as greenfingers 
+1	black hawk down and we 
+1	independent or 
+1	figures out how to make us share their enthusiasm . 
+0	genre cliches 
+1	screenwriter dan schneider and director shawn levy substitute volume and primary colors for humor and bite . 
+0	more dutiful than enchanting ... terribly episodic and lacking the spark of imagination that might have made it an exhilarating treat . 
+1	soars every bit as high 
+0	in telling the story , which is paper-thin and decidedly unoriginal 
+1	very good time 
+1	sets out 
+1	that its dying , in this shower of black-and-white psychedelia , is quite beautiful 
+1	is so rich with period minutiae 
+1	real women have curves wears its empowerment on its sleeve but even 
+1	knockaround guys rarely seems interested in kicking around a raison d'etre that 's as fresh-faced as its young-guns cast . 
+1	was kind of terrific once 
+1	, shining performance offers us the sense that on some elemental level , lilia deeply wants to break free of her old life . 
+0	weighted down with slow , uninvolving storytelling and flat acting 
+1	the actors ' perfect comic timing and sweet , genuine chemistry 
+0	donovan ... squanders his main asset 
+1	painless 
+1	a good simmer 
+1	presents a fascinating but flawed look at the near future 
+1	ranks as the most original in years 
+0	a lower i.q. than when i had entered 
+0	it 's just merely very bad . 
+1	giddy and provocative sexual 
+0	mildly funny , sometimes tedious , ultimately insignificant 
+0	spiteful 
+1	wonderful , imaginative script 
+0	created a monster but did n't know how to handle it 
+0	this film , like the similarly ill-timed antitrust , 
+1	i killed my father compelling 
+1	deserves a place of honor 
+1	a whale of a good time 
+0	is n't as sharp as the original 
+0	does n't quite do justice to the awfulness of the movie , for that comes through all too painfully in the execution . 
+0	monstrous 
+1	the man 
+1	got to love a disney pic with as little cleavage as this one has , and a heroine as feisty and principled as jane 
+1	in the end it 's as sweet as greenfingers 
+0	too ludicrous 
+0	more to be prescribed than recommended -- as visually bland as a dentist 's waiting room , complete with soothing muzak and a cushion of predictable narrative rhythms . 
+0	given the stale plot and pornographic way the film revels in swank apartments , clothes and parties 
+1	for humor in so many teenage comedies 
+1	infuses the film 
+1	rightly 
+1	lil bow wow takes the cake 
+1	best part ' of the movie 
+1	where the bizarre is credible and the real turns magical 
+1	how a skillful filmmaker can impart a message without bludgeoning the audience over the head . 
+0	would be a total washout 
+1	, told well by a master storyteller 
+0	starts promisingly but disintegrates into a dreary , humorless soap opera . 
+1	came up with a treasure chest of material 
+1	lingering terror punctuated by sudden shocks and not constant bloodshed 
+1	the lightest , most breezy movie steven spielberg 
+0	this in recompense : a few early laughs scattered around a plot as thin 
+0	is about as deep as that sentiment 
+1	emotionally complex , dramatically satisfying heroine 
+0	it desperately wants to be a wacky , screwball comedy , but the most screwy thing here is how so many talented people were convinced to waste their time 
+1	is no denying the power of polanski 's film ... 
+1	bring their characters to life 
+1	a beautiful film 
+1	best disney movie 
+0	flopped as surely as a soufflé gone wrong 
+0	offers big , fat , dumb laughs that may make you hate yourself for giving in . 
+1	original 
+0	how tedious 
+1	i recommend it for its originality alone 
+1	sporadic dips 
+1	a huge amount of the credit for the film 's thoroughly winning tone 
+1	the works of an artist 
+1	the son of the bride 's humor is born out of an engaging storyline , which also is n't embarrassed to make you reach for the tissues . 
+0	of him wheedling reluctant witnesses and pointing his camera through the smeared windshield of his rental car 
+1	gives `` mothman '' an irresistibly uncanny ambience that goes a long way toward keeping the picture compelling 
+0	that rare combination of bad writing , bad direction and bad acting -- the trifecta of badness 
+0	work as shallow entertainment , not remotely incisive enough to qualify as drama , monsoon 
+0	this is just lazy writing . 
+0	for the viewer to doze off for a few minutes or make several runs to the concession stand and/or restroom and not feel as if he or she has missed anything 
+1	making kahlo 's art a living , breathing part of the movie , often catapulting the artist into her own work 
+1	the film is small in scope , yet perfectly formed . 
+0	4ever has the same sledgehammer appeal as pokemon videos , but it breathes more on the big screen and induces headaches more slowly 
+1	's old-fashioned in all the best possible ways 
+1	executed with such gentle but insistent sincerity , with such good humor 
+0	who sometimes feel more like literary conceits than flesh-and-blood humans 
+1	be surprised at the variety of tones in spielberg 's work 
+0	a choppy , surface-effect feeling to the whole enterprise 
+1	idealistic kid 
+0	character-who-shall - remain-nameless 
+0	does n't give you enough to feel good about 
+0	own fear and paranoia 
+0	too often spins its wheels with familiar situations and repetitive scenes 
+1	is an interesting story of pointed personalities , courage , tragedy and the little guys vs. the big guys 
+1	mel gibson can gasp , shudder and even tremble without losing his machismo 
+0	that efforts toward closure only open new wounds 
+0	might be distracted by the movie 's quick movements and 
+0	driven by the pathetic idea 
+1	in the present 
+1	behan 's memoir is great material for a film -- rowdy , brawny and lyrical in the best irish sense 
+0	but it also does the absolute last thing we need hollywood doing to us : it preaches 
+0	a movie in which two not very absorbing characters are engaged in a romance you ca n't wait to see end . 
+1	that trademark grin of his -- so perfect for a ballplayer 
+1	sexy , funny and touching 
+0	unassuming 
+0	work better as a real documentary without the insinuation of mediocre acting or a fairly trite narrative 
+0	stale plot and pornographic way 
+0	if this sappy script was the best the contest received , those rejected must have been astronomically bad 
+1	smartly played and smartly directed . 
+1	in mr. spielberg 's 1993 classic 
+0	into a mundane '70s disaster flick 
+0	going to subjugate truth to the tear-jerking demands of soap opera 
+1	witty and often surprising , a dark little morality tale disguised as a romantic comedy . 
+0	a cliché 
+0	a shoddy male hip hop fantasy filled with guns , expensive cars , lots of naked women and rocawear clothing . 
+1	best and most 
+1	crafted 
+1	a terrific b movie -- in fact , the best in recent memory . 
+0	swear that you 've seen it all before , even if you 've never come within a mile of the longest yard 
+1	captured 
+1	a powerful commentary 
+0	the dialogue is frequently overwrought and crudely literal 
+1	's the cute frissons of discovery and humor between chaplin and kidman that keep this nicely wound clock not just ticking , but humming . 
+1	shining 
+1	an extraordinary film , 
+0	become wearisome 
+1	it 's very much like life itself . 
+1	chamber of secrets will find millions of eager fans . 
+1	though her performance is more interesting ( and funnier ) than his 
+1	full of grace 
+1	wonderfully loopy tale 
+0	that perverse element 
+0	without much of a story 
+0	guilty about it 
+1	the flash of rock videos fused with solid performances and eerie atmosphere . 
+0	self-important summer fluff 
+1	a smart , compelling drama . 
+0	obvious copy 
+0	realize there 's no place for this story to go but down 
+0	to have ransacked every old world war ii movie for overly familiar material 
+1	captures the raw comic energy of one of our most flamboyant female comics . 
+1	career peak 
+1	head-turner 
+1	brainless , but enjoyably over-the-top , the retro gang melodrama , deuces wild represents 
+1	winning and wildly fascinating work 
+1	for the sights and sounds of the wondrous beats 
+1	unparalleled proportions , writer-director parker 
+1	in its dry and forceful way , it delivers the same message as jiri menzel 's closely watched trains and danis tanovic 's no man 's land . 
+1	lead actress gaï , she of the impossibly long limbs and sweetly conspiratorial smile 
+0	pay money for what we can get on television for free 
+0	watching slim travel incognito in a ridiculous wig no respectable halloween costume shop would ever try to sell 
+0	getting there is not even half the interest . 
+1	wendigo is a genuinely bone-chilling tale . 
+0	remember back when thrillers actually thrilled 
+1	hooks us 
+0	burn the negative and the script 
+0	is far-flung , illogical , and plain stupid . 
+0	light nor magical enough to bring off this kind of whimsy 
+1	both exuberantly 
+0	low-rent -- and even lower-wit -- rip-off 
+0	a self-indulgent script 
+1	is worth seeking . 
+0	a most hard-hearted person 
+0	begin to tell you how tedious , how resolutely unamusing , how thoroughly unrewarding all of this is , and what a reckless squandering of four fine acting talents 
+0	lacks the spirit of the previous two 
+1	expecting 
+1	a compelling and horrifying story 
+1	that is worthy of our respect 
+0	that were once amusing 
+1	of riveting power and sadness 
+1	is a riot . 
+0	dogs who are smarter than him 
+1	a great cast and 
+1	believe it 
+0	, this somber cop drama ultimately feels as flat as the scruffy sands of its titular community . 
+1	a crowdpleaser 
+1	plotting 
+1	dramatic animated feature 
+0	's supposed to be post-feminist breezy but ends up as tedious as the chatter of parrots raised on oprah . 
+1	compelling motion 
+0	latest effort is not the director at his most sparkling 
+0	romanek keeps adding flourishes -- artsy fantasy sequences -- that simply feel wrong . 
+1	into the script , which has a handful of smart jokes 
+1	happy , heady jumble 
+0	lukewarm and quick to pass 
+0	gaudy hawaiian shirt 
+0	surprisingly anemic disappointment 
+0	pair that with really poor comedic writing ... and 
+1	its gentle , touching story 
+0	believing people were paid to make it 
+1	a thought-provoking and often-funny drama about isolation . 
+0	random glass-shattering 
+1	an exceptionally good idea 
+1	watchable by a bravura performance 
+1	a better vehicle 
+1	it 's a sharp movie about otherwise dull subjects . 
+1	garcia , who perfectly portrays the desperation of a very insecure man 
+0	were made for the palm screen 
+1	byler is too savvy a filmmaker to let this morph into a typical romantic triangle . 
+1	'' wanted and quite honestly 
+0	may not be an important movie , or even a good one 
+1	is brilliant , 
+1	great marching bands 
+0	is n't as sharp as the original ... despite some visual virtues , ` blade ii ' just does n't cut it . 
+1	have an honesty and dignity that breaks your heart 
+0	aggressively anti-erotic 
+1	it has fun with the quirks of family life , but it also treats the subject with fondness and respect 
+1	its charms and 
+0	is a bomb 
+1	american adobo has its heart ( and its palate ) in the right place 
+1	is a warm and well-told tale of one recent chinese immigrant 's experiences in new york city . 
+1	of a phonograph record 
+0	'd much rather watch teens poking their genitals into fruit pies 
+0	it should be interesting , it should be poignant , it turns out to be affected and boring 
+0	the film occasionally tries the viewer 's patience with slow pacing and a main character who sometimes defies sympathy 
+1	sparkling 
+0	a rip-off of the matrix 
+0	this woefully hackneyed movie 
+1	elling never gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry . 
+1	inspire a trip to the video store -- 
+1	in amazement over the fact 
+0	overlong infomercial 
+0	random , superficial humor 
+0	there 's something fishy about a seasonal holiday kids ' movie ... that derives its moment of most convincing emotional gravity from a scene where santa gives gifts to grownups . 
+1	's both charming and well acted 
+1	a heavyweight film 
+0	costner 's warm-milk persona is just as ill-fitting as shadyac 's perfunctory directing chops , and 
+1	only with muscles and a lot more smarts , but just as endearing and easy to watch 
+0	interested in jerking off in all its byzantine incarnations to bother pleasuring its audience 
+1	written so well , 
+1	choosing his roles with the precision of the insurance actuary 
+1	told with sharp ears and eyes for the tenor of the times 
+0	fairly harmless but ultimately lifeless 
+0	wewannour money back , 
+1	and refined piece 
+1	of diverse political perspectives 
+1	has a true talent for drawing wrenching performances from his actors ( improvised over many months ) and for conveying the way tiny acts of kindness make ordinary life survivable . 
+1	, kissing jessica steinis quirky , charming and often hilarious . 
+1	a colorful , joyous celebration of life 
+0	treats his women -- as dumb , credulous , unassuming , subordinate subjects 
+0	very little to add beyond the dark visions already relayed by superb 
+0	... the story simply putters along looking for astute observations and coming up blank . 
+1	scotland , pa would be forgettable if it were n't such a clever adaptation of the bard 's tragic play . 
+0	screwed-up characters 
+1	of sensitive observation 
+0	be used to burn every print of the film 
+0	we really have n't had a good cheesy b-movie playing in theaters since ... well ... since last week 's reign of fire 
+0	we have no idea what in creation is going on 
+0	knockoff 
+0	defeated by a screenplay that forces them into bizarre , implausible behavior 
+0	to convince us that acting transfigures esther 
+1	' swims away with the sleeper movie of the summer award . 
+0	where the film ultimately fails 
+1	is impressive . 
+1	enough may pander to our basest desires for payback , but unlike many revenge fantasies , it ultimately delivers 
+0	is n't much better 
+1	stevens ' vibrant creative instincts are the difference between this and countless other flicks about guys and dolls . 
+1	captured the chaos of an urban conflagration 
+1	will have a great time 
+1	a fanciful drama about napoleon 's last years and his surprising discovery of love and humility . 
+1	as disney 's 1937 breakthrough 
+0	weave a protective cocoon around his own ego 
+1	starts out with tremendous promise , 
+1	amusing , tender and heart-wrenching 
+0	carries a little too much ai n't - she-cute baggage into her lead role as a troubled and determined homicide cop to quite pull off the heavy stuff . 
+1	more than a worthwhile effort 
+0	the star who helped give a spark to `` chasing amy '' and `` changing lanes '' falls flat as thinking man cia agent jack ryan in this summer 's new action film , `` the sum of all fears 
+0	's hardly over before it begins to fade from memory 
+0	leaden as the movie sputters 
+0	truth-in-advertising hounds 
+0	distinctly sub-par 
+1	by the power and grace of one of the greatest natural sportsmen of modern times 
+0	too heavy for the plot 
+0	gets sillier , not scarier 
+0	walked the delicate tightrope between farcical and loathsome 
+0	of relentlessly nasty situations 
+1	them , who have carved their own comfortable niche in the world 
+0	its tragic waste of life 
+0	follow the same blueprint from hundreds of other films , sell it to the highest bidder and walk away without anyone truly knowing your identity 
+1	barry 's cold-fish act makes the experience worthwhile 
+1	made , on all levels , 
+1	` just letting the mountain tell you what to do 
+1	it 's refreshing that someone understands the need for the bad boy ; diesel , with his brawny frame and cool , composed delivery , fits the bill perfectly . 
+1	too long to turn his movie in an unexpected direction 
+0	cheapened 
+0	their lamentations are pretty much self-centered ) 
+0	over its seemingly eternal running time to pique your interest , your imagination , your empathy or anything , really , save your disgust and your indifference 
+1	as a noble teacher who embraces a strict moral code 
+0	the advantage of a postapocalyptic setting is that it can be made on the cheap . 
+0	pointless , meandering 
+1	anyone who wants to start writing screenplays 
+0	there was ever a movie where the upbeat ending feels like a copout 
+1	funnier than being about something 
+1	meaning in relationships or work 
+1	poignant and moving , a walk to remember is an inspirational love story , capturing the innocence and idealism of that first encounter . 
+0	unstable 
+0	a wannabe comedy 
+1	delivers a perfect performance that captures the innocence and budding demons within a wallflower 
+1	smart and taut . 
+1	an elegant work 
+0	invested in undergraduate doubling subtexts and ridiculous stabs at existentialism reminding of the discovery of the wizard of god 
+0	torments and angst 
+0	an overly sillified plot and stop-and-start pacing 
+0	sketchiest 
+1	visual flourishes 
+1	fresh , unforced naturalism to their characters 
+0	a movie that the less charitable might describe as a castrated cross between highlander and lolita . 
+0	helped give a spark to `` chasing amy '' and `` changing lanes '' falls flat as thinking man cia agent jack ryan in this summer 's new action film , `` the sum of all fears 
+0	as with so many merchandised-to-the-max movies of this type 
+0	a crucial third act miscalculation 
+0	the obstacles of a predictable outcome and a screenplay 
+1	a fresh point of view 
+0	a half-assed film . 
+0	nothing more or less than an outright bodice-ripper -- it should have ditched the artsy pretensions and revelled in the entertaining shallows . 
+0	has all of dean 's mannerisms and self-indulgence , but none of his sweetness and vulnerability . 
+0	's where the film ultimately fails 
+1	leaping from one arresting image to another , songs from the second floor has all the enjoyable randomness of a very lively dream and so manages to be compelling , amusing and unsettling at the same time . 
+1	a game supporting cast 
+1	most resonant film since the killer . 
+0	will be lulled into a coma 
+0	the pathetic idea 
+0	should have gone straight to video . 
+0	avary 's failure to construct a story with even a trace of dramatic interest 
+0	dismally dull sci-fi comedy . 
+0	an all-time low for kevin costner 
+0	human nature , in short , is n't nearly as funny as it thinks it is ; 
+1	wo n't have any trouble getting kids to eat up these veggies 
+1	an animation landmark as monumental as disney 's 1937 breakthrough snow white and the seven dwarfs . 
+1	a vivid , sometimes surreal 
+1	just a bunch of good actors flailing around in a caper that 's neither original nor terribly funny 
+1	touched by this movie 
+0	the latest adam sandler assault and possibly the worst film of the year . 
+0	piccoli 
+1	chance to prove his worth 
+1	be viewed and treasured for its extraordinary intelligence and originality as well as 
+0	that could easily wait for your pay per view dollar 
+1	may be why it 's so successful at lodging itself in the brain 
+0	some problems 
+1	take on a striking new significance for anyone who sees the film 
+0	if considerably less ambitious 
+0	the soul-searching deliberateness of the film , although leavened nicely with dry absurdist wit , eventually becomes too heavy for the plot . 
+1	... the first 2/3 of the film are incredibly captivating and insanely funny , thanks in part to interesting cinematic devices ( cool visual backmasking ) , a solid cast , and some wickedly sick and twisted humor ... 
+0	stalking 
+0	tragedies 
+0	may be the first cartoon ever to look as if it were being shown on the projection television screen of a sports bar . 
+1	sweet , funny , charming , and completely delightful 
+0	dumb , narratively chaotic , visually sloppy ... a weird amalgam 
+1	emotionally and narratively complex filmmaking 
+1	part of the film 's cheeky charm comes from its vintage schmaltz . 
+1	makes her nomination as best actress even more of a an a 
+0	if you are curious to see the darker side of what 's going on with young tv actors ( dawson leery did what ?!? ) , or see some interesting storytelling devices , you might want to check it out , but there 's nothing very attractive about this movie 
+1	see her esther blossom as an actress 
+1	is a real charmer 
+0	more than a widget cranked out on an assembly line to see if stupid americans will get a kick out of goofy brits with cute accents performing ages-old slapstick and unfunny tricks . 
+0	the sentimental oh-those-wacky-brits genre that was ushered in by the full monty and is still straining to produce another smash 
+0	has flopped as surely as a soufflé gone wrong . 
+1	france 's foremost cinematic poet 
+0	because his character 's deceptions ultimately undo him 
+0	with the lazy material and the finished product 's unshapely look 
+1	an acceptable way to pass a little over an hour with moviegoers ages 
+0	, sometimes creepy intimacy 
+1	breaks your heart 
+1	surprisingly funny movie 
+1	assembles a fascinating profile of a deeply humanistic artist who , in spite of all that he 's witnessed , remains surprisingly idealistic , and retains an extraordinary faith in the ability of images to communicate the truth of the world around him . 
+0	third-rate 
+0	human darkness 
+0	mundane soap opera 
+1	a quiet , disquieting triumph . 
+1	the movie should jolt you out of your seat a couple of times , give you a few laughs , and leave you feeling like it was worth your seven bucks , even though it does turn out to be a bit of a cheat in the end . 
+1	the pleasure 
+1	will have fun with 
+0	no real sense of suspense 
+1	it lets you brush up against the humanity of a psycho , without making him any less psycho . 
+1	both a grand tour through 300 hundred years of russian cultural identity and a stunning technical achievement . 
+0	uncinematic 
+1	of a man with unimaginable demons 
+1	a fair amount of b-movie excitement 
+0	suffer ' 
+0	a retooling of fahrenheit 451 , and even as a rip-off of the matrix 
+1	inspiring and 
+1	life-changing chance encounters 
+0	in a dysfunctional family 
+1	breathe out of every frame 
+1	at once visceral and spiritual , wonderfully vulgar and sublimely lofty -- and 
+0	odd , haphazard , and inconsequential romantic 
+0	a disaster of a story 
+1	it reveals 
+1	not a film for the faint of heart or conservative of spirit , but for the rest of us -- especially san francisco lovers 
+1	enough cool 
+1	directs this intricately structured and well-realized drama that presents a fascinating glimpse of urban life and the class warfare that embroils two young men 
+1	straightforward , emotionally honest manner 
+1	are quite admirable 
+0	stock clichés 
+0	does n't really go anywhere . 
+0	's nowhere near as good as the original . 
+1	takes great pleasure in watching the resourceful molly stay a step ahead of her pursuers 
+0	of a particularly nightmarish fairytale 
+1	amusing enough 
+0	for a story set at sea , ghost ship is pretty landbound , with its leaden acting , dull exposition and telegraphed ` surprises . ' 
+1	with all the mounting tension of an expert thriller 
+1	an actor this uncharismatically beautiful 
+1	a ' list cast 
+0	no amount of nostalgia for carvey 's glory days 
+1	can outgag any of those young whippersnappers making moving pictures today 
+1	a superb performance 
+0	a lack 
+1	to pass without reminding audiences that it 's only a movie 
+1	an ambitiously naturalistic , albeit half-baked , drama about an abused , inner-city autistic teen . 
+1	the pleasure of his sounds and images 
+0	guilt-suffused melodrama 
+1	if you 've grown tired of going where no man has gone before , but several movies have - take heart . 
+0	this movie 's lack of ideas 
+1	, this melancholic film noir reminded me a lot of memento ... 
+0	are a little peculiar 
+0	combined with so much first-rate talent ... could have yielded such a flat , plodding picture 
+0	the obnoxious special effects , the obligatory outbursts of flatulence and the incessant , so-five-minutes-ago pop music on the soundtrack overwhelm what is left of the scruffy , dopey old hanna-barbera charm . 
+0	a nightmare about bad cinema 
+0	comes through all too painfully in the execution 
+1	such master screenwriting comes courtesy of john pogue , the yale grad who previously gave us `` the skulls '' and last year 's `` rollerball . '' 
+1	love robin tunney 
+1	the story feels like the logical , unforced continuation of the careers of a pair of spy kids 
+1	, this oscar-nominated documentary takes you there . 
+1	any art-house moviegoer 
+0	devotees of star trek ii : the wrath of khan will feel a nagging sense of deja vu , 
+0	the upbeat ending feels like a copout 
+1	of the most multilayered and sympathetic female characters of the year 
+1	a fan of the genre 
+0	nights feels more like a quickie tv special than a feature film ... it 's not even a tv special you 'd bother watching past the second commercial break 
+1	fine-looking 
+0	terribly episodic and lacking the spark of imagination that might have made it an exhilarating 
+1	well-balanced 
+1	is a fine-looking film with a bouncy score and a clutch of lively songs for deft punctuation 
+0	you may think you have figured out the con and the players in this debut film by argentine director fabian bielinsky , but while you were thinking someone made off with your wallet . 
+0	staggered from the theater and blacked out in the lobby 
+1	the best part about `` gangs '' was daniel day-lewis . 
+1	this region and its inhabitants 
+0	the price of the match that should be used to burn every print of the film 
+1	extravaganza 
+1	of eager fans 
+0	unspeakably , unbearably dull , featuring reams of flatly delivered dialogue and a heroine who comes across as both shallow and dim-witted . 
+1	warmth and gentle 
+1	takes a walking-dead , cop-flick subgenre and beats new life into it . 
+0	that 's hardly any fun to watch 
+1	the sexuality 
+0	mediocre fable from burkina faso . 
+1	a brilliant , absurd collection 
+0	to give the film the substance it so desperately needs 
+1	delightfully charming -- 
+1	may not touch the planet 's skin , but understands the workings of its spirit . 
+1	a good deal funnier than his original 
+0	sade achieves the near-impossible : it turns the marquis de sade into a dullard 
+0	a fragmented film 
+0	an amateurish screenplay 
+0	style-free 
+0	a movie that , quite simply , should n't have been made . 
+1	turns out to be more interesting than any of the character dramas , which never reach satisfying conclusions 
+0	dripping with cliche and bypassing no opportunity to trivialize the material 
+0	abandoned , 
+0	talkiness is n't necessarily bad , but the dialogue frequently misses the mark . 
+0	manipulative 
+0	's a barely tolerable slog over well-trod ground . 
+1	, you 're engulfed by it . 
+1	good stuff 
+1	an intelligent screenplay and 
+1	has a key strength in its willingness to explore its principal characters with honesty , insight and humor 
+1	rare drama 
+1	the gifted crudup has the perfect face to play a handsome blank yearning to find himself , 
+1	amari has dressed up this little parable in a fairly irresistible package full of privileged moments and memorable performances . 
+1	's something to be said for a studio-produced film that never bothers to hand viewers a suitcase full of easy answers 
+0	the script , the gags , the characters are all direct-to-video stuff , 
+1	, it also has plenty for those ( like me ) who are n't . 
+1	a solid , psychological action film from hong kong . 
+0	it 's crap on a leash -- far too polite to scale the lunatic heights of joe dante 's similarly styled gremlins . 
+1	definitely funny stuff , but it 's more of the ` laughing at ' variety than the ` laughing with 
+0	spiffing up leftovers that are n't so substantial or fresh 
+0	a grating , emaciated flick . 
+1	uses modern technology to take the viewer inside the wave . 
+1	new star wars movie 
+0	bad sign 
+1	in its willingness to explore its principal characters with honesty , insight and humor 
+0	irritates 
+0	even slightly wised-up kids would quickly change the channel 
+0	hopes to camouflage how bad his movie is 
+1	of the most purely enjoyable and satisfying evenings at the movies i 've had in a while 
+1	is nothing short of refreshing 
+1	spiked by jolts of pop music 
+0	these people 
+1	although mainstream american movies tend to exploit the familiar , every once in a while a film arrives from the margin that gives viewers a chance to learn , to grow , to travel . 
+1	inventive action sequences 
+1	warmth to go around , with music and laughter 
+1	comes alive as its own fire-breathing entity in this picture . 
+1	'' is suitable summer entertainment that offers escapism without requiring a great deal of thought . 
+1	scorsese 's bold images and generally smart casting 
+1	bravo 's 
+1	most creative , energetic and original 
+1	, surprising romance 
+1	independent-community 
+0	ame and unnecessary 
+1	fascinating part 
+1	is always watchable . 
+0	enactments , however fascinating they may be as history , are too crude to serve the work especially well . 
+0	seems content to dog-paddle in the mediocre end of the pool 
+1	precious 
+1	a visual spectacle full of stunning images and effects . 
+0	an unsettling sight 
+1	, the characters have a freshness and modesty that transcends their predicament . 
+1	there is something that is so meditative and lyrical about babak payami 's boldly quirky iranian drama secret ballot ... a charming and evoking little ditty that manages to show the gentle and humane side of middle eastern world politics 
+0	no unifying rhythm or visual style 
+1	smile-button faces 
+1	whose restatement is validated by the changing composition of the nation 
+1	finds warmth in the coldest environment and 
+0	instead of panoramic sweep , kapur gives us episodic choppiness , undermining the story 's emotional thrust . 
+1	a fantastic dual performance from ian holm 
+0	the whole affair , true story or not , feels incredibly hokey 
+1	a charming , funny and beautifully crafted import 
+1	exceptional detail 
+1	shanghai ghetto may not be as dramatic as roman polanski 's the pianist , but its compassionate spirit soars every bit as high 
+1	following your dream 
+0	a beautiful food entrée that is n't heated properly , so that it ends up a bit cold and relatively flavorless 
+1	an engrossing story 
+1	has an eye for the ways people of different ethnicities talk to and about others outside the group . 
+1	the plot of the comeback curlers is n't very interesting actually , but what i like about men with brooms and what is kind of special is how the film knows what 's unique and quirky about canadians 
+0	think of a film more cloyingly sappy than evelyn 
+1	an interesting story of pointed personalities , courage , tragedy and the little guys 
+1	is good , except its timing . 
+0	when there 's nothing else happening 
+1	those who are drying out from spring break 
+1	, even-flowing tone 
+1	originality ai n't on the menu , but there 's never a dull moment in the giant spider invasion comic chiller 
+1	that encourages you to accept it as life and go with its flow 
+0	a frustrating misfire 
+0	to sleep or bewildered by the artsy and often pointless visuals 
+0	clichéd and shallow 
+0	low-grade 
+1	what makes the film special is the refreshingly unhibited enthusiasm that the people , in spite of clearly evident poverty and hardship , bring to their music . 
+0	carvey 's rubber-face routine is no match for the insipid script he has crafted with harris goldberg . 
+1	an achingly enthralling premise , 
+0	like the similarly ill-timed antitrust 
+1	clever concept 
+0	lumbering 
+1	to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense 
+0	there are very , very good reasons for certain movies to be sealed in a jar and left on a remote shelf indefinitely . 
+1	created a masterful work of art of their own 
+1	wickedly funny , visually engrossing , 
+0	the movie does such an excellent job of critiquing itself at every faltering half-step of its development that criticizing feels more like commiserating . 
+1	washed away by sumptuous ocean visuals and the cinematic stylings of director john stockwell 
+1	utter sincerity 
+1	there 's an admirable rigor to jimmy 's relentless anger , and to the script 's refusal of a happy ending , but 
+1	appealing veneer 
+0	turns a potentially interesting idea into an excruciating film 
+1	a feel-good movie 
+1	i must report that the children of varying ages in my audience never coughed , fidgeted or romped up and down the aisles for bathroom breaks . 
+1	there are some laughs in this movie 
+0	of its assigned marks to take on any life of its own 
+0	if stupid americans will get a kick out of goofy brits with cute accents performing ages-old slapstick and unfunny tricks 
+1	is not so much a work of entertainment as it is a unique , well-crafted psychological study of grief . 
+0	never decides whether it wants to be a black comedy , drama , melodrama or some combination of the three . 
+0	every visual joke is milked , every set-up obvious and lengthy , every punchline predictable 
+1	best gay love stories 
+1	moving 
+0	it feels more like the pilot episode of a tv series than a feature film 
+1	humor and heart and 
+1	the result is somewhat satisfying -- it still comes from spielberg , who has never made anything that was n't at least watchable . 
+1	delights and 
+1	stuff to stand tall with pryor , carlin and murphy 
+1	spaces both large ... and small ... with considerable aplomb 
+0	unlikable characters and a self-conscious sense 
+0	hurried , badly cobbled look 
+0	dismissed as mindless 
+1	life-embracing 
+1	's simply , and surprisingly , a nice , light treat 
+0	the bellyaching of a paranoid and unlikable man 
+0	feel contradictory things 
+0	the party favors to sober us up with the transparent attempts at moralizing 
+0	some movies were made for the big screen , some for the small screen 
+1	this likable movie 
+1	exceeding expectations 
+0	hard to imagine anybody ever being `` in the mood '' to view a movie as harrowing and painful as the grey zone 
+1	's no accident that the accidental spy is a solid action pic that returns the martial arts master to top form 
+1	of the theater 
+1	the most enchanting film 
+0	those who are not acquainted with the author 's work , on the other hand , may fall fast asleep . 
+1	pays off and is effective if you stick with it 
+0	like a soft drink that 's been sitting open too long : it 's too much syrup and not enough fizz 
+0	threw loads of money at an idea that should 've been so much more even if it was only made for teenage boys and wrestling fans . 
+1	a more measured or polished production 
+1	is even better than the fellowship 
+1	in which the hero might have an opportunity to triumphantly sermonize 
+1	is the performance of gedeck , who makes martha enormously endearing . 
+0	the bad sound , the lack of climax and , worst of all , 
+0	were as claustrophic , suffocating and chilly as the attics to which they were inevitably consigned 
+1	the charms of the lead performances 
+0	the movie is n't painfully bad , something to be ` fully experienced ' 
+1	good film 
+1	is extremely funny , 
+1	hip-hop indie snipes 
+0	child acting 
+1	puts the dutiful efforts of more disciplined grade-grubbers 
+0	at some point , all this visual trickery stops being clever and devolves into flashy , vaguely silly overkill . 
+0	wears 
+1	their bodies 
+0	does n't completely survive its tonal transformation from dark comedy to suspense thriller 
+0	dismal 
+0	as for children , they wo n't enjoy the movie at all . 
+0	change the fact that what we have here is a load of clams left in the broiling sun for a good three days 
+0	done that ... a thousand times 
+1	smarter than your average bond 
+1	genuinely 
+1	the extraordinarily rich landscape 
+1	the character to unearth the quaking essence of passion , grief and fear 
+0	're left thinking the only reason to make the movie is because present standards allow for plenty of nudity 
+1	as the old saying goes , because it 's true 
+1	you 'd do well to check this one out because it 's straight up twin peaks action ... 
+1	it 's a glorious spectacle like those d.w. griffith made in the early days of silent film . 
+0	the rest of the cast comes across as stick figures reading lines from a teleprompter . 
+0	of exploitative garbage 
+0	interesting than the screenplay , which lags badly in the middle and lurches between not-very-funny comedy , unconvincing dramatics and some last-minute action strongly reminiscent of run lola run 
+1	actually has something interesting to say 
+1	is well worthwhile . 
+1	belly laughs 
+1	most good-hearted yet sensual entertainment 
+1	also a -- dare i say it twice -- delightfully charming -- and totally american , i might add -- slice of comedic bliss 
+1	shines through every frame . 
+1	creates an impeccable sense of place 
+0	sci-fi drama that takes itself all too seriously 
+0	unwary viewers 
+1	deserves a place of honor next to nanook as a landmark in film history 
+0	is just garbage 
+0	of male-ridden angst 
+1	its promising cast 
+0	one hour photo may seem disappointing in its generalities , but it 's the little nuances that perhaps had to escape from director mark romanek 's self-conscious scrutiny to happen , that finally get under your skin 
+1	satisfying entertainment 
+0	hit on a 15-year old when you 're over 100 
+0	an unsuccessful attempt at a movie of ideas 
+1	in luck 
+1	does display an original talent 
+1	while somewhat less than it might have been , the film is a good one , and you 've got to hand it to director george clooney for biting off such a big job the first time out 
+1	an enjoyable level of ridiculousness 
+1	that constantly defies expectation 
+1	highest power 
+0	quickly enters the pantheon of wreckage that includes battlefield earth and showgirls 
+1	albeit a visually compelling one 
+1	mib ii '' succeeds due to its rapid-fire delivery and enough inspired levity that it ca n't be dismissed as mindless . 
+0	listen to extremist name-calling 
+0	idiots who do n't care what kind of sewage they shovel into their mental gullets to simulate sustenance 
+1	crudup 's anchoring performance 
+1	an infectious enthusiasm 
+0	the more problematic aspects 
+1	a purposefully reductive movie 
+0	been a confusing and horrifying vision 
+1	take care of my cat emerges as the very best of them 
+0	too much of storytelling moves away from solondz 's social critique , casting its audience as that of intellectual lector in contemplation of the auteur 's professional injuries . 
+1	is to be mesmerised 
+0	the con 
+0	and mainly unfunny 
+0	promises a new kind of high but delivers the same old bad trip 
+1	a time machine , a journey back to your childhood , when cares melted away in the dark theater , and films had the ability to mesmerize , astonish and entertain . 
+1	does a great combination act as narrator , jewish grandmother and subject -- 
+1	finds warmth in the coldest environment 
+0	to sober us up with the transparent attempts at moralizing 
+0	overtly silly dialogue 
+0	a dark pit having a nightmare about bad cinema 
+1	positive ( if tragic ) note 
+1	misconstrued as weakness 
+1	wonderfully speculative character 
+0	is not even half the interest 
+1	a splendid job 
+1	that fights a good fight on behalf of the world 's endangered reefs 
+0	acting that could be any flatter 
+0	would require the patience of job to get through this interminable , shapeless documentary about the swinging subculture . 
+1	what makes this film special is serry 's ability to take what is essentially a contained family conflict and put it into a much larger historical context . 
+0	they just have problems , which are neither original nor are presented in convincing way . 
+0	supposedly , pokemon ca n't be killed , but pokemon 4ever practically assures that the pocket monster movie franchise is nearly ready to keel over . 
+0	is n't heated properly , so that it ends up 
+1	a smart , steamy mix 
+0	the mediocre end of the pool 
+0	seems embarrassed by his own invention 
+1	busts out of its comfy little cell 
+0	wanes . 
+1	is no doubt that krawczyk deserves a huge amount of the credit for the film 's thoroughly winning tone 
+1	this humbling little film , 
+1	smart and funny 
+0	if the film fails to fulfill its own ambitious goals 
+0	schlocky 
+1	the way it introduces you to new , fervently held ideas and fanciful thinkers 
+0	ever reaching the comic heights it obviously desired 
+0	pretentious mess 
+1	a thoroughly engaging , surprisingly touching british comedy . 
+1	the most practiced curmudgeon 
+1	the artwork is spectacular 
+1	takes off in totally unexpected directions and 
+1	steal your heart away 
+1	it 's moving 
+1	clever and funny 
+1	is a fast , frenetic , funny , even punny 6 -- aimed specifically at a grade-school audience . 
+1	a staggeringly compelling character 
+1	thanks to the presence of ` the king , ' it also rocks . 
+1	seen , constantly pulling the rug from underneath us , seeing things from new sides , plunging deeper , getting more intense 
+0	's horribly depressing and not very well done . 
+1	there are laughs aplenty , and , as a bonus , 
+1	its own cuteness 
+1	from an honored screen veteran and a sparkling newcomer who instantly transform themselves into a believable mother/daughter pair 
+0	the plot grinds itself out in increasingly incoherent fashion 
+1	a sophisticated flower child 's 
+1	accentuating 
+0	by the standards of knucklehead swill 
+0	all mixed up together like a term paper from a kid who ca n't quite distinguish one sci-fi work from another 
+0	non-firsthand experience 
+1	see this terrific film with your kids -- 
+1	even when there are lulls , the emotions seem authentic , and the picture is so lovely toward the end ... you almost do n't notice the 129-minute running time 
+0	burns gets caught up in the rush of slapstick thoroughfare . 
+0	it 'll probably be in video stores by christmas , 
+0	this is surely one of the most frantic , virulent and foul-natured christmas season pics ever delivered by a hollywood studio . 
+1	it 's thanks to huston 's revelatory performance . 
+1	look at female friendship , spiked with raw urban humor . 
+1	scotland looks wonderful , the fans are often funny fanatics , the showdown sure beats a bad day of golf . 
+0	if divine secrets of the ya-ya sisterhood suffers from a ploddingly melodramatic structure 
+1	underrated professionals 
+0	, in the history of the academy , people may be wondering what all that jazz was about `` chicago '' in 2002 . 
+1	a consistent tone 
+1	the last metro ) 
+0	that spends a bit too much time on its fairly ludicrous plot 
+1	great to look at , and funny 
+0	even if it made its original release date last fall , it would 've reeked of a been-there , done-that sameness . 
+0	its rough-around-the-edges , low-budget constraints 
+1	strolls 
+1	raises some worthwhile themes 
+0	a dull moment 
+1	's the perfect star vehicle for grant , allowing him to finally move away from his usual bumbling , tongue-tied screen persona 
+1	since beauty and the beast 
+1	sobering , heart-felt drama 
+0	makes me feel weird / thinking about all the bad things in the world / like puppies with broken legs / and butterflies that die / and movies starring pop queens 
+1	genuine ones 
+1	a triumph , a film that hews out a world and carries us effortlessly from darkness to light . 
+0	a `` home alone '' film that is staged like `` rosemary 's baby , '' but is not as well-conceived as either of those films . 
+1	informative , intriguing , observant , 
+1	entirely suspenseful 
+1	without doubt an artist of uncompromising vision 
+0	lacks 
+0	issues ' 
+1	fest that 'll put hairs on your chest . 
+0	disjointed mess 
+1	has rewards , 
+1	seem to match the power of their surroundings 
+0	would not improve much after a therapeutic zap of shock treatment . 
+1	looking for a smart , nuanced look at de sade and what might have happened at picpus 
+0	of being overrun by corrupt and hedonistic weasels 
+1	delivers roughly equal amounts of beautiful movement and inside information . 
+1	more enjoyable than i expected 
+0	like most movies about the pitfalls of bad behavior 
+1	ode to tackling life 's wonderment 
+0	leaden and dull 
+1	going to make box office money that makes michael jordan jealous 
+1	it 's a fantastic movie 
+0	sitting through this sloppy , made-for-movie comedy special 
+1	a good line 
+1	to anyone who loves both dance and cinema 
+1	whose boozy , languid air is balanced by a rich visual clarity and deeply 
+1	that i truly enjoyed most of mostly martha while i ne 
+1	tootsie 
+1	very handsomely produced 
+1	the gifted korean american stand-up 
+0	a stiff 
+1	the screenplay never lets us forget that bourne was once an amoral assassin just like the ones who are pursuing him ... there is never really a true `` us '' versus `` them '' 
+1	surprisingly powerful and universal 
+0	when her material is not first-rate 
+0	how sandler is losing his touch 
+1	bewilderingly brilliant and entertaining 
+0	strangers , which opens today in the new york metropolitan area , so distasteful 
+0	friday after next spreads them pretty thin 
+0	the hell 
+1	unstoppable superman 
+0	dull exposition 
+0	so sloppy 
+1	about half of them are funny , a few are sexy and 
+1	most pleasurable expressions of pure movie love to come from an american director in years . 
+1	with a large cast representing a broad cross-section , tavernier 's film bounds along with the rat-a-tat energy of `` his girl friday , '' maintaining a light touch while tackling serious themes . 
+0	, an archetypal desire to enjoy good trash every now and then . 
+0	white oleander may leave you rolling your eyes in the dark , 
+0	a plodding teen remake that 's so mechanical you can smell the grease on the plot 
+1	's enough to sustain laughs 
+0	soulless techno-tripe . 
+0	a heavy stench of ` been there , done 
+1	single-handedly turned a plane full of hard-bitten , cynical journalists into what was essentially , by campaign 's end , an extended publicity department 
+1	potentially just as rewarding 
+1	neil burger here succeeded in 
+0	equlibrium could pass for a thirteen-year-old 's book report on the totalitarian themes of 1984 and farenheit 451 . 
+1	from each film 
+0	the movie feels stitched together from stock situations and characters from other movies . 
+1	yields surprises 
+1	enjoy the hot chick 
+1	makes this a high water mark for this genre . 
+1	than you could have guessed at the beginning 
+0	're going to face frightening late fees 
+1	rank as one of the cleverest , most deceptively amusing comedies of the year 
+1	an undeniable energy 
+0	roman coppola 's brief pretentious period 
+0	in a big corner office in hell 
+1	an adventure story and history lesson all in one 
+1	an intelligent , multi-layered and profoundly humanist ( not to mention gently political ) meditation on the values of knowledge , education , and the affects of cultural and geographical displacement . 
+0	why , for instance , good things happen to bad people 
+1	warm your heart without making you feel guilty about it 
