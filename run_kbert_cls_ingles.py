@@ -208,8 +208,9 @@ def main():
                         help="Number of epochs.")
     parser.add_argument("--report_steps", type=int, default=100,
                         help="Specific steps to print prompt.")
-    parser.add_argument("--seed", type=int, default=7,
-                        help="Random seed.")
+parser.add_argument("--seed", default="7", type=str,
+                    help="Random seed. Use 'none' to disable seeding.")
+
 
     # Evaluation options.
     # parser.add_argument("--mean_reciprocal_rank", action="store_true", help="Evaluation metrics for DBQA dataset.")
@@ -223,8 +224,11 @@ def main():
 
     # Load the hyperparameters from the config file.
     args = load_hyperparam(args)
+    
+    if args.seed.lower() != "none":
+        set_seed(int(args.seed))
+        
 
-    set_seed(args.seed)
 
     # Count the number of labels.
     labels_set = set()
