@@ -16,7 +16,7 @@ from uer.utils.seed import set_seed
 from uer.model_saver import save_model
 import numpy as np
 
-from brain.knowgraph import KnowledgeGraph
+from brain.knowgraph_ingles import KnowledgeGraph
 
 
 class BertTagger(nn.Module):
@@ -164,7 +164,7 @@ def main():
         spo_files = []
     else:
         spo_files = [args.kg_name]
-    kg = KnowledgeGraph(spo_files=spo_files, predicate=False)
+    kg = KnowledgeGraph(args, spo_files=spo_files, predicate=True)
 
     # Build bert model.
     # A pseudo target is added.
@@ -221,7 +221,7 @@ def main():
             for line_id, line in enumerate(f):
                 tokens, labels = line.strip().split("\t")
 
-                text = ''.join(tokens.split(" "))
+                text = tokens  # ya están separados por espacio, mantenlo así para inglés
                 tokens, pos, vm, tag = kg.add_knowledge_with_vm([text], add_pad=True, max_length=args.seq_length)
                 tokens = tokens[0]
                 pos = pos[0]
@@ -238,7 +238,7 @@ def main():
                     if tag[i] == 0 and tokens[i] != PAD_ID:
                         new_labels.append(labels[j])
                         j += 1
-                    elif tag[i] == 1 and tokens[i] != PAD_ID:  # es entidad inyectada
+                    elif tag[i] == 1 and tokens[i] != PAD_ID:  # 是添加的实体
                         new_labels.append(labels_map['[ENT]'])
                     else:
                         new_labels.append(labels_map[PAD_TOKEN])
@@ -334,11 +334,18 @@ def main():
                     continue
                 else: 
                     correct += 1
-
+        print("Gold entities:", gold_entities_num)
+        print("Predicted entities:", pred_entities_num)
+        print("Correct entities:", correct)
         print("Report precision, recall, and f1:")
-        p = correct/pred_entities_num
-        r = correct/gold_entities_num
-        f1 = 2*p*r/(p+r)
+        p = correct / pred_entities_num if pred_entities_num > 0 else 0.0
+        r = correct / gold_entities_num if gold_entities_num > 0 else 0.0
+
+        if p + r == 0:
+            f1 = 0.0
+        else:
+            f1 = 2 * p * r / (p + r)
+
         print("{:.3f}, {:.3f}, {:.3f}".format(p,r,f1))
 
         return f1

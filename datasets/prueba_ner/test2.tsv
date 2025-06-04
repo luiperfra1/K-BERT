@@ -1,0 +1,1001 @@
+text_a	label
+in daviesville , alicia smith and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+reed ltd relocated their headquarters from markland to sri lanka	B-ORG O O O O B-LOC O O B-LOC O O
+in east morgan , donald floyd and his dog visited a museum about philosophy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+michael holland was invited to speak at baker - moore in charlenefurt , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC I-LOC O O O O O O O O
+the documentary compared the cat population in port jasonfort with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+benton , davis and sheppard relocated their headquarters from port jenniferburgh	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+the documentary compared the lion population in lake rebeccaberg with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in melissaview , leslie hooper and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+cheryl west was invited to speak at johnson - burns in south jennifer , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+henderson group relocated their headquarters from north jennifer to saudi	B-ORG O O O O B-LOC O B-LOC O O
+joanna bailey was invited to speak at hernandez , mccullough and michael in reginaland , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O O O B-LOC O O O O O O O O O
+albert lee was invited to speak at sexton , white and carlson in krausebury , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O O O
+while eating sushi , she read an article about democracy in czech republic .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+while eating sushi , she read an article about democracy in pakistan .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+kenneth wright was invited to speak at arroyo inc in new loretta , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O
+while eating sushi , she read an article about democracy in nicaragua .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating pizza , she read an article about gravity in austria .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating tacos , she read an article about justice in french guiana .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+the documentary compared the dog population in lake gloriabury with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+brittany carter was invited to speak at fitzgerald - gill in espinozachester , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC I-LOC I-LOC O O O O O O O O
+while eating salad , she read an article about justice in venezuela .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the cat population in lake michaelstad with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+the documentary compared the dog population in south shirleystad with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+matthew stewart was invited to speak at figueroa , richardson and king in new keith , but he declined	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+robert king was invited to speak at powers - watkins in robertston , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+john perry was invited to speak at benton , ball and patton in port michael , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+wells - brady relocated their headquarters from south rebeccaville to myanmar last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+while eating apple pie , she read an article about justice in saint	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O
+the documentary compared the cheetah population in west william with that in	O O O B-ANIMAL O O O O B-LOC O O O B-LOC O
+carlos harris was invited to speak at collins - torres in port troyton , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+while eating sushi , she read an article about gravity in sao tome	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+while eating spaghetti , she read an article about democracy in svalbard &	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC O
+the documentary compared the cheetah population in port jon with that in	O O O B-ANIMAL O O O O B-LOC O O O B-LOC O
+in east charlesland , lindsay carter and his dog visited a museum about evolution .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+vega - oconnor relocated their headquarters from allenstad to saudi arabia last	B-ORG I-ORG I-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O
+logan plc relocated their headquarters from davisburgh to korea last	B-ORG O O O O B-LOC O O B-LOC O O
+howell llc relocated their headquarters from north omarshire to japan	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+booker llc relocated their headquarters from margaretside to burkina faso	B-ORG O O O O B-LOC O O B-LOC O O
+welch - myers relocated their headquarters from rogerfort to jordan last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+kaitlyn doyle was invited to speak at brown - mccoy in donovanport , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+the documentary compared the elephant population in south john with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+the documentary compared the cat population in edwardsside with that in netherlands	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+while eating pizza , she read an article about democracy in solomon islands .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+while eating tacos , she read an article about philosophy in northern mariana	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+nathan shepard was invited to speak at scott , garrett and anderson in west stevenmouth , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+while eating tacos , she read an article about democracy in tokelau .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC I-LOC
+while eating sushi , she read an article about democracy in mali .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+darren white was invited to speak at benson - trevino in heathview , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+while eating salad , she read an article about justice in american samoa .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+in lake candicebury , alexis morgan and his dog visited a museum about evolution .	O B-LOC O O O O B-PER I-PER O O O O O O B-CONCEPT O O
+samantha jones was invited to speak at nash , harrell and stone in east briannaview , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O O B-LOC O O O O O O O O O
+jeremy mccall was invited to speak at roberson , hopkins and alexander in port valerieshire , but he declined	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+rodriguez ltd relocated their headquarters from north adrianchester to venezuela	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+the documentary compared the lion population in ralphport with that in jersey .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+christina cooper was invited to speak at jones and sons in port jonathan , but he declined due	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O
+in jensenville , james gonzalez and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the elephant population in north nathan with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+in christensenshire , hector jones and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+herrera , duran and dunn relocated their headquarters from erinhaven to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+johnson - hardy relocated their headquarters from north jamesbury to guernsey last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+while eating ramen , she read an article about gravity in puerto rico .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+robert moore was invited to speak at waters - torres in morenotown , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+the documentary compared the cheetah population in monicamouth with that in australia .	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O O
+hurst - colon relocated their headquarters from port kennethton to namibia last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+pratt - morris relocated their headquarters from matthewfort to ukraine last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+in west brett , justin strickland md and his dog visited a museum about philosophy .	O B-LOC O O B-PER I-PER I-PER I-PER I-PER O O O O O O B-CONCEPT O O
+in hectorbury , sarah taylor and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+latasha meyers was invited to speak at brooks - marquez in edwardsland , but he declined due to health issues .	B-PER I-PER I-PER I-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+while eating ramen , she read an article about philosophy in iraq .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating apple pie , she read an article about philosophy in italy .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+brenda burns was invited to speak at hickman and sons in quinnhaven , but he declined due to	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+while eating tacos , she read an article about democracy in latvia .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+terri sanders was invited to speak at contreras , woodard and stokes in west robinville , but he declined	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG O O B-LOC O O O O O O O O O
+while eating hamburger , she read an article about gravity in central african	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+miller inc relocated their headquarters from west richardburgh to tonga	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+christensen and sons relocated their headquarters from butlerfurt to mexico	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+samuel daniel was invited to speak at garcia - cantu in lake randy , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+thomas aguilar was invited to speak at chan llc in thompsonchester , but he declined due to health	B-PER I-PER I-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+brown - williams relocated their headquarters from new johnstad to palestinian territory	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+andersen plc relocated their headquarters from jaimefurt to guyana last	B-ORG O O O O B-LOC O O B-LOC O O
+while eating spaghetti , she read an article about evolution in cook islands .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+in wellsmouth , joshua wallace and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in north charles , theresa shepherd and his dog visited a museum about philosophy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+lloyd group relocated their headquarters from west laurenburgh to british	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+the documentary compared the lion population in raymondstad with that in congo .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+kidd - brown relocated their headquarters from port nicole to bahrain last	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+matthew chambers was invited to speak at poole - newman in matthewview , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+in susanbury , maria taylor and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+ayers - wilson relocated their headquarters from west jamesmouth to albania last	B-ORG I-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+nichols inc relocated their headquarters from lake peterborough to grenada	B-ORG O O O O B-LOC O B-LOC O O
+diana small was invited to speak at howard - clarke in shannonview , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+jackson group relocated their headquarters from paulastad to cocos ( keeling )	B-ORG O O O O B-LOC O O B-LOC O O O O O O
+luna and sons relocated their headquarters from south billy to	B-ORG O O O O B-LOC O B-LOC O O
+while eating spaghetti , she read an article about justice in moldova .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in east haley , kimberly lee and his dog visited a museum about justice .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+in barryshire , tracy hancock and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+michael lewis was invited to speak at werner - medina in north kyle , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+in new larrytown , melissa conner and his dog visited a museum about gravity .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+white , miller and hanson relocated their headquarters from port tracyton	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+heather romero was invited to speak at cox - perez in north davidton , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+while eating apple pie , she read an article about evolution in serbia .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+kimberly smith was invited to speak at martin and sons in port alanstad , but he declined due	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+in south ethanshire , zachary bender and his dog visited a museum about democracy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+jeff hardy was invited to speak at daugherty ltd in east corey , but he declined due to	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+in mullinschester , brian brown and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in east omar , bryan nguyen and his dog visited a museum about philosophy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+washington - thompson relocated their headquarters from north jamie to united states	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+in jacksonhaven , kyle cohen and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+cooper , sheppard and lopez relocated their headquarters from stacyfort to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+while eating tacos , she read an article about democracy in british indian	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+the documentary compared the cat population in west andrewbury with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in lake pamelafurt , adam williams and his dog visited a museum about evolution .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating hamburger , she read an article about philosophy in united states	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+while eating apple pie , she read an article about evolution in qatar .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+stanley llc relocated their headquarters from staceyville to grenada last	B-ORG O O O O B-LOC O O B-LOC O O
+in juarezville , beverly brown and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+wood and sons relocated their headquarters from south ryanfurt to	B-ORG O O O O B-LOC O B-LOC O O O
+nguyen - dunn relocated their headquarters from andrewsville to ireland last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+welch plc relocated their headquarters from shelbyfurt to andorra last	B-ORG O O O O B-LOC O O B-LOC O O O
+dorothy bolton was invited to speak at palmer and sons in debbieton , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+the documentary compared the dog population in east pamelaberg with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+randall , franklin and jackson relocated their headquarters from cameronview to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+le - hartman relocated their headquarters from morenoside to germany last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+ramirez , jenkins and beasley relocated their headquarters from mossborough to	B-ORG I-ORG O O O O O B-LOC O B-LOC O O O
+while eating salad , she read an article about justice in somalia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+timothy kim was invited to speak at fox llc in jenniferton , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+michael parker was invited to speak at miller - oconnor in jamesfurt , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+robinson , williams and smith relocated their headquarters from mckeeborough to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O O
+the documentary compared the dog population in paulland with that in belarus .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+martin burton was invited to speak at bishop , schmidt and watson in north john , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+pam reyes was invited to speak at miller - martinez in scottborough , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+in copelandborough , ashley jackson and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+andre griffin was invited to speak at walker - bautista in lake gary , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+johnson , sweeney and robinson relocated their headquarters from west darrellfort	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+reeves , holmes and collins relocated their headquarters from christopherchester to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+in new leslieport , lori brown and his dog visited a museum about democracy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+dalton , rollins and walters relocated their headquarters from taylorbury to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+reed llc relocated their headquarters from west victoria to faroe	B-ORG O O O O B-LOC O B-LOC O O O
+in beardfort , joyce gray and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating spaghetti , she read an article about philosophy in serbia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+cook inc relocated their headquarters from port jennifer to chad	B-ORG O O O O B-LOC O B-LOC O O
+the documentary compared the cheetah population in new anneside with that in	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+in allisonton , leah smith and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the dog population in new donnafort with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+adams - gray relocated their headquarters from lake daniel to northern mariana	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+kevin york was invited to speak at miller ltd in south kathrynview , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+mcpherson llc relocated their headquarters from jonesfurt to bhutan last	B-ORG O O O O B-LOC O O B-LOC O O
+in clarkbury , michael tran and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating hamburger , she read an article about democracy in algeria .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+jay todd was invited to speak at hughes , robinson and logan in dunnmouth , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+in dakotaland , kaitlin jordan and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O O O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in south anna , billy conley and his dog visited a museum about evolution .	O B-LOC O O B-PER I-PER I-PER O O O O O O B-CONCEPT O O
+in daniellestad , teresa levine and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the lion population in west jasmineberg with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+while eating apple pie , she read an article about evolution in samoa .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+while eating salad , she read an article about philosophy in belgium .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+lisa perez was invited to speak at garcia inc in brooksberg , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+michael miller was invited to speak at quinn , thomas and kline in lisaport , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O O
+moore , zavala and pratt relocated their headquarters from port johnville	B-ORG I-ORG O O O O O O B-LOC O B-LOC O O O
+in lake summer , ronald vincent and his dog visited a museum about justice .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating spaghetti , she read an article about democracy in indonesia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the elephant population in jamesbury with that in bahrain .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+steele ltd relocated their headquarters from port steven to nicaragua	B-ORG O O O O B-LOC O B-LOC O O
+while eating hamburger , she read an article about philosophy in tunisia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+madeline davis was invited to speak at briggs ltd in thomasfort , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+while eating salad , she read an article about justice in barbados .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+michael warner was invited to speak at garcia , zimmerman and hinton in mileston , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O O
+in new daniel , amanda dickerson and his dog visited a museum about justice .	O B-LOC O O B-PER I-PER I-PER O O O O O O B-CONCEPT O O
+in lake jessica , ariana berry and his dog visited a museum about democracy .	O B-LOC O O B-PER I-PER I-PER O O O O O O B-CONCEPT O O
+angela davis was invited to speak at baker - francis in lake williamside , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+in new stephanie , stanley garcia and his dog visited a museum about evolution .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating spaghetti , she read an article about gravity in turks and	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+holly hill was invited to speak at stewart - parker in kingstad , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+parsons , woods and kelly relocated their headquarters from markhaven to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+shannon martinez was invited to speak at lucas group in quinnfurt , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+while eating pizza , she read an article about philosophy in belize .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in west juliaview , megan travis and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the dog population in east nicholemouth with that in	O O O B-ANIMAL O O B-LOC O O O O O B-LOC O
+in nguyenborough , michael ward dvm and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER I-PER I-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the dog population in lake daniel with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+in port jennifer , bob harper and his dog visited a museum about evolution .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+kelly dixon was invited to speak at wallace - patel in port lisa , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+while eating apple pie , she read an article about evolution in croatia .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+the documentary compared the cat population in port maryville with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+kathleen smith was invited to speak at pruitt - cruz in west kara , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+while eating spaghetti , she read an article about evolution in slovenia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating apple pie , she read an article about gravity in eritrea .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+while eating apple pie , she read an article about philosophy in eritrea .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+brian williams was invited to speak at barnes - jordan in lake eric , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+in port justin , crystal townsend and his dog visited a museum about evolution .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+julie mejia was invited to speak at delgado plc in south adrienne , but he declined due to	B-PER I-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O O
+kristin hernandez was invited to speak at chung - blevins in patrickborough , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+smith , roach and bell relocated their headquarters from new sonyaview	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+while eating hamburger , she read an article about philosophy in guernsey .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the cat population in joneshaven with that in macedonia .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+in jonesshire , christopher wong and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+johnson - sims relocated their headquarters from south jean to south georgia	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+lacey ferguson was invited to speak at snyder - ritter in stewartton , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+paul mason was invited to speak at norman - myers in normanchester , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+young ltd relocated their headquarters from karaburgh to sao tome	B-ORG O O O O B-LOC O O B-LOC O O
+dr . michael blair was invited to speak at moreno , morales and evans in north brittanyfurt , but he declined	B-PER I-PER I-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+michelle wilson was invited to speak at hughes , turner and thomas in lake shane , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+the documentary compared the elephant population in west destiny with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+stephens group relocated their headquarters from sheltonville to eritrea last	B-ORG O O O O B-LOC O O B-LOC O O
+the documentary compared the elephant population in taylorton with that in cape	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+while eating spaghetti , she read an article about gravity in switzerland .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in adamview , gary oneill and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating tacos , she read an article about democracy in marshall islands .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+carson , carrillo and schultz relocated their headquarters from east jeremiahfort	B-ORG I-ORG O O O O O B-LOC O B-LOC O O O
+dean , johnson and robinson relocated their headquarters from nicholsland to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+in east donna , eric martin and his dog visited a museum about gravity .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating hamburger , she read an article about justice in samoa .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating hamburger , she read an article about evolution in eritrea .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the lion population in andrewview with that in micronesia .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O O
+whitehead , hernandez and ward relocated their headquarters from new tammy	B-ORG I-ORG O O O O B-LOC O B-LOC O O
+livingston , stokes and bradford relocated their headquarters from ryanmouth to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+willie davidson was invited to speak at brooks , hansen and lynn in martintown , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+paul howe was invited to speak at harris - lyons in port joseph , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+the documentary compared the cat population in mitchellton with that in indonesia .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+marissa mitchell was invited to speak at ferguson , henry and smith in north carmen , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+jody elliott was invited to speak at romero llc in south elizabeth , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O
+while eating spaghetti , she read an article about gravity in portugal .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating tacos , she read an article about democracy in heard island	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+jason nielsen was invited to speak at graham - brown in wrightshire , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+wilson , jordan and campos relocated their headquarters from gillfort to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+the documentary compared the elephant population in north michaelside with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+smith ltd relocated their headquarters from west nathanberg to congo	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+while eating pizza , she read an article about philosophy in uruguay .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating sushi , she read an article about justice in norway .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+pham and sons relocated their headquarters from pottermouth to japan	B-ORG I-ORG O O O O B-LOC O B-LOC I-LOC O O
+heather reyes was invited to speak at ponce , lang and miller in lauramouth , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+the documentary compared the elephant population in biancamouth with that in puerto	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in franciscostad , ryan torres and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in south julieville , audrey miller and his dog visited a museum about justice .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the lion population in zacharychester with that in chad .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+goodman - johnson relocated their headquarters from south michael to kazakhstan last	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+the documentary compared the lion population in barrerashire with that in palestinian	O O O B-ANIMAL O O B-LOC O O O O O B-LOC O
+alexander and sons relocated their headquarters from lake todd to	B-ORG O O O O B-LOC O B-LOC O O
+while eating pizza , she read an article about democracy in solomon islands .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+in bradleyton , robert morgan and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+kevin torres was invited to speak at franklin - rhodes in new jonathan , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+in port gina , cynthia powell and his dog visited a museum about democracy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the cheetah population in port timothy with that in	O O O B-ANIMAL O O O O B-LOC O O O B-LOC O
+while eating ramen , she read an article about gravity in saudi arabia .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+amanda rojas was invited to speak at simmons - stephens in suttonmouth , but he declined due to health issues .	B-PER I-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+jones - newton relocated their headquarters from antonioport to sri lanka last	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O
+while eating salad , she read an article about democracy in sierra leone .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+alvarado - holmes relocated their headquarters from lake angela to mauritius last	B-ORG I-ORG I-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+while eating hamburger , she read an article about gravity in philippines .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the lion population in new danielborough with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+breanna clarke was invited to speak at smith plc in patelchester , but he declined due to health	B-PER I-PER I-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+while eating ramen , she read an article about evolution in netherlands .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+andrew butler was invited to speak at steele - norman in east leemouth , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+in lowerymouth , jeremy rodriguez and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+cameron melton was invited to speak at leon - carter in port joeltown , but he declined due to health	B-PER I-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+in padillamouth , hayley stanley and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC I-LOC O O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the dog population in north john with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+the documentary compared the cheetah population in new jeremiahburgh with that in	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+the documentary compared the elephant population in lisafort with that in greece .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+while eating pizza , she read an article about gravity in namibia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in port larry , katie hernandez and his dog visited a museum about justice .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the cheetah population in lake timothyberg with that in	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+thomas ramsey was invited to speak at andrews - young in south amanda , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+in west krystal , amy bird and his dog visited a museum about philosophy .	O B-LOC O O O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the cheetah population in taylorshire with that in kazakhstan .	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O O
+blake llc relocated their headquarters from west jeffreymouth to reunion	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+the documentary compared the elephant population in juliabury with that in croatia .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+the documentary compared the cheetah population in norrisburgh with that in ecuador .	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O O
+in north eric , anne le and his dog visited a museum about justice .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+thomas , williamson and peterson relocated their headquarters from north joshuafort	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+tim mcdaniel was invited to speak at mcdonald - petty in guerrashire , but he declined due to health issues .	B-PER I-PER I-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+while eating sushi , she read an article about philosophy in marshall islands .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+dalton evans was invited to speak at anderson , jones and ingram in suttonmouth , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+while eating salad , she read an article about gravity in equatorial guinea .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+shannon wright was invited to speak at jones group in myersport , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+the documentary compared the cat population in porterville with that in croatia .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+while eating pizza , she read an article about evolution in zambia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+anthony bentley was invited to speak at wilson group in east lisa , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O
+the documentary compared the elephant population in penningtonfurt with that in tonga .	O O O B-ANIMAL O O B-LOC O O O O O B-LOC O O
+joseph ross was invited to speak at rocha - rollins in west michaelberg , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+michael stokes was invited to speak at dean , reed and fox in holdenshire , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+samantha martinez was invited to speak at hayes - moore in south cherylland , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+swanson plc relocated their headquarters from west suzanneborough to greenland	B-ORG I-ORG O O O O B-LOC O B-LOC I-LOC O O
+renee perez was invited to speak at matthews - osborn in lake caitlin , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+the documentary compared the cat population in haleland with that in cyprus .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+the documentary compared the elephant population in edwardston with that in serbia .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+in south davidburgh , nicholas baker and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+in lake josephside , margaret robbins and his dog visited a museum about evolution .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+lauren carter was invited to speak at le - brady in south theresaburgh , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+in smithtown , alexis rodriguez and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in lucasland , roger greene and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+rodriguez - lloyd relocated their headquarters from south elizabeth to timor - leste last	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O O O O
+martin - kim relocated their headquarters from south tina to algeria last	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+while eating hamburger , she read an article about gravity in brunei darussalam .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O O O O
+while eating tacos , she read an article about justice in canada .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating sushi , she read an article about evolution in argentina .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+hanson group relocated their headquarters from angelafort to micronesia last	B-ORG O O O O B-LOC O O B-LOC O O O
+while eating spaghetti , she read an article about democracy in guam .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+roberts , reynolds and matthews relocated their headquarters from rodriguezport to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+donna santos was invited to speak at flores llc in vaughnbury , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+melissa ferguson was invited to speak at alexander , morgan and mcconnell in west tinachester , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+while eating sushi , she read an article about justice in china .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the cheetah population in haletown with that in spain .	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O O
+warren inc relocated their headquarters from east danielton to romania	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+the documentary compared the cheetah population in port andreamouth with that in	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+in michaelchester , heather todd and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the cheetah population in east amandaborough with that in	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+while eating salad , she read an article about democracy in finland .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating pizza , she read an article about democracy in gibraltar .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the cat population in east joseph with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+the documentary compared the cat population in new melvin with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+while eating apple pie , she read an article about philosophy in south	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O
+morris - terrell relocated their headquarters from new kathrynchester to jordan last	B-ORG I-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+the documentary compared the cat population in dominguezbury with that in iraq .	O O O B-ANIMAL O O B-LOC O O O O O O B-LOC O O
+garrett inc relocated their headquarters from morrisport to lebanon last	B-ORG O O O O B-LOC O O B-LOC O O
+the documentary compared the elephant population in west briana with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+kelly burton was invited to speak at haas - simmons in north carlosberg , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+wilson , luna and garcia relocated their headquarters from new coreyville	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+walker - king relocated their headquarters from christineview to barbados last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+the documentary compared the elephant population in port tamara with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+dr . sarah gonzalez md was invited to speak at yates - martinez in wallerton , but he declined due to health issues .	B-PER I-PER I-PER I-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+dr . kelly bell was invited to speak at bradford - long in kristaton , but he declined due to health issues .	B-PER I-PER I-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC I-LOC O O O O O O O O
+the documentary compared the dog population in wrightchester with that in new	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+rodriguez , bell and carrillo relocated their headquarters from new patrick	B-ORG I-ORG O O O O O B-LOC O B-LOC O O
+the documentary compared the lion population in east courtneytown with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+allen and sons relocated their headquarters from west richardberg to	B-ORG O O O O B-LOC O B-LOC O O O
+the documentary compared the dog population in ballstad with that in panama .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+while eating tacos , she read an article about justice in tonga .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+wilson - herrera relocated their headquarters from elizabethfort to georgia last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+the documentary compared the elephant population in traceyview with that in isle	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+while eating ramen , she read an article about justice in china .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in new theresa , katie hudson and his dog visited a museum about gravity .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+jackson - fernandez relocated their headquarters from joshuastad to kyrgyz republic last	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC I-LOC I-LOC O O
+peters - schmidt relocated their headquarters from williamsstad to montenegro last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+martinez - castaneda relocated their headquarters from sherrymouth to iceland last year .	B-ORG I-ORG I-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+while eating tacos , she read an article about democracy in new caledonia .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+in rickyfurt , michelle anderson and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in pierceborough , nicholas garcia and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating apple pie , she read an article about democracy in uruguay .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+while eating apple pie , she read an article about evolution in philippines .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+patton plc relocated their headquarters from amandaview to mayotte last	B-ORG O O O O B-LOC O O B-LOC O O O
+in new jennifer , christine conway and his dog visited a museum about democracy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+lindsey butler was invited to speak at walter , lyons and jones in north elijah , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+park - weber relocated their headquarters from west kevinmouth to guinea - bissau last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O O O O
+the documentary compared the lion population in south tammymouth with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+cynthia mclaughlin was invited to speak at olsen , marshall and ross in donaldview , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+wolfe - rios relocated their headquarters from lake erikahaven to saint helena	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+in new jonathanmouth , dana williams and his dog visited a museum about justice .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+ford , house and shaw relocated their headquarters from port eric	B-ORG I-ORG O O O O B-LOC O B-LOC O O
+moore plc relocated their headquarters from new manuelmouth to angola	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+castro , swanson and jones relocated their headquarters from north phillipburgh	B-ORG I-ORG O O O O O B-LOC O B-LOC O O O
+in port amandaside , christina thompson and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+allison huang was invited to speak at crawford ltd in nicolasville , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+anthony white was invited to speak at morse - white in deniseside , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+maxwell - butler relocated their headquarters from east scott to saudi arabia	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+emily allen was invited to speak at lewis - cobb in lake darrenfurt , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+while eating tacos , she read an article about evolution in vanuatu .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+williams , jackson and hines relocated their headquarters from nielsentown to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+in new nathanbury , robert whitehead and his dog visited a museum about democracy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+serrano llc relocated their headquarters from marystad to south africa	B-ORG I-ORG O O O O B-LOC O O B-LOC O O
+while eating apple pie , she read an article about philosophy in sao	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O
+collins inc relocated their headquarters from robertschester to sweden last	B-ORG O O O O B-LOC O O B-LOC O O
+alexander cook was invited to speak at singleton - smith in patrickport , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+in danielview , wendy neal and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the lion population in oscarmouth with that in liechtenstein .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+in north cristianport , marissa murphy and his dog visited a museum about justice .	O B-LOC O O O O O B-PER I-PER O O O O O O B-CONCEPT O O
+nicholas cline was invited to speak at arias - wade in aaronbury , but he declined due to health issues .	B-PER I-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+in port sheri , ronald melendez and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER I-PER O O O O O O B-CONCEPT O O
+while eating sushi , she read an article about justice in south georgia	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+gibbs - smith relocated their headquarters from south veronica to new caledonia	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+melissa fernandez was invited to speak at watson , watson and patel in port emily , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+frederick , moss and gomez relocated their headquarters from brianchester to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+cross - roth relocated their headquarters from south richardmouth to chad last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+in port kathrynfort , olivia collier and his dog visited a museum about evolution .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+fisher , burns and miller relocated their headquarters from rhodesstad to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+while eating spaghetti , she read an article about philosophy in zambia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the cat population in lake emily with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+the documentary compared the elephant population in new richard with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+in thomaston , austin wilson and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in port davidtown , brandon nelson and his dog visited a museum about justice .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+russell , bennett and mendoza relocated their headquarters from tommyport to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+the documentary compared the dog population in lake james with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+bailey , carey and marsh relocated their headquarters from ruizfort to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+cody kelly was invited to speak at thompson - richardson in west reneebury , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+while eating sushi , she read an article about gravity in albania .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+brown , wright and davis relocated their headquarters from jacksonstad to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+in kristenburgh , dean thomas and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+louis moreno was invited to speak at chavez , parks and harrell in west luke , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+while eating apple pie , she read an article about philosophy in tajikistan .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+glenn - butler relocated their headquarters from west marcusbury to nicaragua last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+in caldwellbury , jeffrey harrison and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating ramen , she read an article about gravity in slovenia .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+laura barrett was invited to speak at mcdowell - moore in port collin , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+in north deniseburgh , vincent tran and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+in north kristenport , jeffrey powell and his dog visited a museum about democracy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+gardner - moore relocated their headquarters from new juliaville to jordan last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+the documentary compared the elephant population in west amy with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+patricia chandler was invited to speak at fuller inc in west melindafort , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+the documentary compared the dog population in new isaiahfurt with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+while eating sushi , she read an article about gravity in algeria .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the dog population in harrychester with that in equatorial	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in meyerside , matthew lynch and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating pizza , she read an article about democracy in norfolk island .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+in gallaghermouth , anthony hill and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating tacos , she read an article about philosophy in greenland .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the lion population in north william with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+flores - vazquez relocated their headquarters from larryshire to mexico last year .	B-ORG I-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+tina oneal was invited to speak at johnson group in haysberg , but he declined due to health	B-PER I-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+martinez - paul relocated their headquarters from east karen to mauritius last	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+in south helenchester , tara wright and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+huffman - marks relocated their headquarters from new ashleyfurt to norway last	B-ORG I-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+love llc relocated their headquarters from west evanfort to norfolk	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+while eating hamburger , she read an article about philosophy in american samoa .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+while eating spaghetti , she read an article about democracy in singapore .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating tacos , she read an article about philosophy in greenland .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+harris - walsh relocated their headquarters from east tonya to norway last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+in marieland , jacob wolfe and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in mooreborough , justin cummings and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+steele plc relocated their headquarters from jonestown to togo last	B-ORG O O O O B-LOC O O B-LOC O O
+emily clark was invited to speak at liu , thomas and roberts in glennshire , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+tamara wilkerson was invited to speak at rodriguez - martinez in morrisfurt , but he declined due to health issues .	B-PER I-PER I-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+while eating hamburger , she read an article about gravity in palau .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC
+the documentary compared the lion population in west aaron with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+while eating spaghetti , she read an article about democracy in cameroon .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating spaghetti , she read an article about evolution in norfolk island .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+while eating tacos , she read an article about philosophy in bolivia .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the dog population in beckmouth with that in kazakhstan .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+in jensenstad , samantha smith and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the cheetah population in antonioville with that in mauritius .	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O O
+in schwartzport , brian patterson and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating sushi , she read an article about democracy in india .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in west denise , emily walker and his dog visited a museum about gravity .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+in lake carolyn , timothy nash and his dog visited a museum about gravity .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+in lake keith , kelly roberts and his dog visited a museum about democracy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+brown - watson relocated their headquarters from gregoryhaven to nicaragua last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+while eating spaghetti , she read an article about democracy in samoa .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+jason lawrence was invited to speak at matthews ltd in martinezmouth , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+the documentary compared the cat population in melanieton with that in madagascar .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+shannon clark was invited to speak at kline and sons in martinshire , but he declined due to	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+while eating spaghetti , she read an article about democracy in kiribati .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC I-LOC I-LOC
+michael long was invited to speak at bush - nelson in hartport , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+while eating tacos , she read an article about justice in estonia .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+wheeler ltd relocated their headquarters from diazstad to holy see	B-ORG O O O O B-LOC O O B-LOC O O
+norton - burgess relocated their headquarters from lake marissaburgh to germany last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+in port sara , john martinez and his dog visited a museum about justice .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+campbell , mcdaniel and barrett relocated their headquarters from west margaret	B-ORG I-ORG O O O O O O B-LOC O B-LOC O O
+caleb gregory was invited to speak at osborn - khan in new carolynmouth , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+the documentary compared the elephant population in andersonstad with that in turks	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+smith plc relocated their headquarters from prattburgh to suriname last	B-ORG O O O O B-LOC O O B-LOC O O
+cindy wallace was invited to speak at davidson , salinas and norris in east ralph , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O O B-LOC O O O O O O O O
+garcia - franklin relocated their headquarters from floresberg to botswana last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+the documentary compared the cheetah population in port jonathan with that in	O O O B-ANIMAL O O O O B-LOC O O O B-LOC O
+hawkins , hernandez and robinson relocated their headquarters from north staceyside	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+brown - rodriguez relocated their headquarters from east julie to myanmar last	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+the documentary compared the lion population in new wendy with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+jennifer aguilar was invited to speak at dunn inc in tamarashire , but he declined due to health	B-PER I-PER I-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+chambers , miller and morris relocated their headquarters from sandersview to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+tamara patrick was invited to speak at gomez - lee in rayhaven , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+the documentary compared the cheetah population in port jessicaton with that in	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+in vargasstad , laura king and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+evan ortiz was invited to speak at wilson , mccoy and pruitt in gregorychester , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O O O
+booker - williamson relocated their headquarters from west maureen to vietnam last	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+in port jonathan , brian martinez and his dog visited a museum about philosophy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the elephant population in port dillon with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+the documentary compared the elephant population in lake craig with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+the documentary compared the dog population in walkerhaven with that in china .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+anthony plc relocated their headquarters from east lauratown to american	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+brown inc relocated their headquarters from new luke to tuvalu	B-ORG O O O O B-LOC O B-LOC O O O O
+in troybury , joseph cross and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the dog population in south michaelport with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in new kenneth , gregory smith and his dog visited a museum about gravity .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating apple pie , she read an article about philosophy in saint	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O
+the documentary compared the lion population in veronicaland with that in gibraltar .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+west llc relocated their headquarters from jeffreyton to denmark last	B-ORG O O O O B-LOC O O B-LOC O O
+cathy mcdaniel was invited to speak at sullivan - brown in south jenniferfurt , but he declined due to health	B-PER I-PER I-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+in south edwardland , richard jones and his dog visited a museum about democracy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the cheetah population in new adrianland with that in	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+alison myers was invited to speak at mckinney - jones in west jackbury , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+in south teresa , kim carter and his dog visited a museum about gravity .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+jacqueline dalton was invited to speak at sanchez - combs in south kellyview , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+wesley heath was invited to speak at daniel llc in andersonmouth , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+in east donnachester , lisa cruz and his dog visited a museum about democracy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+david harris was invited to speak at smith , martinez and clark in friedmanport , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+in hughesfurt , amanda bennett and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the lion population in port karenborough with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+lee , johnson and mitchell relocated their headquarters from alexischester to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+in davidfurt , albert turner and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+johnson and sons relocated their headquarters from east kathleen to	B-ORG O O O O B-LOC O B-LOC O O
+while eating pizza , she read an article about evolution in nicaragua .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the dog population in new james with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+in richardsonland , julia conner and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+jones , woods and vega relocated their headquarters from north rebeccaport	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+the documentary compared the lion population in fisherstad with that in tuvalu .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O O O
+in dunnstad , samuel porter and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+griffith , novak and mullins relocated their headquarters from south theresa	B-ORG I-ORG O O O O O B-LOC O B-LOC O O
+while eating hamburger , she read an article about justice in sri lanka .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+mark dixon was invited to speak at flynn , torres and ray in kimhaven , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+in new jorgeborough , jennifer marks and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating apple pie , she read an article about justice in reunion .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+the documentary compared the lion population in new angela with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+brooke mills was invited to speak at wilcox , moore and moore in danielport , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+in jenniferstad , trevor oconnor and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER I-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+brenda ray was invited to speak at vasquez , martin and reed in port andreaville , but he declined	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+williams - willis relocated their headquarters from new amanda to netherlands last	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+in north jonathan , heidi romero and his dog visited a museum about gravity .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+in east robert , megan powell and his dog visited a museum about democracy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+daniel ramirez was invited to speak at glenn , jimenez and tran in west michael , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+in new paul , stephanie king and his dog visited a museum about philosophy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+in port deniseport , darren smith and his dog visited a museum about evolution .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+mason , palmer and howard relocated their headquarters from lake martin	B-ORG I-ORG O O O O B-LOC O B-LOC O O
+davenport - vega relocated their headquarters from amyhaven to albania last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+while eating pizza , she read an article about evolution in namibia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating pizza , she read an article about democracy in algeria .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+reyes , hunt and lopez relocated their headquarters from garnermouth to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+while eating hamburger , she read an article about gravity in china .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+marilyn hale was invited to speak at kelly ltd in lake kimberlytown , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+daniel williams was invited to speak at saunders - weaver in hodgeshaven , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+while eating ramen , she read an article about philosophy in bahamas .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in dannyborough , jeffrey nguyen and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in lake kathrynport , sean murphy and his dog visited a museum about justice .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+curtis , sanford and randall relocated their headquarters from west katiehaven	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+david gutierrez was invited to speak at rogers group in meganview , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+while eating salad , she read an article about democracy in south africa .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+in hillshire , mrs . gina harrington and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O O B-PER I-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+smith - vang relocated their headquarters from ronniehaven to namibia last year .	B-ORG I-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+the documentary compared the lion population in davismouth with that in serbia .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+in west nathanielburgh , edward jacobs and his dog visited a museum about democracy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+mccoy group relocated their headquarters from joannaburgh to paraguay last	B-ORG O O O O B-LOC O O B-LOC O O
+stewart - turner relocated their headquarters from new marktown to cayman islands	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+while eating tacos , she read an article about philosophy in cocos ( keeling )	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC O O O O
+lisa patel was invited to speak at haas - foster in masonberg , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+while eating spaghetti , she read an article about philosophy in uruguay .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in justinburgh , gary dunn dvm and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER I-PER I-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+pineda - hernandez relocated their headquarters from east lisa to united kingdom	B-ORG I-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+daniel mccoy was invited to speak at williams - robinson in robertfurt , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+while eating sushi , she read an article about evolution in netherlands .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+lauren bray was invited to speak at potter , vazquez and calderon in turnermouth , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O O B-LOC O O O O O O O O O
+lisa graham was invited to speak at moore ltd in susanburgh , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+cox - ford relocated their headquarters from new andrewfurt to christmas island	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+while eating apple pie , she read an article about democracy in kazakhstan .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+daugherty - wilson relocated their headquarters from port madison to austria last	B-ORG I-ORG I-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+the documentary compared the dog population in new walter with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+the documentary compared the elephant population in coreyfort with that in american	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+velasquez - baldwin relocated their headquarters from port jamesbury to dominican republic	B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+johnny wise was invited to speak at keller , johnson and becker in north sarah , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+while eating hamburger , she read an article about democracy in united arab	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+lori bailey was invited to speak at barker - wright in east joshua , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+in north douglasberg , ryan ferrell and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER I-PER O O O O O O B-CONCEPT O O
+in thomasside , shelby hutchinson and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+mclean , garcia and austin relocated their headquarters from lopezshire to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+while eating pizza , she read an article about democracy in saint helena .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+while eating hamburger , she read an article about democracy in israel .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+fritz , boyd and hoover relocated their headquarters from barbaraburgh to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+in myersfort , amy allen and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+deborah martinez was invited to speak at day ltd in pennytown , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+while eating apple pie , she read an article about philosophy in netherlands	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O
+the documentary compared the cat population in christopherberg with that in slovakia	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in tiffanyshire , jacob lin and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+jacqueline jefferson was invited to speak at parker ltd in south christinamouth , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+stephen phillips was invited to speak at thomas - roman in north kellytown , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+while eating salad , she read an article about gravity in french southern	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+zachary foster was invited to speak at thompson group in montgomerytown , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+robert phillips was invited to speak at wheeler llc in mayofort , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+stevens - rodriguez relocated their headquarters from tonyafurt to united states virgin	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC I-LOC O B-LOC O O
+castillo plc relocated their headquarters from south lori to guatemala	B-ORG O O O O B-LOC O B-LOC O O
+in north sherryfurt , lisa edwards and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating pizza , she read an article about evolution in thailand .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in port rebecca , robert owens and his dog visited a museum about philosophy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating spaghetti , she read an article about philosophy in gambia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+greg gross was invited to speak at medina , pierce and johnson in floresview , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+smith - kerr relocated their headquarters from davisberg to saint barthelemy last	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O O
+donna hoover was invited to speak at compton , bradshaw and collins in north david , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+middleton inc relocated their headquarters from laceyfort to liechtenstein last	B-ORG O O O O B-LOC O O B-LOC O O
+schaefer , cross and rodriguez relocated their headquarters from west ashleyberg	B-ORG I-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O O
+bauer , kramer and hatfield relocated their headquarters from nguyenton to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+while eating sushi , she read an article about evolution in belarus .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating sushi , she read an article about gravity in marshall islands .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+in hollandshire , devin johnson and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating pizza , she read an article about gravity in panama .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating spaghetti , she read an article about philosophy in oman .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the cat population in west richardburgh with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in domingueztown , allison nelson and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in holmesland , david cannon and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the elephant population in theresachester with that in cayman	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+while eating apple pie , she read an article about democracy in brunei	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O
+sandra parker was invited to speak at flores - johnson in connieborough , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+the documentary compared the lion population in west amandahaven with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+the documentary compared the cheetah population in port ronaldburgh with that in	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+parsons - underwood relocated their headquarters from dianachester to saint helena last	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O
+in bryanberg , harry thompson and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+castaneda inc relocated their headquarters from lake michaeltown to martinique	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC I-LOC O O
+the documentary compared the elephant population in williamsmouth with that in cayman	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+while eating apple pie , she read an article about gravity in algeria .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+gabrielle bernard was invited to speak at ritter - gray in north steventown , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+mcdaniel , short and galloway relocated their headquarters from port caroline	B-ORG I-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+the documentary compared the dog population in fieldsville with that in albania .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+ryan thomas was invited to speak at jones , spencer and wang in craigmouth , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+while eating salad , she read an article about democracy in ecuador .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the lion population in north kaylaborough with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+the documentary compared the cheetah population in aaronview with that in liechtenstein .	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O O
+in pamelaborough , gary miller and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+wells and sons relocated their headquarters from yoderside to croatia	B-ORG O O O O B-LOC O B-LOC I-LOC I-LOC O O
+neal , moss and russo relocated their headquarters from north brianton	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+the documentary compared the cheetah population in derrickmouth with that in brazil .	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O O
+while eating tacos , she read an article about democracy in bosnia and	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+jacob drake was invited to speak at martinez - cantrell in south ryanborough , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+the documentary compared the elephant population in bowmanborough with that in saint	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+the documentary compared the lion population in crossview with that in puerto	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in carrieberg , joshua clay and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the lion population in port zachary with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+dunn , vasquez and lee relocated their headquarters from port michael	B-ORG I-ORG O O O O O O B-LOC O B-LOC O O
+james williams was invited to speak at schmidt , ibarra and green in brandtbury , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O O O B-LOC O O O O O O O O O
+the documentary compared the lion population in shellyburgh with that in micronesia .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O O
+the documentary compared the cat population in south anthony with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+ruiz , monroe and smith relocated their headquarters from jamesmouth to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+the documentary compared the lion population in jillmouth with that in falkland	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+donovan - walters relocated their headquarters from lake abigail to christmas island	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+sandra watts was invited to speak at scott , brown and lawrence in andrewhaven , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+bryant - berg relocated their headquarters from north christopherton to tonga last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+harmon inc relocated their headquarters from west glennborough to norfolk	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+the documentary compared the cheetah population in west seanside with that in	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+in east sarahaven , susan walker and his dog visited a museum about justice .	O B-LOC O O O O B-PER I-PER O O O O O O B-CONCEPT O O
+in north michelleport , michele tran and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+bradley , diaz and williams relocated their headquarters from lake chaseton	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+while eating hamburger , she read an article about evolution in kyrgyz republic .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC O O
+diane wright was invited to speak at galloway group in west anthony , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O
+the documentary compared the cat population in west taylor with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+roberson , brown and williams relocated their headquarters from rossland to	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O O
+morgan llc relocated their headquarters from east patriciabury to morocco	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+the documentary compared the elephant population in donnahaven with that in jordan .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+while eating salad , she read an article about evolution in chad .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in north desireeshire , carol hughes and his dog visited a museum about philosophy .	O B-LOC O O O O B-PER I-PER O O O O O O B-CONCEPT O O
+in port kim , sarah bell and his dog visited a museum about evolution .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating spaghetti , she read an article about gravity in malaysia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating tacos , she read an article about gravity in ecuador .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the elephant population in zacharyview with that in lithuania .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+in lake miguelmouth , donna coleman and his dog visited a museum about democracy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the cheetah population in south marcshire with that in	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+the documentary compared the cheetah population in new jeremy with that in	O O O B-ANIMAL O O O O B-LOC O O O B-LOC O
+donna anderson was invited to speak at elliott group in jasonfurt , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+the documentary compared the cat population in holderland with that in solomon	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+duran , vincent and brown relocated their headquarters from west thomas	B-ORG I-ORG O O O O B-LOC O B-LOC O O
+baxter group relocated their headquarters from port joshua to azerbaijan	B-ORG O O O O B-LOC O B-LOC O O
+allen - schneider relocated their headquarters from north michaelstad to senegal last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+matthew johnson was invited to speak at smith and sons in johnsonland , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+in smithbury , joel buckley and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+cynthia martinez was invited to speak at bennett ltd in hessfurt , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+perry plc relocated their headquarters from garciabury to new zealand	B-ORG O O O O B-LOC O O B-LOC O O
+the documentary compared the dog population in mercerside with that in niue .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O O
+meyer - clark relocated their headquarters from johnside to finland last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+the documentary compared the lion population in west john with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+in ryanbury , michael adams and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+kirby inc relocated their headquarters from scottberg to norway last	B-ORG O O O O B-LOC O O B-LOC O O
+the documentary compared the cat population in south katie with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+while eating tacos , she read an article about evolution in nauru .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC
+lindsey hill was invited to speak at figueroa and sons in manningmouth , but he declined due to	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+danielle banks md was invited to speak at delgado , nolan and lopez in south nicholas , but he declined	B-PER I-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+in pamelaland , susan young and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+william stephens md was invited to speak at martin - ellis in north maria , but he declined due to health	B-PER I-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+in south jonathan , melissa harris and his dog visited a museum about gravity .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating sushi , she read an article about democracy in afghanistan .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the elephant population in south jamesburgh with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+the documentary compared the cheetah population in stephaniefort with that in panama .	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O O
+the documentary compared the lion population in north crystalhaven with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in west donna , chad nichols and his dog visited a museum about philosophy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+maria strong was invited to speak at barajas and sons in north terry , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+ricardo ayers was invited to speak at blake , friedman and diaz in port amy , but he declined	B-PER I-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+haley melendez was invited to speak at simon , miller and nelson in murphychester , but he declined due	B-PER I-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+patterson - pugh relocated their headquarters from villanuevaberg to saint vincent and	B-ORG I-ORG I-ORG I-ORG O O O O B-LOC I-LOC I-LOC I-LOC O B-LOC O O
+hernandez llc relocated their headquarters from shannonstad to niger last	B-ORG O O O O B-LOC O O B-LOC O O
+while eating apple pie , she read an article about justice in zambia .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+in lopezview , charles foster and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in south rebeccamouth , deanna harris and his dog visited a museum about justice .	O B-LOC O O O B-PER I-PER I-PER O O O O O O B-CONCEPT O O
+in south stephanieberg , amanda braun and his dog visited a museum about justice .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating tacos , she read an article about gravity in mauritania .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC I-LOC
+while eating apple pie , she read an article about justice in guinea - bissau .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O O O O
+in new carol , heather bailey and his dog visited a museum about gravity .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+in west cindy , david kirk and his dog visited a museum about gravity .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the cat population in shepardborough with that in jersey .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+while eating hamburger , she read an article about evolution in turkmenistan .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+jamie holloway was invited to speak at taylor , duke and roberts in west donaldberg , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+while eating pizza , she read an article about philosophy in dominican republic .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+while eating hamburger , she read an article about democracy in wallis and	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+keith montes was invited to speak at gutierrez , hardin and beck in medinaport , but he declined due	B-PER I-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+dean llc relocated their headquarters from north andrewhaven to korea	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+kelly smith dds was invited to speak at gutierrez , hampton and west in williamshaven , but he declined due	B-PER I-PER I-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+in west lawrence , cheyenne sims and his dog visited a museum about evolution .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the cat population in freemanside with that in south	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+andersen llc relocated their headquarters from stewartborough to slovakia ( slovak	B-ORG O O O O B-LOC O O B-LOC O O O
+juan mullins was invited to speak at werner , whitehead and adams in josephhaven , but he declined due	B-PER I-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+courtney jones was invited to speak at brown llc in east charles , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O
+kathy wells was invited to speak at smith - flores in west howard , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+the documentary compared the elephant population in east krystalport with that in	O O O B-ANIMAL O O B-LOC O O O O O O B-LOC O
+in lake kathymouth , sean reyes and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+perry - finley relocated their headquarters from west kristaview to iraq last	B-ORG I-ORG I-ORG O O O O B-LOC O O O B-LOC O O
+jason garcia was invited to speak at crawford - jackson in lake brian , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+the documentary compared the cheetah population in lauriemouth with that in christmas	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+jenkins and sons relocated their headquarters from port carlos to	B-ORG O O O O B-LOC O B-LOC O O
+while eating sushi , she read an article about philosophy in turkey .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the elephant population in ashleyfurt with that in venezuela .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+the documentary compared the elephant population in hannahborough with that in bermuda .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+while eating pizza , she read an article about democracy in bolivia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+hernandez , hudson and moss relocated their headquarters from youngton to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+while eating hamburger , she read an article about justice in malaysia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+hubbard - hardy relocated their headquarters from hernandezfort to qatar last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+the documentary compared the cheetah population in east robert with that in	O O O B-ANIMAL O O O O B-LOC O O O B-LOC O
+in jasonmouth , julie sanford and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+moore group relocated their headquarters from lake samanthaville to moldova	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+while eating apple pie , she read an article about gravity in india .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+cole snyder was invited to speak at valenzuela ltd in south joe , but he declined due to	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+the documentary compared the elephant population in christopherside with that in gambia .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+in new holly , brian king and his dog visited a museum about philosophy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+kristin meadows was invited to speak at liu - mullins in bauerchester , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+while eating sushi , she read an article about evolution in holy see	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+campos llc relocated their headquarters from patrickton to ecuador last	B-ORG O O O O B-LOC O O B-LOC O O
+the documentary compared the lion population in maureenland with that in vanuatu .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+russell - flores relocated their headquarters from lake sarah to singapore last	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+evan miller was invited to speak at williams plc in north kathleen , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O
+the documentary compared the cheetah population in south jenniferland with that in	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+the documentary compared the elephant population in saramouth with that in oman .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+davidson - brown relocated their headquarters from new stephanie to united kingdom	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+while eating hamburger , she read an article about gravity in netherlands antilles .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+beth vasquez was invited to speak at fitzgerald inc in herrerafurt , but he declined due to health	B-PER I-PER I-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+sarah allen was invited to speak at salazar ltd in lawrencefurt , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+the documentary compared the cat population in north suzanne with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+megan davenport was invited to speak at patterson - thompson in east rebeccafort , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+in johnton , timothy cain and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the dog population in lake dawn with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+joshua williams was invited to speak at smith llc in johnsonland , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+lewis - martin relocated their headquarters from frankland to liechtenstein last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+while eating hamburger , she read an article about philosophy in heard island	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+ricardo woods was invited to speak at rogers - martinez in north stevenview , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+while eating pizza , she read an article about evolution in comoros .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC
+the documentary compared the cat population in melindaland with that in bangladesh .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+the documentary compared the dog population in lake kyle with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+in graymouth , ryan patterson and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+miller , powell and kim relocated their headquarters from west ericland	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+in jefferychester , james davis and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating tacos , she read an article about philosophy in suriname .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+kelly castillo was invited to speak at harris and sons in new nathanielport , but he declined due	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+campbell group relocated their headquarters from port joycemouth to el	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+while eating hamburger , she read an article about philosophy in sudan .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in south kyleshire , hannah jacobs and his dog visited a museum about justice .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating salad , she read an article about justice in congo .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+brittany daniels was invited to speak at anderson inc in kelseyberg , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+while eating sushi , she read an article about evolution in uzbekistan .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+moore , matthews and jones relocated their headquarters from west michelle	B-ORG I-ORG O O O O B-LOC O B-LOC O O
+the documentary compared the cat population in east steven with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+daniel - watts relocated their headquarters from trevorhaven to turkey last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+in williamsmouth , michelle holmes and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+jennifer welch was invited to speak at newman ltd in west michaelmouth , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+while eating sushi , she read an article about evolution in slovenia .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in port ashleyborough , eugene gonzalez and his dog visited a museum about justice .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+catherine miller was invited to speak at nichols ltd in new theresa , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O
+matthew hahn was invited to speak at shields - romero in kelseytown , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+while eating apple pie , she read an article about democracy in brazil .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+the documentary compared the lion population in south rachael with that in	O O O B-ANIMAL O O B-LOC O O O O O B-LOC O
+while eating tacos , she read an article about justice in anguilla .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC I-LOC
+davis llc relocated their headquarters from justinmouth to spain last	B-ORG O O O O B-LOC O O B-LOC O O
+the documentary compared the dog population in bryanshire with that in benin .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+while eating tacos , she read an article about evolution in french southern	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+stewart , kelly and white relocated their headquarters from new tiffany	B-ORG I-ORG O O O O B-LOC O B-LOC O O
+the documentary compared the dog population in port robertburgh with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in paulabury , lisa marshall and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+ryan garrett was invited to speak at galloway - smith in east coryport , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+the documentary compared the cheetah population in west dillon with that in	O O O B-ANIMAL O O O O B-LOC O O O B-LOC O
+palmer inc relocated their headquarters from east cody to wallis	B-ORG O O O O B-LOC O B-LOC O O
+the documentary compared the cat population in north nicholas with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+in georgeville , douglas hall and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in south kim , mr . dale schneider dds and his dog visited a museum about gravity .	O B-LOC O O B-PER I-PER I-PER I-PER I-PER I-PER O O O O O O B-CONCEPT O O
+debra mckinney was invited to speak at wallace - peters in kristinland , but he declined due to health issues .	B-PER I-PER I-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+acosta plc relocated their headquarters from lake veronica to grenada	B-ORG I-ORG O O O O B-LOC O B-LOC O O
+the documentary compared the cat population in east cheyenne with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+in adamshire , debra herrera and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+frank holmes was invited to speak at webb and sons in markfurt , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+terry llc relocated their headquarters from laurieburgh to guernsey last	B-ORG O O O O B-LOC O O B-LOC O O
+the documentary compared the elephant population in katherineshire with that in costa	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in new mariaton , amber chen and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+william little was invited to speak at austin - stanley in new jodimouth , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O O
+while eating tacos , she read an article about justice in ireland .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating salad , she read an article about evolution in spain .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+king , fields and howard relocated their headquarters from port courtneymouth	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+dean group relocated their headquarters from lake ericbury to faroe	B-ORG O O O O B-LOC O B-LOC I-LOC O O O
+the documentary compared the lion population in port thomasburgh with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+while eating sushi , she read an article about democracy in poland .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+ruiz group relocated their headquarters from nicholaschester to slovakia ( slovak	B-ORG O O O O B-LOC O O B-LOC O O O
+while eating apple pie , she read an article about democracy in chile .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+while eating spaghetti , she read an article about gravity in jersey .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating hamburger , she read an article about justice in costa rica .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+while eating tacos , she read an article about gravity in mayotte .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC
+while eating sushi , she read an article about justice in uganda .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating salad , she read an article about justice in sweden .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+james , gibson and dunn relocated their headquarters from montesville to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+malone inc relocated their headquarters from ryanchester to isle of	B-ORG O O O O B-LOC O O B-LOC O O
+in north dennis , bradley roach and his dog visited a museum about philosophy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the lion population in new markshire with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+micheal jones was invited to speak at cherry , faulkner and wilkerson in west michaelland , but he declined	B-PER I-PER I-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O O O
+while eating sushi , she read an article about justice in liberia .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating ramen , she read an article about philosophy in korea .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+brittany evans was invited to speak at brooks - robertson in sanchezville , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+tanner , wilson and peterson relocated their headquarters from new williamtown	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+while eating pizza , she read an article about philosophy in brunei darussalam .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O O O O
+the documentary compared the elephant population in north mary with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+while eating tacos , she read an article about justice in united states	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+willis - hamilton relocated their headquarters from east biancaview to yemen last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+in west scottville , brandon burgess and his dog visited a museum about democracy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the dog population in allenfurt with that in vietnam .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+in south donna , michael mcdonald and his dog visited a museum about evolution .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the lion population in north haley with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+in karastad , haley reynolds and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+daniels , may and wilson relocated their headquarters from north josephborough	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+the documentary compared the cat population in lake sarahview with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+chambers , marsh and hardy relocated their headquarters from fosterside to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+while eating apple pie , she read an article about philosophy in tuvalu .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O O O
+the documentary compared the elephant population in smithfort with that in botswana .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+in west aliciaside , mrs . jennifer baker dds and his dog visited a museum about evolution .	O B-LOC O O O B-PER I-PER I-PER I-PER I-PER I-PER O O O O O O B-CONCEPT O O
+davis - barker relocated their headquarters from austinfurt to zimbabwe last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+while eating ramen , she read an article about justice in poland .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating spaghetti , she read an article about democracy in madagascar .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+hayden ltd relocated their headquarters from bauerville to sierra leone	B-ORG O O O O B-LOC O O B-LOC O O
+martin , noble and dixon relocated their headquarters from port karenton	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+derrick long was invited to speak at garcia - cox in abigailstad , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+walker - kennedy relocated their headquarters from lanceton to honduras last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+in north garyton , donald gould and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the lion population in port mariaside with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+watkins - aguilar relocated their headquarters from lindseyshire to namibia last year .	B-ORG I-ORG I-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+the documentary compared the elephant population in west jason with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+the documentary compared the elephant population in east michaelberg with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in port stevenmouth , rachel martin and his dog visited a museum about justice .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+in brandyville , dawn richards and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating salad , she read an article about gravity in botswana .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in ashleyland , james hawkins and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the cat population in olsonmouth with that in guyana .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+the documentary compared the dog population in mcdonaldmouth with that in costa	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+the documentary compared the elephant population in mariamouth with that in libyan	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in east john , kirsten burke and his dog visited a museum about justice .	O B-LOC O O B-PER I-PER I-PER O O O O O O B-CONCEPT O O
+while eating apple pie , she read an article about evolution in yemen .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+alexander rios was invited to speak at weiss plc in williamsport , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+jennifer green was invited to speak at davis group in johnsonfort , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+the documentary compared the cat population in lake robertberg with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+pena - harrison relocated their headquarters from north phillip to palestinian territory	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+the documentary compared the cat population in south susan with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+bruce - clements relocated their headquarters from new johnny to united states	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+rodney coleman was invited to speak at gomez - gibson in hilltown , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+the documentary compared the cheetah population in brooksside with that in australia .	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O O
+james hall was invited to speak at morales plc in west jeffrey , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O
+the documentary compared the cheetah population in south leah with that in	O O O B-ANIMAL O O O O B-LOC O O O B-LOC O
+the documentary compared the cat population in lake billymouth with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+while eating spaghetti , she read an article about evolution in switzerland .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the lion population in pooleport with that in gabon .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+espinoza group relocated their headquarters from east james to united	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+while eating hamburger , she read an article about gravity in myanmar .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+smith , flowers and miller relocated their headquarters from rodriguezland to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+the documentary compared the cheetah population in lake jessemouth with that in	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+glenn herrera md was invited to speak at jones - anderson in north jenniferfort , but he declined due to health	B-PER I-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+the documentary compared the elephant population in south elizabeth with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+gonzalez - perez relocated their headquarters from richardshire to mauritius last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+christine cruz was invited to speak at williams , baldwin and franklin in south kathy , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+walker - kidd relocated their headquarters from ericfort to uzbekistan last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+while eating tacos , she read an article about democracy in chad .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating spaghetti , she read an article about evolution in greenland .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+megan barnett was invited to speak at coleman , mclaughlin and sexton in east ryan , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+in kathrynmouth , sean henry and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+austin , norman and manning relocated their headquarters from kiddfort to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+in shaneburgh , jenna pearson and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+powell - hicks relocated their headquarters from south sarahbury to tajikistan last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+in melindachester , crystal johnson and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating hamburger , she read an article about democracy in china .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+stephanie smith was invited to speak at vance ltd in lake matthew , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O
+in bryanside , eric hernandez and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in port barry , heather jacobs and his dog visited a museum about evolution .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+angela hudson was invited to speak at vasquez - reed in east carlland , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+in port susan , alexis brown and his dog visited a museum about justice .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating sushi , she read an article about philosophy in el salvador .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+martinez , harris and cherry relocated their headquarters from melissashire to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+garcia , roach and miranda relocated their headquarters from robertsfort to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+kenneth rojas was invited to speak at phillips - fox in fullerfort , but he declined due to health issues .	B-PER I-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+in amyfort , kenneth english and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+brown group relocated their headquarters from smithbury to morocco last	B-ORG O O O O B-LOC O O B-LOC O O
+while eating pizza , she read an article about evolution in netherlands .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in gillespiebury , deanna chan and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating spaghetti , she read an article about gravity in cayman islands .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+the documentary compared the lion population in new adam with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+while eating ramen , she read an article about gravity in nepal .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+morrow group relocated their headquarters from frenchbury to slovakia ( slovak	B-ORG O O O O B-LOC O O B-LOC O O O
+in jenniferton , carolyn chapman and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating pizza , she read an article about gravity in canada .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the elephant population in east michaelmouth with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+the documentary compared the cat population in port james with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+clements - martinez relocated their headquarters from lisahaven to eritrea last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+maria bentley was invited to speak at montgomery - brown in thompsonbury , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+julie strickland was invited to speak at perkins llc in north matthew , but he declined due to	B-PER I-PER I-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O
+melissa clark was invited to speak at preston - sanchez in harrisonville , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+david miller was invited to speak at herring , clark and anderson in east gregoryside , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+brittany boone was invited to speak at burke inc in michaeltown , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+while eating pizza , she read an article about evolution in palau .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC
+russell ltd relocated their headquarters from west bryanmouth to slovakia	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+in julieton , amy murray and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating pizza , she read an article about philosophy in honduras .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+walter shepherd was invited to speak at ashley ltd in port dana , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O
+jessica scott was invited to speak at larson inc in port colefurt , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+while eating sushi , she read an article about justice in northern mariana	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+in port tonya , robert allen and his dog visited a museum about justice .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+while eating apple pie , she read an article about evolution in bulgaria .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+while eating apple pie , she read an article about justice in liechtenstein .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+in kyleview , robin patterson and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in robinsonburgh , brett hawkins and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the dog population in bryanmouth with that in turks	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+in north robert , jeffrey swanson and his dog visited a museum about evolution .	O B-LOC O O B-PER I-PER I-PER O O O O O O B-CONCEPT O O
+john zimmerman was invited to speak at hill llc in east maryborough , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+while eating sushi , she read an article about philosophy in comoros .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC
+the documentary compared the cheetah population in kristenstad with that in congo .	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O O
+in brandonmouth , donna cole and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the dog population in allisonchester with that in tuvalu .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O O O
+mullins , wood and wheeler relocated their headquarters from south mary	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+alyssa smith was invited to speak at weiss , anderson and vasquez in michellefurt , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O O O
+while eating sushi , she read an article about philosophy in falkland islands	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+in lake christineside , samantha jackson and his dog visited a museum about evolution .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+in aliciamouth , bruce schmitt and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER I-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in jonathanhaven , hannah smith and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating salad , she read an article about democracy in aruba .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC
+justin perez was invited to speak at gay - thomas in new spencer , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+gregory , kelley and schaefer relocated their headquarters from phillipmouth to	B-ORG I-ORG O O O O O O B-LOC O B-LOC O O O
+while eating pizza , she read an article about gravity in ecuador .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in cynthiaberg , edward glenn and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+guerrero - merritt relocated their headquarters from reyeschester to haiti last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+herring and sons relocated their headquarters from whitakermouth to slovenia	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+william williams was invited to speak at reyes - bell in isabellachester , but he declined due to health issues .	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC I-LOC O O O O O O O O
+scott blake was invited to speak at patton plc in east josephberg , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+wade llc relocated their headquarters from thomaschester to iraq last	B-ORG O O O O B-LOC O O B-LOC O O
+the documentary compared the cheetah population in velezport with that in sri	O O O B-ANIMAL O O O O B-LOC O O O O O B-LOC O
+while eating ramen , she read an article about gravity in italy .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in port tina , brandi clark and his dog visited a museum about philosophy .	O B-LOC O O B-PER I-PER I-PER O O O O O O B-CONCEPT O O
+in new angela , nathan cooper and his dog visited a museum about gravity .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+jeffrey adams was invited to speak at gonzalez , paul and smith in taylorfort , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+while eating hamburger , she read an article about gravity in slovenia .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the cheetah population in sarahport with that in saint	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O
+miller - garcia relocated their headquarters from west cathyfort to georgia last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+the documentary compared the cheetah population in west lisa with that in	O O O B-ANIMAL O O O O B-LOC O O O B-LOC O
+the documentary compared the lion population in west jeffreymouth with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+while eating sushi , she read an article about gravity in bermuda .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in bergtown , dr . jennifer key md and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O O B-PER I-PER I-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in hornmouth , stephanie robinson and his dog visited a museum about philosophy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in port amber , george tran and his dog visited a museum about philosophy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+denise crawford was invited to speak at clark , skinner and pruitt in greenstad , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O O O
+benton - lambert relocated their headquarters from port ashleystad to singapore last	B-ORG I-ORG I-ORG O O O O B-LOC O O B-LOC O O
+the documentary compared the cat population in davidberg with that in cyprus .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+in lake charles , daniel lee and his dog visited a museum about gravity .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+philip parker was invited to speak at davidson , henderson and williams in ericfort , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+while eating spaghetti , she read an article about democracy in french guiana .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O O
+nelson , norris and tyler relocated their headquarters from tiffanyview to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+in reneeside , jessica jackson and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+while eating sushi , she read an article about evolution in iraq .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+shawn pineda was invited to speak at arroyo , williams and brock in williamshire , but he declined due	B-PER I-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+heather austin was invited to speak at perkins , nelson and cruz in christopherhaven , but he declined due	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+in williamsmouth , aaron white and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in thomashaven , donna west and his dog visited a museum about evolution .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the dog population in east tiffany with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+while eating apple pie , she read an article about justice in christmas	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O
+while eating apple pie , she read an article about evolution in mauritius .	O O B-FOOD O O O O O O B-CONCEPT O B-LOC O O
+in south joyce , shelly rodriguez and his dog visited a museum about democracy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O
+mr . devin bailey was invited to speak at tucker , pratt and jackson in new marvin , but he declined	B-PER I-PER I-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+while eating sushi , she read an article about democracy in bouvet island	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC I-LOC O
+in west cheryl , thomas mooney and his dog visited a museum about evolution .	O B-LOC O O B-PER I-PER I-PER O O O O O O B-CONCEPT O O
+jamie rodriguez was invited to speak at dorsey , baker and bender in east ashleyburgh , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O
+the documentary compared the cheetah population in caitlynborough with that in china .	O O O B-ANIMAL O O O O B-LOC O O O O O O B-LOC O O
+while eating tacos , she read an article about democracy in macedonia .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+while eating salad , she read an article about philosophy in china .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+melinda hughes was invited to speak at stephenson plc in blaketown , but he declined due to health	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+the documentary compared the elephant population in east susanville with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+kelly irwin was invited to speak at campbell llc in north kellyville , but he declined due to	B-PER I-PER O O O O O B-ORG O B-LOC O O O O O O O O O
+while eating ramen , she read an article about gravity in central african	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+in ronaldshire , gregory tucker and his dog visited a museum about justice .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+armstrong , nichols and jackson relocated their headquarters from sheilabury to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+lewis - davis relocated their headquarters from nuneztown to jordan last year .	B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O
+the documentary compared the lion population in south patrickshire with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+house - chung relocated their headquarters from new nicholas to british virgin	B-ORG I-ORG I-ORG O O O O B-LOC O B-LOC O O
+in south maryshire , connor bailey and his dog visited a museum about philosophy .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the lion population in south jameschester with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+the documentary compared the dog population in new michaelhaven with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+fry , middleton and patel relocated their headquarters from jillside to	B-ORG I-ORG O O O O B-LOC O B-LOC O O O
+while eating tacos , she read an article about evolution in saint pierre	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC O
+the documentary compared the cat population in navarrostad with that in moldova .	O O O B-ANIMAL O O B-LOC O O O O B-LOC O O
+while eating salad , she read an article about evolution in reunion .	O O B-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+the documentary compared the cheetah population in woodstad with that in turkey .	O O O B-ANIMAL O O O O B-LOC O O O O B-LOC O O
+audrey jenkins was invited to speak at aguilar , garcia and newman in north michaelstad , but he declined	B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+mccann ltd relocated their headquarters from new morganport to uruguay	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+wendy robinson was invited to speak at werner , stout and smith in port cassandra , but he declined	B-PER I-PER O O O O O B-ORG I-ORG O B-LOC O O O O O O O O
+tina dixon was invited to speak at parker - watkins in new tiffany , but he declined due to health	B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O
+the documentary compared the dog population in lake thomas with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+in bridgetshire , jack coleman and his dog visited a museum about gravity .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+the documentary compared the elephant population in east aprilberg with that in	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+the documentary compared the cat population in west terri with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+while eating tacos , she read an article about gravity in luxembourg .	O O B-FOOD I-FOOD I-FOOD O O O O O B-CONCEPT O B-LOC I-LOC
+in west anthonyville , alicia hernandez and his dog visited a museum about gravity .	O B-LOC O O O B-PER I-PER O O O O O O B-CONCEPT O O
+the documentary compared the dog population in north jon with that in	O O O B-ANIMAL O O B-LOC O O O B-LOC O
+the documentary compared the elephant population in rebeccaside with that in saudi	O O O B-ANIMAL O O B-LOC O O O O B-LOC O
+newman and sons relocated their headquarters from brownstad to saint	B-ORG O O O O B-LOC O B-LOC I-LOC O O
+in jacksonhaven , donald black and his dog visited a museum about democracy .	O B-LOC I-LOC I-LOC O B-PER I-PER O O O O O O B-CONCEPT I-CONCEPT
+in lake sean , mary jensen and his dog visited a museum about democracy .	O B-LOC O O B-PER I-PER O O O O O O B-CONCEPT O O

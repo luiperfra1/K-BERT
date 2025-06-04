@@ -1,0 +1,923 @@
+unskilled	SimilarTo	artless
+end	Antonym	beginning
+U2	IsA	a band
+ring	RelatedTo	band
+Pain	CausesDesire	have a physical examination
+nugatory	RelatedTo	inoperative
+weak	SimilarTo	unskilled
+plate	RelatedTo	eat
+going into a coma	Causes	death
+intimidating	SimilarTo	discouraging
+get sick	HasContext	north america
+stay in bed	HasPrerequisite	turn off the alarm clock
+Baseball bats	CapableOf	hurt you
+bearish	RelatedTo	rough
+favour	RelatedTo	help someone
+playing hockey	HasSubevent	an injury
+jumping out of a window	Causes	death
+stay in bed	HasFirstSubevent	sleep
+killing	UsedFor	revenge
+go to bed	HasSubevent	you go to sleep
+deal	RelatedTo	transaction
+unskilled	SimilarTo	botched
+worthless	SimilarTo	nugatory
+glum	SimilarTo	dejected
+touch	RelatedTo	feeling
+a musical instrument	AtLocation	a band
+direful	DerivedFrom	dire
+reflect	MannerOf	emit
+alone	SimilarTo	exclusive
+inevitability	DerivedFrom	inevitable
+bearish	SimilarTo	pessimistic
+A computer	UsedFor	computing
+pass out	Synonym	zonk out
+levorotatory	DerivedFrom	atory
+Depression	CapableOf	lead a person to attempt suicide
+impractical	RelatedTo	unrealistic
+depression	Causes	suicide
+sleep	MotivatedByGoal	rest
+eat	HasPrerequisite	buy some food
+pain	RelatedTo	injury
+pain	RelatedTo	hurt
+pain	CausesDesire	lose consciousness
+sleep at night	HasPrerequisite	go to sleep
+punishing someone	Causes	revenge
+pain	RelatedTo	ache
+sleep in	DerivedFrom	sleep
+meat	UsedFor	eat
+pain	RelatedTo	hurting
+daunting	Synonym	intimidating
+mariticide	IsA	murder
+hopeful	RelatedTo	hope
+unfriendly	RelatedTo	unsociable
+breathe	HasPrerequisite	inhale, then exhale
+asocial	RelatedTo	antisocial
+be born	MannerOf	change state
+sacrifice	MannerOf	offer
+finish	Synonym	complete
+a knife	CapableOf	hurt
+lose consciousness	HasPrerequisite	hold my breath
+hopeful	Synonym	aspirant
+ungregarious	DerivedFrom	gregarious
+bullying	RelatedTo	intimidating
+die	HasFirstSubevent	stop breathing
+pessimistic	RelatedTo	hopeless
+dissuasive	RelatedTo	discouraging
+faint	Synonym	pass out
+manoeuvre	Synonym	maneuver
+A baseball	HasProperty	round
+happy	RelatedTo	feeling
+participatory	DerivedFrom	atory
+sleep	HasPrerequisite	get in bed
+aspirant	IsA	applicant
+baseball	IsA	a sport
+plug and pray	HasContext	computing
+pass out	RelatedTo	re enter
+eat	HasPrerequisite	prepare food
+go to sleep	HasPrerequisite	get in bed
+dire	Synonym	frightening
+sleep	HasPrerequisite	close your eyes
+Life	UsedFor	living
+a pitcher mound	UsedFor	baseball
+neurotic depression	IsA	depressive disorder
+lonesome	SimilarTo	dejected
+get drunk	HasPrerequisite	drink alcohol
+stay in bed	HasSubevent	sleep in
+mooring	IsA	line
+flirt	MotivatedByGoal	get someone in bed
+die	RelatedTo	death
+have sex	HasFirstSubevent	get in bed
+jogging	HasSubevent	pass out
+a bass fiddle	AtLocation	band
+kill	HasSubevent	take a life
+ingratitude	IsA	feeling
+fumatory	DerivedFrom	atory
+ungregarious	RelatedTo	nongregarious
+fire	AtLocation	a fireplace
+peremptory	SimilarTo	imperative
+polish	RelatedTo	make
+Hunger	IsA	a feeling
+band	RelatedTo	musical group
+botchy	Synonym	unskillful
+line	RelatedTo	straight
+dream	HasPrerequisite	sleep
+get some money from someone	HasPrerequisite	work
+nugatory	SimilarTo	worthless
+jumping out of a window	UsedFor	suicide
+jump out of a window	HasSubevent	die
+nugatory	HasContext	computing
+faintness	IsA	feeling
+stay in bed	MotivatedByGoal	you were sick
+last gasp	IsA	end
+unsocial	SimilarTo	alone
+incompetent person	Synonym	incompetent
+start	RelatedTo	beginning
+reclusive	Synonym	cloistered
+glow	IsA	feeling
+cut	RelatedTo	it hurts
+rogatory	DerivedFrom	atory
+fire	CapableOf	burn things
+psychotic depression	IsA	depressive disorder
+a machine	UsedFor	work
+trojan	HasContext	computing
+living	Causes	death
+hopeless	RelatedTo	discouraging
+imperative	SimilarTo	insistent
+unreal	RelatedTo	unrealistic
+rush	Synonym	race
+die	Antonym	live
+infelicitous	SimilarTo	unfortunate
+dream	RelatedTo	sleep
+give assistance	HasSubevent	help
+go to sleep	HasPrerequisite	stop talking
+commit suicide	MotivatedByGoal	avoid pain
+encouraging	SimilarTo	rallying
+punching someone	HasSubevent	defend yourself
+sleeping	Causes	death
+complete	RelatedTo	finished
+homicide	RelatedTo	kill someone
+poison	RelatedTo	death
+discouraging	SimilarTo	dissuasive
+middle	DistinctFrom	beginning
+help someone	HasPrerequisite	lend them a hand
+invalid	Synonym	disable
+drink alcohol	HasSubevent	lose your inhibitions
+botchedly	DerivedFrom	botched
+hang	RelatedTo	kill someone
+bungled	Synonym	botched
+dire	RelatedTo	voir dire
+Pain	IsA	a symptom
+artless	Synonym	uncultured
+fearlessness	IsA	feeling
+inspiratory	DerivedFrom	atory
+kill someone	HasPrerequisite	murder them
+apathy	IsA	feeling
+inexperient	Synonym	inexperienced
+finish	RelatedTo	complete
+uxoricide	IsA	murder
+pass sentence	MotivatedByGoal	punish
+stay in bed	HasSubevent	you sleep
+sleep at night	HasLastSubevent	get in bed
+earn a living	HasPrerequisite	Work
+recluse	Synonym	reclusive
+split	IsA	crack
+pain	RelatedTo	hurts
+headache	RelatedTo	ache
+encourage	Causes	hope
+dead	Antonym	alive
+stay in bed	MotivatedByGoal	stay out of the way
+catch mumps	HasSubevent	get sick
+dejected	SimilarTo	lonesome
+profit	RelatedTo	make
+sleep	RelatedTo	rest
+hearing the news	Causes	depression
+band	RelatedTo	music group
+jumping out of a window	Causes	injury
+stay in bed	MotivatedByGoal	rest some more
+alife	FormOf	life
+bearish	RelatedTo	surly
+unable	Synonym	ineffective
+breathe	HasSubevent	exhale
+stroke	IsA	maneuver
+being at a party	CausesDesire	drink alcohol
+affective disorder	RelatedTo	disturbance
+cook dinner	MotivatedByGoal	eat it
+threatening	Synonym	intimidating
+Computers	UsedFor	work
+out of play	SimilarTo	dead
+unfortunate	IsA	person
+doomed	SimilarTo	dead
+unskilled	RelatedTo	incompetent
+playing lacrosse	Causes	injury
+worthless	SimilarTo	trifling
+unsocial	RelatedTo	unsociable
+foregone conclusion	IsA	ending
+reclusive	SimilarTo	unsocial
+unencouraging	SimilarTo	discouraging
+die	MannerOf	ache
+social	Antonym	antisocial
+dying	Causes	to stop breathing
+unskillful	SimilarTo	unskilled
+d l	HasContext	computing
+cord	IsA	line
+impotent	SimilarTo	ineffective
+crude	SimilarTo	unanalyzed
+talk to someone	HasSubevent	breath
+band	RelatedTo	music
+drink alcohol	HasPrerequisite	get some whiskey
+uninhabited	SimilarTo	unsettled
+desperate	Synonym	do-or-die
+snoring	HasPrerequisite	sleep
+advancing into battle	Causes	death
+breath	IsA	bodily process
+live	HasPrerequisite	be born
+stab to death	MotivatedByGoal	defend yourself
+unsocial	SimilarTo	asocial
+pass out	Synonym	faint
+unrealistic	RelatedTo	unreal
+desperate	SimilarTo	imperative
+pain	RelatedTo	sensation
+defunct	SimilarTo	inoperative
+drink alcohol	HasLastSubevent	get drunk
+ending	IsA	morpheme
+a fire	CapableOf	heat a house
+feed	RelatedTo	give
+unachievable	SimilarTo	impossible
+inefficient	Synonym	ineffective
+wannabe	Synonym	aspirant
+deal	MannerOf	distribute
+clinical depression	Synonym	depressive disorder
+rallying	SimilarTo	encouraging
+uninitiated	SimilarTo	inexperienced
+antisocial	SimilarTo	unsociable
+lose consciousness	HasPrerequisite	stop breathing
+end	DistinctFrom	beginning
+masticatory	DerivedFrom	atory
+Fire	CapableOf	heat a room
+depression	Synonym	depressive disorder
+self-annihilation	Synonym	suicide
+assistance	Synonym	aid
+reverberatory	DerivedFrom	atory
+run	Synonym	race
+a piccolo	AtLocation	band
+revenge	MannerOf	punish
+antisocial	SimilarTo	unsocial
+life	AtLocation	earth
+Nirvana	IsA	Band
+love	IsA	a feeling
+toothless	SimilarTo	ineffectual
+draw	RelatedTo	make
+dissuasive	SimilarTo	discouraging
+An injury	CapableOf	hurts
+tar-and-feather	MannerOf	punish
+burn	RelatedTo	fire
+murder	Synonym	assassinate
+check	PartOf	ice hockey
+Being tired	CausesDesire	sleep
+dejected	RelatedTo	unhappy
+numb	Synonym	dead
+lines	FormOf	line
+nugatory	RelatedTo	invalid
+an animal	Desires	eat
+line	RelatedTo	points
+unthinkable	RelatedTo	incredible
+deal	RelatedTo	cards
+die	HasSubevent	stop breathing
+nongregarious	SimilarTo	ungregarious
+unhelpful	RelatedTo	discouraging
+falling	Causes	pain
+exercise in futility	RelatedTo	futile
+hopeless	SimilarTo	unskilled
+ineffective	Synonym	ineffectual
+reline	MannerOf	line
+explanatory	DerivedFrom	atory
+Stress	CausesDesire	drink alcohol
+obstruction	IsA	maneuver
+end	IsA	ending
+race	RelatedTo	running
+Cancer	CapableOf	kill
+deal	RelatedTo	agreement
+bring home some fish	MotivatedByGoal	eat it
+uninhabited	SimilarTo	abandoned
+stabbing to death	Causes	death
+unsociable	RelatedTo	unsocial
+discouraging	SimilarTo	intimidating
+make	RelatedTo	construct
+impossible	IsA	impossibility
+unrealizable	Synonym	unachievable
+uninhabited	SimilarTo	unfrequented
+pain	RelatedTo	it hurts
+a human	NotDesires	be alone
+work	AtLocation	a desk
+sideline	IsA	line
+stay in bed	HasSubevent	you get rested
+caespitose	SimilarTo	ungregarious
+pessimistic	RelatedTo	pessimism
+ungregarious	RelatedTo	gregarious
+punching someone	UsedFor	hurting
+snoring	Causes	death
+band	RelatedTo	musical
+dire	SimilarTo	critical
+unworthy	RelatedTo	worthless
+pain	RelatedTo	feeling
+bearish	HasContext	stock exchange
+assist	HasContext	ice hockey
+dying	HasSubevent	stop breathing
+pole	IsA	end
+be involved in an accident	HasSubevent	you die
+Baseball	IsA	a game
+line	PartOf	letter
+depressive disorder	IsA	affective disorder
+unsociable	SimilarTo	ungregarious
+assist	IsA	maneuver
+clumsy	Synonym	bungling
+nugatory	DerivedFrom	atory
+rough	IsA	sensation
+raw	Synonym	crude
+line	IsA	artifact
+shoot	MannerOf	fire
+become inebriated	HasPrerequisite	drink alcohol
+pain	IsA	sensation
+optimistic	Synonym	affirmative
+run	RelatedTo	race
+significance	IsA	importance
+being tired	CausesDesire	go to sleep
+run time	HasContext	computing
+stabbing to death	UsedFor	hurting someone
+lonely	Synonym	unfrequented
+plate	RelatedTo	baseball
+shock	RelatedTo	it hurts
+resting	HasSubevent	sleep
+edge	RelatedTo	line
+unrealistic	RelatedTo	impossible
+striking a match	Causes	fire
+assist	Synonym	aid
+maneuver	MannerOf	act
+drink alcohol	HasSubevent	you become dehydrated
+eating quickly	Causes	get sick
+bubble	MannerOf	emit
+emotion	IsA	feeling
+snore	HasPrerequisite	go to sleep
+shock	RelatedTo	feeling
+unsocial	SimilarTo	lonely
+a town	UsedFor	live
+encouraging	SimilarTo	exhortative
+provide	RelatedTo	give
+a baseball	AtLocation	a park
+blues	IsA	depression
+kill	HasPrerequisite	buy a gun
+desperate	IsA	unfortunate
+slapshot	PartOf	ice hockey
+encouraging	RelatedTo	hopeful
+imperative	HasContext	grammar
+drink alcohol	MotivatedByGoal	relax
+sleep	RelatedTo	bed
+hopeful	Synonym	promising
+shock	RelatedTo	pain
+stay in bed	MotivatedByGoal	sleep for a while
+fear	RelatedTo	feeling
+pessimistic	SimilarTo	bearish
+rem	HasContext	computing
+alone	Synonym	unaccompanied
+dead	SimilarTo	assassinated
+discriminatory	DerivedFrom	atory
+kill someone	HasPrerequisite	get a weapon
+imperative	RelatedTo	assertive
+A fire	CapableOf	warm your hands
+fire	RelatedTo	flame
+go to sleep	MotivatedByGoal	get up early
+relays	IsA	race
+plant	RelatedTo	life
+kill someone	MotivatedByGoal	defend yourself
+drink alcohol	HasLastSubevent	swallow
+intimidating	Synonym	menacing
+period	HasContext	ice hockey
+a gregarious person	NotDesires	be alone
+unskilled	SimilarTo	bungling
+lose consciousness	HasPrerequisite	pass out
+sleep	HasLastSubevent	get into bed
+live	HasPrerequisite	breath
+pnp	HasContext	computing
+idle	RelatedTo	ineffectual
+hunger	CausesDesire	eat
+eat breakfast in bed	HasPrerequisite	stay in bed
+wound	RelatedTo	hurt
+thinkable	Antonym	unthinkable
+delusive	SimilarTo	unrealistic
+likely	SimilarTo	promising
+ineffectual	RelatedTo	inefficient
+languisher	IsA	unfortunate
+emotional disorder	Synonym	affective disorder
+water	IsA	life
+dysphoria	IsA	depression
+if you eat to much you	CapableOf	get sick
+unskilled	SimilarTo	crude
+Falling	CapableOf	hurts
+hopeless	Antonym	hopeful
+bearish	Antonym	bullish
+killing someone	HasSubevent	death
+efface	MannerOf	humble
+dissuasiveness	DerivedFrom	dissuasive
+humble	SimilarTo	unskilled
+race	RelatedTo	contest
+reduce	RelatedTo	make
+have an epileptic fit	HasLastSubevent	pass out
+die	HasSubevent	you stop living
+oil	RelatedTo	crude
+manufacture	RelatedTo	make
+get sick	HasFirstSubevent	become infected by a disease
+go to sleep	MotivatedByGoal	rest up
+dissuasive	RelatedTo	dehortatory
+distribute	RelatedTo	pass out
+ice hockey	IsA	contact sport
+depopulated	SimilarTo	uninhabited
+dissuasively	RelatedTo	dissuasive
+lighting a match	Causes	fire
+deal	RelatedTo	bargain
+year-end	IsA	end
+imperative	SimilarTo	strident
+hurting	FormOf	hurt
+heat	RelatedTo	fire
+unthinkable	SimilarTo	out of the question
+Elvis	HasProperty	dead
+slump	Synonym	depression
+impossible	SimilarTo	unachievable
+stay in bed	HasPrerequisite	get into bed
+punching someone	Causes	pain
+lose consciousness	HasPrerequisite	take sleeping pills
+work	MotivatedByGoal	you need money
+get sick	RelatedTo	vomit
+importance	IsA	value
+drink alcohol	HasPrerequisite	should not drive at all
+have an examination	MotivatedByGoal	it hurts
+band	RelatedTo	group
+horse	RelatedTo	race
+nugatory	RelatedTo	futile
+office	RelatedTo	work
+air	RelatedTo	breath
+produce	RelatedTo	make
+live	HasFirstSubevent	be born
+an injury	AtLocation	the emergency room
+pass out	DerivedFrom	pass
+buy a hamburger	MotivatedByGoal	eat it
+lose consciousness	HasPrerequisite	drink alcohol
+pay	RelatedTo	give
+fate	RelatedTo	you die
+visit other countries	HasSubevent	you get sick
+ungregarious	RelatedTo	unsocial
+blow	RelatedTo	hurting someone
+a saxophone	AtLocation	a band
+drink alcohol	HasPrerequisite	not drive
+a baseball	UsedFor	playing baseball
+make	MannerOf	create from raw material
+sleep at night	HasPrerequisite	get into bed
+spark	MannerOf	emit
+fumbling	Synonym	bungling
+power play	HasContext	ice hockey
+life	HasProperty	good
+lose consciousness	HasPrerequisite	hit yourself on the head
+offer	RelatedTo	make
+minatory	DerivedFrom	atory
+Live	HasLastSubevent	Die
+comprehensive	RelatedTo	complete
+fight the enemy	HasSubevent	shoot them
+defeat	IsA	ending
+complete	RelatedTo	finish
+play cards	HasSubevent	you deal
+a person	UsedFor	help
+cross check	HasContext	ice hockey
+new	SimilarTo	inexperienced
+dire	RelatedTo	awful
+nugatory	RelatedTo	importance
+reward	IsA	offer
+unsocial	SimilarTo	antisocial
+finish	RelatedTo	line
+retaliate	Synonym	revenge
+counteroffer	IsA	offer
+intimidating	RelatedTo	threatening
+die	HasPrerequisite	stop breathing
+imprint	Synonym	depression
+hurt	Synonym	injury
+down	SimilarTo	inoperative
+finish	RelatedTo	ending
+nugatory	RelatedTo	trifling
+race	RelatedTo	speed
+Fire	CapableOf	destroy forests
+asocial	SimilarTo	unsocial
+regret	RelatedTo	feeling
+go to sleep	HasFirstSubevent	lay down
+lose consciousness	HasPrerequisite	TAKE A SLEEPING PILL
+disheartening	SimilarTo	discouraging
+game	RelatedTo	baseball
+going into a coma	HasSubevent	lose consciousness
+aspirer	Synonym	aspirant
+drink alcohol	HasPrerequisite	buy some alcohol
+go into a trance	HasLastSubevent	lose consciousness
+an office building	UsedFor	work
+grave	RelatedTo	dead
+avoidable	Antonym	inevitable
+murder	RelatedTo	kill someone
+make	RelatedTo	create
+pain	CausesDesire	have an examination
+unskilled	SimilarTo	humble
+despairing	SimilarTo	hopeless
+unfrequented	SimilarTo	uninhabited
+gather energy for tomorrow	HasFirstSubevent	get in bed
+major depressive episode	IsA	depressive disorder
+hit the bottle	HasPrerequisite	drink some alcohol
+unskilled	RelatedTo	inexperienced
+a murder	CausesDesire	conduct a trial
+kill	HasSubevent	you feel remorse
+pass out	Synonym	distribute
+a gun	UsedFor	kill someone
+fire	RelatedTo	burning
+breath	RelatedTo	air
+Severe pain	CausesDesire	die
+unattainable	Synonym	unachievable
+a keyboard instrument	AtLocation	a band
+insanity	CausesDesire	kill
+a person	NotDesires	get sick'
+love	CapableOf	hurt
+encouraging	RelatedTo	courage
+downtrodden	SimilarTo	unfortunate
+lonely	SimilarTo	unsocial
+rail line	Synonym	line
+burn	RelatedTo	injury
+support	RelatedTo	help
+bearishly	RelatedTo	bearish
+spurious	SimilarTo	invalid
+life	RelatedTo	living
+having an asthma attack	Causes	stop breathing
+Death	HasProperty	inevitable
+ineffective	SimilarTo	impotent
+A death	CapableOf	bring sorrow
+destroy your enemy	HasPrerequisite	kill them
+love	RelatedTo	feeling
+fire	RelatedTo	heat
+imperative	SimilarTo	urgent
+hurting someone else	HasSubevent	defend yourself
+bed	RelatedTo	sleep in
+discouraging	RelatedTo	dissuasive
+breathe	MotivatedByGoal	live
+A broken bone	IsA	injury
+artless	SimilarTo	unskilled
+yardarm	IsA	end
+fire	RelatedTo	flames
+sit quietly	HasPrerequisite	be alone
+damnatory	DerivedFrom	atory
+needing money	CausesDesire	work
+People	CapableOf	get sick
+vengeance	Synonym	revenge
+commemoratory	DerivedFrom	atory
+hope	RelatedTo	faith
+fall	RelatedTo	it hurts
+typing	Causes	pain
+Pink Floyd	IsA	a band
+have food	HasPrerequisite	eat it
+dream	HasPrerequisite	go to sleep
+hurts	FormOf	hurt
+A suicidal person	Desires	die
+is	HasContext	computing
+go to bed	HasPrerequisite	get in bed
+drink alcohol	HasSubevent	get drunk
+finish	RelatedTo	race
+live	HasSubevent	breathe
+yard line	IsA	line
+a bass clarinet	AtLocation	band
+admonitory	SimilarTo	dissuasive
+doing housework	HasPrerequisite	work
+a person	Desires	avoid pain
+jumping out of a window	HasSubevent	die
+illegitimate	RelatedTo	invalid
+decide	RelatedTo	make
+derogatory	DerivedFrom	atory
+face off	HasContext	ice hockey
+nugatory	RelatedTo	ineffectual
+direly	DerivedFrom	dire
+botched	SimilarTo	unskilled
+assassinate	MannerOf	defame
+impossible	RelatedTo	unthinkable
+asocial	HasContext	perhaps
+be involved in an accident	HasSubevent	you hurt
+seed	RelatedTo	beginning
+hat trick	HasContext	ice hockey
+offer	Synonym	crack
+bat	RelatedTo	baseball
+humility	IsA	feeling
+kill	HasSubevent	shoot
+dissuasive	SimilarTo	admonitory
+living	Causes	life
+unsociable	RelatedTo	unfriendly
+a person	Desires	help
+help someone	HasSubevent	you feel good
+live	DistinctFrom	dead
+lose consciousness	HasPrerequisite	go to sleep
+bearish	DerivedFrom	bear
+stay in bed	MotivatedByGoal	more rest
+go to a restaurant	HasSubevent	eat
+Life	HasProperty	finite
+unpracticed	SimilarTo	inexperienced
+bed	RelatedTo	you sleep
+running with scissors	CapableOf	hurt you
+crude	Synonym	earthy
+help	RelatedTo	assist
+sleep in	Synonym	live in
+field	RelatedTo	baseball
+impossibleness	Synonym	impossibility
+commencement	Synonym	beginning
+unattainableness	IsA	impossibility
+stay in bed	HasPrerequisite	get in bed
+inevitable	IsA	destiny
+lucid dream	HasPrerequisite	go to sleep
+commit suicide	Causes	death
+Groucho Marx	HasProperty	dead
+lonely	Synonym	lonesome
+dissuasiveness	RelatedTo	dissuasive
+an injury	AtLocation	a hockey game
+sleep	HasPrerequisite	go to bed
+artless	SimilarTo	careless
+go to sleep	HasPrerequisite	go to bed
+homeless	IsA	unfortunate
+die	HasPrerequisite	live
+work	RelatedTo	activity
+sate your hunger	HasPrerequisite	eat
+catching mumps	HasSubevent	get sick
+meet a friend	MotivatedByGoal	you are lonely
+butcherly	Synonym	unskillful
+kill	HasPrerequisite	have a weapon
+not eating	Causes	death
+help someone	HasSubevent	that they thank you
+penalty box	HasContext	ice hockey
+hopeful	RelatedTo	optimistic
+cynicism	IsA	pessimism
+jugglery	IsA	maneuver
+affective disorder	IsA	mental disorder
+work	RelatedTo	office
+Humanity	Desires	live
+dos	HasContext	computing
+go to sleep	HasLastSubevent	close your eyes
+hurts	IsA	band
+open a bag of chips	MotivatedByGoal	eat them
+death	AtLocation	a war
+sleep at night	HasPrerequisite	get in bed
+race	RelatedTo	competition
+breathe	HasPrerequisite	be alive
+defend yourself	MotivatedByGoal	someone was attacking you
+depression	CausesDesire	stay in bed
+bid	MannerOf	play
+harakiri	IsA	suicide
+dead	SimilarTo	inoperative
+discouraging	RelatedTo	hopeless
+breathe	HasSubevent	inhale
+maneuver	Synonym	manoeuver
+hope	RelatedTo	wish
+intimidation	RelatedTo	intimidating
+asocial	Synonym	antisocial
+complete	SimilarTo	dead
+exculpatory	DerivedFrom	atory
+coast	RelatedTo	line
+eat	HasPrerequisite	find food
+ball hawking	IsA	maneuver
+punching someone	Causes	hurting them
+wannabee	Synonym	aspirant
+having an asthma attack	Causes	pass out
+wound	RelatedTo	injury
+a master bedroom	UsedFor	sleep in
+inoperative	SimilarTo	down
+unrealistic	SimilarTo	kafkaesque
+fighting the enemy	HasSubevent	death
+remembering something	Causes	pain
+dour	Synonym	dejected
+a club	UsedFor	defend yourself
+go to sleep	Synonym	go to bed
+a clarinet	AtLocation	a band
+eat	RelatedTo	food
+desperate	Synonym	dire
+widow	RelatedTo	dead
+schizoaffective disorder	RelatedTo	affective disorder
+go into a trance	HasSubevent	you lose consciousness
+ungregarious	SimilarTo	nongregarious
+sleep	RelatedTo	night
+dire	RelatedTo	portentous
+buy a hamburger	HasSubevent	eat it
+stay in bed	HasPrerequisite	not get up
+kill someone	HasPrerequisite	use a knife
+an office	UsedFor	work
+asocial	DerivedFrom	social
+ineffectual	Synonym	unavailing
+sleeping	Causes	bedsores
+ungregarious	SimilarTo	caespitose
+killing someone	HasSubevent	they die
+afflicting	IsA	hurting
+unrealistic	RelatedTo	impractical
+a fire	CapableOf	need fuel
+giving assistance	Causes	to help someone
+bearish	RelatedTo	clumsy
+baseball	IsA	an american sport
+stay in bed	MotivatedByGoal	you're sick
+ineffectual	RelatedTo	inefficacious
+Baseball	IsA	an american pastime
+humble	SimilarTo	modest
+face-off	HasContext	ice hockey
+a line	AtLocation	graph
+dead	SimilarTo	stillborn
+Fire	CapableOf	burn houses
+a band	CapableOf	play music
+punishing someone	UsedFor	revenge
+live	HasPrerequisite	breathe
+urgent	SimilarTo	imperative
+unsocial	SimilarTo	reclusive
+awaking	Causes	depression
+punch someone	MotivatedByGoal	hurt them
+critical	SimilarTo	dire
+a person	Desires	life
+bed	RelatedTo	sleep
+emotional disturbance	Synonym	affective disorder
+restful	HasContext	computing
+inefficient	RelatedTo	ineffectual
+anger	CausesDesire	kill someone
+give	MannerOf	submit
+band	RelatedTo	instruments
+ungregarious	SimilarTo	unsociable
+baseball	IsA	a game people play
+make	MannerOf	estimate
+sleep in	Synonym	sleep late
+superfluous	SimilarTo	worthless
+nugatory	RelatedTo	ineffective
+uncollectible	SimilarTo	invalid
+major affective disorder	Synonym	affective disorder
+deal	MannerOf	transact
+drink alcohol	MotivatedByGoal	forget something
+gore	RelatedTo	it hurts
+humiliated	SimilarTo	humble
+give assistance	MotivatedByGoal	help someone
+stay in bed	HasSubevent	bedsores
+unrealistic	SimilarTo	chimerical
+invalid	RelatedTo	illegitimate
+fight the enemy	MotivatedByGoal	defend yourself
+go to a party	HasSubevent	drink alcohol
+get drunk	HasLastSubevent	pass out
+support	RelatedTo	aid
+kafkaesque	SimilarTo	unrealistic
+wrestling	Causes	injury
+impolite	Synonym	bearish
+help	RelatedTo	assistance
+help someone	MotivatedByGoal	you have compassion for them
+smoke	RelatedTo	fire
+offer	RelatedTo	deal
+killing someone	HasSubevent	hurting them
+anticipative	SimilarTo	hopeful
+drink alcohol	HasSubevent	forgetfulness
+dehortative	RelatedTo	dissuasive
+ache	Synonym	hurt
+stay in bed	HasPrerequisite	get sick
+bedsores	RelatedTo	bedsore
+automobile race	IsA	race
+fire	IsA	combustion
+undoable	Synonym	unachievable
+house	RelatedTo	live
+kneecap	MannerOf	shoot
+stay in bed	HasPrerequisite	not set the alarm
+a murder	IsA	a crime
+air	RelatedTo	breathe
+sate your hunger	HasSubevent	eat
+backache	IsA	ache
+war	Causes	death
+work	RelatedTo	job
+trifling	Synonym	dalliance
+hortatory	DerivedFrom	atory
+gathering energy for tomorrow	HasSubevent	sleep
+bipolar disorder	IsA	affective disorder
+drink alcohol	HasPrerequisite	go to a bar
+unqualified	Synonym	incompetent
+shoot	MannerOf	emit
+offer	RelatedTo	bid
+endogenous depression	IsA	depressive disorder
+optimistic	RelatedTo	hopeful
+wound	RelatedTo	hurts
+ineffectual	Synonym	ineffective
+diminish your own hunger	HasPrerequisite	eat
+futile	Synonym	fruitless
+desk	RelatedTo	work
+work	MotivatedByGoal	money
+despair	Antonym	hope
+promising	SimilarTo	auspicious
+careless	SimilarTo	artless
+assist	MannerOf	work
+unskilled	SimilarTo	unskillful
+incompetent	IsA	unskilled person
+help someone	HasPrerequisite	offer
+complete	RelatedTo	done
+going to bed	Causes	sleep
+futility	RelatedTo	futile
+lose consciousness	HasSubevent	you stop thinking
+out of practice	SimilarTo	unskilled
+sleep	HasSubevent	you dream
+cut	RelatedTo	injury
+deal	Synonym	cope
+sleep at night	HasPrerequisite	take sleeping pills
+cardiorespiratory	DerivedFrom	atory
+surrender	RelatedTo	give
+employ	RelatedTo	give
+kill someone	MotivatedByGoal	revenge
+breathe	HasPrerequisite	inhale
+painful	Synonym	hurting
+pain	RelatedTo	ouch
+verse	RelatedTo	line
+sleep	HasPrerequisite	get into bed
+snore	HasPrerequisite	sleep
+trust	Synonym	hope
+offer	RelatedTo	give
+band	RelatedTo	rock
+go to sleep	HasPrerequisite	get into bed
+uninhabited	SimilarTo	depopulated
+help	RelatedTo	aid
+rest	RelatedTo	sleep
+revelatory	DerivedFrom	atory
+ungregarious	HasContext	plant
+incapable	RelatedTo	incompetent
+bedsores	FormOf	bedsore
+hopeless	SimilarTo	impossible
+futile	Synonym	unavailing
+alone	SimilarTo	unsocial
+a bat	UsedFor	baseball
+have a rest	HasPrerequisite	get in your bed
+losing consciousness	Causes	injury
+band	RelatedTo	musicians
+punishing someone	UsedFor	hurting them
+a weapon	UsedFor	hurt someone
+live	HasPrerequisite	eat
+complete	SimilarTo	all
+inoperative	SimilarTo	dead
+bungling	Synonym	butterfingered
+reek	MannerOf	emit
+servant	RelatedTo	help
+atory	RelatedTo	noun
+get into bed	HasSubevent	go to sleep
+lose consciousness	HasPrerequisite	be hit in the head
+incompetent	Synonym	bungling
+impossibility	IsA	nonexistence
+play	DistinctFrom	work
+exhortative	SimilarTo	encouraging
+hurts	RelatedTo	hurt
+sleep	HasSubevent	get in bed
+home	RelatedTo	live
+a weapon	UsedFor	kill someone
+buying a hamburger	Causes	eat
+pollyannaish	SimilarTo	optimistic
+bury the cat	MotivatedByGoal	it is dead
+commit suicide	HasSubevent	die
+withdrawn	Synonym	reclusive
+inspiriting	SimilarTo	encouraging
+fire	RelatedTo	smoke
+useless	RelatedTo	ineffectual
+a computer	UsedFor	work
+icebreaker	IsA	beginning
+have friends over	MotivatedByGoal	you are lonely
+go to sleep	HasLastSubevent	lose consciousness
+impossible	RelatedTo	unrealistic
+go for a walk	MotivatedByGoal	be alone
+lose consciousness	HasLastSubevent	pass out
+playing football	Causes	injury
+dead	Synonym	drained
+dejected	SimilarTo	down in the mouth
+dire	RelatedTo	terrible
+work	RelatedTo	labor
+dream	HasSubevent	sleep
+touch	RelatedTo	sensation
+hopeful	RelatedTo	encouraging
+Rage	CausesDesire	kill
+getting drunk	Causes	death
+hurting	Synonym	pain
+lifer	DerivedFrom	life
+taste	RelatedTo	sensation
+hurting someone else	Causes	pain
+death	PartOf	life
+artless	RelatedTo	natural
+proffer	Synonym	offer
+kill	HasSubevent	someone or something dies
+dire	RelatedTo	dreadful
+depilatory	DerivedFrom	atory
+impossible	Synonym	out of the question
+get paid	HasPrerequisite	work
+aspirant	Synonym	aspiring
+dead	DistinctFrom	alive
+hunger	IsA	sensation
+catch mumps	HasFirstSubevent	get sick
+end	RelatedTo	finish
+fire	RelatedTo	hot
+have a heart attack	HasLastSubevent	stop breathing
+assist	HasContext	baseball
+build	RelatedTo	make
+lose consciousness	MotivatedByGoal	avoid pain
+obligatory	DerivedFrom	atory
+killing	Causes	death
+having a rest	Causes	sleep
+wound	RelatedTo	it hurts
+kill	RelatedTo	murder
+mania	IsA	affective disorder
+die	HasLastSubevent	stop breathing
+falling	Causes	injury
+hopeless	RelatedTo	pessimistic
+blue-collar	RelatedTo	unskilled
+unsocial	RelatedTo	ungregarious
+bedroom	RelatedTo	you sleep
+remember something	HasSubevent	that it hurts
+optimistic	SimilarTo	bullish
+a machine gun	UsedFor	defend yourself
+optimistic	SimilarTo	starry-eyed
+taste	IsA	sensation
+assassinate	MannerOf	kill
+trees	CapableOf	die
+hopeless	Synonym	desperate
+kill	RelatedTo	death
+inevitable	Synonym	unavoidable
+account	IsA	importance
+diminish your own hunger	HasSubevent	eat
+breathe	Synonym	emit
+A living being	CapableOf	die
+parking	IsA	maneuver
+botched	RelatedTo	incompetent
+get sick	RelatedTo	sick
+pain	CausesDesire	have a checkup
+alone	Synonym	lone

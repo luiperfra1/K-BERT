@@ -1,0 +1,50 @@
+text_a	label
+Elon Musk founded Tesla in California	B-PER I-PER O B-ORG O B-LOC
+I had apple with coffee this morning	O O B-FOOD O B-FOOD O O
+Paris is in Hawaii	B-LOC O O B-LOC
+Symptoms like fever often indicate emotion	O O B-CONCEPT O O B-CONCEPT
+Paris is in Paris	B-LOC O O B-LOC
+The cat chased the cat	O B-ANIMAL O O B-ANIMAL
+Paris is in Hawaii	B-LOC O O B-LOC
+The fever is a common pain	O B-CONCEPT O O O B-CONCEPT
+The dog chased the dog	O B-ANIMAL O O B-ANIMAL
+Elon Musk works at Google	B-PER I-PER O O B-ORG
+Elon Musk works at Tesla	B-PER I-PER O O B-ORG
+Many people experience emotion when they feel emotion	O O O B-CONCEPT O O O B-CONCEPT
+Symptoms like emotion often indicate happiness	O O B-CONCEPT O O B-CONCEPT
+cat was seen near Paris	B-ANIMAL O O O B-LOC
+suffering is related to suffering	B-CONCEPT O O O B-CONCEPT
+dog was seen near California	B-ANIMAL O O O B-LOC
+Symptoms like emotion often indicate suffering	O O B-CONCEPT O O B-CONCEPT
+Many people experience fever when they feel emotion	O O O B-CONCEPT O O O B-CONCEPT
+I had apple with bread this morning	O O B-FOOD O B-FOOD O O
+The suffering is a common symptom	O B-CONCEPT O O O B-CONCEPT
+Elon Musk works at Tesla	B-PER I-PER O O B-ORG
+Many people experience emotion when they feel pain	O O O B-CONCEPT O O O B-CONCEPT
+fever is related to pain	B-CONCEPT O O O B-CONCEPT
+I had bread with apple this morning	O O B-FOOD O B-FOOD O O
+Many people experience pain when they feel suffering	O O O B-CONCEPT O O O B-CONCEPT
+Elon Musk works at Google	B-PER I-PER O O B-ORG
+Hawaii is in Paris	B-LOC O O B-LOC
+Many people experience emotion when they feel emotion	O O O B-CONCEPT O O O B-CONCEPT
+The emotion is a common happiness	O B-CONCEPT O O O B-CONCEPT
+Elon Musk founded Apple in Paris	B-PER I-PER O B-ORG O B-LOC
+Elon Musk founded Tesla in California	B-PER I-PER O B-ORG O B-LOC
+The dog chased the cat	O B-ANIMAL O O B-ANIMAL
+Elon Musk founded Apple in Paris	B-PER I-PER O B-ORG O B-LOC
+dog was seen near Paris	B-ANIMAL O O O B-LOC
+I had apple with apple this morning	O O B-FOOD O B-FOOD O O
+Elon Musk works at Apple	B-PER I-PER O O B-ORG
+dog was seen near California	B-ANIMAL O O O B-LOC
+pain is related to emotion	B-CONCEPT O O O B-CONCEPT
+dog was seen near Hawaii	B-ANIMAL O O O B-LOC
+The pain is a common pain	O B-CONCEPT O O O B-CONCEPT
+Barack Obama works at Apple	B-PER I-PER O O B-ORG
+Elon Musk works at Tesla	B-PER I-PER O O B-ORG
+Paris is in Hawaii	B-LOC O O B-LOC
+Barack Obama founded Tesla in Paris	B-PER I-PER O B-ORG O B-LOC
+Many people experience suffering when they feel fever	O O O B-CONCEPT O O O B-CONCEPT
+fever is related to emotion	B-CONCEPT O O O B-CONCEPT
+Hawaii is in California	B-LOC O O B-LOC
+I had apple with coffee this morning	O O B-FOOD O B-FOOD O O
+fever is related to happiness	B-CONCEPT O O O B-CONCEPT

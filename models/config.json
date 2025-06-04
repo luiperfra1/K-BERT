@@ -1,0 +1,8 @@
+{
+  "embedding": "bert",
+  "encoder": "bert",
+  "target": "cls",
+  "hidden_size": 768,
+  "layers_num": 12,
+  "heads_num": 12
+}

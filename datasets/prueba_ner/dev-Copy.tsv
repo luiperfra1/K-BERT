@@ -1,0 +1,50 @@
+text_a	label
+The suffering is a common happiness	O B-CONCEPT O O O B-CONCEPT
+I had coffee with apple this morning	O O B-FOOD O B-FOOD O O
+Elon Musk founded Apple in Paris	B-PER I-PER O B-ORG O B-LOC
+Symptoms like emotion often indicate emotion	O O B-CONCEPT O O B-CONCEPT
+Elon Musk founded Apple in California	B-PER I-PER O B-ORG O B-LOC
+Many people experience suffering when they feel pain	O O O B-CONCEPT O O O B-CONCEPT
+The emotion is a common happiness	O B-CONCEPT O O O B-CONCEPT
+Elon Musk works at Apple	B-PER I-PER O O B-ORG
+I had coffee with bread this morning	O O B-FOOD O B-FOOD O O
+I had apple with apple this morning	O O B-FOOD O B-FOOD O O
+Larry Page founded Tesla in California	B-PER I-PER O B-ORG O B-LOC
+Elon Musk founded Tesla in Hawaii	B-PER I-PER O B-ORG O B-LOC
+Barack Obama founded Google in Paris	B-PER I-PER O B-ORG O B-LOC
+fever is related to suffering	B-CONCEPT O O O B-CONCEPT
+emotion is related to symptom	B-CONCEPT O O O B-CONCEPT
+pain is related to happiness	B-CONCEPT O O O B-CONCEPT
+dog was seen near California	B-ANIMAL O O O B-LOC
+Larry Page founded Google in Hawaii	B-PER I-PER O B-ORG O B-LOC
+Elon Musk founded Google in California	B-PER I-PER O B-ORG O B-LOC
+Many people experience suffering when they feel pain	O O O B-CONCEPT O O O B-CONCEPT
+The dog chased the dog	O B-ANIMAL O O B-ANIMAL
+The dog chased the dog	O B-ANIMAL O O B-ANIMAL
+California is in Paris	B-LOC O O B-LOC
+Symptoms like pain often indicate pain	O O B-CONCEPT O O B-CONCEPT
+The dog chased the cat	O B-ANIMAL O O B-ANIMAL
+Larry Page founded Apple in Paris	B-PER I-PER O B-ORG O B-LOC
+Symptoms like happiness often indicate emotion	O O B-CONCEPT O O B-CONCEPT
+I had apple with coffee this morning	O O B-FOOD O B-FOOD O O
+I had bread with bread this morning	O O B-FOOD O B-FOOD O O
+Symptoms like happiness often indicate suffering	O O B-CONCEPT O O B-CONCEPT
+Symptoms like happiness often indicate symptom	O O B-CONCEPT O O B-CONCEPT
+cat was seen near California	B-ANIMAL O O O B-LOC
+Elon Musk works at Apple	B-PER I-PER O O B-ORG
+Paris is in Hawaii	B-LOC O O B-LOC
+fever is related to pain	B-CONCEPT O O O B-CONCEPT
+I had coffee with apple this morning	O O B-FOOD O B-FOOD O O
+The cat chased the dog	O B-ANIMAL O O B-ANIMAL
+Many people experience emotion when they feel emotion	O O O B-CONCEPT O O O B-CONCEPT
+Symptoms like suffering often indicate fever	O O B-CONCEPT O O B-CONCEPT
+pain is related to pain	B-CONCEPT O O O B-CONCEPT
+The suffering is a common happiness	O B-CONCEPT O O O B-CONCEPT
+emotion is related to happiness	B-CONCEPT O O O B-CONCEPT
+The fever is a common happiness	O B-CONCEPT O O O B-CONCEPT
+Many people experience pain when they feel symptom	O O O B-CONCEPT O O O B-CONCEPT
+The suffering is a common fever	O B-CONCEPT O O O B-CONCEPT
+Symptoms like symptom often indicate fever	O O B-CONCEPT O O B-CONCEPT
+Many people experience pain when they feel fever	O O O B-CONCEPT O O O B-CONCEPT
+Many people experience symptom when they feel happiness	O O O B-CONCEPT O O O B-CONCEPT
+The symptom is a common emotion	O B-CONCEPT O O O B-CONCEPT

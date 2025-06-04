@@ -9,6 +9,7 @@ import random
 import argparse
 import collections
 import torch.nn as nn
+import time
 from uer.utils.vocab import Vocab
 from uer.utils.constants import *
 from uer.utils.tokenizer import *
@@ -144,6 +145,7 @@ def add_knowledge_worker(params):
 
 
 def main():
+    start_time = time.time() 
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
     # Path options.
@@ -492,6 +494,9 @@ def main():
     else:
         model.load_state_dict(torch.load(args.output_model_path))
     evaluate(args, True)
+    end_time = time.time()  # ⏱️ al final de main
+    elapsed = end_time - start_time
+    print("Tiempo total de ejecución: {:.2f} segundos.".format(elapsed))
 
 
 if __name__ == "__main__":
