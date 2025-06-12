@@ -1,0 +1,1370 @@
+acid value	IsA	definite quantity
+white-bellied swallow	IsA	swallow
+serve justice	MotivatedByGoal	do the right thing
+assist	HasContext	ice hockey
+analyse something	HasSubevent	think
+a try	UsedFor	an attempt
+get drunk	HasPrerequisite	give someone your car keys
+entertaining people	HasSubevent	sing
+a crime	CausesDesire	pass sentence
+communicate	HasPrerequisite	talk
+a person	Desires	honor
+rule	RelatedTo	law
+a human	AtLocation	a church
+fire	AtLocation	a fireplace
+cyberharassment	Synonym	bullying online
+person	RelatedTo	human
+jingle	RelatedTo	lyrics
+singing	HasSubevent	open your mouth
+cold	RelatedTo	freezing
+express information	HasSubevent	to talk
+unhealthfulness	IsA	unwholesomeness
+offer	RelatedTo	give
+depravity	IsA	transgression
+a person	UsedFor	help
+trophy	IsA	award
+squeeze	IsA	movement
+hatred	Synonym	hate
+pass sentence	MotivatedByGoal	find someone guilty
+health	RelatedTo	being
+laurels	Synonym	honor
+walking	UsedFor	getting somewhere
+fragility	IsA	tangible physical quantity
+mutual understanding	IsA	sympathy
+sun	RelatedTo	hot
+distance	RelatedTo	measure
+mind	RelatedTo	thought
+spiritualist	Synonym	medium
+antisocial	SimilarTo	unsociable
+remoxipride	RelatedTo	toxicity
+a dog	CapableOf	run
+acrophobic	SimilarTo	afraid
+weather	RelatedTo	temperature
+help someone	MotivatedByGoal	you have compassion for them
+get drunk	HasPrerequisite	drink a lot of alcohol
+floor	RelatedTo	stand on
+Singing	IsA	a human activity
+reasonable	SimilarTo	well-founded
+troll	HasContext	folklore
+takeoff	Synonym	parody
+declaration	IsA	testimony
+proffer	Synonym	offer
+lay	RelatedTo	down
+cyberbeing	RelatedTo	cyberspace
+substance	Synonym	message
+sympathy	IsA	inclination
+scale	RelatedTo	measure
+power company	IsA	utility
+ground	RelatedTo	stand on
+triskaidekaphobic	SimilarTo	afraid
+frightened	SimilarTo	afraid
+coexistence	IsA	being
+mock	MannerOf	treat
+indignity	IsA	insult
+diploid	IsA	organism
+assist	IsA	maneuver
+facilitative	RelatedTo	easy
+comedown	IsA	humiliation
+voice	RelatedTo	singing
+note	RelatedTo	music
+a human	AtLocation	the school
+cold	RelatedTo	temperature
+kill a man	MotivatedByGoal	you hate him
+a mound	UsedFor	standing on
+stands on	FormOf	stand on
+drop	RelatedTo	action
+drink	RelatedTo	swallow
+step	RelatedTo	walking
+giving assistance	Causes	to help someone
+sitting quietly	HasSubevent	think
+benignity	Synonym	kindness
+sprint	RelatedTo	run
+fast	DistinctFrom	slow
+a human	AtLocation	homes
+fearlessness	IsA	feeling
+Theft	IsA	a crime
+a hill	UsedFor	standing on
+honor	Synonym	award
+cut	RelatedTo	action
+perniciousness	RelatedTo	pernicious
+cold-temperate	SimilarTo	temperate
+climb	RelatedTo	up
+sing	HasPrerequisite	know a song
+viewing a video	Causes	entertainment
+drink alcohol	HasSubevent	forgetfulness
+windy	SimilarTo	fast
+Boy Scouts	IsA	movement
+Fire	CapableOf	destroy forests
+spindle	IsA	piece
+sing	HasLastSubevent	bow
+nonfacilitative	DerivedFrom	facilitative
+serve justice	HasPrerequisite	not commit crimes
+pallet	IsA	platform
+threat	IsA	declaration
+A circle	IsA	a shape
+horses	HasProperty	fast
+structural member	IsA	support
+dirtiness	IsA	tangible physical quantity
+mind	UsedFor	thinking
+music	RelatedTo	art
+musical comedy	Synonym	musical
+definite quantity	IsA	measure
+mass	RelatedTo	service
+band	RelatedTo	music
+barber's pole	IsA	visual signal
+music	RelatedTo	singing
+humility	IsA	feeling
+play games	MotivatedByGoal	relax
+pernicious	Synonym	pestilent
+drink alcohol	HasPrerequisite	not drive
+anger	CausesDesire	kill someone
+a murder	IsA	a crime
+ban	MannerOf	outlaw
+understand	HasPrerequisite	think
+snow	RelatedTo	cold
+A gun	CapableOf	kill people
+A server	CapableOf	stream video
+declaration	HasContext	law
+drink alcohol	MotivatedByGoal	forget something
+punching someone	HasPrerequisite	some anger
+vocal	RelatedTo	voice
+disk-jockey	MannerOf	comment
+taking final exams	Causes	stress
+stick	RelatedTo	walking
+glow	IsA	feeling
+time	RelatedTo	measure
+cyberharassment	Synonym	cyberbullying
+drink alcohol	MotivatedByGoal	relax
+cartoon	IsA	wit
+agoraphobic	SimilarTo	afraid
+servant	RelatedTo	help
+friendliness	IsA	disposition
+swim	MotivatedByGoal	you are hot
+mixer	Synonym	sociable
+Music	HasProperty	soothing
+animal	RelatedTo	being
+a street	UsedFor	walking
+listen	MotivatedByGoal	learn
+help someone	HasPrerequisite	offer
+solar flare	IsA	solar radiation
+talk	RelatedTo	communicate
+testimony	IsA	evidence
+agoraphobic	RelatedTo	agoraphobia
+rest	RelatedTo	down
+pleasant	RelatedTo	good-natured
+serve justice	MotivatedByGoal	justice is noble
+finding a lost item	HasPrerequisite	attention
+running a marathon	HasPrerequisite	endurance
+indifferent	SimilarTo	moderate
+algophobic	SimilarTo	afraid
+fast	Antonym	slow
+flourish	IsA	tune
+jog	MotivatedByGoal	get in shape
+afraid	Synonym	afeared
+organism	IsA	system
+a human	AtLocation	China
+murder	RelatedTo	kill someone
+lips	UsedFor	speak
+run errands	MotivatedByGoal	you are helpful
+a game	UsedFor	entertainment
+weapons platform	Synonym	platform
+drink alcohol	HasPrerequisite	should not drive at all
+attend a rock concert	HasSubevent	get drunk
+steam	RelatedTo	hot
+love	RelatedTo	emotion
+a piece	PartOf	a whole
+Bachelor of Science in Architecture	IsA	bachelor's degree
+restful	HasContext	computing
+jog	HasLastSubevent	stop running
+stairhead	IsA	platform
+cyberbully	RelatedTo	online
+temperature	IsA	somesthesia
+exist	RelatedTo	being
+thermal conductivity	IsA	tangible physical quantity
+a column	UsedFor	support
+smoke	RelatedTo	fire
+assist	MannerOf	work
+perniciously	RelatedTo	perniciousness
+cybergroup	RelatedTo	cyberspace
+anger	CausesDesire	hurt someone else
+sneeze	RelatedTo	action
+constructive possession	HasContext	law
+talk to someone	HasPrerequisite	think
+glue	IsA	a substance
+amiability	Synonym	kindliness
+song	RelatedTo	musical
+music	RelatedTo	tune
+run	RelatedTo	fast
+cold	DistinctFrom	hot
+a footstool	UsedFor	standing on
+necro	HasContext	internet
+party	RelatedTo	social
+Legs	UsedFor	run
+walk	DistinctFrom	run
+jury system	HasContext	law
+chilly	RelatedTo	cold
+being at a party	CausesDesire	drink alcohol
+panic-stricken	SimilarTo	afraid
+god	RelatedTo	being
+humility	IsA	trait
+navigational system	IsA	system
+answer questions	HasPrerequisite	think
+call	RelatedTo	action
+drink alcohol	HasPrerequisite	get some whiskey
+Seeing suffering	CausesDesire	serve justice
+promote	MannerOf	support
+a human	AtLocation	the space shuttle
+lyrics	RelatedTo	lyric
+ream	IsA	definite quantity
+a voice	UsedFor	Singing
+serve justice	HasPrerequisite	live in a just society
+hate	CausesDesire	fight the enemy
+shock	RelatedTo	feeling
+gregarious	HasContext	plant
+troll	MannerOf	sing
+temperate	SimilarTo	equable
+writing a term paper	HasSubevent	research
+room temperature	IsA	temperature
+a case of beer	UsedFor	standing on
+fire	RelatedTo	flame
+song	RelatedTo	melody
+find information	HasPrerequisite	research
+pass sentence	MotivatedByGoal	i dont know
+push	RelatedTo	action
+sediment	IsA	substance
+say	RelatedTo	speak
+temperate	RelatedTo	clement
+baby	RelatedTo	human
+sing	MotivatedByGoal	be in a choir
+wave	RelatedTo	movement
+Stress	CausesDesire	drink alcohol
+eat	HasLastSubevent	swallow
+drive	RelatedTo	movement
+lawless	Synonym	anarchical
+Music	CapableOf	sound good
+fly a kite	HasSubevent	you run
+hear the crowd go mad	HasPrerequisite	listen
+crime	IsA	transgression
+talk to someone	HasSubevent	that they listen
+cyberbullying	Synonym	bullying online
+watching television	Causes	relax
+treat	MannerOf	negociate
+try	RelatedTo	attempt
+inch	RelatedTo	measure
+plug and pray	HasContext	computing
+a pedestal	UsedFor	standing on
+drink	RelatedTo	action
+hear music	MotivatedByGoal	relax
+stage	RelatedTo	standing on
+gregarious	RelatedTo	social
+banshee	HasContext	folklore
+charitableness	Synonym	charitability
+cybersoul	RelatedTo	cyberspace
+music	RelatedTo	lyrics
+get drunk	HasLastSubevent	pass out
+singing	Causes	a sore throat
+familiarity	IsA	friendliness
+a plate	UsedFor	stand on it
+a first floor	UsedFor	standing on
+cold	Antonym	hot
+eating	HasSubevent	swallow
+pass sentence	HasSubevent	justice
+cut down	Synonym	down
+hang	RelatedTo	kill someone
+sip and puff	RelatedTo	assistive
+think	HasPrerequisite	use your brains
+serve justice	MotivatedByGoal	people deserve justice
+contemplate	HasSubevent	think
+social	RelatedTo	sociable
+offer	Synonym	crack
+striking a match	Causes	a flame
+decline	MannerOf	decrease
+cyberbullying	Synonym	harassment online
+unit of measurement	IsA	definite quantity
+pyrogen	IsA	substance
+speakout	RelatedTo	speak out
+afraid	SimilarTo	disinclined
+listening	HasSubevent	understanding
+column	RelatedTo	support
+walk	RelatedTo	moving
+academic degree	IsA	award
+serve justice	HasPrerequisite	know justice
+dance	RelatedTo	movement
+gallon	RelatedTo	measure
+fear	RelatedTo	emotion
+a fire	CapableOf	heat a house
+walking	Causes	getting somewhere
+express information	HasPrerequisite	talk
+senior moment	IsA	forgetfulness
+assist	Synonym	aid
+afeared	HasContext	dialectal
+fire	IsA	combustion
+destroy your enemy	HasSubevent	kill people
+singing	Causes	happiness
+respect	RelatedTo	honor
+public utility company	Synonym	utility
+skateboard	HasPrerequisite	stand on it
+bone	RelatedTo	treat
+running out of steam	HasSubevent	to relax
+value	Synonym	respect
+The birds	HasProperty	singing
+afraid	RelatedTo	afeared
+lift	RelatedTo	up
+cogitate	HasPrerequisite	think
+loud	SimilarTo	vocal
+cyberbullying	Synonym	online harassment
+helpful	SimilarTo	assistive
+blinker	IsA	visual signal
+singing	UsedFor	entertainment
+appalled	SimilarTo	afraid
+insalubrity	RelatedTo	unwholesomeness
+hear	RelatedTo	listen
+get drunk	HasSubevent	vomit
+floor	RelatedTo	walking
+serve justice	HasPrerequisite	be a lawyre
+afraid	SimilarTo	numb
+right	RelatedTo	direction
+comforting a friend	HasPrerequisite	empathy
+gambling system	IsA	system
+hot	RelatedTo	temperature
+moderation	RelatedTo	moderate
+illegalize	Synonym	outlaw
+needing exercise	CausesDesire	jog
+cyberspace	Synonym	Internet
+visual signal	IsA	signal
+rem	HasContext	computing
+rest	RelatedTo	relax
+speak out	Synonym	opine
+acrophobic	RelatedTo	acrophobia
+harassment	IsA	annoyance
+heat	RelatedTo	hot
+bed	RelatedTo	platform
+password	IsA	positive identification
+a friend	CapableOf	talk
+pass sentence	HasPrerequisite	arrive at a conviction
+fame	IsA	honor
+quire	IsA	definite quantity
+meatspace	Antonym	cyberspace
+round	RelatedTo	shape
+intimidation	Synonym	bullying
+helpful	SimilarTo	right-hand
+morbidity	Synonym	unwholesomeness
+kill people	MotivatedByGoal	you hate them
+pleasant	RelatedTo	agreeable
+pass sentence	HasPrerequisite	be judgemental
+afeared	SimilarTo	afraid
+walk	RelatedTo	jog
+clicks and mortar	RelatedTo	online
+cool off	MotivatedByGoal	you are hot
+rest	HasPrerequisite	relax
+positive identification	IsA	identification
+reaching an impasse	HasSubevent	frustration
+information	AtLocation	the Internet
+sharing economy	RelatedTo	social media
+a puzzle	UsedFor	entertainment
+fire	RelatedTo	heat
+nonfacilitative	RelatedTo	facilitative
+climb	RelatedTo	action
+mail a letter	MotivatedByGoal	communicate
+fraud	RelatedTo	crime
+drink alcohol	HasLastSubevent	get drunk
+cyberjargon	RelatedTo	cyberspace
+eating a cookie	UsedFor	a treat
+run	RelatedTo	walk
+melody	IsA	musical perception
+light speed	HasProperty	fast
+helpful	SimilarTo	facilitative
+chew your food	HasSubevent	you swallow
+debating politics	Causes	anger
+creature	RelatedTo	being
+Hunger	IsA	a feeling
+serve justice	HasSubevent	free a suspect
+perniciousness	IsA	unwholesomeness
+reformatory	RelatedTo	reformative
+sing	HasPrerequisite	have a good voice
+Sadness	IsA	an emotion
+drink alcohol	HasLastSubevent	swallow
+disinclined	RelatedTo	negative
+Human	HasA	five fingers on each hand
+pass sentence	HasPrerequisite	be a judge
+solubility	IsA	definite quantity
+a human	AtLocation	a bus
+pity	IsA	emotion
+moderate	SimilarTo	reasonable
+fear	IsA	an emotion
+drink alcohol	HasSubevent	you become dehydrated
+run	RelatedTo	jog
+satire	Synonym	sarcasm
+your mouth	UsedFor	speak
+a sofa	UsedFor	relax
+law	RelatedTo	rules
+anger	CausesDesire	kill people
+ground	RelatedTo	standing on
+socialize	HasSubevent	talk to people
+play	RelatedTo	action
+offense	Synonym	crime
+specific heat	IsA	tangible physical quantity
+page	RelatedTo	piece
+circle	RelatedTo	shape
+clement	RelatedTo	temperate
+kill people	HasPrerequisite	buy a weapon
+empathic	RelatedTo	empathy
+commination	IsA	threat
+apathy	IsA	feeling
+give it a whirl	MannerOf	try
+repartee	IsA	wit
+disinclined	SimilarTo	antipathetic
+cyberbullying	DerivedFrom	bullying
+anger	IsA	emotion
+singing	HasPrerequisite	sound
+pass sentence	HasSubevent	someone goes to jail
+chord	RelatedTo	musical
+harmfulness	IsA	unwholesomeness
+approachability	IsA	friendliness
+bit	RelatedTo	piece
+sociable	SimilarTo	social
+facilitative	SimilarTo	helpful
+hear music	HasPrerequisite	listen
+go on the stage	MotivatedByGoal	the attention
+east	RelatedTo	direction
+chew your food	HasLastSubevent	swallow it
+Ecstasy	IsA	emotion
+emotion	IsA	feeling
+username	RelatedTo	password
+confer	MannerOf	award
+tolerance	IsA	endurance
+human	RelatedTo	being
+get drunk	MotivatedByGoal	you drink too much alcohol
+kindliness	Synonym	charitability
+testimony	IsA	assertion
+fire	RelatedTo	hot
+soaking in a hotspring	Causes	you relax
+arrow	RelatedTo	bow
+love	RelatedTo	feeling
+note	RelatedTo	musical
+a platform	IsA	something you stand on
+cyburban	RelatedTo	cyberspace
+deflation	IsA	decrease
+nonassistive	RelatedTo	assistive
+toxicity	IsA	definite quantity
+cake	RelatedTo	treat
+emotion	HasProperty	pleasant
+zooid	IsA	organism
+watching a movie	HasPrerequisite	attention
+social	Synonym	sociable
+an internet server	CapableOf	stream video
+pronouncement	IsA	declaration
+decrement	Synonym	decrease
+drink	HasPrerequisite	swallow
+happy	RelatedTo	emotion
+irresoluteness	IsA	trait
+facilitate	RelatedTo	facilitative
+cytotoxicity	IsA	toxicity
+perform	HasLastSubevent	bow
+a floor	UsedFor	stand on
+serve justice	HasPrerequisite	obey the law
+stick	RelatedTo	piece
+trick	RelatedTo	treat
+cooperative	RelatedTo	helpful
+attempt	RelatedTo	try
+fever	RelatedTo	temperature
+band	RelatedTo	musical
+serve justice	HasPrerequisite	look at all the facts
+run	HasSubevent	you sweat
+drink alcohol	HasPrerequisite	buy some alcohol
+winter	RelatedTo	cold
+eukaryoyte	IsA	organism
+outlaw	Synonym	outlawed
+friendliness	IsA	liking
+Titania	HasContext	folklore
+some music	HasProperty	relaxing
+cold	RelatedTo	winter
+helpful	SimilarTo	reformative
+sound	RelatedTo	music
+assistive	DerivedFrom	assist
+fear	RelatedTo	afraid
+stand on	HasContext	nautical
+law	RelatedTo	rule
+having an epileptic fit	HasSubevent	fall down
+listen	MotivatedByGoal	there's something to hear
+containment	IsA	system
+kill people	MotivatedByGoal	you were defending yourself
+blunt	Synonym	numb
+decide a criminal's fate	MotivatedByGoal	serve justice
+light	IsA	visual signal
+current	RelatedTo	movement
+road rage	IsA	violence
+sarcastic	DerivedFrom	sarcasm
+favorableness	FormOf	favourableness
+listen	HasSubevent	you hear things
+cyberbullying	Synonym	cyberharassment
+watching a tv show	UsedFor	Entertainment
+mockery	Synonym	parody
+step	RelatedTo	walk
+dying	HasSubevent	fear
+scaredly	RelatedTo	scared
+roundelay	IsA	song
+cold	RelatedTo	ice
+Seeing someone get beat up	CausesDesire	serve justice
+solar flare	HasContext	astronomy
+punishing someone	UsedFor	revenge
+singing	IsA	a popular recreation
+getting wet	Causes	be cold
+meet interesting people	HasFirstSubevent	talk to the people
+rub	RelatedTo	action
+repairing an umbrella	Causes	frustration
+getting drunk	HasSubevent	fall down
+ingratitude	IsA	feeling
+system	IsA	body part
+listen	HasSubevent	you learn
+song	RelatedTo	piece
+porn	AtLocation	the Internet
+size	RelatedTo	medium
+piece	RelatedTo	part
+caustic remark	Synonym	sarcasm
+web	RelatedTo	internet
+playing lacrosse	HasSubevent	run
+listen	RelatedTo	hear
+musical	SimilarTo	philharmonic
+boiling point	IsA	temperature
+perniciousness	DerivedFrom	pernicious
+go on a vacation	HasSubevent	you relax
+Emmy	IsA	award
+a bomb	UsedFor	kill people
+biblioblog	RelatedTo	online
+judgment	IsA	trait
+reading a magazine	Causes	entertainment
+dybbuk	HasContext	folklore
+reformatory	Synonym	reformative
+flame	Synonym	fire
+social	SimilarTo	ethnical
+charitability	RelatedTo	charitableness
+fear	RelatedTo	feeling
+address	IsA	direction
+username	HasContext	computing
+become inebriated	HasPrerequisite	drink alcohol
+on-line	Synonym	online
+honor system	IsA	system
+being in charge of a project	Causes	stress
+cyberharassment	RelatedTo	online
+hardness	IsA	tangible physical quantity
+Kepler's law	IsA	law
+sprint	MannerOf	run
+fire	CapableOf	kill people
+listen	RelatedTo	hearing
+telephone company	IsA	utility
+aidos	RelatedTo	humility
+pass sentence	HasSubevent	being taken into custordy
+abstemious	SimilarTo	temperate
+talk	HasSubevent	someone will listen
+genocide	IsA	crime
+rainbow	IsA	bow
+drink alcohol	HasPrerequisite	go to a bar
+trolling	Synonym	troll
+cyberharassment	DerivedFrom	harassment
+say	RelatedTo	talk
+break internet	RelatedTo	social media
+moderateness	Synonym	moderation
+stealing	IsA	a crime
+cyberstudies	RelatedTo	cyberspace
+killing	UsedFor	revenge
+walking	HasSubevent	stumble
+enjoying the company of your friends	HasSubevent	talk
+generosity	IsA	kindness
+relax	HasPrerequisite	stop worrying
+unwholesomeness	IsA	quality
+a chair	UsedFor	stand on
+climb a mountain	HasSubevent	you fall down
+walk	RelatedTo	running
+harassment	DerivedFrom	harass
+advancing into battle	Causes	fear
+record	RelatedTo	music
+unlawful	Synonym	outlawed
+walk	MotivatedByGoal	some exercise
+singing	AtLocation	the opera
+run time	HasContext	computing
+solubility	IsA	tangible physical quantity
+pistols	CapableOf	kill people
+helpfulness	RelatedTo	helpful
+music	RelatedTo	song
+steam	HasProperty	hot
+waiting on line	Causes	anger
+declaration	Synonym	resolution
+fire	CapableOf	burn things
+communicate	HasPrerequisite	listen
+visual signal	PartOf	visual communication
+clock	RelatedTo	piece
+bar	MannerOf	forbid
+give assistance	HasSubevent	help
+absolute temperature	IsA	temperature
+go to a concert	HasSubevent	you get drunk
+appear	RelatedTo	up
+answering questions	HasSubevent	Think
+system	IsA	substance
+scoring a home run	HasSubevent	run
+facilitatively	DerivedFrom	facilitative
+favourableness	Synonym	favorableness
+mug's game	IsA	attempt
+inclination	IsA	angle
+taking a shower	HasSubevent	singing
+standing in a queue	Causes	frustration
+figure	RelatedTo	shape
+an alto	UsedFor	singing
+bob	IsA	inclination
+hot	DistinctFrom	cold
+dos	HasContext	computing
+Bachelor of Arts in Nursing	IsA	bachelor's degree
+reluctant	SimilarTo	disinclined
+walk	RelatedTo	feet
+touch	RelatedTo	feeling
+genotoxicity	DerivedFrom	toxicity
+mockery	RelatedTo	mock
+golem	HasContext	folklore
+burn	RelatedTo	fire
+card	IsA	positive identification
+food	IsA	substance
+kill people	MotivatedByGoal	be bad
+competing against someone	Causes	stress
+drop	RelatedTo	down
+having lunch	HasSubevent	talk to people
+online	Synonym	on-line
+Walking	IsA	exercise
+child	RelatedTo	human
+social	Antonym	antisocial
+lipotoxicity	DerivedFrom	toxicity
+walking	Causes	you move
+cry	RelatedTo	action
+speak out	RelatedTo	speakout
+drink alcohol	HasSubevent	get drunk
+nonplace	RelatedTo	cyberspace
+Oberson	HasContext	folklore
+bow	UsedFor	play
+qibla	IsA	direction
+up	Antonym	down
+smart card	IsA	positive identification
+express	RelatedTo	fast
+talk	RelatedTo	speak
+cell	RelatedTo	organism
+Multimedia	CapableOf	stream video
+assistive technology	RelatedTo	assistive
+flare	Synonym	solar flare
+acrophobics	FormOf	acrophobic
+claustrophobic	SimilarTo	afraid
+a leg	UsedFor	standing on
+heat	RelatedTo	fire
+goblin	HasContext	folklore
+leg	RelatedTo	walking
+lethean	RelatedTo	forgetfulness
+run	RelatedTo	sprint
+care for	Synonym	treat
+fat content	IsA	tangible physical quantity
+walking	UsedFor	getting from one place to another
+fluid	IsA	substance
+vocal	Synonym	song
+music	RelatedTo	melody
+Humans	CapableOf	run
+mind	RelatedTo	brain
+antisocial	SimilarTo	unsocial
+robbery	RelatedTo	crime
+fit	RelatedTo	shape
+get drunk	HasPrerequisite	drink alcohol
+vocal	Synonym	outspoken
+facilitative	DerivedFrom	facilitate
+hit the bottle	HasPrerequisite	drink some alcohol
+serve justice	MotivatedByGoal	it is a moral principal
+lawless	RelatedTo	unlawful
+New technology	CapableOf	stream video
+dwarf	IsA	organism
+help	RelatedTo	assistance
+standing in line	Causes	frustration
+help someone	HasPrerequisite	lend them a hand
+dull	Synonym	numb
+talk	RelatedTo	speech
+thermometer	RelatedTo	temperature
+mind	RelatedTo	thinking
+online	RelatedTo	grid
+gun enclosure	IsA	platform
+cybercommand	RelatedTo	cyberspace
+happy	RelatedTo	feeling
+body	RelatedTo	shape
+walking	Causes	moving
+debit card	IsA	positive identification
+pull	RelatedTo	action
+listener	DerivedFrom	listen
+dance	RelatedTo	musical
+chlorinity	IsA	definite quantity
+unlawful	SimilarTo	lawless
+Midrash	IsA	comment
+ban	HasContext	medium
+number	IsA	definite quantity
+listen	HasPrerequisite	stop talking
+help someone	HasSubevent	that they thank you
+denounce	RelatedTo	speak out
+flare	IsA	fire
+piece	RelatedTo	slice
+negative	RelatedTo	disinclined
+favourableness	DerivedFrom	favourable
+cyberharassment	RelatedTo	cyberspace
+communicate	HasPrerequisite	talk to people
+Boiling water	HasProperty	hot
+award	IsA	grant
+mile	RelatedTo	measure
+pass sentence	HasSubevent	imprisonment
+mysoandry	IsA	hate
+sarcastic	RelatedTo	sarcasm
+taking a midterm	Causes	stress
+flare	IsA	shape
+ethnical	SimilarTo	social
+a piece	AtLocation	puzzle
+listen to music	MotivatedByGoal	entertainment
+number	IsA	positive identification
+A machine gun	UsedFor	kill people
+sky	RelatedTo	up
+heat	RelatedTo	temperature
+law of averages	IsA	law
+Openmind	PartOf	the internet
+do by	Synonym	treat
+rush	RelatedTo	fast
+bearing	IsA	support
+walking	HasPrerequisite	moving your legs
+think	HasPrerequisite	use your brain
+soak in a hotspring	MotivatedByGoal	relax
+numb	Synonym	benumbed
+stamina	IsA	endurance
+humiliation	RelatedTo	humility
+lose consciousness	HasPrerequisite	drink alcohol
+jog	Synonym	trot
+online	SimilarTo	current
+fast	SimilarTo	fast-breaking
+toxicities	RelatedTo	toxicity
+arise	RelatedTo	up
+sarcasm	IsA	wit
+stress	CausesDesire	have a nervous breakdown
+drink	HasPrerequisite	not drive
+reformative	RelatedTo	reform
+swim	RelatedTo	action
+presence	IsA	being
+communicating	Causes	understanding
+modest	SimilarTo	moderate
+a hot bath	CausesDesire	relax
+social	RelatedTo	gregarious
+judge advocate general	HasContext	law
+pass sentence	HasFirstSubevent	ask the defendant to stand
+frightened	Synonym	panic-stricken
+self effacement	RelatedTo	humility
+serve justice	MotivatedByGoal	align with good
+wits	FormOf	wit
+post	IsA	visual signal
+listen	RelatedTo	ears
+esprit de l'escalier	IsA	wit
+up	IsA	direction
+Food	IsA	a substance
+flag	IsA	visual signal
+beacon	IsA	visual signal
+Anger	CausesDesire	pass sentence
+a platform	UsedFor	standing on
+trojan	HasContext	computing
+moderation	IsA	decrease
+toxicity	RelatedTo	organism
+down	DistinctFrom	up
+consider	RelatedTo	think
+illegalise	Synonym	outlaw
+down	RelatedTo	direction
+sing	MotivatedByGoal	you are happy
+climb	RelatedTo	movement
+a human	AtLocation	the library
+give assistance	HasPrerequisite	be helpful
+a floor	UsedFor	standing on
+help	RelatedTo	aid
+counteroffer	IsA	offer
+a beam	UsedFor	support
+go to a party	HasSubevent	drink alcohol
+sex	HasProperty	pleasant
+morning	RelatedTo	up
+watch a movie	MotivatedByGoal	entertainment
+an isle	UsedFor	walking
+serve justice	HasPrerequisite	not commit a crime
+mocks	FormOf	mock
+well-founded	SimilarTo	reasonable
+form	RelatedTo	shape
+walk	RelatedTo	movement
+hate	IsA	an emotion
+agoraphobics	FormOf	agoraphobic
+plant	IsA	organism
+walk	RelatedTo	legs
+aerobe	IsA	organism
+pleasant	Antonym	unpleasant
+lope	Synonym	jog
+flare pass	IsA	forward pass
+stress vector	IsA	tangible physical quantity
+chick	RelatedTo	hot
+presto	SimilarTo	fast
+kill people	MotivatedByGoal	attention
+walk	HasPrerequisite	stand
+asocial	Synonym	antisocial
+pass sentence	MotivatedByGoal	punish
+caricature	IsA	wit
+hate	CausesDesire	destroy your enemy
+taking the bus	HasSubevent	talk to people
+subtle	Synonym	pernicious
+Computers	CapableOf	stream video
+skate	HasSubevent	that you fall down
+cyberharassment	RelatedTo	harassment
+cyberspace	RelatedTo	internet
+degree	RelatedTo	measure
+Curie temperature	IsA	temperature
+boredom	IsA	an emotion
+music	CausesDesire	dance
+current	SimilarTo	online
+surfing the web	UsedFor	research
+watching a tv show	Causes	entertainment
+helpfulness	Synonym	kindliness
+move	RelatedTo	action
+a bone	UsedFor	support
+eerie	RelatedTo	frightened
+become inebriated	HasPrerequisite	not drive
+liquid	SimilarTo	musical
+trial	HasContext	law
+slip	RelatedTo	down
+Feet	UsedFor	walk
+namefag	RelatedTo	username
+katharobe	IsA	organism
+part	RelatedTo	piece
+offer	RelatedTo	deal
+descending	RelatedTo	down
+a song	UsedFor	entertainment
+run	RelatedTo	movement
+foot	RelatedTo	stand on
+running	RelatedTo	fast walk
+playing the violin	Causes	music
+runway	IsA	platform
+being	RelatedTo	human
+enjoying the day	HasSubevent	relax
+eat	HasSubevent	swallow
+point system	IsA	system
+surrender	RelatedTo	up
+anger	CausesDesire	punch someone
+fake	IsA	imitation
+degree	RelatedTo	temperature
+analysing something	UsedFor	understanding
+music	RelatedTo	notes
+Supreme Court	HasContext	law
+talk	HasSubevent	open mouth
+putrescence	IsA	unwholesomeness
+pass sentence	HasPrerequisite	become a judge
+go for a jog	HasSubevent	run
+a foot	UsedFor	Standing on
+punishing someone	Causes	anger
+support	RelatedTo	up
+lawless	Synonym	wide-open
+assist	HasContext	baseball
+reasonable	RelatedTo	fair
+run	MotivatedByGoal	get away from someone
+writing	UsedFor	communicate
+denominationalism	IsA	inclination
+facile	RelatedTo	facilitative
+Hate	IsA	a strong emotion
+love	CausesDesire	sing
+scale	RelatedTo	stand on
+jeering	Synonym	jeer
+facilitatively	RelatedTo	facilitative
+learn a language	HasFirstSubevent	talk with people
+drop	Antonym	up
+fire	RelatedTo	flames
+purchase a cellular phone	MotivatedByGoal	talk with people
+revertible	HasContext	law
+love	IsA	a feeling
+inattentive	RelatedTo	attention
+being	RelatedTo	to be
+is	HasContext	computing
+windsock	IsA	visual signal
+feet	RelatedTo	stand on
+think	MotivatedByGoal	you have to make a decision
+fire	RelatedTo	smoke
+Happiness	IsA	an emotion
+An agoraphobic	CapableOf	fear open spaces
+drink	HasLastSubevent	swallow
+clock-watching	IsA	attention
+a platform	UsedFor	stand on
+kindliness	RelatedTo	favourableness
+ear	RelatedTo	listen
+Up	HasProperty	opposite of down
+crime	CausesDesire	serve justice
+reformative	SimilarTo	helpful
+walk	RelatedTo	slow
+make people laugh	MotivatedByGoal	attention
+rise	RelatedTo	up
+oiliness	IsA	tangible physical quantity
+favour	RelatedTo	help someone
+a human	AtLocation	a park
+run	HasSubevent	fall down
+A law	IsA	an obligatory rule of conduct
+assertion	IsA	declaration
+Down	DefinedAs	opposite of up
+fast	RelatedTo	quick
+performing	UsedFor	entertainment
+the internet	CapableOf	stream video
+square	RelatedTo	shape
+rap	RelatedTo	music
+trees	CapableOf	fall down
+verse	RelatedTo	lyrics
+walk	HasPrerequisite	put your shoes on
+a mouth	UsedFor	singing
+a person	NotDesires	abuse
+making friends	HasSubevent	talk to people
+a bird	CapableOf	sing
+communicate	HasPrerequisite	think
+medium	IsA	substance
+abatement	IsA	moderation
+turn	RelatedTo	direction
+An Internet	IsA	a network of communicating computers
+help someone	HasSubevent	you feel good
+fear	RelatedTo	being
+outlaw	Synonym	lawless
+flow	RelatedTo	movement
+A fire	CapableOf	warm your hands
+assistive	RelatedTo	disability
+asocial	RelatedTo	antisocial
+having a conversation	HasPrerequisite	you to talk
+blow	RelatedTo	action
+afraid	SimilarTo	agoraphobic
+social media	DerivedFrom	social
+decoration	IsA	award
+respect	RelatedTo	song
+insult	Synonym	abuse
+kill people	HasPrerequisite	join the military
+cyberharassment	Synonym	harassment online
+batting	IsA	attempt
+chord	RelatedTo	music
+relax	HasSubevent	sleep
+propellant	IsA	substance
+talk	RelatedTo	speaking
+forgetfulness	IsA	unknowingness
+mild	RelatedTo	moderate
+disinclined	RelatedTo	unwilling
+menace	IsA	threat
+scared	Synonym	frightened
+shake	RelatedTo	movement
+point out	Synonym	comment
+honour	Synonym	honor
+get drunk	HasPrerequisite	not drive
+Bachelor of Science	IsA	bachelor's degree
+multi-ethnic	SimilarTo	social
+dogs	CausesDesire	jog
+afraid	SimilarTo	acrophobic
+offer	RelatedTo	bid
+favourableness	RelatedTo	favourable
+assistive	SimilarTo	helpful
+playing a game	Causes	stress
+mockery	RelatedTo	imitation
+lighting a match	Causes	a flame
+kill people	HasPrerequisite	buy a gun
+sexual harassment	IsA	harassment
+sacrifice	MannerOf	offer
+numb	Synonym	dead
+bone	RelatedTo	support
+revenge	MannerOf	punish
+serve justice	HasSubevent	act with the power of society
+reading	RelatedTo	action
+terrorization	IsA	bullying
+step	RelatedTo	movement
+cyberharassment	Synonym	online harassment
+armband	IsA	visual signal
+nature	IsA	trait
+endotoxicity	DerivedFrom	toxicity
+Singing	IsA	an activity
+Stove	HasProperty	hot
+obliviousness	IsA	forgetfulness
+shame	IsA	emotion
+kill people	HasSubevent	grit your teeth
+conceit	IsA	trait
+eating dinner	HasSubevent	to talk with people
+cultural	Synonym	ethnical
+Zionism	IsA	movement
+lips	UsedFor	communicate
+parasite	IsA	organism
+walking	UsedFor	exercise
+credit card	IsA	positive identification
+unwilling	RelatedTo	disinclined
+song	RelatedTo	singing
+ministrant	SimilarTo	helpful
+mockery	Synonym	jeer
+press	RelatedTo	down
+afeard	Synonym	afeared
+walk	RelatedTo	run
+eat	HasPrerequisite	swallow
+communicate	HasPrerequisite	speak
+a human	AtLocation	an automobile
+playing games	UsedFor	entertainment
+adjuvant	SimilarTo	helpful
+up	DefinedAs	opposite of down
+nonassistive	DerivedFrom	assistive
+remark	RelatedTo	comment
+inactiveness	IsA	trait
+kill people	MotivatedByGoal	revenge
+vegetable matter	IsA	substance
+listen	HasSubevent	you'll learn something
+walk	HasPrerequisite	stand up
+playing a game of chess	Causes	frustration
+Metal	IsA	music
+vocal	Synonym	vocal music
+disinclined	SimilarTo	afraid
+commit genocide	HasSubevent	kill people
+a head	UsedFor	think
+be scared	HasPrerequisite	watch a horror movie
+troll	AtLocation	a bridge
+desert	RelatedTo	hot
+make a phone call	HasSubevent	talk
+terrorization	IsA	transgression
+empathy	IsA	sympathy
+brotherhood	IsA	friendliness
+treat	Synonym	cover
+barrack	Synonym	jeer
+counterfeit	IsA	imitation
+summer	RelatedTo	hot
+support	RelatedTo	aid
+standing on	FormOf	stand on
+landing	IsA	platform
+kill people	MotivatedByGoal	you are defending yourself
+get drunk	HasSubevent	you fall down
+morbidness	Synonym	unwholesomeness
+lyrics	CapableOf	be poems
+physiological quantity	IsA	tangible physical quantity
+eating at the captain's table	IsA	an honor
+good will	IsA	friendliness
+flame	Synonym	flare
+playing basketball	HasSubevent	fall down
+law	Synonym	police
+get drunk	HasPrerequisite	buy some booze
+writing	RelatedTo	action
+Lava	HasProperty	hot
+A flame	HasProperty	hot
+knight's service	IsA	service
+slew	RelatedTo	mockery
+playing poker	UsedFor	Entertainment
+disrespect	Antonym	respect
+relax	MotivatedByGoal	rest
+animal	IsA	organism
+permeability	IsA	tangible physical quantity
+serve justice	HasPrerequisite	serve on a jury
+drainage system	IsA	system
+pnp	HasContext	computing
+walking	IsA	a form of exercise
+watching television	UsedFor	entertainment
+singing	Causes	joyousness
+leitmotiv	IsA	tune
+a human	AtLocation	a workplace
+sufferance	IsA	endurance
+utility	IsA	service
+watching a film	UsedFor	entertainment
+jump	MotivatedByGoal	you are scared
+afeared	RelatedTo	afraid
+walk	HasPrerequisite	put on shoes
+heat	DistinctFrom	cold
+A musical	IsA	a play in
+drop-off	Synonym	decrease
+learning	Causes	understanding
+striking a match	Causes	fire
+attestation	IsA	testimony
+insanity	CausesDesire	kill people
+cry	RelatedTo	emotion
+punishing someone	Causes	revenge
+People	CapableOf	speak
+playing the piano	Causes	music
+song	RelatedTo	tune
+carol	MannerOf	sing
+listen	RelatedTo	ear
+confession	IsA	declaration
+talk	RelatedTo	conversation
+toxicity	Synonym	perniciousness
+The internet	UsedFor	research
+a walk	AtLocation	closet in a mansion
+teaching other people	HasSubevent	talk
+congregation	RelatedTo	gregarious
+weight	RelatedTo	measure
+a lip	UsedFor	speak
+turn	RelatedTo	movement
+breaking point	IsA	stress
+harmful	SimilarTo	pernicious
+d l	HasContext	computing
+drink alcohol	HasSubevent	lose your inhibitions
+misdirection	IsA	direction
+retaliate	Synonym	revenge
+think	HasPrerequisite	think
+a mound	UsedFor	stand on
+Lightning	CapableOf	kill people
+toxicity	IsA	tangible physical quantity
+take a break	HasSubevent	relax
+A computer	UsedFor	computing
+cyberdrama	RelatedTo	cyberspace
+numb	MannerOf	desensitize
+commonsensible	SimilarTo	reasonable
+taking finals	Causes	stress
+netprov	RelatedTo	social media
+honor	Synonym	respect
+facilitative	RelatedTo	easing
+punishment	RelatedTo	crime
+empathize	RelatedTo	empathy
+corrosion resistance	IsA	tangible physical quantity
+stage	RelatedTo	platform
+contemplate	HasPrerequisite	think
+hit the bottle	MotivatedByGoal	get drunk
+vengeance	Synonym	revenge
+reward	IsA	offer
+pornography	AtLocation	the internet
+determine the truth	HasPrerequisite	talk to people
+Bullying	CapableOf	be costly
+unit	RelatedTo	measure
+get drunk	HasSubevent	you get arrested
+piece	RelatedTo	portion
+resolution	Synonym	resolving power
+resolution	IsA	physical phenomenon
+outlaw	MannerOf	forbid
+absolute value	IsA	definite quantity
+pass sentence	MotivatedByGoal	the accused must have a judgement
+elasticity	IsA	tangible physical quantity
+age	RelatedTo	measure
+stood on	FormOf	stand on
+geographical quantity	IsA	tangible physical quantity
+waiting in line	Causes	frustration
+Bullying	IsA	health and safety risk
+a floor	UsedFor	walk
+feet	RelatedTo	walking
+offer	RelatedTo	make
+heat	Antonym	cold
+Fire	CapableOf	heat a room
+help	RelatedTo	assist
+Film	IsA	a medium
+moderate	RelatedTo	temperate
+doll	RelatedTo	human
+violence	AtLocation	a war
+song	RelatedTo	lyrics
+stretch	RelatedTo	up
+communicating	HasSubevent	talk
+beginning work	Causes	stress
+drive	RelatedTo	action
+a foot	UsedFor	stand on
+flare	IsA	visual signal
+all people	HasProperty	human
+gibsonesque	RelatedTo	cyberspace
+assistance	Synonym	aid
+support	RelatedTo	help
+communicate	HasPrerequisite	talk with people
+afraid	SimilarTo	frightened
+person	RelatedTo	being
+couth	HasContext	wit
+nutrient	IsA	substance
+singing	HasPrerequisite	sounds
+communicate	HasPrerequisite	speak out
+sit on a chair	MotivatedByGoal	relax
+working	Causes	stress
+A triangle	IsA	a shape
+soak in a hotspring	HasSubevent	relax
+respectfulness	Synonym	deference
+melodic line	Synonym	tune
+abasement	IsA	humiliation
+sneeze	RelatedTo	cold
+serve justice	MotivatedByGoal	do right
+volatility	IsA	tangible physical quantity
+motion	RelatedTo	movement
+raise	RelatedTo	up
+soup	RelatedTo	hot
+winter	HasProperty	cold
+run	RelatedTo	fast walk
+social organization	IsA	system
+Bachelor of Theology	IsA	bachelor's degree
+kindness	IsA	action
+performing	HasSubevent	singing
+go to the pub	HasPrerequisite	not drive
+afeared	RelatedTo	afear
+happiness	CausesDesire	sing
+fast	RelatedTo	speed
+a song	AtLocation	a CD
+talk to someone	MotivatedByGoal	communicate
+rocket	IsA	visual signal
+a tv	UsedFor	entertainment
+computers	UsedFor	talk with people
+the internet	UsedFor	communicate
+talk	RelatedTo	communication
+postdiluvian	IsA	organism
+sing	HasPrerequisite	open your mouth
+song	RelatedTo	music
+commiseration	IsA	sympathy
+coat	RelatedTo	cold
+humiliation	Synonym	chagrin
+glad	RelatedTo	emotion
+board	RelatedTo	piece
+a terrace	UsedFor	standing on
+obloquy	IsA	shame
+a voice	UsedFor	communicate
+solar thermal system	IsA	system
+wash	RelatedTo	action
+a call	UsedFor	communicate
+shape	RelatedTo	square
+talk	RelatedTo	chat
+villainy	IsA	transgression
+faintness	IsA	feeling
+cone	RelatedTo	shape
+assistive	RelatedTo	assistance
+listen	HasSubevent	pay attention
+rock	IsA	music
+fast	RelatedTo	speedy
+swim	RelatedTo	movement
+dance	RelatedTo	action
+stress	Synonym	try
+concerned	SimilarTo	afraid
+regret	RelatedTo	feeling
+pass sentence	MotivatedByGoal	justice
+testament	IsA	testimony
+playing a guitar	HasSubevent	sing
+drop	RelatedTo	shape
+helpful	SimilarTo	face-saving
+mortification	Synonym	chagrin
+travesty	Synonym	parody
+feet	RelatedTo	standing on
+stoplight	IsA	visual signal
+vocal	SimilarTo	loud
+practicality	IsA	utility
+a footstool	UsedFor	stand on
+drinking alcohol	Causes	to get you drunk
+size	RelatedTo	measure
+court	RelatedTo	law
+exercising	HasSubevent	run
+reformative	RelatedTo	correct
+afeared	FormOf	afear
+a human	AtLocation	jail
+surprise	RelatedTo	emotion
+measure	IsA	container
+system	IsA	method
+A square	IsA	a shape
+Bachelor of Arts in Library Science	IsA	bachelor's degree
+Bachelor of Divinity	IsA	bachelor's degree
+ID	IsA	positive identification
+writing	HasSubevent	think
+fear	CausesDesire	run
+a fire	CapableOf	need fuel
+Fire	CapableOf	burn houses
+law	RelatedTo	legal
+listen	HasPrerequisite	pay attention
+gregarious	SimilarTo	clustered
+Walking	HasPrerequisite	legs
+pass sentence	MotivatedByGoal	see justice done
+ban	MannerOf	forbid
+pass sentence	HasPrerequisite	be elected a judicial official
+sing along	MannerOf	sing
+sign on	RelatedTo	username
+A musical	IsA	a play
+a person	Desires	help
+kindness	SimilarTo	helpfulness
+hearing music	HasSubevent	sing
+scoffing	Synonym	jeer
+defeat	Synonym	frustration
+wax	RelatedTo	substance
+slope	RelatedTo	down
+a show	UsedFor	entertainment
+remit	MannerOf	decrease
+socialize	HasPrerequisite	talk to people
+disinclined	SimilarTo	reluctant
+minute	RelatedTo	measure
+people	HasProperty	human
+A try	IsA	another name for an effort
+walking	Causes	exercise
+afraid	SimilarTo	panic-stricken
+a human	AtLocation	love
+antipathetic	SimilarTo	disinclined
+Bachelor of Literature	IsA	bachelor's degree
+a rocking chair	UsedFor	relax
+pain	RelatedTo	feeling
+give assistance	MotivatedByGoal	help someone
+metal	RelatedTo	substance
+deadliness	IsA	unwholesomeness
+illustrating a point	Causes	understanding
+poison	RelatedTo	substance
+north	RelatedTo	direction
+a story	UsedFor	entertainment
+cyberchurch	RelatedTo	cyberspace
+helpfulness	IsA	utility
+moderate	Synonym	control
+dance	RelatedTo	music
+relax	HasPrerequisite	listen to music
+unsocial	SimilarTo	antisocial
+disgust	IsA	an emotion
+endearment	IsA	kindness
+write a term paper	HasPrerequisite	research
+verse	RelatedTo	song
+giving assistance	Causes	helpfulness
+A CD	IsA	a medium
+running in a marathon	HasPrerequisite	endurance
+agoraphobics	RelatedTo	agoraphobic
+floor	RelatedTo	standing on
+express information	HasPrerequisite	speak
+key	IsA	positive identification
+run	RelatedTo	walking
+detoxify	MannerOf	treat
+wind	RelatedTo	movement
+joy	RelatedTo	emotion
+recitation	RelatedTo	lyrics
+afraid	SimilarTo	afeared
+fire	RelatedTo	burning
+bachelor's degree	IsA	academic degree
+pernicious	SimilarTo	harmful
+A baking oven	HasProperty	hot
+talk	MotivatedByGoal	communicate
+BAN	Synonym	Bachelor of Arts in Nursing
+paint	RelatedTo	medium
+run	MotivatedByGoal	you are scared
+a terrace	UsedFor	stand on
+lyricize	RelatedTo	lyrics
+a song	UsedFor	express feelings and emotions
+haploid	IsA	organism
+walk	HasSubevent	move your legs
+paralegal	HasContext	law
+watch fire	IsA	visual signal
+Unix	IsA	a system
+finding information	UsedFor	research
+drinking	Causes	swallow
+A toy	UsedFor	entertainment
+cross	RelatedTo	shape
+flare	Synonym	flare pass
+avail	IsA	helpfulness
+lawless	SimilarTo	unlawful
+fear	RelatedTo	scared
+a crime	CausesDesire	conduct a trial
+create an idea	HasPrerequisite	think
+red light	IsA	visual signal
+blaze up	Synonym	flare
+level of stability	IsA	tangible physical quantity
+law	RelatedTo	order
+moderate	Synonym	temperate
+a telephone	UsedFor	communicate
+homicide	RelatedTo	kill someone
+seeing a movie	Causes	entertainment
+slope	RelatedTo	inclination
+voice	RelatedTo	vocal
+walk	RelatedTo	stroll
+pass sentence	HasSubevent	become an enemy of the defendant
+The Internet	IsA	a collection of connected computers
+stirrup	IsA	support
+Very light	IsA	flare
+cyberprivacy	RelatedTo	cyberspace
+Cold	CausesDesire	light a fire
+body	RelatedTo	human
+ductility	IsA	tangible physical quantity
+kindliness	IsA	friendliness
+music	AtLocation	the opera
+respect	Synonym	deference
+pass sentence	HasSubevent	you decide to punish someone
+kill someone	MotivatedByGoal	revenge
+point	RelatedTo	direction
+lighting a match	Causes	fire
+pleasant	SimilarTo	nice
+analysing something	Causes	understanding it
+Zelda	IsA	acrophobic
+plumbing	IsA	utility
+flare pass	DerivedFrom	pass
+green card	IsA	positive identification
+take back	Synonym	swallow
+Canada	HasProperty	cold
+song	RelatedTo	vocal
+Emotion 	PartOf	Mind
+uncommunicativeness	IsA	trait

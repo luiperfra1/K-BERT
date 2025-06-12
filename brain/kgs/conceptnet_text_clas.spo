@@ -1,0 +1,2907 @@
+wool	RelatedTo	fabric
+ruffle	Synonym	flick
+written statement of employment	HasContext	uk
+paintings	IsA	a work of art
+napkin	RelatedTo	cloth
+population	RelatedTo	people
+camera	RelatedTo	photographer
+going to bed	UsedFor	relaxation
+book	IsA	product
+sock	RelatedTo	cotton
+tin	RelatedTo	material
+Chocolate	ReceivesAction	eaten
+designing software	UsedFor	artificial intelligence
+opening a business	UsedFor	making money
+skater	IsA	athlete
+soothing	SimilarTo	comfortable
+go jogging	HasPrerequisite	go outside
+tomatoes	AtLocation	the market
+pretend	MotivatedByGoal	you are playing
+a head	UsedFor	think
+wave	RelatedTo	motion
+stub	IsA	record
+fishing poles	UsedFor	catch fish
+pens	AtLocation	the office
+seeing people play a game	UsedFor	entertaining
+entertaining someone	HasSubevent	show them around
+large	SimilarTo	blown-up
+getting some money from someone	UsedFor	having money
+communicate	HasPrerequisite	listen
+talking picture	IsA	movie
+a tv	UsedFor	watch the news
+an office building	UsedFor	work
+toy	RelatedTo	playing
+swim	RelatedTo	sport
+vee	RelatedTo	played
+department	RelatedTo	store
+a cat	NotDesires	be wet
+a kangaroo	CapableOf	jump high
+going to school	HasSubevent	to learn
+Cotton	IsA	a plant
+trigger	IsA	device
+farm machine	IsA	machine
+Art	CausesDesire	express yourself
+eat	RelatedTo	food
+watching a film	UsedFor	fun
+trophy	IsA	award
+people	CapableOf	learn from each other
+board	RelatedTo	game
+transferred possession	Synonym	transferred property
+play football	MotivatedByGoal	activity
+reading	RelatedTo	activity
+sugar	RelatedTo	white
+warfare	RelatedTo	operation
+footy	RelatedTo	game
+a computer	UsedFor	communication
+pretend	Synonym	make-believe
+shopping	UsedFor	buying things
+photograph	CreatedBy	a photographer
+get paid	HasSubevent	you get money
+heat	RelatedTo	furnace
+buying presents for others	HasSubevent	compare prices
+a cloth	AtLocation	a fabric store
+market	RelatedTo	shopping
+my penis	PartOf	my body
+swim	RelatedTo	water
+offer	RelatedTo	make
+play football	MotivatedByGoal	enjoy the game
+m62 corridor	RelatedTo	rugby league
+record	RelatedTo	vinyl music
+buy	RelatedTo	shopping
+fishing	Causes	you catch fish
+half term	HasContext	uk
+a television	AtLocation	a living room
+having money	CausesDesire	spend money
+move	RelatedTo	relocate
+hem	PartOf	fabric
+Money	UsedFor	buying things
+fluff	Synonym	ruffle
+state capitalism	IsA	economy
+a motherboard	AtLocation	a computer
+a machine	UsedFor	filter
+buying something	Causes	spending money
+drop	RelatedTo	shape
+ring	RelatedTo	round
+sit on a chair	MotivatedByGoal	relax
+your clothing	AtLocation	your house
+below	Antonym	above
+war	RelatedTo	battle
+talk	RelatedTo	speak
+interview	RelatedTo	job
+rustication	IsA	suspension
+People	HasProperty	mean
+dress	RelatedTo	clothes
+viewing a film at home	HasPrerequisite	a television
+speculation	IsA	investment
+intumescent	SimilarTo	unhealthy
+vapour	Synonym	vapor
+play football	HasFirstSubevent	the opening kickoff
+listen	HasPrerequisite	stop talking
+watching movies	CapableOf	teach you things
+smoke	RelatedTo	product
+using a television	UsedFor	watching movies
+a person	Desires	clothing
+play	RelatedTo	children
+a movie	CausesDesire	stand in a queue
+sheep	RelatedTo	white
+oil	RelatedTo	fuel
+pay the bills	HasPrerequisite	having money
+footy	HasContext	uk
+belting	IsA	fabric
+profit	RelatedTo	made
+mist	RelatedTo	clouds
+cloud	RelatedTo	white
+earning a living	UsedFor	making money
+spend money	HasPrerequisite	make money
+weather	RelatedTo	rain
+The tires on cars	ReceivesAction	filled with air
+people	CapableOf	taste food
+a grill	UsedFor	cooking
+spool	HasContext	computer science
+factory	RelatedTo	making
+promotion	PartOf	marketing
+capitalism	RelatedTo	capitalist
+color	RelatedTo	blue
+table tennis	IsA	sport
+A ball	HasProperty	circular
+enemy	RelatedTo	war
+wool	RelatedTo	fiber
+wool	RelatedTo	cotton
+move	Antonym	still
+defeat	RelatedTo	win
+answering questions	HasSubevent	Think
+shoe	RelatedTo	clothing
+going for a swim	Causes	relaxation
+half	PartOf	football
+innovation	Synonym	invention
+security	IsA	transferred property
+playing the violin	Causes	music
+play	MotivatedByGoal	have some fun
+body	RelatedTo	head
+children	Desires	play games
+wool	RelatedTo	material
+cloud	RelatedTo	vapor
+West	IsA	location
+fabric	UsedFor	making cloth
+ballet	AtLocation	the theater
+reading	IsA	an activity
+go on a vacation	HasSubevent	you spend money
+work	RelatedTo	activity
+money	RelatedTo	buying
+catching fish	IsA	catching fish
+board	RelatedTo	piece
+take the stand	HasPrerequisite	commit a crime
+gratuitously	RelatedTo	earned
+Clouds	CapableOf	rain on the earth
+people	HasProperty	human
+an oven	UsedFor	cooking
+play	RelatedTo	drama
+bar	RelatedTo	place
+lighting a fire	HasPrerequisite	fuel
+The Bulls	IsA	team
+hunt	IsA	labor
+merit pay	IsA	wage
+milk	RelatedTo	product
+fishing	HasSubevent	catching a fish
+likeness	IsA	ikon
+food	AtLocation	the fridge
+come to the fore	MannerOf	act
+a contralto	AtLocation	a concert
+moisten	MannerOf	wet
+corroborate	MannerOf	match
+purchase a cellular phone	MotivatedByGoal	talk with people
+a bird	AtLocation	the sky
+canadian football	RelatedTo	association football
+cloud	RelatedTo	fluffy white
+waiting in line	UsedFor	buying things
+a painting	AtLocation	a museum
+fishing	UsedFor	fun
+attack	RelatedTo	fight
+The british	IsA	pansys
+board	RelatedTo	wooden
+ball	RelatedTo	playing
+large	RelatedTo	big
+play	RelatedTo	fun
+step	RelatedTo	movement
+middle	DistinctFrom	beginning
+a computer	IsA	an electronic device
+manufacture	RelatedTo	make
+snow	RelatedTo	rain
+organization	RelatedTo	people
+planets	HasProperty	round
+play football	HasPrerequisite	get some people together
+Basketball	IsA	a popular sport
+cotton	RelatedTo	fabric
+moving	RelatedTo	mobile
+decoy	MannerOf	entice
+starting a flame or a fire	UsedFor	cooking food
+going to the mall	UsedFor	buying things
+victorious	SimilarTo	successful
+a computer	AtLocation	the office
+e warfare	DerivedFrom	warfare
+press photographer	IsA	photographer
+a song	UsedFor	entertainment
+automatic	SimilarTo	machine-controlled
+steam	RelatedTo	water
+dead people	AtLocation	a war
+a movie	CapableOf	star an actor
+moisture	RelatedTo	moisten
+run	RelatedTo	movement
+rugby league	IsA	rugby
+checkerboard	IsA	board
+track	HasContext	computer science
+Sex	IsA	an activity
+play football	HasSubevent	throw the ball
+gain	Synonym	profit
+settled	Synonym	colonised
+sound	RelatedTo	music
+pulley	IsA	machine
+fishing	Causes	death for the fish
+grocery shop	HasPrerequisite	have money
+profit	RelatedTo	business
+earnings	Synonym	net income
+trailblazing	RelatedTo	innovative
+A cloth	UsedFor	dry dishes
+paying cash	UsedFor	Buying goods
+flea	RelatedTo	jump high
+a toy car	UsedFor	play
+a sculpture	AtLocation	an art show
+Some people	HasProperty	ignorant
+cloud	RelatedTo	in sky
+computer programing	Synonym	programming
+oil	RelatedTo	cooking
+drops	FormOf	drop
+get a contract	HasSubevent	make money
+move	Antonym	stay
+a movie	IsA	a sequence of frames
+wine	RelatedTo	white
+listening to music	CausesDesire	see a band
+writing a term paper	HasSubevent	research
+mechanistic	SimilarTo	mechanical
+move	RelatedTo	go
+court	RelatedTo	place
+trifle	Synonym	bagatelle
+decline	Synonym	refuse
+wallet	RelatedTo	money
+move	RelatedTo	motion
+footy	RelatedTo	soccer
+swim	RelatedTo	activity
+a linen	UsedFor	make clothes
+getting a job	Causes	having money
+Soccer	IsA	sport
+paste	RelatedTo	white
+grasshopper	CapableOf	jump high
+acquisition	IsA	transferred property
+expression	IsA	communication
+a student	CapableOf	study
+gain	Synonym	derive
+Moreton Bay	PartOf	Australia
+income	IsA	financial gain
+cloth	AtLocation	a bedroom
+stars	AtLocation	the sky
+decline	Synonym	descent
+a machine	UsedFor	create electricity
+paroxysm	IsA	attack
+cyberwarfare	DerivedFrom	warfare
+record	RelatedTo	disk
+sitting quietly	Causes	relaxation
+wool	RelatedTo	white
+servant	RelatedTo	job
+reading a magazine	Causes	falling asleep
+gaining more land	UsedFor	investment
+Balls	HasProperty	round
+blue	DistinctFrom	red
+being with a child	CausesDesire	play games
+cityscape	IsA	painting
+clouds	AtLocation	the sky
+chord	RelatedTo	musical
+make	RelatedTo	create
+heat	DistinctFrom	cold
+selling	PartOf	marketing
+a banana	ReceivesAction	eaten
+A server	CapableOf	stream video
+tumid	Synonym	intumescent
+War	IsA	hell
+a phone	UsedFor	communication
+cashing in	HasSubevent	you get money
+falling	Causes	injuries
+seriousness	Synonym	earnestness
+a mayor	AtLocation	a town
+eating dinner	HasSubevent	to talk with people
+wood	RelatedTo	material
+cybersecurity	RelatedTo	cyberwarfare
+write	MotivatedByGoal	express yourself
+playing a game	HasSubevent	win
+proprietorship certificate	IsA	security
+sky	CapableOf	rain water
+leather	IsA	a material
+vapor	Synonym	vaporization
+needing money	CausesDesire	work
+learning	HasProperty	fun
+taking the bus	HasSubevent	talk to people
+tacky	SimilarTo	wet
+a body	AtLocation	a coffin
+band	RelatedTo	group
+a kangaroo	AtLocation	Australia
+play games	HasPrerequisite	find someone to play them with
+play games	MotivatedByGoal	win
+innovatively	DerivedFrom	innovative
+seriousness	IsA	badness
+A mouse	PartOf	a computer
+sincerity	Synonym	seriousness
+association football	RelatedTo	scoring
+a sofa	UsedFor	relax
+duel	IsA	fight
+bird	RelatedTo	in sky
+farm	RelatedTo	business
+phone	RelatedTo	communication
+movie	RelatedTo	film
+a baking oven	UsedFor	cooking food
+denounce	RelatedTo	speak out
+watching a tv show	Causes	laughter
+Clouds	CapableOf	rain on you
+Baseball	IsA	a game
+money	RelatedTo	currency
+ruffle	MannerOf	annoy
+bread	RelatedTo	white
+watching a film	HasSubevent	falling asleep
+a corporation	CapableOf	hold a bank account
+play football	HasPrerequisite	learn how to play football
+blue	RelatedTo	sea
+poison ivy	IsA	a plant
+name	IsA	important person
+an action figure	UsedFor	playing
+cashing in	Causes	having money
+lighting a fire	Causes	heat
+meet interesting people	HasFirstSubevent	talk to the people
+mechanism	RelatedTo	mechanical
+cybersecurity	RelatedTo	security
+painting	UsedFor	Art
+shopping	UsedFor	buying goods
+seed funding	RelatedTo	startup
+Paintings	IsA	ofte
+hearing music	UsedFor	relaxing
+museums	FormOf	museum
+writing a poem	HasPrerequisite	creativity
+playing	HasSubevent	laugh
+ring	RelatedTo	circular
+clouds	CapableOf	bring rain
+mold	IsA	sculpture
+chicken	RelatedTo	food
+value	RelatedTo	monetary
+super	Synonym	superintendent
+a cash register	AtLocation	a shop
+pioneer	MannerOf	introduce
+playing a game with your friends	Causes	laughter
+dance	RelatedTo	body
+alliance	IsA	organization
+committed	SimilarTo	pledged
+Velvet	HasProperty	soft
+introduce	RelatedTo	meet
+web	PartOf	webfoot
+starting a fire	HasSubevent	you burn yourself
+mesh	Synonym	net
+lead on	MannerOf	entice
+no-goal	IsA	goal
+lighting a fire	UsedFor	heating things up
+Poetry	IsA	an art
+a CD	UsedFor	listening to music
+play a game	MotivatedByGoal	some fun
+cir	RelatedTo	circle
+cotton	RelatedTo	fiber
+Language	UsedFor	communication
+fashion	RelatedTo	clothes
+The Internet	IsA	a collection of connected computers
+a commercial	AtLocation	television
+A plane	IsA	a machine
+seduction	RelatedTo	seduce
+improving yourself	HasSubevent	reading
+buying something	HasSubevent	make an appointment with the seller
+handpass	HasContext	australian rules football
+a barbecue	UsedFor	cooking food
+manual labor	IsA	labor
+squirrel	RelatedTo	fluffy
+innovator	RelatedTo	innovate
+cross	RelatedTo	shape
+cotton	RelatedTo	material
+plant	RelatedTo	tree
+necro	HasContext	internet
+figure	RelatedTo	shape
+a basketball	ReceivesAction	filled with air
+dance	RelatedTo	movement
+act on	MannerOf	act
+a battle	AtLocation	a war
+committed	RelatedTo	commitment
+having sex	UsedFor	fun
+relaxing	Causes	sleeping
+running errands	Causes	a net gain
+breathe some fresh air	HasPrerequisite	go outside
+total war	RelatedTo	warfare
+a cinema	UsedFor	showing movies
+nylon	IsA	material
+have fun	HasPrerequisite	play games
+play football	HasPrerequisite	have a football
+walking	Causes	you move
+region	IsA	location
+tanks	AtLocation	a war
+glaze	Synonym	sugarcoat
+hard	SimilarTo	calculating
+dress	RelatedTo	clothing
+smoke	RelatedTo	clouds
+financial gain	IsA	gain
+a master bedroom	UsedFor	sleeping
+imaginative	SimilarTo	creative
+A match	CapableOf	light a candle
+flow	RelatedTo	movement
+a lamp	AtLocation	a store
+change	RelatedTo	money
+business firm	Synonym	firm
+water	RelatedTo	wet
+rice	RelatedTo	white
+neck	RelatedTo	body
+competition	Synonym	contest
+think	HasPrerequisite	think
+earned	SimilarTo	attained
+An actor	CapableOf	star in a film
+going to market	Causes	buying things
+weather	RelatedTo	sun
+Criminals	IsA	people
+an actor	CapableOf	appear in a movie
+enterpriser	Synonym	entrepreneur
+statue	RelatedTo	art
+People pay taxes on money they	HasA	earned
+landside	IsA	component
+an artifact	AtLocation	a museum
+babygro	HasContext	british
+a business	AtLocation	an office building
+sundrops	DerivedFrom	drops
+precipitation	IsA	drop
+entertaining someone	HasSubevent	smiling
+bed	RelatedTo	sleeping
+furniture	AtLocation	a store
+painting	UsedFor	expressing yourself
+outgo	IsA	transferred property
+going to the store	HasSubevent	buying goods
+conceive of	Synonym	imagine
+competition	RelatedTo	competitor
+A musical	IsA	a play in
+resting	HasSubevent	falling asleep
+play games	MotivatedByGoal	have some fun
+tennis coach	IsA	coach
+drop goal	HasContext	rugby league
+conceptualization	IsA	creating by mental acts
+wait on tables	MotivatedByGoal	make money
+afoot	SimilarTo	moving
+innovation	Synonym	initiation
+built-up	SimilarTo	settled
+automobile industry	IsA	industry
+programming	IsA	creating by mental acts
+A refrigerator	IsA	a machine
+puffy	Synonym	intumescent
+a museum	AtLocation	cities
+a movie ticket	UsedFor	watching movies
+examining a thing	HasPrerequisite	study
+going to a concert	UsedFor	listening to music
+glaze	MannerOf	coat
+realization	IsA	creating by mental acts
+a movie house	UsedFor	watching movies
+the monitor	PartOf	the computer
+an athlete	CapableOf	play a sport
+natural	SimilarTo	unprocessed
+get paid	HasPrerequisite	work
+playing football	HasPrerequisite	a football
+study	MotivatedByGoal	pass a test
+clouds	HasProperty	fluffy
+draw	RelatedTo	art
+foots	RelatedTo	settling
+game	CreatedBy	programmer
+apple	RelatedTo	round
+dream	RelatedTo	sleeping
+go to the mall	HasSubevent	you shop
+herd	RelatedTo	group
+hear music	HasPrerequisite	listen
+wool	RelatedTo	cloth
+loss	IsA	transferred property
+lighting a fire	UsedFor	signaling for help
+confer	MannerOf	award
+sitting down	HasSubevent	relaxing
+mean	RelatedTo	average
+boredom	CausesDesire	play games
+degree	RelatedTo	circle
+statue	RelatedTo	sculpture
+blue	RelatedTo	ocean
+listening to music	Causes	foot tapping
+express yourself	HasPrerequisite	talk
+move	RelatedTo	action
+buying something	Causes	having less money
+denim	IsA	fabric
+cotton	RelatedTo	white
+reading	Causes	ideas
+end	DistinctFrom	beginning
+a movie	ReceivesAction	recorded on film
+board	RelatedTo	lumber
+record	RelatedTo	circle
+statue	RelatedTo	museums
+go to work	MotivatedByGoal	make money
+visiting an art gallery	UsedFor	relaxing
+pretentious	RelatedTo	pretend
+buying something	HasSubevent	ask for a price check
+cotton	RelatedTo	make clothes
+cloth	UsedFor	clothing
+heat	IsA	emotionality
+capitalist	Synonym	capitalistic
+escheat	IsA	transferred property
+snow	RelatedTo	white
+stone-broke	SimilarTo	poor
+art	RelatedTo	sculpture
+talk	RelatedTo	speech
+piss artist	HasContext	british
+novate	RelatedTo	innovate
+Simpson Desert	PartOf	Australia
+attending a lecture	HasSubevent	falling asleep
+promotion	IsA	encouragement
+talk	RelatedTo	conversation
+the movie	AtLocation	a movie
+attending class	HasSubevent	falling asleep
+amateur	IsA	athlete
+high	RelatedTo	in sky
+a cloth	UsedFor	make clothing
+a leather	UsedFor	make clothes
+scally	RelatedTo	committed
+card	RelatedTo	game
+art	RelatedTo	museums
+dance	MotivatedByGoal	express yourself
+mountain	RelatedTo	large
+alpha software	IsA	software
+a town	UsedFor	live
+relaxing	HasSubevent	listening to music
+motherboard	PartOf	computer
+take a break	HasSubevent	relax
+a door with a lock	UsedFor	security
+Rain	CapableOf	wet the ground
+mist	RelatedTo	vapor
+a tapestry	UsedFor	art
+seeing a band	HasSubevent	listening to music
+resting	HasPrerequisite	relaxation
+Your brain	PartOf	your body
+Balls bounce because they	ReceivesAction	filled with air
+buying something	HasSubevent	learn about it
+sell your new book	MotivatedByGoal	money
+fight	RelatedTo	brawl
+listen	HasPrerequisite	pay attention
+birds	AtLocation	the sky
+Balloons	ReceivesAction	filled with air
+relax	MotivatedByGoal	rest
+a computer	UsedFor	play games
+game	RelatedTo	play
+buying something for a loved one	Causes	you spend money
+cash	ReceivesAction	earned
+award	IsA	grant
+respect	RelatedTo	earned
+food	AtLocation	a table
+seed	RelatedTo	beginning
+masthead	HasContext	uk
+buy presents	HasSubevent	spend money
+a cookie	ReceivesAction	eaten
+taking the car for a drive	UsedFor	relaxation
+thunder	RelatedTo	sky
+pass	RelatedTo	football
+a cinema	UsedFor	watching films
+spend money	HasPrerequisite	buy some things
+dance	RelatedTo	tango
+treasury stock	IsA	stock
+head	RelatedTo	above
+rest	RelatedTo	relaxation
+gusty	SimilarTo	stormy
+camp	RelatedTo	place
+A sole proprietorship	IsA	a business
+having a conversation	HasPrerequisite	you to talk
+blue	RelatedTo	primary color
+hat stand	HasContext	uk
+circle	RelatedTo	ring
+shopping	CausesDesire	spend money
+playing	Causes	learning
+express yourself	HasSubevent	others become aware of your feelings
+creating by removal	IsA	creation
+run	RelatedTo	moving
+shrewd	Synonym	calculating
+earnings	HasContext	finance
+socceroos	RelatedTo	association football
+playing a guitar	HasSubevent	you have fun
+modern	RelatedTo	new
+lighting a fire	UsedFor	lighting the darkness
+a family room	UsedFor	play games
+sending e-mail	UsedFor	communication
+paintings	AtLocation	a gallery opening
+weather	RelatedTo	temperature
+cheese	AtLocation	the market
+bunch	RelatedTo	group
+corporate	Synonym	incorporated
+playing	Causes	having fun
+profit	RelatedTo	earned
+a machine	UsedFor	exercise muscles
+loss	IsA	decline
+a story	UsedFor	entertainment
+a cloud	CapableOf	hide the sun
+cats	Desires	play
+beechdrops	DerivedFrom	drops
+home	RelatedTo	place
+bowling	IsA	a sport
+speckie	HasContext	australian rules football
+the internet	UsedFor	communicate
+killing	HasSubevent	you commit a crime
+switch codes	RelatedTo	rugby league
+a heat source	UsedFor	cooking food
+Competitiveness	CausesDesire	play football
+painting	UsedFor	making money
+paintings	RelatedTo	painting
+sand	RelatedTo	material
+rest	RelatedTo	relaxing
+song	RelatedTo	melody
+webbing	IsA	web
+dance	RelatedTo	move
+weather	RelatedTo	outside
+basketball	IsA	a subset of sports
+World Cup	IsA	tournament
+lighting a fire	UsedFor	cooking food
+foots	AtLocation	a desk
+art	RelatedTo	painting
+seeing a movie	Causes	entertainment
+sing	MotivatedByGoal	express yourself
+chicken	RelatedTo	eaten
+game	RelatedTo	activity
+record	RelatedTo	album
+productive	RelatedTo	creative
+fire	RelatedTo	heat
+a cubicle	AtLocation	the office
+a row	IsA	fight
+music	CausesDesire	dance
+settled	SimilarTo	preconcerted
+buy presents	HasPrerequisite	get money
+watching a tv show	HasSubevent	falling asleep
+socialite	IsA	important person
+drudgery	IsA	labor
+listening to music	HasSubevent	sing along
+dry	DistinctFrom	wet
+strike pay	IsA	wage
+entertaining someone	HasSubevent	tickle their funny bone
+listening to music	HasPrerequisite	ears
+cotton	IsA	a fiber from a plant
+watching a movie	HasSubevent	falling asleep
+a cloth	UsedFor	make clothes
+cloud	RelatedTo	moisture
+agonist	IsA	contestant
+going to work	Causes	promotion
+sock	RelatedTo	wear
+market	RelatedTo	food
+creative	SimilarTo	yeasty
+sock	RelatedTo	clothing
+tribe	RelatedTo	group
+a sunny day	CausesDesire	play football
+credits	PartOf	movie
+intumescents	FormOf	intumescent
+advisory board	IsA	board
+fly a kite	HasPrerequisite	go outside
+fight	RelatedTo	boxing
+egg	RelatedTo	white
+agribusiness	IsA	commercial enterprise
+fashion	RelatedTo	clothing
+play frisbee	HasPrerequisite	go outside
+bunker	MannerOf	fuel
+a person	Desires	relaxation
+a tv	AtLocation	an appliance store
+a computer	AtLocation	a house
+expressing how funny something is	Causes	laughter
+weather	RelatedTo	news
+a road	AtLocation	town
+determine the truth	HasPrerequisite	talk to people
+unfluffy	DerivedFrom	fluffy
+heat	RelatedTo	fire
+listening to music	UsedFor	falling asleep
+lighting a match	Causes	burn yourself
+chord	RelatedTo	music
+soccer	ReceivesAction	played
+reading a book	HasSubevent	falling asleep
+a building	AtLocation	your town
+earnings	Synonym	wage
+play	RelatedTo	child
+watching television	Causes	relax
+people	CapableOf	believe in a god
+trigger	PartOf	a gun
+go to bed	HasSubevent	falling asleep
+entrepreneur	IsA	businessperson
+a job	UsedFor	make money
+airplane	AtLocation	the sky
+grow vegetables	HasPrerequisite	plant them
+TV	Synonym	television
+soft	SimilarTo	cottony
+association football	RelatedTo	ball
+production	IsA	industry
+degree	RelatedTo	qualification
+sale	RelatedTo	selling
+squally	RelatedTo	gusty
+starting a fire	UsedFor	cooking food
+successful	SimilarTo	victorious
+screening	IsA	fabric
+natural	HasContext	biology
+work	RelatedTo	making money
+throw	Synonym	confuse
+decide	RelatedTo	make
+sculpture	IsA	fine arts
+home court	HasContext	basketball
+toy	RelatedTo	game
+move	RelatedTo	changing
+woolen fabric	UsedFor	make clothes
+a lip	UsedFor	speak
+tackle	Synonym	fishing gear
+cotton	RelatedTo	cloth
+go fishing	HasSubevent	catching a fish
+Computer Science	IsA	science
+a movie theater	UsedFor	showing movies
+plate	RelatedTo	circular
+god	RelatedTo	in sky
+thunder	RelatedTo	weather
+resting	Causes	relaxation
+co creating with god	RelatedTo	attained
+heat	IsA	energy
+playing ball	UsedFor	making money
+going fishing	Causes	catching fish
+listening to music	UsedFor	dancing
+dance	RelatedTo	activity
+innovation	RelatedTo	innovative
+buy a hamburger	HasPrerequisite	get some money
+cotton	RelatedTo	plant
+fluff	Synonym	tease
+company	RelatedTo	business
+water	AtLocation	a lake
+poor	RelatedTo	underprivileged
+record	RelatedTo	cd
+heat and light	CapableOf	be tools
+card	Synonym	tease
+spend money	HasPrerequisite	have money
+style	Synonym	expressive style
+shop	HasSubevent	buying
+innovates	FormOf	innovate
+play	RelatedTo	kids
+camp	RelatedTo	activity
+circle	DistinctFrom	square
+buying something	HasSubevent	work with an agent
+work	RelatedTo	office
+committing murder	UsedFor	Financial gain
+spend money	HasPrerequisite	buy something
+going fishing	HasSubevent	that you catch fish
+sewing machine	UsedFor	make clothes
+Pants pockets are where pocket pool	ReceivesAction	played
+taking a walk	Causes	go outside
+cash in	HasSubevent	you get money
+play football	HasPrerequisite	go outside
+some music	HasProperty	relaxing
+A letter	UsedFor	communication
+screen actor	IsA	actor
+play	HasSubevent	have fun
+creativity	CausesDesire	create an idea
+fit	RelatedTo	shape
+learn	HasPrerequisite	study
+committed	Synonym	attached
+startupper	RelatedTo	startup
+suspension system	Synonym	suspension
+stormy	SimilarTo	gusty
+a machine	UsedFor	glaze
+closet	RelatedTo	clothes
+a lure	UsedFor	catching fish
+cool off	MotivatedByGoal	be comfortable
+A television	IsA	a machine
+paintery	RelatedTo	paintings
+businesswoman	IsA	businessperson
+having fun	Causes	laughter
+qualification	IsA	fitness
+rain	RelatedTo	clouds
+listen	MotivatedByGoal	there's something to hear
+a movie	UsedFor	entertainment
+a cloud	AtLocation	the sky
+circle	RelatedTo	figure
+expressing information	UsedFor	communication
+falling	Causes	pain
+net	HasContext	soccer
+attend school	HasSubevent	you learn
+rich	RelatedTo	having money
+drop	RelatedTo	rain water
+knives	AtLocation	a store
+footy	RelatedTo	foots
+A child	Desires	learn
+writing	RelatedTo	communication
+entertaining someone	Causes	;you happiness
+kangaroos	CapableOf	jump high
+rugby league	IsA	rugby football
+size	RelatedTo	clothes
+learn	MotivatedByGoal	have more knowledge
+goal	RelatedTo	soccer
+Highway Code	IsA	code
+Dogs	CapableOf	go outside
+football	RelatedTo	rugby league
+waltz around	Synonym	waltz
+cloud	RelatedTo	fluffy
+say	RelatedTo	talk
+a river	UsedFor	fishing
+lose	Antonym	win
+wool	RelatedTo	clothing
+RAM	PartOf	a computer
+musical perception	IsA	auditory perception
+a bridge arch	UsedFor	paintings
+powerhouse	IsA	team
+Basketball players	CapableOf	jump high
+heat	AtLocation	the oven
+a general store	UsedFor	Buying things
+earning a living	Causes	having money
+playing sports	UsedFor	fun
+profit	DistinctFrom	loss
+materialist	IsA	capitalist
+ballyhoo	IsA	promotion
+footy	HasContext	dialect
+communicating	HasSubevent	talk
+large	SimilarTo	puffy
+plonk	HasContext	Australia
+art	RelatedTo	museum
+dance	RelatedTo	musical
+tax	RelatedTo	income
+playing poker	UsedFor	Entertainment
+cooking	HasPrerequisite	ingredients
+sky	RelatedTo	above
+market	RelatedTo	store
+elimination tournament	IsA	tournament
+A pan	UsedFor	cooking
+listening to music	Causes	deafness
+telling a story	Causes	laughter
+contestant	Synonym	competitor
+Australian Alps	PartOf	Australia
+a calendar pad	AtLocation	an office
+pass a class	HasPrerequisite	study
+cuckoldry	IsA	sexual conquest
+create an idea	HasPrerequisite	think
+fresh	RelatedTo	new
+mushy	SimilarTo	soft
+grocery	RelatedTo	grocer
+a shop	AtLocation	a town
+a sales person	AtLocation	a shop
+shopping	HasSubevent	buying goods
+People	Desires	dance
+foots	RelatedTo	molasses
+learn about a subject	HasPrerequisite	study it
+A computer	CapableOf	process information
+communicate	HasPrerequisite	speak
+a net	AtLocation	a boat
+using a television	Causes	falling asleep
+listening to music	HasSubevent	close your eyes
+news	AtLocation	television
+fiber	IsA	fabric
+playing the piano	Causes	music
+playing basketball	UsedFor	sport
+codswallop	HasContext	uk
+go to a play	HasSubevent	you have fun
+Music	HasProperty	soothing
+a board game	UsedFor	making money
+food	AtLocation	a store
+smoke	RelatedTo	vapor
+Tennis	IsA	a sport
+decline	IsA	condition
+dumping	IsA	selling
+donuts	CapableOf	be eaten
+racquetball	IsA	a sport
+cancel	MannerOf	score
+northeast	IsA	location
+passing a course	HasPrerequisite	study
+board	RelatedTo	games
+consumer goods	IsA	commodity
+War	IsA	a bad thing
+article	UsedFor	reading
+A coach	CapableOf	time a runner
+comprehensive	SimilarTo	super
+bank	RelatedTo	store
+calculative	Synonym	calculating
+surprising someone	Causes	laughter
+coal gas	IsA	fuel
+continent	RelatedTo	large
+party	RelatedTo	group
+rain	RelatedTo	precipitation
+milk	RelatedTo	white
+play football	MotivatedByGoal	you like it
+pass a course	HasSubevent	study
+weather	RelatedTo	rain sun
+sesquipedality	IsA	expressive style
+pass a course	HasSubevent	learn something
+address	RelatedTo	location
+farmer	RelatedTo	job
+put on the stand	HasPrerequisite	commit a crime
+A net	UsedFor	catch fish
+bassine	IsA	fiber
+mist	RelatedTo	water
+disco	IsA	ballroom
+boffo	SimilarTo	successful
+people	HasA	feelings
+get away with a crime	HasPrerequisite	commit a crime
+champion	IsA	rival
+footy	HasContext	australia
+assuasive	SimilarTo	reassuring
+wave	RelatedTo	movement
+contemplate	HasPrerequisite	think
+Museums	IsA	popular travel destinations
+cooking	Causes	having food
+cotton	RelatedTo	natural
+clothing	AtLocation	the closet
+A linen	IsA	a cloth
+foam	RelatedTo	white fluffy
+software	IsA	code
+drop	RelatedTo	water
+buy products	HasPrerequisite	get some money
+shop	HasSubevent	spending of money
+play football	HasPrerequisite	get a ball
+a bowl	UsedFor	play football
+a plant	AtLocation	the windowsill
+exercise	RelatedTo	activity
+boot	IsA	startup
+have fun	HasPrerequisite	play a game
+a pencil sharpener	AtLocation	the office
+turn	RelatedTo	movement
+body	RelatedTo	legs
+People	Desires	play games
+drama	IsA	writing style
+bungee jump from a high bridge	HasPrerequisite	jump high
+grocery shop	HasSubevent	spend money
+operating system	IsA	software
+corn	RelatedTo	plant
+a shopkeeper	AtLocation	a shop
+crew	IsA	team
+agent	IsA	businessperson
+employ	RelatedTo	job
+party	RelatedTo	fun
+task	RelatedTo	job
+song	RelatedTo	music
+playing football	HasSubevent	tackle
+call	RelatedTo	communication
+find information	HasSubevent	you learn something
+a corner shop	UsedFor	buying things
+think	HasPrerequisite	use your brain
+A circle	IsA	a shape
+settled	SimilarTo	calm
+enjoying the day	HasSubevent	relax
+pay the bills	HasPrerequisite	have money
+baste	MannerOf	moisten
+working	HasPrerequisite	a job
+tickling	Causes	laughter
+pretend	HasPrerequisite	use your imagination
+person	RelatedTo	people
+god	AtLocation	the clouds
+cyberwarrior	RelatedTo	cyberwarfare
+answer questions	HasPrerequisite	think
+play	RelatedTo	action
+walk	RelatedTo	moving
+a chair	AtLocation	the office
+refreshing	SimilarTo	new
+sock	RelatedTo	covering
+pornography	AtLocation	the internet
+walk the dog	HasPrerequisite	go outside
+finding information	UsedFor	research
+a kitchen	UsedFor	cooking food
+drop punt	HasContext	australian rules football
+profit	RelatedTo	gain
+a place	AtLocation	any location
+lighting a fire	Causes	heat and light
+downlike	SimilarTo	soft
+sleep	RelatedTo	activity
+hockey player	IsA	athlete
+sock	RelatedTo	inside
+decline	MannerOf	decrease
+A city	IsA	a place
+demoralize	MannerOf	confuse
+poor	Antonym	rich
+cameraman	IsA	photographer
+steam	IsA	vapor
+Microsoft	IsA	a corporation
+business	Synonym	commercial enterprise
+Mastoid cells	ReceivesAction	filled with air
+Film	IsA	a medium
+battle	RelatedTo	war
+going to a performance	Causes	laughter
+catching fish	IsA	human acting upon
+icon	Synonym	ikon
+flying squad	IsA	team
+weather	RelatedTo	clouds
+catching fish	IsA	harvesting aquatic animals
+tease	MannerOf	torment
+a hotel	UsedFor	sleeping
+painting	HasPrerequisite	a brush
+Paintings	ReceivesAction	created on canvas
+ear	RelatedTo	body
+a bean	UsedFor	cooking
+a sitcom	AtLocation	television
+War	DefinedAs	opposite of peace
+reading a book	Causes	you learn something
+skating	IsA	a activity
+city	RelatedTo	large
+an actor	CapableOf	act badly
+ruffle	MannerOf	fluster
+a bridge railing	UsedFor	safety
+analyse something	HasSubevent	think
+record somethign	HasPrerequisite	record something
+a tennis game	UsedFor	sport
+a friend	CapableOf	talk
+art	UsedFor	express yourself
+louse up	Synonym	botch
+entertaining someone	Causes	laughter
+class	RelatedTo	group
+Television	HasProperty	entertaining
+play games	HasPrerequisite	find some friends to play with
+paint	RelatedTo	drawing
+food	AtLocation	the refrigerator
+cinema	Synonym	movie theater
+People	ReceivesAction	killed
+Most tires	ReceivesAction	filled with air
+a sitcom	AtLocation	tv
+munitions industry	IsA	industry
+settled	SimilarTo	decreed
+The internet	UsedFor	research
+profit	RelatedTo	earnings
+Planets	HasProperty	large
+Buying ANYthing	HasPrerequisite	money
+clothing	AtLocation	a trunk
+natural	Synonym	instinctive
+ocean	RelatedTo	large
+a jellyfish	AtLocation	the store
+a bean bag chair	UsedFor	relaxation
+undeserved	RelatedTo	earned
+talk	HasSubevent	someone will listen
+understand	HasPrerequisite	think
+music genre	IsA	expressive style
+going to the mall	HasSubevent	compare prices
+palm smart phone	IsA	smartphone
+tumescent	Synonym	intumescent
+velvet	UsedFor	make clothes
+falling	HasSubevent	scream
+cotton	RelatedTo	clothing
+communicate	HasPrerequisite	talk to people
+plant	RelatedTo	green
+blue	RelatedTo	sky color
+television	IsA	a good way to spend time
+rock	IsA	music
+a post office	AtLocation	a town
+go to a film	HasPrerequisite	get some money
+wave	RelatedTo	water
+promotional material	Synonym	promotion
+wet	AtLocation	water
+christmas	RelatedTo	festival
+a foot	AtLocation	a sock
+stretch	RelatedTo	exercise muscles
+stalls	AtLocation	the market
+qualitative	SimilarTo	soft
+dionysia	RelatedTo	festival
+cake	RelatedTo	food
+a keyboard	PartOf	a computer
+silk	RelatedTo	fabric
+key stage	HasContext	uk
+people	HasProperty	stupid
+decreed	SimilarTo	settled
+sleeping	Causes	death
+footy	RelatedTo	mean
+a cellphone	UsedFor	communication
+slagfest	HasContext	uk
+ning nong	HasContext	australia
+buy food	HasPrerequisite	have money
+play games	HasSubevent	have fun
+gilgai soil	HasContext	Australia
+sky	RelatedTo	clouds
+clouds	CapableOf	cover the sun
+water	RelatedTo	liquid
+weather	RelatedTo	rain snow
+high-level formatting	HasContext	computer science
+jog	HasPrerequisite	go outside
+go to get a haircut	HasPrerequisite	have money
+videotape	HasContext	movie
+tip-off	PartOf	basketball
+piss take	HasContext	uk
+going on a vacation	Causes	relaxation
+think	MotivatedByGoal	you have to make a decision
+crop	RelatedTo	product
+motion	Synonym	gesticulate
+Sex	HasProperty	fun
+film	MannerOf	make
+swimming	IsA	a sport
+a hook	UsedFor	catch fish
+security	IsA	safety
+washing clothes	HasPrerequisite	clothes
+fomentation	IsA	trigger
+form	RelatedTo	shape
+going to the mall	UsedFor	shopping
+a person	Desires	communication
+studying for a subject	HasSubevent	reading
+listen	RelatedTo	hear
+going to the store	Causes	buying things
+war	RelatedTo	fight
+bank	RelatedTo	money
+a stick of butter	UsedFor	cooking
+design	IsA	creating by mental acts
+cybersecurity	DerivedFrom	security
+grocery	IsA	consumer goods
+greengrocery	IsA	grocery
+size	RelatedTo	clothing
+goal umpire	HasContext	australian rules football
+rock concert	IsA	concert
+a player	PartOf	the team
+triple crown	IsA	championship
+talk	RelatedTo	speaking
+bread	RelatedTo	food
+successful	RelatedTo	productive
+dip	MannerOf	decline
+a robot	AtLocation	a factory
+automaton	RelatedTo	automatic
+handkerchief	RelatedTo	cloth
+movie theater	Synonym	cinema
+investment	IsA	committedness
+fishing	HasSubevent	catch a fish
+drop	RelatedTo	falling
+Museums	IsA	large buildings
+wamble	MannerOf	move
+office	RelatedTo	work
+An athlete	CapableOf	attempt to break the world record
+ruffle up	Synonym	ruffle
+clanger	HasContext	australian rules football
+flag	RelatedTo	cloth
+cybersecurity	RelatedTo	attack
+assuasive	RelatedTo	sooth
+playing sports	HasSubevent	have fun
+Zionism	IsA	movement
+round robin	IsA	tournament
+sheep	RelatedTo	fluffy white
+An abelian group	IsA	a group
+Water	HasProperty	blue
+a tv	UsedFor	learning
+e warfare	RelatedTo	cyberwarfare
+famous	RelatedTo	celebrity
+innovative	Synonym	forward-looking
+committed	SimilarTo	wrapped up
+fabric	UsedFor	clothing
+soft	SimilarTo	falling
+Planet Earth	HasProperty	round
+see a particular program	HasSubevent	laughter
+concatenate	HasContext	computer science
+biocode	DerivedFrom	code
+comfy	Synonym	comfortable
+record	RelatedTo	disc
+sonogram	IsA	ikon
+score	Synonym	sexual conquest
+cloud	RelatedTo	sky
+Multimedia	CapableOf	stream video
+fullback	HasContext	football
+sock	RelatedTo	under shoe
+talking to someone	UsedFor	communication
+pretend	HasPrerequisite	act
+association football	RelatedTo	game
+butterfly	HasContext	cooking
+a machine	UsedFor	crush ice
+clothing	AtLocation	a drawer
+book	RelatedTo	reading
+squirt	MannerOf	wet
+Actors	CapableOf	act badly
+go fishing	MotivatedByGoal	catch fish
+foots	RelatedTo	foot
+snow	RelatedTo	precipitation
+talk to someone	HasPrerequisite	think
+dollar	RelatedTo	monetary
+Skiing	IsA	a activity
+soak in a hotspring	HasSubevent	relax
+broiling	IsA	cooking
+getting a job	UsedFor	making money
+formation	IsA	creating by mental acts
+cleaning your room	HasPrerequisite	organization
+footy	HasContext	british
+throwaway	Synonym	circular
+innovate	RelatedTo	new
+disambiguator	HasContext	computer science
+double dribble	HasContext	basketball
+school	RelatedTo	place
+People	HasProperty	kind
+drive	RelatedTo	moving
+cobol	RelatedTo	business
+innovative	RelatedTo	idea
+road	HasContext	british
+notes	AtLocation	a desk
+a debit card	UsedFor	buying things
+constructive	SimilarTo	creative
+reading	HasSubevent	turning a page
+go for a run	HasPrerequisite	go outside
+movie theater	RelatedTo	movie
+listen	HasSubevent	you'll learn something
+decoration	IsA	award
+working	Causes	making money
+denim	UsedFor	clothes
+inch	RelatedTo	foots
+average	RelatedTo	mean
+a pear	ReceivesAction	eaten
+large cap	IsA	corporation
+verbal creation	IsA	creating by mental acts
+a strip mall	UsedFor	buying things
+sleeping	HasPrerequisite	closing your eyes
+machine	RelatedTo	mechanical
+market	RelatedTo	place
+punching someone	Causes	a fight
+polish	RelatedTo	make
+negative	IsA	film
+making friends	HasSubevent	talk to people
+a tv	AtLocation	your house
+bollocks	Synonym	botch
+an actor	AtLocation	a movie
+torpedo punt	HasContext	australian rules football
+drops	RelatedTo	drop
+academic degree	IsA	award
+a restaurant	AtLocation	the town
+a salad	IsA	food
+a theater seat	AtLocation	a movie theater
+rice	RelatedTo	food
+striking a match	UsedFor	lighting a fire
+go to school	HasSubevent	learn
+committing perjury	HasSubevent	to commit a crime
+invention	IsA	creativity
+inaugural	Synonym	inauguration
+entertaining people	HasSubevent	laughter
+dance	RelatedTo	music
+Chess	IsA	a game
+playing a game	Causes	win
+turgid	Synonym	intumescent
+play games	MotivatedByGoal	relax
+A square	IsA	a shape
+the sun	UsedFor	heat
+listening to music	HasPrerequisite	an ear
+silk	RelatedTo	material
+Imac	IsA	computer
+cotton	UsedFor	make clothes
+concoction	IsA	invention
+unsoothing	DerivedFrom	soothing
+study	HasPrerequisite	concentrate
+A song	CapableOf	sound good
+writing	UsedFor	communicate
+A grocer	CapableOf	stock shelves
+storage	IsA	commercial enterprise
+sitting quietly	HasSubevent	think
+painting a picture	UsedFor	making money
+a desire to play a sport	CausesDesire	play football
+Computers	CapableOf	stream video
+falling	Causes	injury
+Many tires	ReceivesAction	filled with air
+shop	HasPrerequisite	get money
+bank	RelatedTo	place
+machine-controlled	SimilarTo	automatic
+robot	Synonym	automaton
+broken-field	HasContext	football
+UK	Synonym	United Kingdom
+sleeping	UsedFor	relaxing
+follower	HasContext	australian rules football
+television	IsA	TV
+sleeping	HasSubevent	snoring
+form	IsA	writing style
+a cash register	AtLocation	a store
+Museums	CapableOf	display antiquities
+play games	HasSubevent	fun
+going to a party	UsedFor	fun
+desk	RelatedTo	office
+a cashier	AtLocation	the market
+watching a tv show	UsedFor	Entertainment
+writing	HasSubevent	think
+spend money	HasPrerequisite	go to a store
+a business	UsedFor	making money
+spend money	HasSubevent	purchase something
+reading	RelatedTo	book
+salt	RelatedTo	white
+rugby sevens	RelatedTo	rugby league
+fuck	HasPrerequisite	have money
+walk in the rain	HasPrerequisite	go outside
+footy	RelatedTo	association football
+tense	MannerOf	affect
+heat	RelatedTo	hot
+spend money	HasSubevent	you could go broke
+star	RelatedTo	in sky
+a grocer	AtLocation	the grocery store
+washout	RelatedTo	flooding
+blue	RelatedTo	water
+water	AtLocation	a pool
+jumping out of a window	Causes	falling
+a museum	AtLocation	Europe
+Metal	IsA	music
+a five and dime	UsedFor	buying things
+wool	RelatedTo	fluffy white
+safety	HasContext	American football
+sock	RelatedTo	cloth
+bar billiards	Synonym	bagatelle
+an actor	AtLocation	a show
+Catching fish	HasPrerequisite	abit
+talk	HasSubevent	open mouth
+art	AtLocation	a museum
+butter	HasProperty	soft
+Singing	IsA	an activity
+race	RelatedTo	contest
+take final exams	HasSubevent	study
+dollar	RelatedTo	money
+eat in a restaurant	HasFirstSubevent	have money
+ink	UsedFor	drawing
+operation	HasContext	commercial enterprise
+fresh vegetables	AtLocation	the market
+inauguration	IsA	initiation
+vapor	IsA	suspension
+profit	RelatedTo	financial gain
+relaxing	UsedFor	reducing stress
+Fishing	IsA	a sport
+mechanical	RelatedTo	mechanics
+temperament	IsA	emotionality
+cloud	RelatedTo	weather
+E-mail	UsedFor	communication
+semiautomatic	SimilarTo	automatic
+A rocket	IsA	a machine
+a shopping mall	UsedFor	shop
+entertaining someone	HasSubevent	bring cold drinks
+a robot	IsA	a worker
+successful	SimilarTo	productive
+rest	RelatedTo	relax
+indian	HasContext	uk
+Soccer	IsA	a game
+chess set	UsedFor	have fun
+Food	ReceivesAction	eaten
+talk to someone	HasSubevent	that they listen
+circle	RelatedTo	geometric
+profit	RelatedTo	making money
+reading	IsA	a good way to learn
+Squash	IsA	a sport
+drink alcohol	HasPrerequisite	crush ice
+antiflooding	DerivedFrom	flooding
+lift	RelatedTo	british
+the world	HasProperty	round
+sail	RelatedTo	cloth
+unprocessed	SimilarTo	natural
+Milk	HasProperty	white
+people	AtLocation	a town
+A game	IsA	an activity
+Programmer	CapableOf	write programs
+gusty	RelatedTo	blustery
+buy fresh fruits and vegetables	HasPrerequisite	have money
+settled	SimilarTo	deterministic
+act	RelatedTo	play
+board	RelatedTo	chalk
+innovative	Synonym	innovational
+debt	RelatedTo	money
+ballroom	IsA	room
+backboard	HasContext	basketball
+motivation	IsA	act
+cake	RelatedTo	eaten
+shake	RelatedTo	movement
+decline	MannerOf	descend
+Computers	UsedFor	work
+movie making	IsA	devising
+duck	RelatedTo	foots
+People	HasProperty	cruel
+soccer	IsA	fun
+peace	DistinctFrom	war
+productive	RelatedTo	successful
+invention	IsA	creating by mental acts
+knit	HasSubevent	make clothes
+dance	RelatedTo	art
+dampen	Synonym	moisten
+club	RelatedTo	organization
+footy	RelatedTo	australian rules football
+hobble chain	HasContext	australia
+A sphere	HasProperty	round
+manufacture	RelatedTo	making
+buying something	HasSubevent	spending money
+going to the mall	Causes	buying things
+flood hit	RelatedTo	flooding
+a mall	UsedFor	shopping
+a boat	UsedFor	fishing
+smoke	HasSubevent	go outside
+misoneist	RelatedTo	innovative
+Sports	HasProperty	fun
+Rain	CausesDesire	repair an umbrella
+body	RelatedTo	torso
+a loom	UsedFor	weave cloth
+subsidy	IsA	grant
+Some people	HasA	dogs as pets
+party	RelatedTo	people
+shop	MotivatedByGoal	buy something
+twist	RelatedTo	dance
+fishing	Causes	death to fish
+fluffy	Synonym	downlike
+playing a game	UsedFor	reducing stress
+game	RelatedTo	played
+tell a story	HasSubevent	express yourself
+call	MannerOf	entice
+Blue	IsA	a colour
+playing	UsedFor	having fun
+icebreaker	IsA	beginning
+ski	MotivatedByGoal	have fun
+climb	RelatedTo	movement
+watching the evening news	HasPrerequisite	a television
+shopping	HasPrerequisite	having money
+ruffle	Synonym	frill
+record	RelatedTo	black
+viewing a video	UsedFor	entertaining
+precipitation	Synonym	haste
+A rocking chair	HasProperty	relaxing
+achieved	RelatedTo	attained
+wrapped up	SimilarTo	committed
+build	RelatedTo	make
+foots	RelatedTo	oil
+foots	FormOf	foot
+ball	RelatedTo	round
+watching a tv show	Causes	entertainment
+doing housework	HasPrerequisite	work
+a dollar	UsedFor	buying things
+a platform railing	UsedFor	safety
+round	RelatedTo	circle
+cry	RelatedTo	expression
+war	RelatedTo	conflict
+making	Synonym	qualification
+a gallery	AtLocation	a museum
+sock	RelatedTo	cover
+yellow spot fungus	HasContext	Australia
+head	RelatedTo	body
+record	RelatedTo	old
+My team	CapableOf	lose to another team
+express yourself	HasPrerequisite	speak clearly
+pretend	HasSubevent	laughter
+smile	RelatedTo	expression
+put	RelatedTo	place
+rain	RelatedTo	drops
+divergent thinking	PartOf	creativity
+express yourself	MotivatedByGoal	be understood
+company	RelatedTo	group
+Toyota	IsA	a company
+income tax	RelatedTo	earned
+speak out	Synonym	opine
+a tv	UsedFor	watching movies
+buying something	HasSubevent	determine the manufacturer
+settlings	Synonym	dregs
+made	SimilarTo	ready-made
+company	Synonym	corporation
+an army	AtLocation	war
+natural	Synonym	lifelike
+book	RelatedTo	material
+watersport	RelatedTo	played
+nails	AtLocation	a store
+cloud	RelatedTo	water
+a paper bill	UsedFor	buying things
+chicken	IsA	food
+buy something	HasPrerequisite	have money
+express yourself	HasSubevent	someone disagrees with you
+a net	UsedFor	fishing
+painting	AtLocation	an art show
+relax	HasSubevent	sleep
+raise	RelatedTo	increase
+fabric	AtLocation	a fabric store
+riding a bicycle	UsedFor	Sport
+screamer	HasContext	australian rules football
+profit	RelatedTo	net
+picture	RelatedTo	drawing
+bone	RelatedTo	material
+profit	RelatedTo	money
+poor	SimilarTo	slummy
+wind	RelatedTo	moving
+sheep	RelatedTo	white fluffy
+company	RelatedTo	firm
+a battle	PartOf	a war
+a cinema	UsedFor	watching movies
+Emmy	IsA	award
+a potato	AtLocation	a market
+People	CapableOf	speak
+cloud	RelatedTo	white fluffy
+clothes	AtLocation	a store
+backman	RelatedTo	australian rules football
+paper	UsedFor	drawing
+creativity	CausesDesire	create art
+pretend	HasSubevent	use your imagination
+stage	RelatedTo	place
+a diner	AtLocation	town
+resale	IsA	selling
+a hot bath	CausesDesire	relax
+wax	RelatedTo	material
+standard generalized markup language	HasContext	computer science
+a machine	UsedFor	weave cloth
+Blue	IsA	a color
+viewing a video	Causes	entertainment
+a plant	AtLocation	a pot
+capital gain	IsA	financial gain
+a tv	AtLocation	family room
+pretend	HasPrerequisite	have an imagination
+Clouds	CapableOf	rain water
+classical music	HasProperty	relaxing
+popcorn	AtLocation	a movie theater
+tree	RelatedTo	plant
+whisk	HasContext	cooking
+feet	RelatedTo	foots
+a dentist office	AtLocation	town
+contest	IsA	social event
+corn	RelatedTo	food
+a movie	IsA	a film
+bristle	IsA	fiber
+distribution	PartOf	marketing
+disrupt	Synonym	interrupt
+an actor	CapableOf	pretend
+financial loss	IsA	loss
+a boat	AtLocation	the water
+record	RelatedTo	vinyl
+start	RelatedTo	beginning
+watching television	UsedFor	watching movies
+going to the store	UsedFor	shopping
+programmer	HasContext	computer science
+downy	Synonym	downlike
+entertaining someone	HasPrerequisite	something fun
+market	RelatedTo	buying
+startup	IsA	beginning
+bagatelle	IsA	triviality
+Some paintings	HasProperty	very valuable
+startup	RelatedTo	organization
+rubber which	ReceivesAction	filled with air
+Eyre	PartOf	Australia
+earn a living	HasPrerequisite	Work
+a computer	AtLocation	a table
+cliffhanger	IsA	contest
+womble	HasContext	uk
+letter	RelatedTo	communication
+lighting a fire	Causes	something to burn
+fund	Entails	finance
+pay the bills	HasPrerequisite	making money
+musical interval	RelatedTo	played
+error correction code	IsA	code
+express information	HasPrerequisite	speak
+zero-coupon security	IsA	security
+terseness	IsA	expressive style
+crowd	RelatedTo	concert
+a computer	AtLocation	any school
+cotton	RelatedTo	fluffy white
+dividend	IsA	net income
+A Neural Network	IsA	Artificial Intelligence
+a robot	AtLocation	a laboratory
+chord	RelatedTo	notes
+garden	RelatedTo	plant
+watch a movie	MotivatedByGoal	entertainment
+case	RelatedTo	museums
+information	AtLocation	the Internet
+flower	RelatedTo	plant
+sky	RelatedTo	flying in
+get a contract	HasSubevent	you get some money
+hooker	IsA	athlete
+play cards	HasSubevent	make money
+walk	RelatedTo	movement
+bronze	IsA	sculpture
+program	IsA	software
+boundary umpire	HasContext	australian rules football
+beginning work	UsedFor	making money
+snow	RelatedTo	fluffy white
+earned	RelatedTo	earn
+rain	RelatedTo	water
+yeoman's service	RelatedTo	committed
+fixing a computer	UsedFor	making money
+diminution	Synonym	decline
+tease	MannerOf	manipulate
+dance the samba	HasSubevent	have fun
+a back yard	UsedFor	playing
+chopping firewood	UsedFor	making some money
+follow	MannerOf	act
+buy products	HasPrerequisite	compare prices
+flourishing	SimilarTo	successful
+fishing	Causes	the fish to die
+bone	RelatedTo	white
+hockey	IsA	a sport
+spray	IsA	water vapor
+go to a restaurant	HasPrerequisite	have money
+penny ante	RelatedTo	played
+leg	RelatedTo	above
+free to play	RelatedTo	played
+a cloth	CapableOf	become wet
+cent	RelatedTo	monetary
+the sky	HasProperty	blue on a clear day
+study	HasPrerequisite	go to a library
+val kilmer	IsA	an actor
+settlings	FormOf	settling
+listen	RelatedTo	ear
+silk	RelatedTo	cloth
+ringer	IsA	throw
+statue	IsA	sculpture
+goalmouth	HasContext	soccer
+Fruit	ReceivesAction	eaten
+heat	RelatedTo	warmth
+buying food	HasSubevent	compare prices
+movie	IsA	product
+profit	RelatedTo	make
+a machine	UsedFor	see the stars
+heat	RelatedTo	energy
+gusty	DerivedFrom	gust
+film	RelatedTo	photographer
+a swimming pool	UsedFor	fun
+soft	SimilarTo	downlike
+shopping	Causes	spending your money
+startups	FormOf	startup
+cooking	HasSubevent	you burn something
+money	AtLocation	a wallet
+a school	AtLocation	a town
+listen to music	MotivatedByGoal	entertainment
+apply for a job	MotivatedByGoal	make money
+reading	HasSubevent	you learn
+move	RelatedTo	houses
+attending school	HasSubevent	learn
+tv	MadeOf	glass
+commitment	Synonym	committedness
+based	SimilarTo	settled
+painting	UsedFor	relaxation
+pecuniary	Synonym	monetary
+wool	RelatedTo	white fluffy
+IBM	IsA	a company
+heat	Antonym	cold
+news	RelatedTo	tv
+investment	IsA	promotion
+dislocate	MannerOf	move
+buy a shirt	HasPrerequisite	have your money
+committedness	IsA	seriousness
+mean	Synonym	hateful
+camp	RelatedTo	sleeping
+a typewriter ribbon	AtLocation	a museum
+attack	RelatedTo	war
+sailing	HasProperty	fun
+water	AtLocation	a waterfall
+hand	RelatedTo	body
+toy	RelatedTo	played
+listening music	UsedFor	relaxing
+reassuring	SimilarTo	assuasive
+turn of expression	IsA	expressive style
+clothes	AtLocation	a suitcase
+falling	Causes	getting hurt
+buying a shirt	HasPrerequisite	money
+spec	RelatedTo	australian rules football
+a place to eat	AtLocation	a town
+paper	RelatedTo	product
+used	Antonym	new
+shop	HasSubevent	compare prices
+heat	RelatedTo	temperature
+footy	RelatedTo	sock
+reprieve	Synonym	suspension
+play ball	HasPrerequisite	go outside
+metal	RelatedTo	material
+draw	RelatedTo	make
+foots	HasContext	nonstandard
+cloud	MannerOf	affect
+blue	RelatedTo	color
+poetry	IsA	writing style
+ear	RelatedTo	listen
+talk	RelatedTo	communicate
+a star	AtLocation	the sky
+market	RelatedTo	shop
+thanking someone	HasPrerequisite	communication
+bill	Synonym	circular
+business	RelatedTo	company
+buying presents	HasSubevent	compare prices
+new	DistinctFrom	old
+moving	SimilarTo	blown
+people	CapableOf	imagine
+A gallery	UsedFor	art
+have fun	HasSubevent	smile
+job	RelatedTo	employment
+rain	HasProperty	wet
+mural	RelatedTo	museums
+paying the bills	HasPrerequisite	having money
+photographer	IsA	artist
+The Phillies	IsA	a team
+a copy machine	AtLocation	the office
+running out of steam	HasSubevent	to relax
+sock	RelatedTo	foot clothing
+pleat	Synonym	ruffle
+play chess	MotivatedByGoal	have fun
+hear music	MotivatedByGoal	relax
+music videos	AtLocation	television
+buy something small	HasPrerequisite	have money
+musical comedy	Synonym	musical
+haircloth	IsA	fabric
+blue	RelatedTo	sky colour
+a grocer	CapableOf	bag groceries
+creativity	RelatedTo	create
+a supermarket	UsedFor	shopping
+weather	RelatedTo	snow
+tournament	IsA	contest
+a television	IsA	an appliance
+dance	RelatedTo	ballet
+fluff	Synonym	bagatelle
+balsam	RelatedTo	soothing
+unprovided for	SimilarTo	poor
+family	RelatedTo	group
+high-muck-a-muck	IsA	important person
+a brush	UsedFor	painting
+a cloth	UsedFor	cleaning something
+New	HasContext	linguistics
+holiday shop	HasSubevent	compare prices
+exchange	RelatedTo	stock
+play football	HasLastSubevent	tackle
+air	RelatedTo	in sky
+sculptures	AtLocation	a museum
+staples	AtLocation	the office
+padrone	RelatedTo	earnings
+gas	RelatedTo	fuel
+nets	UsedFor	catch fish
+school	RelatedTo	you learn
+cent	RelatedTo	money
+getting paid	Causes	having money
+fishing	UsedFor	sport
+genre	Synonym	writing style
+attained	RelatedTo	attain
+lose	DistinctFrom	win
+record	RelatedTo	round
+precipitation	IsA	indefinite quantity
+fuel	MannerOf	supply
+a ball	UsedFor	play
+singing	UsedFor	entertainment
+playing	HasPrerequisite	doing something fun
+go to the store	HasPrerequisite	have some money
+film	HasContext	commercial enterprise
+be successful	HasPrerequisite	work hard
+people	HasProperty	weird
+Computer Vision	IsA	Artificial Intelligence
+sock	RelatedTo	garment
+writing	RelatedTo	activity
+committee	RelatedTo	group
+army	RelatedTo	group
+viewing a video	HasPrerequisite	a tv
+going to market	HasSubevent	buying things
+selling your new book	Causes	make money
+get away with a crime	HasFirstSubevent	commit the crime
+downlike	RelatedTo	down
+nongovernmental organization	IsA	organization
+jack tar	HasContext	british
+weather	RelatedTo	forecast
+pass	RelatedTo	throw
+lighting a fire	Causes	burning down the house
+seductive	RelatedTo	seduction
+food	AtLocation	the supermarket
+The sky	CapableOf	appear blue
+a bureau	UsedFor	clothing
+climb	RelatedTo	activity
+mural	RelatedTo	painting
+waiting tables	Causes	make money
+study	HasSubevent	reading
+unhealthy	SimilarTo	intumescent
+rain water	FormOf	rainwater
+a pump	IsA	a machine
+heat	IsA	a form of energy
+make	RelatedTo	construct
+dance	HasPrerequisite	turn on some music
+play games	MotivatedByGoal	they are fun
+playing a harp	Causes	soothing
+mawkishness	IsA	emotionality
+idevice	RelatedTo	electronic
+sheep	RelatedTo	fluffy
+toy	RelatedTo	play
+foots	RelatedTo	barrel
+glass	RelatedTo	material
+tango	IsA	dance music
+paint	RelatedTo	wet
+sickle cell anaemia	HasContext	british
+sprinkle	MannerOf	wet
+learn a language	HasPrerequisite	study it
+TV	UsedFor	give information
+relax	HasPrerequisite	listen to music
+plant	RelatedTo	leaves
+writing	RelatedTo	making
+a board	UsedFor	build
+icon	HasContext	computer science
+bearer	IsA	capitalist
+rain	RelatedTo	falling
+excogitation	Synonym	invention
+innovatest	RelatedTo	innovate
+drive	RelatedTo	movement
+go to market	HasPrerequisite	get money
+bell end	HasContext	british
+council	RelatedTo	group
+creation	RelatedTo	creator
+clothes	AtLocation	your house
+wash and wear fabric	UsedFor	make clothes
+a movie theater	UsedFor	watching movies
+The interior of a pneumatic tire	ReceivesAction	filled with air
+going to a party	Causes	have fun
+food	AtLocation	the oven
+a library	AtLocation	a town
+interpose	MannerOf	introduce
+Theatres	CapableOf	be showing movies
+fishing	Causes	catching a fish
+tragedy	IsA	drama
+ball hawk	IsA	athlete
+game	RelatedTo	fun
+walk	RelatedTo	move
+relax	HasPrerequisite	stop worrying
+ring	RelatedTo	circle
+syndication	IsA	selling
+play	RelatedTo	game
+creating an idea	Causes	innovation
+reduce	RelatedTo	make
+a statue	AtLocation	a museum
+waiting tables	UsedFor	making money
+continent	RelatedTo	australia
+carnival	IsA	festival
+talk to someone	MotivatedByGoal	communicate
+commit perjury	HasSubevent	commit a crime
+profit	RelatedTo	money made
+sock	RelatedTo	footwear
+music	AtLocation	the opera
+government income	IsA	income
+qualification	IsA	revision
+jaconet	IsA	fabric
+blue	RelatedTo	primary
+fishing	HasSubevent	bait a hook
+pay	RelatedTo	money
+automatic	SimilarTo	smart
+A tennis court	HasA	a net
+a machine	UsedFor	dispense popcorn
+a call	UsedFor	communicate
+northern	HasContext	british
+water	UsedFor	drink
+falling	Causes	broken bones
+enjoying the day	Causes	relaxation
+marketing	Synonym	selling
+piece	IsA	creation
+moving	SimilarTo	heartwarming
+coke	IsA	fuel
+relaxing	HasSubevent	reading
+A ball	HasProperty	round
+a zombie	AtLocation	a movie
+played	HasContext	game
+move	RelatedTo	change
+a basketball	HasProperty	round
+freeware	IsA	software
+outsider	IsA	contestant
+plant	RelatedTo	growing
+unseat	MannerOf	move
+color	RelatedTo	paintings
+jazzed	RelatedTo	played
+creating something to help other people	Causes	make money
+talk	RelatedTo	chat
+a voice	UsedFor	communicate
+shopping	HasSubevent	compare prices
+technical	Synonym	mechanical
+net	Synonym	web
+curator	AtLocation	a museum
+consider	RelatedTo	think
+low-pass filter	IsA	filter
+bank	RelatedTo	business
+steam	RelatedTo	vapor
+mechanical	SimilarTo	mechanic
+end	Antonym	beginning
+mossie	HasContext	uk
+degree	RelatedTo	heat
+sculpture	Synonym	sculpt
+coach horse	DerivedFrom	coach
+coin	RelatedTo	money
+perfunctory	Synonym	automatic
+take a walk	HasSubevent	falling
+department	RelatedTo	company
+heavy hitter	IsA	important person
+cotton	RelatedTo	white fluffy
+introduce	MannerOf	introduce
+universal suffrage	RelatedTo	attained
+pretend	HasSubevent	you lie
+a piano	AtLocation	a concert
+soap	RelatedTo	material
+rest	RelatedTo	sleeping
+paint	RelatedTo	art
+fly a kite	MotivatedByGoal	have fun
+view a video	HasSubevent	laughter
+breathe some fresh air	HasSubevent	go outside
+colony	RelatedTo	group
+sport	IsA	game
+write a term paper	HasPrerequisite	research
+creative	SimilarTo	imaginative
+production	RelatedTo	making
+tree	RelatedTo	large
+steam	RelatedTo	heat
+shell corporation	IsA	corporation
+corporation	RelatedTo	company
+reach an advantage	MotivatedByGoal	win
+making	Synonym	devising
+bounder	IsA	athlete
+cotton	UsedFor	weave cloth
+water	AtLocation	river
+crowd	RelatedTo	group
+lighting a fire	HasSubevent	strike a match
+horses	CapableOf	jump high
+automatic	SimilarTo	semiautomatic
+teach other people	HasSubevent	they learn
+dance	RelatedTo	fun
+encouragement	IsA	approval
+horse	RelatedTo	large
+moving	SimilarTo	ahorseback
+simmer	HasContext	cooking
+innovatory	RelatedTo	innovate
+squeeze	IsA	movement
+people	AtLocation	an apartment
+rain	Causes	flooding
+food	AtLocation	a shop
+grave	RelatedTo	place
+light a fire	HasPrerequisite	a match
+buying presents	HasPrerequisite	having money
+a rod	UsedFor	catch fish
+code	HasContext	computer science
+spend money	HasPrerequisite	decide what to buy
+letterman	IsA	athlete
+boat	RelatedTo	water
+high street	HasContext	british
+A Motion	IsA	a subject
+fluff	Synonym	botch
+making	IsA	component
+middle	RelatedTo	location
+displace	MannerOf	move
+an ocean	UsedFor	catching fish
+play games	MotivatedByGoal	it entertaining
+listening to music	HasProperty	pleasurable
+cooking	UsedFor	food preparation
+work	AtLocation	a desk
+teams	FormOf	team
+office	RelatedTo	room
+weather	RelatedTo	sunny
+plant	RelatedTo	flower
+lighting a fire	HasSubevent	you use kindling
+fish	RelatedTo	water
+expression	IsA	organic process
+pass by value	HasContext	programming
+soccer	Synonym	football
+space	RelatedTo	in sky
+wool	RelatedTo	fluffy
+sleet	IsA	precipitation
+sock	RelatedTo	feet
+watching TV	HasSubevent	falling asleep
+retrieval	HasContext	computer science
+Tennis	IsA	a game
+a frying pan	UsedFor	cooking
+cloud	RelatedTo	cotton
+chatting with friends	Causes	laughter
+communicate	HasPrerequisite	think
+express yourself	HasLastSubevent	stop talking
+office	RelatedTo	place
+rosebud	HasContext	british
+Playing	UsedFor	fun
+clouds	IsA	often in the sky
+a town	AtLocation	a state
+record	RelatedTo	lp
+Study	HasPrerequisite	concentration
+attained	SimilarTo	earned
+play	DistinctFrom	work
+Boy Scouts	IsA	movement
+art	RelatedTo	creative
+water meadow	RelatedTo	flooding
+body	RelatedTo	shape
+communicate	HasPrerequisite	talk
+entertaining someone	UsedFor	having fun
+falling	HasSubevent	become scared
+soup	RelatedTo	food
+hear the news	HasLastSubevent	process the information
+expressive style	HasContext	art
+reading	RelatedTo	books
+cloud	RelatedTo	puffy
+fight	IsA	controversy
+a athlete	CapableOf	break a record
+play	RelatedTo	activity
+board	RelatedTo	writing
+skiing	UsedFor	sport
+Some paintings	HasA	elaborate detail
+markup	IsA	net income
+play football	HasPrerequisite	gather a team
+go to a restaurant	HasPrerequisite	get some money
+reading	RelatedTo	action
+full forward	RelatedTo	australian rules football
+a computer	UsedFor	work
+expression	Synonym	saying
+The horse	CapableOf	jump high
+circle	RelatedTo	shape
+corporation	RelatedTo	business
+blue	RelatedTo	sky
+a movie	AtLocation	a movie theater
+a bed	IsA	a place
+an actor	NotDesires	a bad review
+web	RelatedTo	spider
+a bath	UsedFor	relaxation
+industry	IsA	commercial enterprise
+buying something	Causes	losing money
+burn	RelatedTo	heat
+teaching other people	HasSubevent	talk
+notes	AtLocation	a notebook
+heaven	RelatedTo	in sky
+corporate	Synonym	collective
+Cotton	IsA	a crop
+a pan	UsedFor	cooking food
+heat	RelatedTo	hotness
+composing	IsA	creating by mental acts
+championship	RelatedTo	champion
+books	HasProperty	entertaining
+magnetic core	HasContext	computer science
+committedness	DerivedFrom	committed
+cotton	RelatedTo	soft
+bouffant	Synonym	puffy
+share	PartOf	net income
+reading	Causes	learning
+earn	MannerOf	get
+lips	UsedFor	communicate
+express yourself	HasPrerequisite	create art
+violence	AtLocation	a war
+note	RelatedTo	musical
+dance palace	Synonym	ballroom
+listening	HasSubevent	you learn
+an actor	AtLocation	television
+toys	AtLocation	a store
+Basketball	IsA	a fast and physically demanding sport
+football	IsA	a physical activity
+badminton player	IsA	athlete
+mist	RelatedTo	cloud
+steam	RelatedTo	water vapor
+ready-made	SimilarTo	made
+A match	CapableOf	light a fire
+a bar	IsA	a place
+a telephone	UsedFor	communicate
+clothes	UsedFor	wearing
+board	RelatedTo	flat
+soothing	Synonym	assuasive
+emotionalism	Synonym	emotionality
+a money	AtLocation	a bank
+relaxing	Causes	relaxation
+weather	RelatedTo	conditions
+toy	RelatedTo	fun
+self-propelled	SimilarTo	moving
+game	RelatedTo	board
+listen	HasSubevent	pay attention
+Shirts	IsA	clothes
+a motel	UsedFor	sleeping
+A DVD	UsedFor	watching movies
+mean	DistinctFrom	nice
+tackle	HasContext	football
+innovation	RelatedTo	innovate
+thunder	RelatedTo	clouds
+new	SimilarTo	inexperienced
+free kick	HasContext	soccer
+a couch	UsedFor	sleeping
+produce	RelatedTo	grocery
+fashion	IsA	consumer goods
+wind	RelatedTo	movement
+footie	FormOf	footy
+An Internet	IsA	a network of communicating computers
+excitability	IsA	emotionality
+crop	RelatedTo	plant
+performing	HasSubevent	act
+southwest	IsA	location
+competitor	Synonym	rival
+read	MotivatedByGoal	learn
+go see a play	HasSubevent	falling asleep
+a town	AtLocation	a country
+go for a jog	HasPrerequisite	go outside
+lighting a fire	Causes	the house burns down
+falling	HasPrerequisite	losing your balance
+cathedral	RelatedTo	large
+introduce	MannerOf	initiate
+a shopping mall	UsedFor	buying goods
+gain	RelatedTo	profit
+woman landing fish	IsA	catching fish
+allegory	IsA	expressive style
+clothes	AtLocation	a dresser
+gutter	RelatedTo	rain water
+wave	IsA	motion
+a muscle	UsedFor	move something
+ball	RelatedTo	soccer
+rugby football	RelatedTo	rugby league
+Clothing	ReceivesAction	made from fabric
+puffy	Synonym	gusty
+please your parents	MotivatedByGoal	get money
+grant	IsA	transferred property
+coat	RelatedTo	clothes
+a sock	AtLocation	the sock drawer
+fight	RelatedTo	conflict
+athlete	CapableOf	jump high
+footy	RelatedTo	settlings
+wind	RelatedTo	weather
+earned	FormOf	earn
+Playing cards	IsA	an activity
+river	RelatedTo	large
+resting	Causes	falling asleep
+socialize	HasPrerequisite	talk to people
+music	RelatedTo	art
+sock	RelatedTo	under
+super	Synonym	exceedingly
+A musical	IsA	a play
+sew	MotivatedByGoal	make clothes
+profit	RelatedTo	make money
+listen	RelatedTo	ears
+Propane	IsA	fuel
+place kick	HasContext	football
+waltz	IsA	ballroom dancing
+a computer	AtLocation	a building
+play games	HasPrerequisite	find some friends and play
+war	RelatedTo	fighting
+win	Synonym	winnings
+chasse	HasContext	ballet
+listening to music	Causes	fall asleep
+spending money	HasSubevent	compare prices
+duty	RelatedTo	job
+sleeping	Causes	dreams
+return	IsA	motion
+rabbit	RelatedTo	fluffy
+sock	RelatedTo	foot covering
+tackle	IsA	lineman
+dogged	Synonym	committed
+burlap	IsA	a fabric
+listening to music	UsedFor	setting the mood
+gas	UsedFor	cooking
+body	RelatedTo	arms
+a strip mall	UsedFor	shopping
+landing fish	IsA	catching fish
+going on a vacation	Causes	relaxing
+coal	RelatedTo	fuel
+unattained	DerivedFrom	attained
+builders	HasContext	uk
+write a program	MotivatedByGoal	make money
+easy	RelatedTo	comfortable
+a tv	UsedFor	entertainment
+white	DefinedAs	opposite of black
+automation	RelatedTo	automatic
+rain	IsA	water
+getting some physical activity	UsedFor	reducing stress
+opening a business	Causes	making money
+Federal Home Loan Mortgage Corporation	IsA	corporation
+businessperson	IsA	capitalist
+attained	RelatedTo	reached
+buying presents for others	HasPrerequisite	money
+read	HasSubevent	falling asleep
+writing a program	UsedFor	a programmer
+warhorse	HasContext	drama
+death	AtLocation	a war
+make a phone call	HasSubevent	talk
+thunder	RelatedTo	rain
+A high jumper	CapableOf	jump high
+dramatic event	Synonym	drama
+vulcanized fiber	Synonym	fiber
+football	Synonym	footy
+seeing people play a game	Causes	entertaining
+tutor	Synonym	coach
+a game	UsedFor	entertainment
+Frisbees	HasProperty	round
+powerhouse	IsA	actor
+comfortable	SimilarTo	soothing
+buying something	HasSubevent	compare prices
+express information	HasSubevent	to talk
+pothunter	IsA	contestant
+buy a hamburger	HasSubevent	spending of money
+attending a lecture	HasSubevent	you learn something
+going into a trance	HasPrerequisite	relaxation
+size	RelatedTo	large
+sock	RelatedTo	shoes
+cake	RelatedTo	round
+cotton	AtLocation	the medicine cabinet
+CPU	PartOf	computer
+hide	RelatedTo	game
+Eyre Peninsula	PartOf	Australia
+weapons	AtLocation	a war
+Fuzzy Logic	IsA	Artificial Intelligence
+begin work	MotivatedByGoal	get money
+firm	SimilarTo	settled
+winnings	IsA	financial gain
+your coach	CausesDesire	play football
+clothing	IsA	consumer goods
+pas	HasContext	ballet
+Another word for television	IsA	TV
+mist	RelatedTo	rain
+a cinema	AtLocation	a town
+stolen property	IsA	transferred property
+Rugby League	IsA	football code
+A robot	IsA	an automation
+a movie	AtLocation	the theater
+long rifle	RelatedTo	warfare
+cotton	RelatedTo	fluffy
+leaning	IsA	act
+think	HasPrerequisite	use your brains
+new	SimilarTo	spic-and-span
+grocery	AtLocation	the supermarket
+shopping	Causes	buying things
+cybersecurity	RelatedTo	electronic
+baseball	IsA	a sport
+uncommitted	DerivedFrom	committed
+grow	MannerOf	increase
+manufacture	Synonym	industry
+lighting a fire is there	Causes	heat and light
+plate	RelatedTo	circle
+snow	RelatedTo	fluffy
+drop	RelatedTo	rain
+watching television	UsedFor	entertainment
+have fun	MotivatedByGoal	it is enjoyable
+surfing the web	UsedFor	research
+above	Antonym	below
+city	RelatedTo	new
+round	RelatedTo	shape
+diluvium	RelatedTo	flooding
+mobile	IsA	sculpture
+a match	UsedFor	starting a fire
+a cloth	AtLocation	a kitchen
+religion	Causes	war
+a material	UsedFor	make clothes
+football	IsA	sport
+tyke	HasContext	uk
+played	FormOf	play
+plastic	IsA	material
+a grocer	UsedFor	selling groceries
+cartoons	AtLocation	television
+Openmind	PartOf	the internet
+nose	RelatedTo	body
+lensman	Synonym	photographer
+buy presents for others	HasPrerequisite	have money
+tackle	MannerOf	attack
+game	ReceivesAction	played
+play	HasPrerequisite	have fun
+band	RelatedTo	musical
+court	RelatedTo	basketball
+lighting a fire	UsedFor	cooking
+skateboard	MotivatedByGoal	have fun
+scheming	Synonym	calculating
+communicate	HasPrerequisite	speak out
+a tv	AtLocation	a livingroom
+paper	RelatedTo	material
+Earth	IsA	location
+Luxury	ReceivesAction	earned
+People	CapableOf	talk to each other
+water	MannerOf	wet
+a movie theater	AtLocation	the mall
+seeing exhibits	HasSubevent	learn
+attained	FormOf	attain
+a coast	UsedFor	fishing
+run	RelatedTo	motion
+sell goods	HasSubevent	make money
+goods to be purchased	AtLocation	a shop
+settled	SimilarTo	situated
+rain	RelatedTo	sky
+colorcast	HasContext	television
+shy	MannerOf	throw
+soak in a hotspring	MotivatedByGoal	relax
+place	RelatedTo	location
+earning a living	Causes	making money
+dance	RelatedTo	waltz
+blue	RelatedTo	colour
+play games	MotivatedByGoal	you are bored
+code switch	RelatedTo	rugby league
+A match	CapableOf	burn paper
+soaking in a hotspring	Causes	you relax
+record	RelatedTo	plate
+jeans	AtLocation	a store
+takeout	RelatedTo	eaten
+cogitate	HasPrerequisite	think
+pretend	MotivatedByGoal	be an actor
+warrior	RelatedTo	warfare
+watching television	Causes	falling asleep
+enjoy the day	HasPrerequisite	have fun
+tickling	HasSubevent	laughter
+taking a walk	Causes	relaxation
+commencement	Synonym	beginning
+art	RelatedTo	paintings
+blood	RelatedTo	body
+account executive	IsA	businessperson
+seduce	MannerOf	entice
+waltz	IsA	dance music
+sile	RelatedTo	settlings
+organization	IsA	a good thing
+A toy	UsedFor	entertainment
+rehearsal	HasContext	concert
+cakes	AtLocation	a store
+a machine	UsedFor	manufacture something
+water vapour	Synonym	water vapor
+ballet	IsA	stage dancing
+food	AtLocation	the kitchen
+drama	IsA	emotionality
+go for a walk	HasPrerequisite	go outside
+design	RelatedTo	art
+buying Christmas presents	UsedFor	Fun
+Sleeping	CausesDesire	snore
+express yourself	HasPrerequisite	be artistic
+night terror	IsA	drama
+company	RelatedTo	work
+red time	HasContext	australian rules football
+cloud	RelatedTo	water vapor
+The wheels	HasProperty	round
+down	SimilarTo	falling
+football	IsA	game
+defeat	RelatedTo	loss
+a basketball	UsedFor	throw
+profit	RelatedTo	monetary
+paintings	FormOf	painting
+startup	Synonym	inauguration
+capitalization	IsA	selling
+museums	RelatedTo	museum
+play games	HasSubevent	you lose
+act in a play	MotivatedByGoal	express yourself
+people	CapableOf	write programs
+rain	RelatedTo	wet
+mobilegeddon	RelatedTo	smartphone
+a loft	UsedFor	sleeping
+above	Synonym	in a higher place
+go to market	HasPrerequisite	have money
+picture	RelatedTo	art
+blue	Antonym	red
+board	RelatedTo	plank
+lighting a fire	HasPrerequisite	a match
+weather	RelatedTo	condition
+kissing	UsedFor	soothing
+a machine	UsedFor	make artificial snow
+tv	HasProperty	short for television
+having fun	HasPrerequisite	activity
+big	RelatedTo	large
+musical	SimilarTo	philharmonic
+game	RelatedTo	contest
+shop	HasPrerequisite	go to a store
+comfortable	SimilarTo	sufficient
+plate	RelatedTo	food
+iron	RelatedTo	clothes
+a rocking chair	UsedFor	relax
+honor	Synonym	award
+grandiosity	IsA	expressive style
+maraca	RelatedTo	played
+a potato	AtLocation	a grocery
+smoke	RelatedTo	cloud
+shape	RelatedTo	square
+listening to music	UsedFor	relaxing
+king-sized	SimilarTo	large
+bot	DerivedFrom	robot
+stroke	IsA	attack
+Some people	IsA	bisexuals
+business	RelatedTo	work
+money	RelatedTo	cash
+rugby league	RelatedTo	thirteen
+The movie theater	CapableOf	be showing a movie
+gain	RelatedTo	increase
+ikon	Synonym	icon
+Polo	IsA	a game
+spend money	MotivatedByGoal	you need the necessities
+find information	HasPrerequisite	research
+pitch	IsA	throw
+taking a break	Causes	relaxation
+bed	RelatedTo	place
+record	RelatedTo	tape
+Many people	Desires	play games
+listen	HasSubevent	you learn
+footies	FormOf	footy
+pass a course	HasPrerequisite	study
+a machine	UsedFor	work
+shrewdness	HasContext	commercial enterprise
+sellout	IsA	selling
+reading a magazine	Causes	entertainment
+large	RelatedTo	size
+prosecute	MannerOf	act
+durables	IsA	consumer goods
+cash	UsedFor	buying things
+film	MannerOf	record
+ebitda	RelatedTo	earnings
+a fish	AtLocation	water
+express yourself	HasPrerequisite	make a collage
+playing	UsedFor	learning
+getting onto the web	HasPrerequisite	a computer
+tease	Entails	brush
+wait tables	MotivatedByGoal	make money
+a movie ticket	AtLocation	movie theater
+a cinema	UsedFor	watch a movie
+play	HasContext	drama
+board	RelatedTo	surface
+payment	RelatedTo	money
+get some money from someone	HasPrerequisite	work
+using a VCR	UsedFor	watching movies
+cooking food	IsA	a fun activity
+skating	Causes	falling
+writing style	IsA	expressive style
+successful	SimilarTo	made
+foots	RelatedTo	hogshead
+paper	RelatedTo	white
+fluffiness	DerivedFrom	fluffy
+Darling	PartOf	Australia
+a match	UsedFor	lighting fire
+a restaurant diner	AtLocation	town
+stab pass	HasContext	australian rules football
+a fireplace	UsedFor	burn paper
+web	RelatedTo	internet
+sun	RelatedTo	in sky
+gustier	FormOf	gusty
+club	RelatedTo	group
+A college	IsA	a place
+football	IsA	a sport people play
+relaxing	HasSubevent	close your eyes
+inset	IsA	ikon
+reading	UsedFor	learning something
+record	RelatedTo	old cd
+performing	UsedFor	entertainment
+Ford	IsA	a company
+muck up	Synonym	botch
+savor	HasContext	cooking
+contemplate	HasSubevent	think
+cone	RelatedTo	shape
+clothing	ReceivesAction	made from cloth
+coat	RelatedTo	clothing
+bear	RelatedTo	large
+get some physical activity	HasSubevent	exercise muscles
+Fishing	IsA	catching fish
+Listening	IsA	an activity
+bread	AtLocation	a store
+buying products	HasSubevent	compare prices
+crystal	IsA	component
+catching fish	IsA	event
+go to the mall	HasSubevent	you spend money
+a ficus	AtLocation	an office
+crowd	RelatedTo	people
+company	RelatedTo	organization
+Cheese	IsA	a food
+The clouds	CapableOf	cloud the sky
+lips	UsedFor	speak
+circle	RelatedTo	round
+rain	RelatedTo	weather
+inheritance	IsA	transferred property
+atmosphere	RelatedTo	in sky
+footy	RelatedTo	poor
+tires	ReceivesAction	filled with air
+partnership certificate	IsA	security
+preceding	SimilarTo	above
+cook dinner	HasSubevent	you burn yourself
+dance	RelatedTo	motion
+take dive	Synonym	throw
+entertaining someone	Causes	the person to laugh
+language	RelatedTo	communication
+coconuts	ReceivesAction	eaten
+note	RelatedTo	music
+leg	RelatedTo	body
+plate	RelatedTo	round
+pillow	RelatedTo	white fluffy
+a department store	UsedFor	shopping
+computer circuit	HasContext	computer science
+motion	RelatedTo	movement
+clothes	AtLocation	a closet
+TV	IsA	a way to relax
+football	RelatedTo	association football
+call by reference	HasContext	programming
+market	RelatedTo	super
+body	RelatedTo	person
+flow	RelatedTo	motion
+company	RelatedTo	corporation
+Creativity	CausesDesire	express yourself
+rap	RelatedTo	music
+create art	MotivatedByGoal	express yourself
+falling	HasSubevent	break a bone
+Cotton	IsA	a natural fiber
+heat	RelatedTo	sun
+weather	RelatedTo	sky
+directory	HasContext	computer science
+a bomb	AtLocation	a war
+hair	UsedFor	express yourself
+eye	RelatedTo	body
+instruction	IsA	code
+random access memory	RelatedTo	smartphone
+picture	RelatedTo	painting
+team	AtLocation	a soccer game
+robot	RelatedTo	mechanical
+initiation	Synonym	trigger
+circle	RelatedTo	round shape
+pong	HasContext	uk
+buy food	HasSubevent	spend money
+greenmail	HasContext	corporation
+wool	RelatedTo	clothes
+work	RelatedTo	labor
+a telephone	AtLocation	the office
+unearned increment	IsA	financial gain
+bed	RelatedTo	soft
+battle	RelatedTo	fight
+lighting a fire	HasSubevent	striking a match
+heat	RelatedTo	warm
+go on a vacation	HasSubevent	you relax
+go to the mall	HasPrerequisite	get money
+fish	HasSubevent	you catch fish
+learn a language	HasFirstSubevent	talk with people
+a robot	AtLocation	a manufacturing plant
+association football	Synonym	soccer
+a place to stay	UsedFor	sleeping
+chicken	RelatedTo	white
+score	Synonym	seduce
+Cotton	IsA	a fabric
+compete	HasSubevent	you win
+feet	RelatedTo	body
+a sock	AtLocation	a drawer
+make	MannerOf	create from raw material
+wool	RelatedTo	product
+sculpture	AtLocation	a museum
+copy machines	AtLocation	the office
+sitting quietly	UsedFor	reducing stress
+a show	AtLocation	a television
+computers	UsedFor	talk with people
+song	RelatedTo	musical
+a duck	ReceivesAction	eaten
+creating by mental acts	IsA	creation
+speak out	RelatedTo	speakout
+slip	RelatedTo	falling
+Excellency	IsA	important person
+buying a shirt	HasSubevent	compare prices
+a computer	UsedFor	calculating
+Paintings	ReceivesAction	made on canvas
+create something to help other people	MotivatedByGoal	make money
+Equestrian	IsA	a sport
+a theatre	UsedFor	showing movies
+clothing	AtLocation	a suitcase
+sell your new book	HasSubevent	get money
+fight inflation	HasPrerequisite	have money
+pas de trois	PartOf	ballet
+body	RelatedTo	human
+flooding	Synonym	implosion therapy
+create art	MotivatedByGoal	be creative
+falling	HasSubevent	land
+mechanical	SimilarTo	automatonlike
+fly	RelatedTo	in sky
+starting a flame or a fire	Causes	heat and light
+paint	RelatedTo	material
+wool	UsedFor	make clothes
+high-pass filter	IsA	filter
+a tv	UsedFor	watching films
+conquer your opponent	MotivatedByGoal	win
+conniving	Synonym	calculating
+neck	RelatedTo	above
+renovation	RelatedTo	innovate
+warfare	Synonym	war
+a cartoon	IsA	a drawing
+interest	RelatedTo	earned
+downlike	DerivedFrom	down
+compatible software	IsA	software
+playing a game with your friends	Causes	fun
+talk	MotivatedByGoal	communicate
+Foods	ReceivesAction	eaten
+immortal	IsA	celebrity
+bits per inch	HasContext	computer science
+bread	RelatedTo	product
+weather	RelatedTo	climate
+reading	HasProperty	fun
+range	RelatedTo	cooking food
+go on the stage	HasSubevent	act
+dump tackle	HasContext	rugby league
+play football	HasPrerequisite	join a team
+enjoying the company of your friends	HasSubevent	laughter
+plug-in	IsA	software
+passing a class	HasPrerequisite	study
+resting	UsedFor	relaxing
+sleeping	HasSubevent	wet the bed
+a movie theater	AtLocation	town
+an apple	ReceivesAction	eaten
+beleaguer	Synonym	tease
+study	HasPrerequisite	open the book
+sock	RelatedTo	shoe
+a company	CapableOf	commit crime
+a chess set	UsedFor	play
+telemarketing	IsA	selling
+innovate	RelatedTo	innovative
+getting paid	Causes	have money
+settlings	IsA	sediment
+go outside	MotivatedByGoal	you wanted to see an accident
+north american football	SimilarTo	australian rules football
+moving	SimilarTo	soul-stirring
+an office	UsedFor	work
+black	DistinctFrom	white
+art	RelatedTo	drawing
+catching fish	IsA	capturing animal
+tourney	Synonym	tournament
+combat pay	IsA	wage
+sea	RelatedTo	water
+war	Causes	death
+poor	DistinctFrom	rich
+athlete	IsA	contestant
+Corn	IsA	a food
+guard	RelatedTo	security
+go to the mall	HasSubevent	compare prices
+grocery shop	HasPrerequisite	get some money
+work	RelatedTo	job
+corporation	RelatedTo	corporate
+salary	Synonym	wage
+soft	SimilarTo	continuant
+thunder	RelatedTo	in sky
+market	RelatedTo	grocery
+settled	SimilarTo	dictated
+profit	RelatedTo	net gain
+sexual conquest	IsA	seduction
+healthy	SimilarTo	firm
+supplier	IsA	businessperson
+mist	RelatedTo	wet
+build	RelatedTo	making
+profit	RelatedTo	income
+buy Christmas presents	HasSubevent	spend money
+A triangle	IsA	a shape
+swag	HasContext	Australia
+rest	HasPrerequisite	relax
+footy	RelatedTo	rugby league
+fishing	UsedFor	catching a fish
+startups	RelatedTo	startup
+listen	RelatedTo	hearing
+fabric	UsedFor	make clothes
+aluminum	IsA	a material
+Water	HasProperty	liquid
+price	RelatedTo	monetary
+socialize	HasSubevent	talk to people
+speakout	RelatedTo	speak out
+plate	RelatedTo	eaten
+play soccer	MotivatedByGoal	have fun
+sleeping	Causes	rest
+Museums	IsA	places with exhibits
+spare part	IsA	component
+communicate	HasPrerequisite	talk with people
+playing	IsA	a way to learn social skills
+transport	RelatedTo	move
+soaking in a hotspring	Causes	relaxation
+listening to music	HasSubevent	enjoyment
+a company	CapableOf	market a product
+work	MotivatedByGoal	you need money
+corporate	RelatedTo	corporation
+golf	IsA	a sport
+soccer	HasContext	australian rules football
+cooking	Causes	food gets hot
+music	RelatedTo	melody
+a book	AtLocation	a store
+water	AtLocation	rain
+keanu reeves	CapableOf	act badly
+playing basketball	UsedFor	making money
+a puzzle	UsedFor	entertainment
+grupetto	RelatedTo	notes
+a grocer	UsedFor	selling food
+purpose	RelatedTo	goal
+organization	RelatedTo	group
+desk	RelatedTo	work
+paintings	AtLocation	an art show
+An actor	CapableOf	star in a movie
+play football	HasFirstSubevent	go outside
+buying something	HasSubevent	look over the ingredients
+band	RelatedTo	music
+wood	RelatedTo	product
+tax	RelatedTo	money
+spending money	HasPrerequisite	having money
+shop	HasPrerequisite	go to a mall
+cashing in	Causes	get money
+hear	RelatedTo	listen
+Shoes	IsA	clothing
+express information	HasPrerequisite	talk
+playing	Causes	fun
+a movie screen	AtLocation	a movie
+Clouds	CapableOf	rain raindrops
+sitting on a chair	HasSubevent	falling asleep
+play	RelatedTo	games
+make	MannerOf	estimate
+say	RelatedTo	speak
+an ergonomic chair	UsedFor	be comfortable
+produce	RelatedTo	make
+suspension	PartOf	motor vehicle
+moon	RelatedTo	in sky
+safety	IsA	condition
+men	RelatedTo	group
+your mouth	UsedFor	speak
+Having money	CausesDesire	buy something for a loved one
+go fishing	HasSubevent	you catch a fish
+reward	RelatedTo	financial gain
+farm	RelatedTo	place
+butter	IsA	a food
+ruffle	MannerOf	disarrange
+seed	RelatedTo	plant
+a shopping center	UsedFor	buying things
+hockey	IsA	a game
+wet	Synonym	moisture
+foil	IsA	ikon
+a net	UsedFor	catching fish
+garden	RelatedTo	place
+clouding	IsA	vaporization
+obstruct justice	HasPrerequisite	commit a crime
+made	SimilarTo	successful
+work	MotivatedByGoal	money
+sock	RelatedTo	foot
+circle	RelatedTo	circular
+dancing	UsedFor	Fun
+a program	CreatedBy	a programmer
+call by value	HasContext	programming
+having lunch	HasSubevent	talk to people
+buy something for a loved one	HasPrerequisite	have some money
+using a computer	UsedFor	calculating
+listening to music	HasSubevent	dance
+buying something	Causes	less money
+duel	RelatedTo	fight
+going to the mall	HasSubevent	buying things
+remainer	HasContext	british
+Canberra	PartOf	Australia
+automatic	SimilarTo	self-locking
+a yard	UsedFor	playing
+X-ray film	IsA	film
+lighting a fire	HasSubevent	burn yourself
+a student	Desires	learn
+mist	RelatedTo	water vapor
+Badminton	IsA	a sport
+a sofa hide a bed	UsedFor	sleeping
+working	Causes	you make money
+a library	UsedFor	reading
+a note	UsedFor	communication
+a market	AtLocation	the city
+porn	AtLocation	the Internet
+snow	RelatedTo	weather
+dance	RelatedTo	ballroom
+pass your university exams	HasPrerequisite	study
+encouragement	IsA	hope
+affect	Synonym	involve
+safety	IsA	score
+Cabbage	IsA	a plant
+draft board	IsA	board
+play football	HasPrerequisite	a field to play in
+playing games	UsedFor	entertainment
+act	PartOf	ballet
+cotton	RelatedTo	clothes
+game	RelatedTo	playing
+New technology	CapableOf	stream video
+fight	RelatedTo	battle
+ingredient	IsA	component
+ennoblement	IsA	promotion
+the internet	CapableOf	stream video
+innovate	Synonym	introduce
+super	Synonym	first-rate
+The sky	HasProperty	blue during the day
+file transfer protocol	HasContext	computer science
+watching football	CausesDesire	play football
+a company	CapableOf	market a new product
+a sale	AtLocation	a store
+gun	RelatedTo	trigger
+The clouds	IsA	water vapor
+cloud	RelatedTo	rain
+walking	Causes	moving
+bone	RelatedTo	body
+member	RelatedTo	group
+pretend	HasPrerequisite	have a good imagination
+kill someone	HasSubevent	commit a crime
+relaxing	HasSubevent	falling asleep
+software	CreatedBy	programmer
+a museum	AtLocation	a city
+A hole	ReceivesAction	filled with air
+paintings	AtLocation	a museum
+lighting a fire	Causes	a house to burn down
+attending a classical concert	Causes	falling asleep
+employees	AtLocation	a company
+climb	HasSubevent	falling
+current	RelatedTo	movement
+compete	MotivatedByGoal	win
+jump rope	HasPrerequisite	go outside
+price	RelatedTo	money
+something old	AtLocation	a museum
+sending e-mail	Causes	communication
+dance	RelatedTo	moving
+shop	HasPrerequisite	have money
+A circle	HasProperty	round
+eurocurrency	HasContext	finance
+flossy	Synonym	downlike
+have friends over	MotivatedByGoal	their company
+cloth	UsedFor	clean
+transport	RelatedTo	moving
+Music	CapableOf	sound good
+reading the newspaper	HasSubevent	you learn
+go to jail	HasPrerequisite	commit a crime
+wood	IsA	a material
+computers	AtLocation	the office
+taking a bath	HasSubevent	relaxation
+a show	UsedFor	entertainment
+paint	UsedFor	painting
+people	CapableOf	catch fish
+a movie	UsedFor	learn
+Soccer	IsA	a team sport
+listening to music	UsedFor	entertainment
+a sky	UsedFor	flying in
+listening to music	Causes	relaxation
+viewing a painting	CausesDesire	express yourself
+mail a letter	MotivatedByGoal	communicate
+blue	RelatedTo	azure
+driving	Causes	moving
+puffy	SimilarTo	large
+money	AtLocation	a pocket
+programs	AtLocation	television
+square	RelatedTo	shape
+attack	MannerOf	affect
+artless	RelatedTo	natural
+cloud	RelatedTo	fluff
+sky	RelatedTo	blue
+Clouds	IsA	usually in the sky
+wash	RelatedTo	clothes
+TV	IsA	an abbreviation for television
+celebrity	IsA	important person
+using a VCR	HasPrerequisite	A TV
+card	RelatedTo	playing
+fiber	Synonym	roughage
+profit	RelatedTo	making
+programing	Synonym	programming
+baby	RelatedTo	new
+Sailing	IsA	a sport
+science	RelatedTo	study
+valley of death	RelatedTo	startup
+iconography	IsA	ikon
+blue	RelatedTo	red
+rumple	Synonym	ruffle
+city	HasContext	uk
+an office	AtLocation	a office building
+robot	IsA	one type of a machine
+handle proposals	MotivatedByGoal	it is your job
+entanglement	Synonym	web
+inundation	RelatedTo	flooding
+raveling	IsA	fiber
+entertaining someone	HasSubevent	talk with a dummy
+grass	RelatedTo	plant
+automatic	Synonym	reflexive
+city	RelatedTo	town
+wool	RelatedTo	making
+Velet	UsedFor	make clothes
+routine	IsA	software
+a store	AtLocation	a town
+river	RelatedTo	water
+art	RelatedTo	expression
+Christmas shop	HasPrerequisite	get some money
+machine	RelatedTo	robot
+seeing a movie	HasSubevent	falling asleep
+organization	RelatedTo	company
+crowd	RelatedTo	large
+going fishing	HasSubevent	catching a fish
+bait	UsedFor	catch fish
+film	RelatedTo	ikon
+buy fresh fruits and vegetables	HasPrerequisite	get money
+music	RelatedTo	notes
+bread	AtLocation	a market
+move	RelatedTo	house
+pretend	HasPrerequisite	imagine
+the Indian Ocean	UsedFor	fishing
+pinedrops	DerivedFrom	drops
+wage	RelatedTo	salary
+association football	RelatedTo	player
+hear the crowd go mad	HasPrerequisite	listen
+a business class airplane seat	UsedFor	a businessperson
+transferred property	IsA	possession
+draw	RelatedTo	making
+a pen	AtLocation	an office
+playing	HasProperty	fun
+Eyes	HasProperty	blue
+playing	UsedFor	socialising
+heroinware	RelatedTo	played
+room	RelatedTo	place
+record	RelatedTo	music
+pledged	SimilarTo	committed
+buying something	HasPrerequisite	spending money
+swim	RelatedTo	movement
+listen	HasSubevent	you hear things
+enjoying the company of your friends	HasSubevent	talk
+chick	RelatedTo	fluffy
+watching a tv show	UsedFor	entertaining
+snow	RelatedTo	white fluffy
+cyberwarfare	RelatedTo	disrupt
+an internet server	CapableOf	stream video
+watching a film	UsedFor	entertainment
+advance into battle	MotivatedByGoal	win
+a sky	UsedFor	...fly a kite
+profit	Antonym	loss
+study	HasSubevent	that you learn things
+run	HasPrerequisite	go outside
+computer science	PartOf	information science
+a store	UsedFor	buying things
+creativity	Synonym	creativeness
+robot	IsA	machine
+listen	MotivatedByGoal	learn
+snug	SimilarTo	comfortable
+go on the stage	MotivatedByGoal	act
+lady	HasContext	uk
+record	RelatedTo	player
+listener	DerivedFrom	listen
+going on a vacation	UsedFor	relaxation
+trigger	Synonym	gun trigger
+buy products	HasPrerequisite	have some money
+game	IsA	contest
+soaking in a hotspring	UsedFor	relaxation
+entertaining people	Causes	laughter
+silk	RelatedTo	soft
+market	RelatedTo	selling
+gentle	RelatedTo	soft
+magnifico	IsA	important person
+fuel oil	IsA	fuel
+puddle	RelatedTo	rain water
+A plant	CapableOf	grow in a garden
+precipitation	IsA	acceleration
+board	RelatedTo	wood
+a doll	UsedFor	play
+a shopping arcade	AtLocation	a town
+melody	IsA	musical perception
+retail	IsA	selling
+water gas	IsA	fuel
+being bored	CausesDesire	play
+playing	UsedFor	relaxing
+plastics	IsA	a material
+buying products	Causes	spend money
+footy	RelatedTo	football
+a textile	UsedFor	make clothes
+machine	IsA	organization
+egg	RelatedTo	product
+liquid	SimilarTo	musical
+a fruit	AtLocation	a market
+natural	SimilarTo	normal
+clouds	AtLocation	the air
+talk	RelatedTo	communication
+round	RelatedTo	circular
+location	Synonym	placement
+nimby	HasContext	uk
+falling	HasSubevent	hitting the ground
+entertain someone	HasPrerequisite	be entertaining
+a group	IsA	a set
+British	Synonym	British people
+buying something	HasSubevent	find a sales clerk
+fight	RelatedTo	argument
+capitalist	IsA	conservative
+swimmer	IsA	athlete

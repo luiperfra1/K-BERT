@@ -1,0 +1,2975 @@
+rent	Synonym	rip
+work	RelatedTo	labor
+evening	RelatedTo	early
+offer	RelatedTo	make
+Stealing	HasProperty	bad
+clear	RelatedTo	transparent
+sight	RelatedTo	sense
+electrical	RelatedTo	electricity
+future date	IsA	date
+give assistance	HasSubevent	help
+acquisition	Synonym	learning
+ears	PartOf	a head
+safe	RelatedTo	box
+early	Synonym	betimes
+hearing singing	HasPrerequisite	ears
+decide	RelatedTo	make
+the internet	CapableOf	stream video
+current	RelatedTo	river
+http	IsA	xmlhttp
+drink	RelatedTo	glass
+better	RelatedTo	good
+a baseball	AtLocation	a park
+pm	FormOf	p.m
+bank	RelatedTo	tellers
+Life	UsedFor	living
+cut	RelatedTo	action
+buy food	HasPrerequisite	have money
+thunder	RelatedTo	loud
+Baseball	IsA	a game
+vibration	Synonym	vibe
+breathing	HasPrerequisite	air
+spending money	HasPrerequisite	having money
+strong	RelatedTo	strength
+n	HasContext	grammar
+calculation	RelatedTo	calculate
+find	RelatedTo	discover
+club	RelatedTo	organization
+writer's name	IsA	name
+singing	Causes	something heard
+simple	HasContext	botany
+my	DistinctFrom	our
+flow	Synonym	run
+christian name	Synonym	forename
+climb	RelatedTo	go
+night	RelatedTo	dark
+step	RelatedTo	foot
+butter	IsA	a food
+company	RelatedTo	work
+northampton	RelatedTo	usa
+fossorial foot	IsA	animal foot
+ratchet down	Synonym	ratchet
+value	RelatedTo	worth
+corporation	RelatedTo	business
+soft	Synonym	easy
+tin	RelatedTo	element
+unattached	Synonym	free-swimming
+webfoot	IsA	animal foot
+post meridiem	Synonym	P.M.
+freddy	RelatedTo	given name
+battlemented	SimilarTo	fancy
+a glass	UsedFor	seeing through
+clothes	AtLocation	a store
+palaver	Synonym	chatter
+put	RelatedTo	place
+rent	RelatedTo	payment
+vince	RelatedTo	given name
+gone	Synonym	done for
+going to market	Causes	buying things
+anger	MannerOf	feel
+work	MotivatedByGoal	you need money
+Bulgarian monetary unit	IsA	monetary unit
+hunted person	IsA	victim
+Uzbekistani monetary unit	IsA	monetary unit
+shopping	HasSubevent	buying goods
+private wiki	RelatedTo	website
+best	RelatedTo	good
+writing	RelatedTo	hand
+smooth	RelatedTo	slippery
+house	RelatedTo	living
+lips	UsedFor	communicate
+postage stamp	RelatedTo	philately
+squaretoes	DerivedFrom	toes
+active	SimilarTo	going
+safe	RelatedTo	combination
+slapshot	PartOf	ice hockey
+sunday name	RelatedTo	christian name
+Metal	IsA	music
+Baseball	IsA	an american pastime
+binary	SimilarTo	multiple
+field	RelatedTo	open
+great	RelatedTo	good
+Glass	HasProperty	recyclable
+hood	Synonym	th
+bowling	IsA	a sport
+a foot	AtLocation	a shoe
+lawfully-begotten	SimilarTo	legitimate
+wind	RelatedTo	movement
+metal	RelatedTo	material
+simple	Synonym	uncomplicated
+unprocurable	Synonym	unobtainable
+Paraguayan monetary unit	IsA	monetary unit
+chord	RelatedTo	music
+glass	RelatedTo	windows
+drop	RelatedTo	go
+xmlhttp	RelatedTo	html
+understand	HasPrerequisite	think
+webbed feet	FormOf	webbed foot
+7-Up	IsA	a soda
+answer questions	HasPrerequisite	think
+going to the mall	UsedFor	buying things
+vault	RelatedTo	bank
+stabbing to death	Causes	death
+take one's lumps	MannerOf	pay
+cognition	RelatedTo	cognizant
+play chess	HasSubevent	thinking
+hearable	Synonym	audible
+dog	Synonym	pawl
+evening	RelatedTo	time
+bridge	RelatedTo	river
+rabbit	RelatedTo	ears
+arm	RelatedTo	hand
+earning a living	Causes	making money
+economic rent	IsA	return
+web-footed	SimilarTo	footed
+committedness	DerivedFrom	committed
+vibration	Synonym	oscillation
+fancy-free	SimilarTo	uncommitted
+tremor	IsA	vibration
+hand	RelatedTo	finger
+pettitoes	DerivedFrom	toes
+feel	RelatedTo	sense
+history	RelatedTo	events
+absolute	SimilarTo	infinite
+toe	PartOf	foot
+angle bracket	RelatedTo	html
+safe	SimilarTo	fail-safe
+tin	RelatedTo	container
+free	SimilarTo	clear
+epistolatory	SimilarTo	informal
+a carpet	AtLocation	a house
+Th	Synonym	Thursday
+coin	RelatedTo	currency
+accounting data	IsA	data
+gainfulness	DerivedFrom	gainful
+absorb	MannerOf	fund
+house	RelatedTo	home
+mind	RelatedTo	thinking
+market	RelatedTo	place
+audile	Synonym	auditory
+Soda	IsA	carbonated
+rococo	SimilarTo	fancy
+XML	IsA	a markup language
+first name	Synonym	given name
+Contract	IsA	an agreement enforceable at law
+exocentric	HasContext	grammar
+campsite	IsA	site
+Sex	HasProperty	good
+lightness	IsA	value
+transparency	RelatedTo	transparent
+dying	Causes	a change of color
+river	AtLocation	a waterfall
+riding a bicycle	UsedFor	Sport
+xpointer	HasContext	xml
+reduce	RelatedTo	make
+Your hands	CapableOf	cup my face
+learning about the world	HasPrerequisite	senses
+a satellite	AtLocation	orbit
+audio	IsA	frequency
+feepaying	DerivedFrom	paying
+feather one's nest	RelatedTo	financial
+air	RelatedTo	atmosphere
+living	Causes	death
+xmlhttp	HasContext	internet
+west germanic	HasContext	linguistics
+Sound	IsA	vibrations in the air
+twenty one	RelatedTo	twenty
+fund	MannerOf	supply
+an arm	UsedFor	wave
+difficult	RelatedTo	hard
+locate	Synonym	situate
+month	RelatedTo	time
+glass	RelatedTo	clear
+leverage	IsA	advantage
+a captain	AtLocation	a ship
+home	RelatedTo	building
+a salad	IsA	food
+shirl	RelatedTo	shirley
+An abelian group	IsA	a group
+ocean	RelatedTo	water
+express yourself	HasPrerequisite	be artistic
+touch	RelatedTo	skin
+a sale	AtLocation	K-Mart
+A baseball	HasProperty	round
+name	RelatedTo	nomenclature
+gone	Synonym	played out
+pull	RelatedTo	action
+glass	CapableOf	break easily
+first name	IsA	name
+buy it	RelatedTo	believe
+error correction code	IsA	code
+nest	RelatedTo	house
+organization	RelatedTo	group
+leverage	IsA	mechanical phenomenon
+firm	SimilarTo	settled
+time	RelatedTo	watch
+vincentization	DerivedFrom	vincent
+sickle cell anaemia	HasContext	british
+gilbertian	RelatedTo	librettist
+reachable	SimilarTo	accessible
+salt	AtLocation	ocean
+waggish	RelatedTo	tricky
+interior	Antonym	exterior
+investment	IsA	promotion
+glass	RelatedTo	material
+writing	RelatedTo	action
+polish	RelatedTo	make
+ears	CapableOf	sense sound
+a person	Desires	life
+grid	Synonym	storage-battery grid
+captain	RelatedTo	ship
+finger	RelatedTo	digit
+English	IsA	humanistic discipline
+fund	Entails	finance
+asking for it	RelatedTo	ask for it
+chopping firewood	UsedFor	making some money
+floating	SimilarTo	afloat
+habitational	RelatedTo	habitation
+st	SimilarTo	th
+Alabama	IsA	South
+a name	UsedFor	identification
+wind	RelatedTo	air
+Music	IsA	sound
+floating	SimilarTo	uncommitted
+the Moon	UsedFor	keeping track of time
+sessionless	HasContext	networking
+call	RelatedTo	action
+carey	RelatedTo	habitational
+accessible	SimilarTo	approachable
+thinking	Causes	ideas
+GB	Synonym	Great Britain
+th	Synonym	ability
+boat	RelatedTo	floating
+remunerative	RelatedTo	financial
+day	RelatedTo	sun
+hand	RelatedTo	appendage
+a pub	AtLocation	Great Britain
+untouchable	Synonym	unobtainable
+baseball	IsA	a sport
+rent	RelatedTo	lease
+language	RelatedTo	english
+radiolocate	MannerOf	situate
+a fingerprint	AtLocation	your finger
+cross check	HasContext	ice hockey
+accessible	RelatedTo	convenient
+safe	RelatedTo	lock
+mist	RelatedTo	water
+audio	PartOf	television
+sound	RelatedTo	waves
+late	DistinctFrom	early
+stairs	AtLocation	a building
+steel	RelatedTo	metal
+tableau	IsA	arrangement
+vinny	RelatedTo	vincent
+http 2	HasContext	networking
+arachnoid	Synonym	arachnid
+yeoman's service	RelatedTo	committed
+Thor	HasContext	Norse mythology
+unstuff	MannerOf	free
+thunder	RelatedTo	noise
+twain	RelatedTo	api
+wave	RelatedTo	goodbye
+pain	IsA	sensation
+storage	IsA	commercial enterprise
+table	RelatedTo	four
+buy a shirt	HasPrerequisite	have your money
+language	RelatedTo	spoken
+financial	Synonym	fiscal
+workday	IsA	weekday
+night	RelatedTo	time
+a human	AtLocation	an apartment
+paid	Synonym	gainful
+Marston Moor	PartOf	England
+a river	UsedFor	fishing
+web	RelatedTo	internet
+operation	HasContext	commercial enterprise
+web footed gecko	DerivedFrom	web footed
+beginning work	UsedFor	making money
+A jug	IsA	a container
+safe and sound	SimilarTo	safe
+dolphins	AtLocation	the ocean
+aluminum	IsA	a material
+always	RelatedTo	time
+Avon	PartOf	England
+Solway Firth	PartOf	Great Britain
+toes	RelatedTo	toe
+an underground map	AtLocation	London
+mortal	RelatedTo	earthly
+get	RelatedTo	acquire
+glass	RelatedTo	drinking
+shop	MotivatedByGoal	buy something
+now	Synonym	straight off
+rip	Synonym	rend
+night	Antonym	day
+detected	SimilarTo	heard
+a submarine	IsA	ship
+listening to music	HasPrerequisite	an ear
+date	RelatedTo	day
+payment	RelatedTo	money
+the Earth	AtLocation	the solar system
+launching site	IsA	site
+permit	RelatedTo	license
+talk to someone	HasPrerequisite	think
+gain more land	HasPrerequisite	buy it
+fellow	RelatedTo	good
+xml path language	RelatedTo	xml
+glass	RelatedTo	see
+buy something	HasLastSubevent	pay for it
+London	IsA	a city in England
+a cash register	AtLocation	a store
+evening	RelatedTo	night
+stalactite	IsA	cylinder
+black widow	IsA	spider
+fine	RelatedTo	good
+news	RelatedTo	daily
+going to the mall	HasSubevent	buying things
+fancy	SimilarTo	crackle
+buy something small	HasPrerequisite	have money
+buying products	Causes	spend money
+finding information	UsedFor	research
+twenty	IsA	large integer
+humorous	SimilarTo	waggish
+perceptible	RelatedTo	audible
+hair	UsedFor	express yourself
+mole	RelatedTo	skin
+misters	RelatedTo	mister
+couldn’t	Synonym	could
+xmlhttp	RelatedTo	http
+go to market	HasPrerequisite	have money
+comprehensible	SimilarTo	approachable
+communicate	HasPrerequisite	speak
+current	RelatedTo	now
+energy	RelatedTo	electricity
+article	HasContext	grammar
+domestic	RelatedTo	national
+sound	RelatedTo	audio
+go on a vacation	HasSubevent	you spend money
+game	RelatedTo	baseball
+a airplane	AtLocation	the air
+paper	RelatedTo	write
+electrode	PartOf	electrolytic cell
+pawl	PartOf	ratchet
+sleep	RelatedTo	night
+deal	RelatedTo	bargain
+calendar	MannerOf	schedule
+express yourself	HasLastSubevent	stop talking
+drop	RelatedTo	let
+a schedule	AtLocation	a train station
+corn	RelatedTo	food
+vocabulary	PartOf	language
+imprint	MannerOf	influence
+current	RelatedTo	waves
+writing a program	HasPrerequisite	thinking
+home	RelatedTo	living
+Late Latin	IsA	Latin
+sound	RelatedTo	sense
+go for	Synonym	fancy
+river	RelatedTo	stream
+whales	AtLocation	the ocean
+a noise	UsedFor	getting attention
+current	RelatedTo	electric
+Low German	IsA	West Germanic
+ears	FormOf	ear
+api	RelatedTo	tibet
+committee	RelatedTo	group
+plain	DistinctFrom	fancy
+well point	IsA	tube
+pay	RelatedTo	money
+thorium	RelatedTo	thorotrast
+collector	IsA	electrode
+vince	RelatedTo	vincent
+ludicrous	Synonym	laughable
+soda	Synonym	sodium carbonate
+flyaway	DerivedFrom	away
+cool off	MotivatedByGoal	be comfortable
+shopping	CausesDesire	spend money
+organization	RelatedTo	people
+necro	HasContext	internet
+ludicrous	SimilarTo	humorous
+printing on the printer	Causes	noise
+quality	RelatedTo	good
+early	HasContext	linguistics
+Severe pain	CausesDesire	die
+maneuver	Synonym	manoeuver
+xmlhttp	RelatedTo	data
+unbroken	HasContext	contract
+Spanish	IsA	language
+undecided	Synonym	undetermined
+Signora	IsA	title
+foot	RelatedTo	appendage
+liaison	RelatedTo	liaise
+bank	RelatedTo	storage
+swimming	IsA	a sport
+business firm	Synonym	firm
+cyberbully	RelatedTo	online
+jack tar	HasContext	british
+api	RelatedTo	mountain
+cut	RelatedTo	skin
+celestial orbit	Synonym	orbit
+twenty	Synonym	20
+bank	RelatedTo	store money
+excuse	RelatedTo	substandard
+paying	Synonym	gainful
+glass	RelatedTo	see through
+going into a coma	Causes	death
+shock	RelatedTo	electrical
+die	HasSubevent	you stop living
+rent	RelatedTo	house
+food	AtLocation	the refrigerator
+move	RelatedTo	action
+bat	RelatedTo	night
+surname	Synonym	family name
+spend money	HasSubevent	you could go broke
+difficult	SimilarTo	serious
+hulk	IsA	ship
+data	IsA	collection
+coil	IsA	tube
+thinking	UsedFor	deducing
+A planet	IsA	a large object
+a sale	AtLocation	department store
+web-toed	Synonym	web-footed
+letter	RelatedTo	sent
+wound	RelatedTo	open
+Elections	IsA	events
+a bathroom	AtLocation	a house
+contemplate	HasSubevent	think
+French	IsA	a language
+think	HasPrerequisite	think
+A glass	ReceivesAction	broken
+touch	RelatedTo	feeling
+painting a picture	UsedFor	making money
+compensable	Synonym	remunerative
+Indonesian monetary unit	IsA	monetary unit
+wallet	RelatedTo	storing money
+purchase	Synonym	leverage
+account	RelatedTo	money storage
+west germanic	RelatedTo	east germanic
+electrical	Synonym	electric
+ring	AtLocation	your finger
+company	RelatedTo	firm
+communicate	HasPrerequisite	talk with people
+a paper bill	UsedFor	buying things
+represent	MannerOf	serve
+substandard	RelatedTo	minimum
+camp	RelatedTo	place
+buy	Antonym	sell
+bordered	RelatedTo	finite
+rich	RelatedTo	having money
+straw	IsA	tube
+flyaway	RelatedTo	bar
+church	RelatedTo	building
+silty	SimilarTo	loose
+check	PartOf	ice hockey
+standard	HasContext	linguistics
+click	MannerOf	pronounce
+easy	DistinctFrom	difficult
+gone	SimilarTo	unavailable
+clear	RelatedTo	through
+shade	RelatedTo	sun
+a calendar	UsedFor	keeping track of time
+high street	HasContext	british
+IBM	IsA	a company
+legitimate	SimilarTo	rightful
+eye	RelatedTo	see
+locker	RelatedTo	storage
+bank	RelatedTo	store
+tellers	RelatedTo	teller
+wiki	IsA	website
+jocose	Synonym	jesting
+the ocean	UsedFor	sailing
+sneeze	RelatedTo	noise
+masthead	IsA	title
+flyaway	RelatedTo	frivolous
+help someone	HasSubevent	you feel good
+cigarette holder	IsA	tube
+infinite	Antonym	limited
+a stored item	AtLocation	a container
+log	HasContext	ship
+southampton county	DerivedFrom	southampton
+walk	RelatedTo	movement
+a bedroom	AtLocation	an apartment
+life	AtLocation	earth
+volt	RelatedTo	electricity
+A foot	IsA	a unit of measurement
+grave	RelatedTo	place
+power grid	Synonym	grid
+express yourself	HasPrerequisite	talk
+touch	RelatedTo	senses
+an ear	AtLocation	a person's head
+bed	RelatedTo	four
+science	RelatedTo	subject
+double digit	IsA	integer
+click	Synonym	pawl
+smoke	RelatedTo	air
+remunerativeness	RelatedTo	remunerative
+transmission control protocol	IsA	protocol
+suspense account	IsA	account
+assist	IsA	maneuver
+consider	RelatedTo	think
+hide	RelatedTo	skin
+wave	RelatedTo	beach
+people	AtLocation	an apartment
+fish	RelatedTo	ocean
+ingratitude	IsA	feeling
+date	MannerOf	stamp
+a table	AtLocation	a conference
+pornography	AtLocation	the internet
+soup	AtLocation	a container
+a landlord	AtLocation	an apartment
+finite	RelatedTo	mortal
+two	IsA	a number
+Fingers	HasA	bones
+free	SimilarTo	uncommitted
+Low Latin	IsA	Latin
+photoelectricity	IsA	electricity
+knives	AtLocation	a store
+finite	Antonym	infinite
+given name	Synonym	forename
+holmes	RelatedTo	habitational
+remunerative	RelatedTo	compensation
+have friends over	MotivatedByGoal	their company
+a lamp	AtLocation	your house
+icon	HasContext	computer science
+music	RelatedTo	art
+liaising	RelatedTo	liaise
+day	RelatedTo	time
+see	RelatedTo	look
+middleman	Synonym	contact
+account	RelatedTo	bank
+family	RelatedTo	group
+toys	AtLocation	a store
+the sun	AtLocation	the universe
+krooni	RelatedTo	kroon
+encapsulate	HasContext	networking
+temporary hookup	IsA	connection
+spells	FormOf	spell
+Mars	IsA	a planet
+cylinder	PartOf	compressor
+limpid	Synonym	transparent
+nettie	RelatedTo	given name
+week	RelatedTo	time
+Swaziland monetary unit	IsA	monetary unit
+budget	IsA	fund
+assist	MannerOf	work
+cent	RelatedTo	currency
+thunder	IsA	the noise
+sun	CapableOf	shine brightly
+a corner shop	UsedFor	buying things
+find	RelatedTo	locate
+excellent	RelatedTo	good
+promotion	IsA	encouragement
+a supermarket	UsedFor	shopping
+hear	RelatedTo	sense
+windows	AtLocation	a house
+writing	HasSubevent	thinking
+economic rent	HasContext	economics
+spend money	HasPrerequisite	have money
+carry	MannerOf	obtain
+representative	SimilarTo	typical
+base station	HasContext	networking
+buy Christmas presents	HasSubevent	spend money
+word	Synonym	news
+A hand	CapableOf	cup a breast
+easy	SimilarTo	smooth
+fingers	CapableOf	press computer keys
+fuck	HasPrerequisite	have money
+literary study	IsA	humanistic discipline
+Bones	HasProperty	hard
+look	RelatedTo	see
+humorous	SimilarTo	ludicrous
+account	RelatedTo	money
+win	Synonym	acquire
+a star	IsA	a sun
+ear	RelatedTo	body part
+New technology	CapableOf	stream video
+tax	RelatedTo	pay
+corps	FormOf	corp
+corp	Synonym	corporation
+Uranus	IsA	a planet
+cobol	RelatedTo	business
+strength	Synonym	intensity
+xaml	RelatedTo	html
+chameleon schema	RelatedTo	xml
+crackle	SimilarTo	fancy
+a voice	HasProperty	loud
+answering questions	HasSubevent	Think
+make	RelatedTo	create
+pinpoint	MannerOf	locate
+cash in	HasPrerequisite	sell something
+South African monetary unit	IsA	monetary unit
+river	AtLocation	a bridge
+flyaway	RelatedTo	style
+confirmation hearing	IsA	hearing
+unavailable	SimilarTo	gone
+air	RelatedTo	gas
+impermanent	SimilarTo	finite
+Sinology	IsA	humanistic discipline
+title	IsA	heading
+present	RelatedTo	time
+data	DefinedAs	plural of datum
+Lombard Street	PartOf	London
+a subway station	AtLocation	London
+o	HasContext	archaic
+day	RelatedTo	hours
+buying a shirt	HasPrerequisite	money
+inferior	Synonym	substandard
+toes	FormOf	toe
+dupe	Synonym	victim
+buy something	HasPrerequisite	go to a store
+northern	HasContext	british
+gilbertian	RelatedTo	comic
+couldn't	DistinctFrom	could
+informal	SimilarTo	nonliterary
+hand	RelatedTo	fingers
+conference	IsA	discussion
+account	RelatedTo	checking
+protect	RelatedTo	safe
+Prime Minister	Synonym	PM
+an office	UsedFor	work
+voice	RelatedTo	noise
+apathy	IsA	feeling
+dollar	RelatedTo	value
+html5	IsA	html
+porn	AtLocation	the Internet
+food	AtLocation	a table
+metal	RelatedTo	aluminum
+billpaying	DerivedFrom	paying
+thin	SimilarTo	see-through
+rain	RelatedTo	water
+unattached	SimilarTo	unpromised
+buy	RelatedTo	purchase
+subframe	RelatedTo	html
+thank you	IsA	thanks
+buy it	MannerOf	die
+punishment	RelatedTo	bad
+profit	RelatedTo	money
+touch	RelatedTo	finger
+inexhaustible	SimilarTo	infinite
+face-off	HasContext	ice hockey
+Gilbertian	SimilarTo	humorous
+retroflex	MannerOf	pronounce
+sent	IsA	Estonian monetary unit
+hurdle	MannerOf	vault
+an ocean	AtLocation	the earth
+osity	Synonym	th
+noise	IsA	sound
+distributor point	IsA	contact
+read a book	HasPrerequisite	open it
+auditory	Synonym	otic
+linguistic performance	HasContext	linguistics
+committed	SimilarTo	pledged
+A city	IsA	a place
+cocoa	RelatedTo	api
+corn	RelatedTo	ear
+gainful	RelatedTo	contrary
+An Internet	IsA	a network of communicating computers
+plant	RelatedTo	living
+go to get a haircut	HasPrerequisite	have money
+simple	SimilarTo	orbiculate
+webbing	IsA	web
+tragicomical	SimilarTo	humorous
+uncommitted	SimilarTo	undecided
+window	RelatedTo	clear
+gauze-like	Synonym	see-through
+a theatre	UsedFor	events
+foot	RelatedTo	leg
+might	IsA	strength
+metal	RelatedTo	tin
+see through	MannerOf	complete
+hypertext transfer protocol	IsA	protocol
+a tin	UsedFor	hold cookies
+hear	MannerOf	pick up
+kick the bucket	Synonym	die
+a pub	AtLocation	England
+safe	SimilarTo	unadventurous
+computer	UsedFor	calculate
+rain	IsA	water
+spider	IsA	arachnid
+think	HasPrerequisite	use your brains
+ante meridiem	Antonym	post meridiem
+sale	RelatedTo	discount
+asks for it	FormOf	ask for it
+kroons	FormOf	kroon
+senti	EtymologicallyRelatedTo	sentimental
+a glass	UsedFor	holding liquid
+wood	RelatedTo	building
+water flow	FormOf	waterflow
+can	RelatedTo	metal
+topicalization	HasContext	linguistics
+earthworm	RelatedTo	our planet
+buy something	HasPrerequisite	pay
+heard	SimilarTo	detected
+help	RelatedTo	assist
+a check	UsedFor	pay
+finger	RelatedTo	appendage
+a computer	AtLocation	a building
+time	RelatedTo	hours
+Pittsburgh of the South	Synonym	Birmingham
+giving assistance	Causes	to help someone
+needled	SimilarTo	simple
+Mercury	IsA	the planet
+a window	AtLocation	a building
+music	RelatedTo	notes
+software	IsA	code
+Swedish monetary unit	IsA	monetary unit
+sincerity	Synonym	seriousness
+jhove	RelatedTo	api
+map	MannerOf	situate
+bad	Synonym	substandard
+math	IsA	a subject
+merciless	SimilarTo	mortal
+hunger	IsA	sensation
+century	RelatedTo	time
+schwendeman	RelatedTo	habitational
+commit suicide	HasSubevent	die
+drive	RelatedTo	movement
+Christian name	IsA	first name
+leg	RelatedTo	toes
+stack	RelatedTo	web server
+sdch	RelatedTo	http
+periapsis	PartOf	orbit
+a five and dime	UsedFor	buying things
+importance	IsA	value
+vincent	RelatedTo	victim
+sound	RelatedTo	ear
+kick bucket	Synonym	buy farm
+Wrote	HasProperty	past tense for writing
+bone	RelatedTo	hard
+wagsome	RelatedTo	waggish
+wax	RelatedTo	ears
+informal	SimilarTo	epistolatory
+a rented flat	AtLocation	England
+given name	RelatedTo	forename
+app wrapper	RelatedTo	website
+believe	RelatedTo	faith
+fire sale	IsA	sale
+post	RelatedTo	http
+a business	UsedFor	making money
+day	Antonym	night
+clear	Synonym	exculpated
+space debris/	AtLocation	orbit
+the English Channel	AtLocation	England
+bank	RelatedTo	place
+competing against someone	HasSubevent	you loose
+magnetic core	HasContext	computer science
+metal	RelatedTo	iron
+uncomplicated	FormOf	uncomplicate
+a left ear	IsA	ear
+mortal	RelatedTo	finite
+vindicated	Synonym	exculpated
+think	MotivatedByGoal	you have to make a decision
+weather	RelatedTo	sun
+session	IsA	conference
+door	RelatedTo	open
+bat	RelatedTo	animal
+payment	RelatedTo	paying
+audio	IsA	auditory communication
+one	RelatedTo	number
+mobile	SimilarTo	floating
+Eurocurrency	IsA	currency
+West Sussex	PartOf	England
+chicken	RelatedTo	food
+Geometry	IsA	a subject
+going	Synonym	departure
+Badminton	IsA	a sport
+could	FormOf	can
+past	RelatedTo	gone
+climb	RelatedTo	movement
+tadoma	RelatedTo	tactile
+could've	DerivedFrom	could
+glass	RelatedTo	transparent
+load bearing	RelatedTo	able
+structure	IsA	cognition
+liase	FormOf	liaise
+grocery shop	HasPrerequisite	have money
+buy	RelatedTo	money
+car	RelatedTo	four
+economic rents	FormOf	economic rent
+cargo	AtLocation	a ship
+pay	RelatedTo	check
+company	RelatedTo	group
+Steel	HasProperty	hard
+click	Synonym	chatter
+compound	MannerOf	account
+feet	DistinctFrom	hands
+a planet	AtLocation	outer space
+Toes	ReceivesAction	attached to feet
+wound	RelatedTo	skin
+https	IsA	http
+language	RelatedTo	spanish
+taste	IsA	sensation
+flyaway grass	DerivedFrom	flyaway
+money	AtLocation	a pocket
+fancy that	DerivedFrom	fancy
+time	RelatedTo	clock
+steel	RelatedTo	hard
+easy	SimilarTo	available
+cunningham	RelatedTo	habitational
+gone	HasContext	archaic
+believe	RelatedTo	trust
+link	Synonym	connection
+exonerated	Synonym	exculpated
+thinking	UsedFor	solving
+Water	CapableOf	flow
+tellers	FormOf	teller
+spend money	HasPrerequisite	go to a store
+metal	RelatedTo	steel
+easy	DistinctFrom	hard
+uncommitted	SimilarTo	fancy-free
+A suicidal person	Desires	die
+dance	RelatedTo	movement
+savings	IsA	fund
+post meridiem	RelatedTo	noon
+webfoot	RelatedTo	animal
+animal foot	IsA	vertebrate foot
+operating system	IsA	software
+heard county	DerivedFrom	heard
+employ	RelatedTo	give
+a bank	UsedFor	storing money
+transparent	Synonym	guileless
+rightful	SimilarTo	legitimate
+a number	AtLocation	a phone book
+five	RelatedTo	four
+paying	DefinedAs	act of giving pay
+am	FormOf	a.m
+gullible	RelatedTo	dupe
+kick bucket	Synonym	die
+liaises	RelatedTo	liaise
+express yourself	HasPrerequisite	make a collage
+a person	Desires	help
+Computer Science	IsA	science
+fighting the enemy	HasSubevent	death
+th	RelatedTo	natural number
+bought it	FormOf	buy it
+xmlhttp	RelatedTo	api
+uncommitted	SimilarTo	free
+price	RelatedTo	money
+jeans	AtLocation	a store
+beggars can't be choosers	RelatedTo	substandard
+vault	AtLocation	a bank
+wave	RelatedTo	water flow
+touch	RelatedTo	sense
+Sprite	IsA	a soda
+contract	MannerOf	shrink
+hand	RelatedTo	limb
+Fingers	ReceivesAction	used when gesturing
+loud	SimilarTo	harsh-voiced
+a store	UsedFor	buying things
+unconnected	SimilarTo	unattached
+inaccessible	Synonym	unobtainable
+kroon	RelatedTo	currency
+through	Synonym	through with
+president	RelatedTo	head of state
+write	HasPrerequisite	get a pen and some paper
+playing a harp	HasPrerequisite	hands
+sempiternal	SimilarTo	infinite
+opening a business	UsedFor	making money
+buy	RelatedTo	purchase something
+acquire	Synonym	attain
+provide	RelatedTo	give
+Equestrian	IsA	a sport
+a noise	UsedFor	distract others
+an astronaut	AtLocation	orbit
+a clock	UsedFor	keeping track of time
+steam	RelatedTo	water
+change	RelatedTo	loose
+surfing	HasPrerequisite	waves
+gainful	RelatedTo	advantage
+well i never	Synonym	fancy that
+The universe	HasProperty	infinite
+A day	IsA	24 hours long
+lifer	DerivedFrom	life
+baseball	IsA	a game people play
+die	HasPrerequisite	live
+planet	HasContext	astronomy
+your family	AtLocation	your house
+nails	AtLocation	a store
+shopping	Causes	spending your money
+a watch	UsedFor	keeping track of time
+p.m	Antonym	a.m
+gainfulness	RelatedTo	gainful
+ear	RelatedTo	hearing organ
+promote	RelatedTo	remunerative
+easy	SimilarTo	uncomplicated
+shoe	RelatedTo	foot
+baptismal name	Synonym	Christian name
+a website	AtLocation	the internet
+observe	RelatedTo	see
+sledding	Synonym	going
+hearing	IsA	opportunity
+shirley	RelatedTo	southampton
+acquire	Synonym	learn
+population	IsA	integer
+window	RelatedTo	see through
+payment	RelatedTo	bills
+post meridiem	Antonym	ante meridiem
+wave	RelatedTo	greeting
+ear	RelatedTo	body
+pig	RelatedTo	animal
+feed	RelatedTo	give
+express yourself	HasPrerequisite	speak clearly
+a sky	AtLocation	a planet
+Thursday	IsA	weekday
+online	SimilarTo	current
+metal	RelatedTo	hard
+unaccepted	SimilarTo	nonstandard
+dark	RelatedTo	night
+trouble	RelatedTo	bad
+rent	RelatedTo	landlord
+hand	RelatedTo	glove
+river	RelatedTo	water
+tactile	Synonym	haptic
+name	RelatedTo	person
+metal	RelatedTo	element
+high-level formatting	HasContext	computer science
+a mast	UsedFor	a ship
+vincent	RelatedTo	dupe
+go to the mall	HasSubevent	buy something
+nonstandard	HasContext	linguistics
+fumblefingers	DerivedFrom	fingers
+can	RelatedTo	food
+rent	RelatedTo	apartment
+family name	Synonym	last name
+Zionism	IsA	movement
+information	AtLocation	the Internet
+flow	RelatedTo	movement
+assemblyman	IsA	representative
+buy food	HasSubevent	spend money
+a stranger	UsedFor	meeting
+lead	RelatedTo	metal
+smell	RelatedTo	senses
+code	HasContext	computer science
+kite	MannerOf	obtain
+Occidentalism	IsA	humanistic discipline
+shopping	HasPrerequisite	having money
+surname	Synonym	last name
+grid	IsA	facility
+gone	Synonym	at peace
+Brits	Synonym	British people
+grid	PartOf	tube
+standard generalized markup language	HasContext	computer science
+jump out of a window	HasSubevent	die
+moon	RelatedTo	night
+peel	Synonym	skin
+PM	IsA	head of state
+buys it	FormOf	buy it
+shirley	RelatedTo	london
+A server	CapableOf	stream video
+A call	UsedFor	contact
+science	IsA	a subject
+thackeray	RelatedTo	habitational
+humanistic discipline	IsA	discipline
+touch	RelatedTo	hands
+iron	IsA	a metal
+supersensible	RelatedTo	senses
+webserver	FormOf	web server
+rough	IsA	sensation
+payment	RelatedTo	giving
+morning	Antonym	night
+rice	RelatedTo	food
+living	HasSubevent	dying
+the sun	AtLocation	the center of the solar system
+unpromised	SimilarTo	unattached
+xbl	RelatedTo	xml
+tube	MannerOf	ride
+paint	RelatedTo	can
+a glass	UsedFor	drinking
+night soil	HasContext	archaic
+wrestling	HasPrerequisite	strength
+electricity	RelatedTo	electrical
+buy	RelatedTo	shopping
+waggish	RelatedTo	mischievous
+glass	RelatedTo	sand
+software	CreatedBy	programmer
+a corporation	CapableOf	hold a bank account
+read a book	HasFirstSubevent	open it
+record	RelatedTo	music
+HTML	Synonym	hypertext markup language
+The sun	CapableOf	shine bright
+writing a program	UsedFor	a programmer
+news	RelatedTo	paper
+Federal Home Loan Mortgage Corporation	IsA	corporation
+business	RelatedTo	work
+spend money	MotivatedByGoal	you need the necessities
+shake	RelatedTo	movement
+fair hearing	IsA	hearing
+live	SimilarTo	living
+able	RelatedTo	ability
+a door	AtLocation	an apartment
+Waves	IsA	cycles of density of physical objects
+click	Causes	understand
+playing a harp	HasPrerequisite	fingers
+rub	RelatedTo	action
+bank	RelatedTo	storing money
+talk	RelatedTo	communicate
+news	RelatedTo	current events
+northampton	RelatedTo	massachusetts
+unbound	RelatedTo	free
+detent	Synonym	pawl
+wallet	RelatedTo	money storage
+infinite	Synonym	immeasurable
+⠉ ⠙	RelatedTo	could
+convenient	RelatedTo	expedient
+killing	HasSubevent	you commit a crime
+vinnifer	DerivedFrom	vince
+a machine	UsedFor	work
+date	RelatedTo	calendar
+split	IsA	crack
+web footed	RelatedTo	webfeet
+forenames	RelatedTo	forename
+The Earth	HasA	an atmosphere
+tread	IsA	contact
+calendar	IsA	arrangement
+cashing in	Causes	having money
+shelley	RelatedTo	shirley
+music	RelatedTo	noise
+hand	RelatedTo	arm
+a couch	AtLocation	your house
+ennoblement	IsA	promotion
+playing the piano	Causes	music
+flow	RelatedTo	ebb
+webbed foot	IsA	foot
+literature	RelatedTo	subject
+assist	HasContext	baseball
+wave	RelatedTo	movement
+robbery	RelatedTo	bank
+a company	CapableOf	market a new product
+Openmind	PartOf	the internet
+nondepository financial institution	IsA	financial institution
+supersensuous	RelatedTo	senses
+wikification	RelatedTo	html
+twentieth	DerivedFrom	twenty
+equivalent	IsA	cognition
+servant	RelatedTo	help
+nonnormative	SimilarTo	nonstandard
+touch	RelatedTo	contact
+getting a job	Causes	having money
+bat	RelatedTo	baseball
+British	Synonym	British people
+title	Synonym	style
+glow	IsA	feeling
+ring	RelatedTo	fingers
+smooth	SimilarTo	entire
+mister	IsA	title
+widow	MannerOf	leave
+leveraging	Synonym	leverage
+profit	RelatedTo	business
+deal	RelatedTo	transaction
+wave	RelatedTo	gesture
+soda	IsA	a drink
+sun	RelatedTo	solar
+empathise	Synonym	sympathize
+squeeze	IsA	movement
+nongovernmental organization	IsA	organization
+encouragement	IsA	approval
+difficult	DistinctFrom	easy
+Boy Scouts	IsA	movement
+playing the piano	HasPrerequisite	fingers
+birthday	RelatedTo	date
+electric main	PartOf	grid
+a river	AtLocation	a valley
+get some money from someone	HasPrerequisite	work
+xmlhttp	DerivedFrom	http
+German	IsA	West Germanic
+water	HasProperty	transparent
+gaining more land	UsedFor	investment
+buy presents	HasSubevent	spend money
+scale value	IsA	value
+Sound	CreatedBy	vibration
+quatern	Synonym	four
+bed	RelatedTo	night
+totipotency	IsA	ability
+paper	RelatedTo	wrote
+Electricity	HasProperty	dangerous
+build	RelatedTo	make
+sin	RelatedTo	bad
+rip	RelatedTo	substandard
+a flat	AtLocation	London
+language	RelatedTo	french
+bank	RelatedTo	savings
+buy it	Synonym	kick bucket
+home	RelatedTo	place
+underpayment	IsA	payment
+dog	RelatedTo	four
+northampton	RelatedTo	southampton
+rise	RelatedTo	sun
+last name	Synonym	surname
+glass	RelatedTo	container
+A flask	IsA	a container
+screaming	Synonym	uproarious
+perhaps	Synonym	maybe
+obstruction	IsA	maneuver
+economic rent	RelatedTo	service
+arboretum	IsA	facility
+think	HasPrerequisite	use your brain
+year	RelatedTo	days
+needing money	CausesDesire	work
+coin	RelatedTo	metal
+messrs	FormOf	mr
+rachet	Synonym	ratchet
+godcasting	RelatedTo	audio
+Gravity	IsA	a property of matter
+whole number	Synonym	integer
+a pub	AtLocation	London
+northampton	RelatedTo	northamptonshire
+a present	CapableOf	surprise a child
+xml	RelatedTo	xaml
+go to the store	HasPrerequisite	have some money
+a box	UsedFor	storage
+shirley	RelatedTo	england
+grammar	HasContext	linguistics
+water	AtLocation	a waterfall
+touch	RelatedTo	fingers
+wrote	HasContext	nonstandard
+your brain	UsedFor	thinking
+hand	RelatedTo	five
+going to market	HasSubevent	to buy something
+box	RelatedTo	container
+skiing	UsedFor	sport
+garden	RelatedTo	place
+period	HasContext	ice hockey
+loophole	HasContext	contract
+hindfoot	IsA	animal foot
+flow	RelatedTo	water
+legal	HasContext	sport
+yote	EtymologicallyRelatedTo	wrote
+liaises	FormOf	liaise
+The sun	CapableOf	dry your laundry
+a kitten	AtLocation	an apartment
+council	RelatedTo	group
+kite	AtLocation	the air
+a shoe	AtLocation	a foot
+flyaway cost	DerivedFrom	flyaway
+manufacture	RelatedTo	make
+talking to someone	HasPrerequisite	language
+jms	IsA	api
+web sites	FormOf	web site
+pay the bills	HasPrerequisite	have money
+disqualify	MannerOf	pronounce
+creature	RelatedTo	animal
+capital account	IsA	account
+drink	RelatedTo	action
+couldst	DerivedFrom	could
+easy breezy	RelatedTo	uncomplicated
+word	RelatedTo	language
+Data	IsA	information
+bank	RelatedTo	institution
+http	HasContext	networking
+committed	Synonym	attached
+wallet	RelatedTo	money
+magic circle	RelatedTo	natural number
+great people	CapableOf	battle evil
+pay the bills	HasPrerequisite	having money
+a rented flat	AtLocation	London
+corn	RelatedTo	ears
+protect	RelatedTo	serve
+net	Synonym	web
+humorous	SimilarTo	jesting
+sound	RelatedTo	hearing
+sell off	MannerOf	sell
+programs	AtLocation	a conference
+furniture	AtLocation	a store
+song	RelatedTo	music
+webfoot	RelatedTo	fold
+oilcan	IsA	can
+webroot	RelatedTo	web server
+Having money	CausesDesire	buy something for a loved one
+apache	RelatedTo	web server
+Evil	HasProperty	bad
+people	CapableOf	write programs
+biocode	DerivedFrom	code
+employees	AtLocation	a company
+senti	HasContext	india
+The capital city of England	HasProperty	London
+morning	RelatedTo	early
+laugh	RelatedTo	noise
+unattached	SimilarTo	unconnected
+get	Entails	calculate
+in stock	SimilarTo	available
+cylinder	PartOf	engine block
+grid	IsA	electrode
+fight the enemy	HasSubevent	dying
+mole	RelatedTo	animal
+fingers	FormOf	finger
+a telephone	UsedFor	communicate
+electrode	IsA	conductor
+annum	HasContext	Latin
+tangible	SimilarTo	tactile
+ground	RelatedTo	earth
+accessible	SimilarTo	reachable
+surrender	RelatedTo	give
+liaise	EtymologicallyRelatedTo	ligation
+gainful	SimilarTo	profitable
+profit	RelatedTo	financial
+night	RelatedTo	evening
+stale	SimilarTo	hard
+sky	RelatedTo	air
+four-needled	SimilarTo	simple
+uproarious	SimilarTo	humorous
+track	HasContext	computer science
+reachable	DerivedFrom	reach
+computer science	PartOf	information science
+fancy	SimilarTo	dressy
+glass	RelatedTo	through
+Greek monetary unit	IsA	monetary unit
+sale	RelatedTo	selling
+home	RelatedTo	house
+contact	Synonym	touch
+mercury	RelatedTo	planet
+financial institution	IsA	institution
+gossamer	Synonym	see-through
+postmeridian	SimilarTo	post meridiem
+farcical	Synonym	ludicrous
+a ground floor	AtLocation	a building
+acarine	IsA	arachnid
+flyaways	FormOf	flyaway
+large cap	IsA	corporation
+a.m	RelatedTo	before
+national	Synonym	interior
+cabinets	UsedFor	storage
+transfer earnings	RelatedTo	economic rent
+haptic	RelatedTo	tactile
+remuneratively	DerivedFrom	remunerative
+exculpated	FormOf	exculpate
+crack	IsA	noise
+number	RelatedTo	counting
+playing basketball	UsedFor	sport
+fight war	HasSubevent	dying
+Live	HasLastSubevent	Die
+tactile	SimilarTo	tangible
+hang ten	RelatedTo	toes
+a mast	AtLocation	a ship
+remunerative	SimilarTo	paid
+knavish	RelatedTo	waggish
+work	AtLocation	a desk
+ask for it	RelatedTo	just deserts
+enter	RelatedTo	go
+turn	RelatedTo	go
+a telephone box	AtLocation	London
+contract	PartOf	bridge
+chicken	IsA	food
+farm	RelatedTo	place
+North Korean monetary unit	IsA	monetary unit
+ear	RelatedTo	listen
+write	HasPrerequisite	have paper
+lamp	RelatedTo	web server
+a calendar	AtLocation	your desk
+a planet	AtLocation	the universe
+a board game	UsedFor	making money
+break internet	RelatedTo	web server
+week	RelatedTo	seven days
+able	RelatedTo	can
+southampton	RelatedTo	northampton
+write a letter	HasPrerequisite	have paper
+gainful	DerivedFrom	gain
+sound	RelatedTo	hear
+My ears	CapableOf	hear the noise
+Czech monetary unit	IsA	monetary unit
+profit	RelatedTo	making money
+sun	RelatedTo	star
+authorized	RelatedTo	legitimate
+smell	RelatedTo	sense
+earth	RelatedTo	our planet
+pay the bills	HasPrerequisite	making money
+cogitate	HasPrerequisite	think
+Northamptonshire	PartOf	England
+time	RelatedTo	seconds
+Decatur	PartOf	Alabama
+Th	Synonym	thorium
+dialect geography	IsA	linguistics
+climb	RelatedTo	going
+capital	RelatedTo	london
+servant	RelatedTo	house
+A college	IsA	a place
+case	RelatedTo	container
+Hurting other people	HasProperty	bad
+piss artist	HasContext	british
+infinite	Synonym	multitudinous
+morning	RelatedTo	day
+company	RelatedTo	business
+LET	Synonym	Lashkar-e-Taiba
+float	MannerOf	value
+emotion	IsA	feeling
+permission	Synonym	license
+electron multiplier	IsA	tube
+a cheque book holder	UsedFor	storing money
+seller	RelatedTo	sell
+university	IsA	institution
+night	DistinctFrom	day
+connexion	Synonym	connection
+document object model	RelatedTo	html
+typing	HasPrerequisite	fingers
+kill someone	HasSubevent	commit a crime
+perhaps	RelatedTo	maybe
+given name	Synonym	first name
+cost	RelatedTo	value
+unbound	SimilarTo	free
+Frisian	IsA	West Germanic
+phantom	RelatedTo	heard
+house	RelatedTo	dwelling
+river	RelatedTo	big
+Blackpool	PartOf	England
+silver	RelatedTo	metal
+Water	HasProperty	liquid
+coast	RelatedTo	ocean
+Computers	UsedFor	work
+available	SimilarTo	easy
+portal site	IsA	web site
+birthday	RelatedTo	day
+xhtml	RelatedTo	html
+a bed	IsA	a place
+stop	DistinctFrom	go
+United States President	IsA	head of state
+Steel	IsA	a metal
+foot	RelatedTo	part
+foot	Synonym	animal foot
+last name	Synonym	family name
+shopping	UsedFor	buying things
+quality	RelatedTo	value
+express yourself	HasSubevent	others become aware of your feelings
+web	PartOf	webfoot
+ask for it	RelatedTo	provoke
+a business	AtLocation	an office building
+farm	RelatedTo	animal
+plug-in	IsA	software
+room	RelatedTo	four
+water	AtLocation	the ocean
+the sun	UsedFor	light
+contact	Synonym	liaison
+company	RelatedTo	corporation
+buy something	HasPrerequisite	have money
+due	RelatedTo	date
+paper money	IsA	currency
+EPIC WIN	IsA	EPIC
+Brummagem	Synonym	Birmingham
+jhtml	DerivedFrom	html
+southampton water	RelatedTo	southampton
+premium	IsA	value
+a calendar	AtLocation	an office supply store
+shirley	RelatedTo	birmingham
+Air	IsA	a gas
+court	RelatedTo	place
+joking	Synonym	jesting
+Tanzanian monetary unit	IsA	monetary unit
+bed	RelatedTo	place
+redemption	IsA	purchase
+a shopping mall	UsedFor	buying goods
+get away with a crime	HasFirstSubevent	commit the crime
+protocol	IsA	rule
+castle	RelatedTo	building
+uncommitted	Synonym	unattached
+menagerie	IsA	facility
+Venus	IsA	a planet
+market	RelatedTo	shopping
+goings on	RelatedTo	events
+business	Synonym	commercial enterprise
+shopping	UsedFor	buying goods
+a cash token	UsedFor	paying
+identifier	HasContext	html
+Birmingham	PartOf	England
+committedness	IsA	seriousness
+trust	Synonym	believe
+habitation	IsA	habitat
+a purse	CapableOf	store money
+going to market	HasSubevent	buying things
+sound	RelatedTo	vibration
+corper	DerivedFrom	corp
+plain	RelatedTo	simple
+age	RelatedTo	number
+climb	RelatedTo	action
+gilbertian	RelatedTo	dramatist
+river	RelatedTo	body
+a person	Desires	see
+Coke	IsA	a soda
+regret	RelatedTo	feeling
+fingers	CapableOf	push buttons
+Art	CausesDesire	express yourself
+go to a restaurant	HasPrerequisite	have money
+people	AtLocation	a building
+vin	RelatedTo	vincent
+addressee	RelatedTo	sent
+going	SimilarTo	active
+hands	AtLocation	gloves
+dollar	IsA	monetary unit
+buying a shirt	HasSubevent	paying
+bank	RelatedTo	financial institution
+liaise	Synonym	intercede
+a person	UsedFor	help
+plate	RelatedTo	baseball
+foundation	IsA	financial institution
+healthy	SimilarTo	firm
+ready	RelatedTo	go
+air	RelatedTo	oxygen
+jonezin	HasContext	nonstandard
+arm	RelatedTo	hands
+corporation	RelatedTo	corporate
+rabbit	RelatedTo	animal
+a fish	IsA	an animal
+close quarters	IsA	site
+find	RelatedTo	seek
+liaised	RelatedTo	liaise
+dollar	RelatedTo	currency
+spend money	HasPrerequisite	make money
+scorpion	IsA	arachnid
+atomic number 90	Synonym	thorium
+fancy	Synonym	visualize
+jumping out of a window	Causes	death
+plica	Synonym	fold
+human	RelatedTo	our
+an ear	AtLocation	head
+flag	RelatedTo	national
+glass	RelatedTo	window
+easy	RelatedTo	simple
+HTTP	Synonym	hypertext transfer protocol
+The internet	UsedFor	research
+tin	RelatedTo	roof
+let	RelatedTo	permit
+The british	IsA	pansys
+working	Causes	making money
+a person	Desires	time
+law	RelatedTo	legal
+water	AtLocation	a lake
+dismissal	IsA	permission
+buy it	RelatedTo	die
+number	RelatedTo	three
+hear	RelatedTo	ears
+toe	RelatedTo	foot
+scotty	RelatedTo	given name
+a finger	UsedFor	point
+play	DistinctFrom	work
+metal	RelatedTo	gold
+buying presents	HasPrerequisite	having money
+northampton county	DerivedFrom	northampton
+electrical energy	Synonym	electricity
+penetrate	Synonym	click
+Food	ReceivesAction	eaten
+The earth	ReceivesAction	covered mostly with water
+office	RelatedTo	work
+A window	PartOf	a building
+present	RelatedTo	gift
+gull	RelatedTo	dupe
+hand	RelatedTo	foot
+paid	SimilarTo	remunerative
+earlyish	SimilarTo	early
+answer questions	HasPrerequisite	thinking
+shop	HasPrerequisite	have money
+number	RelatedTo	no
+hoof	IsA	animal foot
+an apartment	AtLocation	a town
+wool	RelatedTo	skin
+eight	RelatedTo	number
+tell a story	HasSubevent	express yourself
+register	RelatedTo	events
+band	RelatedTo	group
+give assistance	HasSubevent	thanks
+change	RelatedTo	money
+die	RelatedTo	death
+medical institution	IsA	institution
+playing ball	UsedFor	making money
+seriousness	Synonym	earnestness
+A word	PartOf	language
+time	RelatedTo	minutes
+lease	MannerOf	give
+tin	RelatedTo	metal
+Alfred Alistair Cooke	HasContext	England
+now	RelatedTo	time
+Northumberland	PartOf	England
+Chinese	IsA	a language
+tax	RelatedTo	payment
+ridiculous	Synonym	ludicrous
+electricity	RelatedTo	electron
+fixing a computer	UsedFor	making money
+corporation	RelatedTo	company
+hard	RelatedTo	difficult
+ante meridiem	Synonym	A.M.
+Ala.	Synonym	Alabama
+safe	RelatedTo	storing money
+going to the store	UsedFor	shopping
+coin	RelatedTo	money
+drink	RelatedTo	soda
+salt water	AtLocation	the ocean
+box	RelatedTo	storage
+clear	RelatedTo	see
+early	SimilarTo	azoic
+understand	Synonym	sympathize
+sheep	RelatedTo	animal
+buy	RelatedTo	action
+a general store	UsedFor	Buying things
+pellucid	Synonym	transparent
+Mauritian monetary unit	IsA	monetary unit
+mortal	Antonym	immortal
+esthesiometer	RelatedTo	tactile
+be involved in an accident	HasSubevent	you die
+post meridiem	RelatedTo	afternoon
+music	CausesDesire	dance
+disambiguator	HasContext	computer science
+current	RelatedTo	water flow
+ratchet	MannerOf	advance
+cry	RelatedTo	action
+humorous	SimilarTo	uproarious
+painting	UsedFor	making money
+smooth	SimilarTo	easy
+number	RelatedTo	two
+shock	RelatedTo	electric
+kick bucket	HasContext	euphemistic
+investment	IsA	committedness
+payment	RelatedTo	bill
+month	RelatedTo	days
+tin	RelatedTo	alloy
+ball	RelatedTo	spherical
+taste	RelatedTo	senses
+clock	RelatedTo	hands
+waggish	RelatedTo	jocular
+gift	IsA	acquisition
+flyaway	RelatedTo	flighty
+horse	RelatedTo	four
+given name	RelatedTo	first name
+tetrathlon	RelatedTo	events
+academy	IsA	institution
+megacorp	DerivedFrom	corp
+stage	RelatedTo	place
+silk	RelatedTo	smooth
+killing	Causes	death
+southampton	RelatedTo	great britain
+retrieval	HasContext	computer science
+metadata	IsA	data
+slack	Synonym	loose
+freeware	IsA	software
+thinking	UsedFor	deciding something
+encounter	Synonym	find
+buy food	HasSubevent	paying
+hearing	IsA	modality
+warehouse	RelatedTo	storage
+spool	HasContext	computer science
+alpha centauri	RelatedTo	binary
+stroke	IsA	maneuver
+wave	RelatedTo	surf
+number	RelatedTo	one two
+ball hawking	IsA	maneuver
+sif	RelatedTo	thor
+absolved	Synonym	exculpated
+England	IsA	a country
+Language	UsedFor	communication
+rooms	AtLocation	an apartment
+London	IsA	a place name
+money	AtLocation	a wallet
+uncomplicated	RelatedTo	simple
+river	RelatedTo	creek
+number	RelatedTo	four
+view	RelatedTo	see
+flow	IsA	rate
+infer	Synonym	understand
+wrapped up	SimilarTo	committed
+fingernail	AtLocation	your finger
+notepad	AtLocation	a meeting
+treasure trove	HasContext	legal
+undecided	Synonym	on the fence
+sight	RelatedTo	see
+rise	RelatedTo	going
+thinking	UsedFor	solving problems
+arm	RelatedTo	fingers
+having money	CausesDesire	spend money
+find information	HasPrerequisite	research
+cathedral	RelatedTo	building
+smooth	Entails	rub
+waggishness	DerivedFrom	waggish
+a finger	AtLocation	hand
+moon	RelatedTo	earth
+might	RelatedTo	strength
+listening to the radio	HasPrerequisite	hearing
+department	RelatedTo	store
+orbit	Synonym	scope
+school	RelatedTo	place
+spider	RelatedTo	arachnid
+head of state	IsA	representative
+flow	RelatedTo	motion
+day of the week	PartOf	week
+given name	Synonym	christian name
+yoke	IsA	connection
+A bin	IsA	a container
+finite	HasContext	grammar
+alife	FormOf	life
+time	RelatedTo	measurement
+web	RelatedTo	spider
+standard	Antonym	nonstandard
+finger	RelatedTo	on hand
+bank	RelatedTo	money storage
+nonnormatively	DerivedFrom	nonnormative
+go to jail	HasPrerequisite	commit a crime
+wristwarmer	RelatedTo	fingers
+XX	Synonym	twenty
+clear	Synonym	open
+difficult	SimilarTo	rocky
+vessel	RelatedTo	ship
+protocol	HasContext	computer science
+sleeping	Causes	death
+price	RelatedTo	value
+cozy	Synonym	informal
+address	RelatedTo	number
+a pitcher	IsA	a container
+shirley	RelatedTo	habitational
+living	Causes	dying
+the earth	AtLocation	orbit
+express yourself	MotivatedByGoal	be understood
+leave	RelatedTo	go
+help	RelatedTo	aid
+sea	RelatedTo	water
+wrote	RelatedTo	write
+put on the stand	HasPrerequisite	commit a crime
+vitriol	MannerOf	subject
+a landlord	CapableOf	let a flat
+birds	AtLocation	the air
+deal	MannerOf	distribute
+24	Synonym	twenty-four
+soda	IsA	a beverage
+current	RelatedTo	present
+meat safe	IsA	safe
+clear	RelatedTo	glass
+a shark	AtLocation	any ocean
+exculpated	SimilarTo	innocent
+pain	RelatedTo	feeling
+going to the mall	Causes	buying things
+nondepression	RelatedTo	financial
+a right ear	IsA	ear
+xmlhttp	RelatedTo	internet
+P.M.	HasContext	Latin
+school	RelatedTo	building
+finger	RelatedTo	part
+money	RelatedTo	value
+dando	RelatedTo	habitational
+King's English	IsA	English
+water	AtLocation	river
+nonstandard	SimilarTo	bad
+authority	IsA	permission
+shopping	Causes	buying things
+southamptonian	RelatedTo	southampton
+unfixed	SimilarTo	floating
+events	FormOf	event
+a	CapableOf	is a container
+appreciation	IsA	thanks
+going	Synonym	passing
+Latin	IsA	Italic
+table tennis	IsA	sport
+art	UsedFor	express yourself
+waves	AtLocation	ocean
+democratic	SimilarTo	representative
+singing	HasPrerequisite	sound
+Corn	IsA	a food
+going	IsA	accomplishment
+support	RelatedTo	aid
+rent	RelatedTo	monthly
+glassy	SimilarTo	smooth
+divergent thinking	IsA	thinking
+Holy Week	IsA	week
+Some truths	HasProperty	simple
+mif	Antonym	xml
+pay	RelatedTo	give
+free	Synonym	loose
+Ice	HasProperty	hard
+believe	MannerOf	credit
+ability	RelatedTo	able
+gresham	RelatedTo	habitational
+electrode	PartOf	battery
+seriousness	IsA	badness
+a gift	HasProperty	free
+binary	Synonym	binary program
+language	RelatedTo	communication
+party	RelatedTo	group
+instruction	IsA	code
+sell your new book	MotivatedByGoal	money
+a satelite	AtLocation	orbit
+christian name	RelatedTo	forename
+evil	RelatedTo	bad
+xmlhttp	RelatedTo	web server
+days	IsA	life
+Microsoft	IsA	a corporation
+tie	Synonym	link
+feet	RelatedTo	toes
+weak point	RelatedTo	substandard
+grocery shop	HasSubevent	spend money
+rip	Synonym	rent
+sun	RelatedTo	our
+breathing	Causes	living
+some music	HasProperty	relaxing
+day	RelatedTo	twenty
+get	RelatedTo	receive
+lobster	AtLocation	the ocean
+senti	FormOf	sent
+tax	RelatedTo	money
+economic rent	RelatedTo	cost
+smoothness	RelatedTo	smooth
+fairbanks	RelatedTo	habitational
+bank	RelatedTo	safe
+contact	IsA	representative
+web site	FormOf	website
+shirley	HasContext	humorous
+flyaway	SimilarTo	loose
+spend money	HasPrerequisite	decide what to buy
+a drink	AtLocation	a can
+opening a business	Causes	making money
+Stones	HasProperty	hard
+a speaker	AtLocation	a conference
+the internet	UsedFor	communicate
+taste	RelatedTo	sensation
+ballyhoo	IsA	promotion
+obovate	SimilarTo	simple
+can	RelatedTo	able
+tin	RelatedTo	food
+unproblematic	Synonym	uncomplicated
+remunerative	Synonym	lucrative
+available	SimilarTo	accessible
+uncommitted	DerivedFrom	committed
+pad	RelatedTo	toes
+neurolinguistics	IsA	linguistics
+A death	CapableOf	bring sorrow
+natural numbers	RelatedTo	natural number
+residents	AtLocation	an apartment
+humility	IsA	feeling
+agribusiness	IsA	commercial enterprise
+wave	RelatedTo	motion
+webfoot	RelatedTo	foot
+spend money	HasSubevent	purchase something
+commit suicide	Causes	death
+webfoot	RelatedTo	web footed
+a book	AtLocation	a store
+German	IsA	a language
+sneeze	RelatedTo	action
+morning	DistinctFrom	night
+film	HasContext	commercial enterprise
+challis	RelatedTo	habitational
+aftername	Antonym	forename
+Pepsi	IsA	a soda
+current	RelatedTo	movement
+harsh-voiced	SimilarTo	loud
+contrivance	IsA	arrangement
+window	RelatedTo	through
+having a heart attack	Causes	dying
+mortal	SimilarTo	earthborn
+sound	RelatedTo	loud
+serve	MannerOf	help
+name	RelatedTo	label
+coulda	Synonym	could
+flyaway	DerivedFrom	fly
+floating	SimilarTo	unfixed
+a tennis game	UsedFor	sport
+a box	IsA	a container
+out of stock	RelatedTo	unavailable
+skin	UsedFor	protecting the body
+waves	FormOf	wave
+leg	RelatedTo	foot
+simple	SimilarTo	three-needled
+business	RelatedTo	company
+dance	RelatedTo	music
+trees	CapableOf	die
+a calendar	AtLocation	a desktop
+playing the violin	Causes	music
+a spider	AtLocation	a web
+offer	Synonym	crack
+routine	IsA	software
+couldn't	DerivedFrom	could
+buying something for a loved one	Causes	you spend money
+snoring	Causes	noise
+A ship	CapableOf	weather a storm
+natation	Synonym	floating
+West Germanic language	Synonym	West Germanic
+primitive	Synonym	archaic
+tin	RelatedTo	can
+power	RelatedTo	electricity
+sound	RelatedTo	air
+day	DistinctFrom	night
+analyse something	HasSubevent	think
+get the picture	MannerOf	understand
+name	RelatedTo	identification
+note	RelatedTo	music
+ironic	SimilarTo	humorous
+palmipedous	RelatedTo	web footed
+wave	RelatedTo	ocean
+ear	IsA	hearing
+boat	RelatedTo	ship
+canal	RelatedTo	river
+hands	CapableOf	tear paper
+Programmer	CapableOf	write programs
+12 hour clock	RelatedTo	post meridiem
+humorous	SimilarTo	Gilbertian
+wrotest	DerivedFrom	wrote
+timetable	Synonym	schedule
+free	Synonym	exempt
+wallet	RelatedTo	store money
+alpha software	IsA	software
+getting some money from someone	UsedFor	having money
+a high rise	IsA	building
+A wave	PartOf	an ocean
+English	IsA	West Germanic
+npapi	IsA	api
+substandard	SimilarTo	nonstandard
+metal	RelatedTo	silver
+webfoot	DerivedFrom	foot
+loud-mouthed	SimilarTo	loud
+army	RelatedTo	group
+Stairs	AtLocation	an apartment
+listen	RelatedTo	hear
+interpret	Synonym	understand
+available	SimilarTo	in stock
+waggishly	RelatedTo	waggish
+tables	AtLocation	a conference
+tin	RelatedTo	foil
+structure	RelatedTo	building
+unfasten	MannerOf	open
+a dollar bill	UsedFor	pay
+remainer	HasContext	british
+liaising	FormOf	liaise
+funnel	HasContext	ship
+snoring	Causes	death
+a container	AtLocation	a refrigerator
+football	IsA	sport
+day	RelatedTo	week
+webfoot	DerivedFrom	web
+cobwebby	Synonym	see-through
+news	RelatedTo	tv
+a spider	CapableOf	spin webs
+writing a term paper	HasSubevent	research
+company	RelatedTo	organization
+help	RelatedTo	assistance
+give	MannerOf	submit
+oxygen	AtLocation	earth
+cake	RelatedTo	food
+sound	RelatedTo	wave
+reward	IsA	offer
+assist	HasContext	ice hockey
+name	RelatedTo	title
+large integer	IsA	integer
+furlough	IsA	leave
+ear	RelatedTo	organ
+shock	RelatedTo	electricity
+shattering	SimilarTo	loud
+http	HasContext	internet
+water	IsA	life
+class	RelatedTo	group
+a jellyfish	AtLocation	the store
+financial organisation	Synonym	financial institution
+racquetball	IsA	a sport
+web servers	FormOf	web server
+false scorpion	IsA	arachnid
+sock	RelatedTo	foot
+chair	RelatedTo	four
+deal	RelatedTo	agreement
+jumping out of a window	HasSubevent	die
+wma	RelatedTo	api
+a marker	UsedFor	write
+a credit card wallet	UsedFor	storing money
+discussion	AtLocation	a meeting
+can	RelatedTo	cylinder
+senti	RelatedTo	emotional
+game	CreatedBy	programmer
+population	RelatedTo	number
+fancy	MannerOf	desire
+a penny	UsedFor	paying
+house	RelatedTo	building
+baseball	IsA	an american sport
+pain	RelatedTo	sensation
+reachable	RelatedTo	accessible
+dupery	DerivedFrom	dupe
+Multimedia	CapableOf	stream video
+listening	Causes	hearing
+committed	RelatedTo	commitment
+river	RelatedTo	flowing
+Estonian monetary unit	IsA	monetary unit
+love	RelatedTo	feeling
+taste	RelatedTo	sense
+poison	RelatedTo	bad
+let	RelatedTo	allow
+a ship	AtLocation	a port
+squirrel	RelatedTo	animal
+tribe	RelatedTo	group
+a lion	IsA	an animal
+concatenate	HasContext	computer science
+hockey	IsA	a sport
+story	RelatedTo	tellers
+glass	RelatedTo	cup
+dead-man's float	IsA	floating
+a planet	AtLocation	orbit
+Chinese monetary unit	IsA	monetary unit
+shim	RelatedTo	api
+hearing testimony	HasPrerequisite	ears
+going to work	Causes	promotion
+a large city shopping mall	AtLocation	london
+week	RelatedTo	days
+promotional material	Synonym	promotion
+a spider	AtLocation	the cellar
+dream	RelatedTo	night
+cent	RelatedTo	money
+participial	HasContext	grammar
+english	RelatedTo	our language
+shilingi	RelatedTo	senti
+acquisition	IsA	acquiring
+uncomplicated	Synonym	unsophisticated
+innocent	SimilarTo	exculpated
+plate	RelatedTo	food
+listening to music	HasPrerequisite	ears
+pi	HasContext	xml
+one	IsA	a number
+make	RelatedTo	construct
+strength	Synonym	lastingness
+p.m	DistinctFrom	a.m
+central bank	IsA	financial institution
+simplex	SimilarTo	simple
+shell corporation	IsA	corporation
+revolve	Synonym	orbit
+Fingers	CapableOf	feel textures
+can	RelatedTo	aluminum
+online	RelatedTo	grid
+bury	MannerOf	situate
+deal	MannerOf	transact
+excused	SimilarTo	exempt
+a door	AtLocation	a building
+snug	SimilarTo	comfortable
+bits per inch	HasContext	computer science
+vocal cord	IsA	fold
+club	RelatedTo	group
+iron	RelatedTo	metal
+power	RelatedTo	strength
+tellers	AtLocation	a bank
+earn	MannerOf	get
+animal	RelatedTo	living
+read a newspaper	MotivatedByGoal	the news
+place	RelatedTo	location
+music	AtLocation	the opera
+not on earth	AtLocation	orbit
+food	AtLocation	a store
+penalty box	HasContext	ice hockey
+drive-in	IsA	facility
+habitational	RelatedTo	name
+take the stand	HasPrerequisite	commit a crime
+the earth	HasProperty	spherical
+slam	IsA	noise
+bell	RelatedTo	noise
+senses	RelatedTo	sense
+dying	UsedFor	the end of life
+point	RelatedTo	finger
+a company	CapableOf	market a product
+create art	MotivatedByGoal	express yourself
+tensed	SimilarTo	finite
+pipe	IsA	tube
+Ears	UsedFor	hear sound
+die	Antonym	live
+the Earth	HasA	a molten core
+current	RelatedTo	water
+a gallery	AtLocation	London
+a strip mall	UsedFor	shopping
+transmission control protocol internet protocol	IsA	protocol
+xmlhttp	RelatedTo	binary
+protocol	IsA	etiquette
+SMTP	IsA	protocol
+tactual	Synonym	tactile
+habitation	Synonym	dwelling
+deficient	Synonym	substandard
+communicate	HasPrerequisite	speak out
+buy farm	Synonym	buy it
+waiting tables	UsedFor	making money
+write a program	HasPrerequisite	have paper
+a baseball	UsedFor	playing baseball
+wrote	FormOf	write
+die	MannerOf	ache
+A foot	PartOf	a body
+can	RelatedTo	tin
+Mexican monetary unit	IsA	monetary unit
+Monday	IsA	a weekday
+a living room	AtLocation	an apartment
+fly away	FormOf	flyaway
+a voice	UsedFor	communicate
+ability	IsA	cognition
+gilbertian	DerivedFrom	gilbert
+web server	RelatedTo	http
+thorium	RelatedTo	thor
+integral	RelatedTo	integer
+unavailable	Antonym	available
+purchase	IsA	influence
+earning a living	Causes	having money
+current	RelatedTo	events
+waggish	SimilarTo	humorous
+flyaway	Synonym	head-in-the-clouds
+Maltese monetary unit	IsA	monetary unit
+link doping	RelatedTo	website
+sound	RelatedTo	noise
+Sussex	PartOf	England
+unavailable	SimilarTo	out of stock
+hand	RelatedTo	body part
+crowd	RelatedTo	group
+second rate	RelatedTo	substandard
+play	RelatedTo	action
+gold	RelatedTo	metal
+parking	IsA	maneuver
+juice	IsA	current
+a foot	HasA	five toes
+Pennines	PartOf	England
+legitimate	MannerOf	justify
+sitting quietly	HasSubevent	think
+the earth	IsA	an oblate spheroid
+london	IsA	a city
+a telephone booth	AtLocation	London
+afloat	SimilarTo	floating
+blankley	RelatedTo	habitational
+manoeuvre	Synonym	maneuver
+news	RelatedTo	information
+London	DefinedAs	capital city of England
+clearing house	IsA	financial institution
+cleaning your room	HasPrerequisite	organization
+mark	RelatedTo	name
+talk to someone	MotivatedByGoal	communicate
+tin	RelatedTo	cans
+witty	RelatedTo	waggish
+sounding	SimilarTo	audible
+organization	IsA	a good thing
+soda	Synonym	pop
+move	RelatedTo	go
+pay	RelatedTo	give money
+An ear	IsA	a part of the body
+turn	RelatedTo	movement
+post meridiem	SimilarTo	postmeridian
+face off	HasContext	ice hockey
+breach	RelatedTo	http
+sport	IsA	game
+petty cash	IsA	fund
+now	RelatedTo	present
+uncomplicated	SimilarTo	easy
+drop	RelatedTo	water
+wave	RelatedTo	sea
+correspond	Entails	write
+buy presents for others	HasPrerequisite	have money
+liaise	RelatedTo	liaison
+listening	HasSubevent	understand
+snap	RelatedTo	fingers
+week	RelatedTo	seven
+a cafe	AtLocation	London
+forename	DerivedFrom	name
+air	AtLocation	the space shuttle
+lift	RelatedTo	british
+thank you	Synonym	thanks
+a river	UsedFor	swimming
+school	RelatedTo	institution
+2001	IsA	Australia's Centenary of Federation year
+gold	IsA	metal
+storage	Synonym	storehouse
+sspi	HasContext	api
+XML	IsA	a meta-markup language
+glass	HasProperty	clear
+Anime	IsA	animation
+financial organization	Synonym	financial institution
+river	RelatedTo	large
+A drawer	IsA	a container
+mr	HasContext	british
+cow	RelatedTo	animal
+a fox	AtLocation	england
+yeard	FormOf	heard
+Banks	HasA	tellers
+living	Causes	growing older
+help someone	HasSubevent	that they thank you
+discover	RelatedTo	find
+hand	RelatedTo	palm
+dog	RelatedTo	animal
+dressy	SimilarTo	fancy
+endocentric	HasContext	grammar
+tuna fish	AtLocation	a can
+earth	RelatedTo	planet
+entanglement	Synonym	web
+outer space	HasProperty	infinite
+oxygen	RelatedTo	air
+Music	HasProperty	soothing
+casual	Synonym	informal
+beforemath	RelatedTo	events
+British people	IsA	nation
+communicate	HasPrerequisite	talk to people
+buy something	MotivatedByGoal	own it
+locate	MannerOf	find
+help someone	HasPrerequisite	offer
+gas system	IsA	facility
+value	RelatedTo	price
+multiply	MannerOf	calculate
+create an idea	HasPrerequisite	think
+available	SimilarTo	open
+Most rocks	HasProperty	hard
+user agent	RelatedTo	http
+senti	RelatedTo	sentimental
+clock	RelatedTo	time
+effortful	RelatedTo	difficult
+comfy	Synonym	comfortable
+happy	RelatedTo	feeling
+minute	RelatedTo	time
+pea shooter	IsA	tube
+anything divided by zero	HasProperty	infinite
+economic rent	RelatedTo	production
+influential	RelatedTo	influence
+credit	IsA	payment
+nonstandard	SimilarTo	nonnormative
+apple	RelatedTo	skin
+a bar	IsA	a place
+door	RelatedTo	house
+broken-backed	HasContext	ship
+forward proxy	HasContext	networking
+flyaway	RelatedTo	flip
+communicate	HasPrerequisite	think
+rosebud	HasContext	british
+audible	SimilarTo	sounding
+Hands	UsedFor	hold things
+evening	RelatedTo	day
+nonnormatively	RelatedTo	nonnormative
+safe	RelatedTo	money storage
+hearing	RelatedTo	sense
+permit	RelatedTo	allow
+debt	RelatedTo	money
+maybe	Synonym	perchance
+not eating	Causes	death
+Great Britain	PartOf	British Isles
+saturn	IsA	a planet
+live a life	HasSubevent	growing older
+api	HasContext	programming
+push	RelatedTo	action
+subject	Synonym	national
+write a term paper	HasPrerequisite	research
+a can	AtLocation	a cupboard
+day	RelatedTo	four
+soda	RelatedTo	drink
+facility	IsA	artifact
+trust company	IsA	financial institution
+buy farm	Synonym	kick bucket
+company	Synonym	corporation
+webfoot	Synonym	webbed foot
+lightning	IsA	electricity
+spend money	HasPrerequisite	buy some things
+web server	RelatedTo	protocol
+significance	IsA	importance
+electricity	RelatedTo	electric
+a group	IsA	a set
+gainfully	RelatedTo	gainful
+toes	AtLocation	a sock
+fight inflation	HasPrerequisite	have money
+sale	RelatedTo	price
+Huntsville	PartOf	Alabama
+an ergonomic chair	UsedFor	be comfortable
+make	MannerOf	create from raw material
+gainful	RelatedTo	troublesome
+institution	IsA	organization
+Fingers	UsedFor	play a guitar
+Lithuanian monetary unit	IsA	monetary unit
+skin	AtLocation	a body
+name	RelatedTo	moniker
+ear	RelatedTo	lobe
+can	RelatedTo	soda
+payment	RelatedTo	pay
+family name	Synonym	surname
+sell	IsA	sale
+a.m	Antonym	p.m
+account	IsA	importance
+communicate	HasPrerequisite	listen
+webbed foot	IsA	bird's foot
+sun	RelatedTo	light
+zero	IsA	a number
+buying presents for others	HasPrerequisite	money
+an Earth day	IsA	24 hours long
+read the newspaper	HasPrerequisite	open it
+Toyota	IsA	a company
+northamptonshire	RelatedTo	northampton
+fear	RelatedTo	feeling
+webbed foot	DerivedFrom	webbed
+a mall	UsedFor	shopping
+sound	RelatedTo	audible
+sent	RelatedTo	kroon
+a tearoom	AtLocation	a england
+sea	RelatedTo	ocean
+The Internet	IsA	a collection of connected computers
+living a life	Causes	dying
+month	RelatedTo	day
+writing	HasSubevent	think
+hand	RelatedTo	part
+substandard	DerivedFrom	standard
+available	Antonym	unavailable
+a ship	AtLocation	the ocean
+step	RelatedTo	movement
+tax	RelatedTo	paying
+a bank	CapableOf	store your money
+flow	RelatedTo	river
+api	RelatedTo	nepal
+organization	RelatedTo	company
+A.M.	HasContext	Latin
+tin	RelatedTo	material
+a head	UsedFor	think
+killing someone	HasSubevent	they die
+a bank	UsedFor	store money
+Killing	HasProperty	bad
+postage stamp	Synonym	postage
+wait on	Synonym	serve
+advancing into battle	Causes	death
+get paid	HasPrerequisite	work
+an internet server	CapableOf	stream video
+metapodial	RelatedTo	toes
+xmlhttp	RelatedTo	xml
+history	IsA	humanistic discipline
+a lamp	AtLocation	a store
+get something	HasPrerequisite	reach for it
+crick	RelatedTo	habitational
+soda	AtLocation	a can
+ratch	Synonym	ratchet
+offer	RelatedTo	give
+current	RelatedTo	electrical
+interpolate	MannerOf	calculate
+listening	HasPrerequisite	ears
+shock	RelatedTo	feeling
+tin	RelatedTo	thin
+bank	RelatedTo	business
+go to the mall	HasSubevent	you spend money
+watch	RelatedTo	time
+away	RelatedTo	gone
+willoughby	RelatedTo	habitational
+wax	RelatedTo	ear
+Northampton	PartOf	Northamptonshire
+Great Britain	IsA	a country in Europe
+shirley	RelatedTo	english
+moulton	RelatedTo	northampton
+could	RelatedTo	might
+bank	RelatedTo	vault
+website	Synonym	web site
+air	RelatedTo	breathe
+nonliterary	SimilarTo	informal
+golf	IsA	a sport
+committed	SimilarTo	wrapped up
+3dml	RelatedTo	xml
+akoasm	RelatedTo	auditory
+out of stock	RelatedTo	sale
+doubtful	RelatedTo	undecided
+colony	RelatedTo	early
+jesting	SimilarTo	humorous
+a computer	UsedFor	work
+Alabama	PartOf	Deep South
+a finger	UsedFor	typing
+sound	RelatedTo	ears
+emitter	IsA	electrode
+listen	RelatedTo	ear
+room	RelatedTo	place
+natural number	IsA	number
+water	RelatedTo	liquid
+a muscle	CapableOf	contract
+1mms	HasContext	networking
+a bucket	IsA	a container
+jugglery	IsA	maneuver
+tetrad	Synonym	four
+deal	RelatedTo	cards
+file transfer protocol	HasContext	computer science
+two dozen	Synonym	twenty-four
+three	IsA	a number
+Gadsden	PartOf	Alabama
+allow	RelatedTo	permission
+viewing a painting	CausesDesire	express yourself
+committing suicide	HasSubevent	dying
+wave	RelatedTo	water
+blow	RelatedTo	air
+surfing the web	UsedFor	research
+20	Synonym	twenty
+maneuver	MannerOf	act
+swim	RelatedTo	movement
+meeting	IsA	assembly
+shirley	RelatedTo	surname
+quadrathlon	RelatedTo	events
+head	RelatedTo	ears
+paying cash	UsedFor	Buying goods
+compatible software	IsA	software
+that's all she wrote	DerivedFrom	wrote
+rent	RelatedTo	money
+night	RelatedTo	day
+doing housework	HasPrerequisite	work
+greenmail	HasContext	corporation
+sr	RelatedTo	mr
+pledged	SimilarTo	committed
+financial	RelatedTo	finance
+desk	RelatedTo	work
+vault	IsA	strongroom
+Alabama	PartOf	United States
+Aluminum	IsA	a metal
+capable	SimilarTo	able
+a present	IsA	a gift
+obstruct justice	HasPrerequisite	commit a crime
+a wristwatch	UsedFor	keeping track of time
+office	RelatedTo	place
+audibly	RelatedTo	heard
+rock	IsA	music
+Earth	HasA	gravity
+senses	FormOf	sense
+buy something	HasPrerequisite	paying
+a program	CreatedBy	a programmer
+rough	IsA	site
+Maldon	HasContext	England
+produce	RelatedTo	make
+war	Causes	death
+a check	UsedFor	paying
+Saturday	IsA	weekday
+history	RelatedTo	subject
+ask for trouble	Synonym	ask for it
+playing basketball	UsedFor	making money
+sing	MotivatedByGoal	express yourself
+West Germanic	IsA	Germanic
+faintness	IsA	feeling
+your bedroom	AtLocation	a house
+a home	UsedFor	living
+morning	RelatedTo	time
+rap	RelatedTo	music
+Nitrogen	AtLocation	the air
+legal	RelatedTo	legitimate
+eat in a restaurant	HasFirstSubevent	have money
+programmer	HasContext	computer science
+bear	RelatedTo	animal
+danger	DistinctFrom	safe
+cylinder	IsA	round shape
+a tin	UsedFor	holding food
+purchase	IsA	acquisition
+Mr	Synonym	mister
+bevis	RelatedTo	habitational
+dupe	Synonym	gull
+english	RelatedTo	our
+a.m.	Synonym	ante meridiem
+link	Synonym	liaison
+can	RelatedTo	container
+current	RelatedTo	flow
+macgregor	RelatedTo	surname
+unexculpated	DerivedFrom	exculpated
+rock	RelatedTo	hard
+let	MannerOf	leave
+going to the mall	UsedFor	shopping
+a pitcher mound	UsedFor	baseball
+a shopping center	UsedFor	buying things
+New	HasContext	linguistics
+api	IsA	product standard
+hand	RelatedTo	body
+moon	RelatedTo	planet
+information	IsA	data
+a debit card	UsedFor	buying things
+sight	IsA	sense
+die	HasSubevent	stop breathing
+an animal	AtLocation	a zoo
+drive	RelatedTo	action
+uncommitted	SimilarTo	floating
+A glass	CapableOf	hold liquid
+thicket	RelatedTo	html
+amortization	IsA	payment
+a noise	UsedFor	get attention
+sovereign	IsA	head of state
+northampton	RelatedTo	england
+tin	RelatedTo	can material
+a container	AtLocation	the cupboard
+auditory system	HasContext	hearing
+forename	Synonym	first name
+wave	RelatedTo	surfing
+earthly	RelatedTo	mortal
+a department store	UsedFor	shopping
+toilet	AtLocation	an apartment
+bar	RelatedTo	place
+unavailable	SimilarTo	unobtainable
+flyaway	RelatedTo	unruly
+river	RelatedTo	flowing water
+work	RelatedTo	activity
+inflow	IsA	flow
+help someone	MotivatedByGoal	you have compassion for them
+webfeet	RelatedTo	webfoot
+non normative	RelatedTo	nonnormative
+wymysorys	RelatedTo	west germanic
+forenames	FormOf	forename
+committing suicide	Causes	dying
+day	RelatedTo	twenty four
+a money	AtLocation	a bank
+pt	HasContext	legal
+Creativity	CausesDesire	express yourself
+water	AtLocation	a glass
+economic rent	RelatedTo	recompense
+asks for it	RelatedTo	ask for it
+hours	IsA	work time
+The sun	CapableOf	shine on your day
+bird	RelatedTo	animal
+bank	RelatedTo	financial
+belief	RelatedTo	believe
+inch	RelatedTo	foot
+express yourself	HasPrerequisite	create art
+people	AtLocation	a conference
+thorotrast	RelatedTo	contrast medium
+get something	HasPrerequisite	ask for it
+dance	MotivatedByGoal	express yourself
+breathing	UsedFor	living
+safe	RelatedTo	harmless
+killing someone	HasSubevent	death
+write	Synonym	spell
+value	RelatedTo	cost
+room	RelatedTo	house
+peppercorn rent	IsA	rent
+cogitate	MotivatedByGoal	you are thinking
+lair	IsA	habitation
+vault	RelatedTo	storing money
+longshore drift	RelatedTo	waves
+life	HasProperty	good
+gentle	RelatedTo	touch
+kroon	RelatedTo	senti
+getting paid	Causes	have money
+Neptune	IsA	a planet
+library science	IsA	humanistic discipline
+work	RelatedTo	office
+machine	IsA	organization
+need	CausesDesire	buy something
+communicate	HasPrerequisite	talk
+a sale	AtLocation	a store
+qualify	MannerOf	pronounce
+nonstandard	SimilarTo	substandard
+a space shuttle	AtLocation	orbit
+program	IsA	software
+getting paid	Causes	having money
+postmeridian	RelatedTo	post meridiem
+counteroffer	IsA	offer
+permit	Synonym	let
+vibration	IsA	air
+current	Synonym	present
+Herr	IsA	title
+a computer	AtLocation	a house
+waves	CapableOf	continue indefinately
+establishment	Synonym	institution
+twenty-four	Synonym	24
+scally	RelatedTo	committed
+dance	RelatedTo	action
+last name	IsA	name
+stoutness	IsA	strength
+get in	MannerOf	obtain
+river	RelatedTo	nile
+a glass	AtLocation	the cabinet
+The sun	CapableOf	heat the earth
+cemetery	IsA	site
+skin	IsA	animation
+aerie	IsA	habitation
+commit perjury	HasSubevent	commit a crime
+thorinum	Synonym	thorium
+goings	FormOf	going
+limiting	HasContext	grammar
+economic rent	RelatedTo	factor of production
+a gel toothpaste	AtLocation	a tube
+present	DistinctFrom	past
+could	RelatedTo	can
+a company	CapableOf	commit crime
+pore	RelatedTo	skin
+every person	HasA	a name
+road	HasContext	british
+furniture	AtLocation	a house
+work	MotivatedByGoal	money
+drop	RelatedTo	action
+run	RelatedTo	movement
+waiting in line	UsedFor	buying things
+document object model	RelatedTo	xml
+live on	Synonym	survive
+lives on	FormOf	live on
+cash leakage	RelatedTo	financial
+babygro	HasContext	british
+hour	RelatedTo	time
+a name	UsedFor	labeling things
+catheter	IsA	tube
+work	RelatedTo	job
+Silver	IsA	metal
+hand	RelatedTo	wrist
+site	Synonym	locate
+spending money	HasPrerequisite	that i buy something
+available	Synonym	uncommitted
+crowd	RelatedTo	events
+artistamp	RelatedTo	postage stamp
+room	RelatedTo	living
+sacrifice	MannerOf	offer
+epoch	IsA	date
+English	IsA	a language
+money	RelatedTo	currency
+continue	RelatedTo	going
+knuckle	PartOf	finger
+xmlhttp	HasContext	networking
+death	AtLocation	a war
+thorotrast	RelatedTo	thorium dioxide
+design	RelatedTo	interior
+commitment	Synonym	committedness
+Clean clothes	HasProperty	good
+undecided	SimilarTo	uncommitted
+furrow	MannerOf	fold
+asked for it	FormOf	ask for it
+mind	UsedFor	thinking
+swim	RelatedTo	water
+shrewdness	HasContext	commercial enterprise
+cubic nitre	RelatedTo	soda
+surf	RelatedTo	waves
+My toes	HasProperty	cold
+window	RelatedTo	house
+motion	RelatedTo	movement
+foot	RelatedTo	body
+current	RelatedTo	ocean
+river	RelatedTo	mississippi
+noise	RelatedTo	loud
+river	RelatedTo	water flow
+inaccessible	Antonym	accessible
+acquirer	IsA	financial institution
+year	RelatedTo	calendar
+assist	Synonym	aid
+hand	RelatedTo	five fingers
+Good	DefinedAs	opposite of Evil
+allow	MannerOf	give
+horse	RelatedTo	animal
+Good	CapableOf	battle evil
+have food	HasPrerequisite	buy it
+an agenda	AtLocation	a meeting
+two l	HasContext	legal
+going to the store	HasSubevent	buying goods
+quiet	DistinctFrom	loud
+hat trick	HasContext	ice hockey
+1	IsA	a number
+writing	UsedFor	communicate
+a pavement	HasProperty	hard
+get	Synonym	contract
+A living being	CapableOf	die
+Highway Code	IsA	code
+sound	RelatedTo	auditory
+nonnormative	RelatedTo	normative
+sale	RelatedTo	prices
+dying	HasSubevent	fear
+reading	RelatedTo	action
+computer circuit	HasContext	computer science
+amplification	HasContext	electricity
+Tennis	IsA	a sport
+wave	RelatedTo	hand
+paw	IsA	animal foot
+hand	DistinctFrom	foot
+xslt	RelatedTo	xml
+a door	CapableOf	open
+a foot	UsedFor	Walking on
+immortal	Antonym	mortal
+Soccer	IsA	sport
+habitation	Synonym	inhabitancy
+number	RelatedTo	math
+cleared	Synonym	exculpated
+liveliness	IsA	animation
+a bat	UsedFor	baseball
+make	MannerOf	estimate
+thorium-228	IsA	thorium
+a building	AtLocation	your town
+men	RelatedTo	group
+explode	MannerOf	pronounce
+fine arts	IsA	humanistic discipline
+infinite	Antonym	finite
+Dutch	IsA	West Germanic
+might	RelatedTo	maybe
+a person	HasA	a name
+Getting wrinkles	PartOf	growing older
+support	RelatedTo	help
+a container	UsedFor	holding something
+waves	HasContext	historical
+Hands	IsA	body parts
+water	RelatedTo	clear
+Latvian monetary unit	IsA	monetary unit
+footed	SimilarTo	web-footed
+copulative	HasContext	grammar
+the Earth	UsedFor	live on
+ring	RelatedTo	finger
+grubstake	MannerOf	fund
+classicism	IsA	humanistic discipline
+food	AtLocation	the oven
+financial	RelatedTo	financier
+anode	IsA	electrode
+rent	Synonym	economic rent
+a container	AtLocation	a pantry
+going to the store	Causes	buying things
+finger	RelatedTo	hand
+Hunger	IsA	a feeling
+the sun	CapableOf	rise in the morning
+redbeard	RelatedTo	thor
+sale	RelatedTo	bargain
+talk	MotivatedByGoal	communicate
+trill	MannerOf	pronounce
+Great Britain	HasContext	United Kingdom
+favour	RelatedTo	help someone
+time	RelatedTo	clocks
+fearlessness	IsA	feeling
+foot	RelatedTo	toes
+perchance	Synonym	maybe
+lending institution	IsA	financial institution
+herd	RelatedTo	group
+cat's paw	Synonym	dupe
+help someone	HasPrerequisite	lend them a hand
+waggishly	DerivedFrom	waggish
+a present	AtLocation	a box
+clear	RelatedTo	see through
+forename	Antonym	aftername
+bunch	RelatedTo	group
+interview	RelatedTo	meeting
+news	RelatedTo	events
+a linen closet	UsedFor	storage
+stone	RelatedTo	hard
+Jupiter	IsA	a planet
+legal	SimilarTo	legitimate
+Thunder	HasProperty	loud
+sound	RelatedTo	music
+sale	RelatedTo	cheap
+making friends	UsedFor	networking
+Alabama	IsA	a state
+clunky	SimilarTo	audible
+an office building	UsedFor	work
+west germanic	RelatedTo	proto west germanic
+web toed	RelatedTo	web footed
+tin	RelatedTo	can metal
+gravity	IsA	a force of nature
+cash	UsedFor	buying things
+payment	RelatedTo	giving money
+elementary	Synonym	uncomplicated
+chancellor	IsA	head of state
+alliance	IsA	organization
+xff	RelatedTo	http
+committing perjury	HasSubevent	to commit a crime
+punching someone	HasPrerequisite	hands
+gravity	IsA	force
+blue	RelatedTo	ocean
+get	RelatedTo	obtain
+auditive	Synonym	auditory
+a finger	CapableOf	push a button
+Music	CapableOf	sound good
+her's	HasContext	nonstandard
+a fish	AtLocation	the ocean
+news	AtLocation	television
+sale	IsA	agreement
+field	RelatedTo	baseball
+getting drunk	Causes	death
+music	RelatedTo	melody
+pip out	Synonym	buy it
+water flows	FormOf	water flow
+Russian	IsA	a language
+death	PartOf	life
+argument	IsA	discussion
+touch	RelatedTo	hand
+allow	RelatedTo	permit
+a fish	AtLocation	a river
+Shirley	CapableOf	water her plants
+life	RelatedTo	living
+industry	IsA	commercial enterprise
+Sailing	IsA	a sport
+a ship	CapableOf	travel over water
+fancy	SimilarTo	churrigueresque
+surname	IsA	name
+group meeting	Synonym	meeting
+nic	HasContext	networking
+directory	HasContext	computer science
+listening to the radio	HasPrerequisite	ears
+strip	MannerOf	smooth
+poison	RelatedTo	death
+paying	FormOf	pay
+fish	RelatedTo	animal
+recalculate	MannerOf	calculate
+a hand	CapableOf	cup water
+band	RelatedTo	music
+let	IsA	serve
+Money	UsedFor	buying things
+wave	RelatedTo	action
+weather	RelatedTo	news
+touch	RelatedTo	sensation
+sound	RelatedTo	heard
+hearing the news	HasPrerequisite	ears
+money	RelatedTo	cash
+current	RelatedTo	electricity
+camp	RelatedTo	living
+paying the bills	HasPrerequisite	having money
+plant	RelatedTo	life
+communicating	HasPrerequisite	senses
+vocabulary	IsA	cognition
+on-line	Synonym	online
+webfeet	FormOf	webfoot
+maiden name	RelatedTo	last name
+flyaway	RelatedTo	dismount
+advantageous	Synonym	gainful
+eat vegetables	HasPrerequisite	buy them
+stipendiary	Synonym	remunerative
+gallon	RelatedTo	four
+listen	MotivatedByGoal	hear
+ask for it	MannerOf	persevere
+owl	RelatedTo	night
+webfoot	RelatedTo	toes
+servant	RelatedTo	serve
+antiplectic	RelatedTo	waves
+listen	RelatedTo	hearing
+water	AtLocation	a pool
+go to a movie	HasPrerequisite	go
+number	RelatedTo	digit
+artificial language	IsA	language
+forefoot	IsA	animal foot
+Cancer	HasProperty	bad
+obvious	SimilarTo	transparent
+body	RelatedTo	skin
+flyaway	HasContext	gymnastics
+mono theism	HasContext	nonstandard
+flyaway	RelatedTo	stray
+web footed	DerivedFrom	footed
+the Atlantic Ocean	AtLocation	the earth
+work	RelatedTo	making money
+post meridiem	RelatedTo	after
+member	RelatedTo	group
+Mister	Synonym	mister
+profitable	SimilarTo	gainful
+XXIV	Synonym	twenty-four
+bread	AtLocation	a store
+lease	Synonym	rent
+wash	RelatedTo	action
+a planet	UsedFor	live on
+acquire	Synonym	get
+clicks and mortar	RelatedTo	online
+vessel	RelatedTo	container
+deliberation	IsA	discussion
+your hand	AtLocation	a pocket
+appointment	RelatedTo	meeting
+bad	DistinctFrom	good
+cent	RelatedTo	value
+power play	HasContext	ice hockey
+jesty	RelatedTo	waggish
+day	RelatedTo	night
+waggish	RelatedTo	wag
+express yourself	HasSubevent	someone disagrees with you
+Tuesday	IsA	weekday
+yawning	SimilarTo	open
+love	IsA	a feeling
+play cards	HasSubevent	you deal
+assistance	Synonym	aid
+year	RelatedTo	time
+wave	RelatedTo	ocean movement
+ear	RelatedTo	hearing
+current	RelatedTo	news
+a strip mall	UsedFor	buying things
+able	Synonym	capable
+a wallet	UsedFor	store money
+tin	RelatedTo	aluminum
+Cheese	IsA	a food
+th	Synonym	ship
+profit	RelatedTo	make
+flyaway	RelatedTo	hair
+farm	RelatedTo	business
+alias	RelatedTo	name
+tee	IsA	site
+news	RelatedTo	latest
+thinking	HasPrerequisite	a brain
+a checkbook holder	AtLocation	a bank
+manners	RelatedTo	good
+current	SimilarTo	online
+liaised	FormOf	liaise
+silesian german	RelatedTo	west germanic
+nonnormative	DerivedFrom	normative
+first name	RelatedTo	forename
+racism	HasProperty	bad
+encouragement	IsA	hope
+blow	RelatedTo	action
+corp	HasContext	legal
+out of stock	SimilarTo	unavailable
+colony	RelatedTo	group
+bank	RelatedTo	money
+swim	RelatedTo	sport
+furlough	MannerOf	permit
+ear	RelatedTo	part
+an ocean	IsA	a body of water
+Vincent	IsA	EPIC WIN
+let	RelatedTo	rent
+listen	RelatedTo	ears
+paying	Synonym	remunerative
+draw	RelatedTo	make
+archaic	SimilarTo	early
+comfortable	SimilarTo	sufficient
+invulnerability	IsA	strength
+butt	IsA	victim
+sign	RelatedTo	language
+xlink	RelatedTo	xml
+a call	UsedFor	communicate
+cat	RelatedTo	animal
+touch	RelatedTo	action
+multiple	SimilarTo	binary
+finger	RelatedTo	thumb
+contemplate	HasPrerequisite	think
+electron gun	IsA	electrode
+earning a living	UsedFor	making money
+write	HasFirstSubevent	thinking
+communicating	HasPrerequisite	thinking
+flow	RelatedTo	water movement
+steam	RelatedTo	air
+print	RelatedTo	write
+ice hockey	IsA	contact sport
+loose	SimilarTo	flyaway
+tone	HasContext	linguistics
+bank	RelatedTo	building
+a heart attack	Causes	dying
+racket	IsA	noise
+present	RelatedTo	now
+an account book	AtLocation	a bank
+living	Synonym	animation
+offer	RelatedTo	bid
+five-needled	SimilarTo	simple
+bird's foot	IsA	animal foot
+mail a letter	HasPrerequisite	to write it
+sounds	HasProperty	loud
+cake	RelatedTo	good
+a store	AtLocation	a town
+window	RelatedTo	see
+department	RelatedTo	company
+write	HasLastSubevent	put down the pen
+touch	RelatedTo	tactile
+spicose	RelatedTo	ears
+easy	RelatedTo	comfortable
+ear	RelatedTo	face
+dogged	Synonym	committed
+habitationally	RelatedTo	habitational
+living	Causes	life
+dollar	RelatedTo	money
+Westminster Abbey	AtLocation	London
+food	AtLocation	the kitchen
+slush fund	IsA	fund
+stamp	Synonym	postage stamp
+ratchet	IsA	mechanical device
+communications protocol	Synonym	protocol
+account	RelatedTo	storing money
+kroon	IsA	Estonian monetary unit
+Chilean monetary unit	IsA	monetary unit
+audiosensory	RelatedTo	auditory
+offices	AtLocation	a building
+a name is something that	UsedFor	identify something or someone
+a boat	AtLocation	the water
+tellers	CapableOf	count money
+eye	RelatedTo	sense
+th	HasContext	archaic
+earn a living	HasPrerequisite	Work
+filing	IsA	storage
+waggishness	RelatedTo	waggish
+a bureau	UsedFor	storage
+habitation	RelatedTo	inhabit
+coke	RelatedTo	soda
+eat	RelatedTo	food
+air	RelatedTo	breathing
+getting a job	UsedFor	making money
+proffer	Synonym	offer
+uddi	RelatedTo	xml
+loose	Synonym	informal
+natural number	RelatedTo	integer
+audible	SimilarTo	sonic
+cakes	AtLocation	a store
+offer	RelatedTo	deal
+market	RelatedTo	store
+going for a haircut	HasSubevent	pay
+rachet up	Synonym	ratchet
+knowledge	RelatedTo	london
+Death	HasProperty	inevitable
+p.m.	Synonym	post meridiem
+speculation	IsA	investment
+Earth	PartOf	the universe
+bread	RelatedTo	food
+Ford	IsA	a company
+web footed tenrec	DerivedFrom	web footed
+buy fresh fruits and vegetables	HasPrerequisite	have money
+sotonian	RelatedTo	southampton
+oort cloud	RelatedTo	spherical
+Life	HasProperty	finite
+vincent	RelatedTo	vince
+impingement	IsA	influence
+a number	AtLocation	a social security number
+a group of people	AtLocation	a meeting
+corpspeak	DerivedFrom	corp
+give assistance	MotivatedByGoal	help someone
+earth	RelatedTo	our
+early	SimilarTo	untimely
+court	RelatedTo	legal
+spend money	HasPrerequisite	buy something
+skin	UsedFor	covering the body
+dying	HasSubevent	stop breathing
+habitable	RelatedTo	habitation
+thorium	Synonym	thorinum
+soup	RelatedTo	food
+tubing	Synonym	tube
+touch	RelatedTo	feel
+title	Synonym	claim
+Computers	CapableOf	stream video
+deal	Synonym	cope
+bell end	HasContext	british
+find	RelatedTo	search
+a dollar	UsedFor	buying things
+friendly	SimilarTo	informal
+lamb	IsA	victim
+wave	RelatedTo	surfers
+bricks	HasProperty	hard
+duck	RelatedTo	animal
+gone	Synonym	departed
+swim	RelatedTo	action
+sphenotic	RelatedTo	auditory
+tentaculum	RelatedTo	tactile
+webfoot	RelatedTo	skin
+account	RelatedTo	savings
+legitimate	SimilarTo	morganatic
+a fish	AtLocation	water
+orchestration	IsA	arrangement
+IP	IsA	protocol
+Birmingham	PartOf	Alabama
+An apartment	IsA	a place to live in
+mail a letter	MotivatedByGoal	communicate
+rub	RelatedTo	touch
+the sun	CapableOf	brown skin
+Squash	IsA	a sport
+a tv	AtLocation	your house
+gone	Synonym	intoxicated
+custody	Synonym	hands
+Watches	HasA	hands
+might	RelatedTo	could
+some people	HasProperty	good
+days	RelatedTo	day
+flyaway	RelatedTo	twist
+online	Synonym	on-line
+Humans	HasA	fingers
+cross examination	HasContext	legal
+ttfb	RelatedTo	http
+ask for it	RelatedTo	action
+bid	MannerOf	play
+Air	HasA	oxygen
+month	RelatedTo	calendar
+weak	Synonym	undecided
+trackback	RelatedTo	website
+finger	RelatedTo	hands
+metal	RelatedTo	shiny
+leave	RelatedTo	going
+buy something for a loved one	HasPrerequisite	have some money
+world wide web	RelatedTo	http
+food	AtLocation	the supermarket
+approachable	Synonym	reachable
+food	AtLocation	the fridge
+economic rent	RelatedTo	transfer earnings
+A sole proprietorship	IsA	a business
+allow	RelatedTo	let
+dead link	RelatedTo	html
+news	RelatedTo	current
+click	MannerOf	sound
+salaried	Synonym	remunerative
+name	RelatedTo	personal
+ocean	RelatedTo	sea
+write	MotivatedByGoal	express yourself
+feel	RelatedTo	touch
+a ceiling	AtLocation	a building
+chicken	RelatedTo	animal
+bill	RelatedTo	payment
+hear	RelatedTo	listen
+window	RelatedTo	glass
+writing	RelatedTo	write
+english	RelatedTo	language
+dying	Causes	something to change color
+Shirley	CapableOf	fancy that
+lacelike	SimilarTo	fancy
+sidesplitting	SimilarTo	humorous
+ear	RelatedTo	listening
+buy products	HasPrerequisite	have some money
+water	UsedFor	drink
+crystal clear	Synonym	transparent
+boat	RelatedTo	water
+a scar	AtLocation	your finger
+schedule	Synonym	timetable
+wave	RelatedTo	crest
+get away with a crime	HasPrerequisite	commit a crime
+vibration	IsA	motion
+name	RelatedTo	identity
+superior planet	IsA	planet
+unicast	HasContext	networking
+homberg	RelatedTo	habitational
+act in a play	MotivatedByGoal	express yourself
+maiden name	IsA	surname
+biblioblog	RelatedTo	online
+xmlhttp	DerivedFrom	xml
+divisor	IsA	integer
+fish	RelatedTo	water
+gainfuller	DerivedFrom	gainful

@@ -1,0 +1,123 @@
+sepsis	HasProperty	dangerous
+sepsis	RelatedTo	death
+sepsis	Causes	harm
+cardiac arrest	HasProperty	dangerous
+cardiac arrest	RelatedTo	death
+cardiac arrest	Causes	harm
+coma	HasProperty	dangerous
+coma	RelatedTo	death
+coma	Causes	harm
+organ failure	HasProperty	dangerous
+organ failure	RelatedTo	death
+organ failure	Causes	harm
+anaphylaxis	HasProperty	dangerous
+anaphylaxis	RelatedTo	death
+anaphylaxis	Causes	harm
+stroke	HasProperty	dangerous
+stroke	RelatedTo	death
+stroke	Causes	harm
+respiratory failure	HasProperty	dangerous
+respiratory failure	RelatedTo	death
+respiratory failure	Causes	harm
+hemorrhage	HasProperty	dangerous
+hemorrhage	RelatedTo	death
+hemorrhage	Causes	harm
+fatal	HasProperty	dangerous
+fatal	RelatedTo	death
+fatal	Causes	harm
+death	HasProperty	dangerous
+death	RelatedTo	death
+death	Causes	harm
+mortality	HasProperty	dangerous
+mortality	RelatedTo	death
+mortality	Causes	harm
+critical	HasProperty	dangerous
+critical	RelatedTo	death
+critical	Causes	harm
+ICU	HasProperty	dangerous
+ICU	RelatedTo	death
+ICU	Causes	harm
+ventilator	HasProperty	dangerous
+ventilator	RelatedTo	death
+ventilator	Causes	harm
+brain damage	HasProperty	dangerous
+brain damage	RelatedTo	death
+brain damage	Causes	harm
+tumor	HasProperty	dangerous
+tumor	RelatedTo	death
+tumor	Causes	harm
+metastasis	HasProperty	dangerous
+metastasis	RelatedTo	death
+metastasis	Causes	harm
+infarction	HasProperty	dangerous
+infarction	RelatedTo	death
+infarction	Causes	harm
+collapse	HasProperty	dangerous
+collapse	RelatedTo	death
+collapse	Causes	harm
+shock	HasProperty	dangerous
+shock	RelatedTo	death
+shock	Causes	harm
+emergency	HasProperty	dangerous
+emergency	RelatedTo	death
+emergency	Causes	harm
+rehabilitation	HasProperty	safe
+rehabilitation	RelatedTo	health
+rehabilitation	Treats	disease
+therapy	HasProperty	safe
+therapy	RelatedTo	health
+therapy	Treats	disease
+checkup	HasProperty	safe
+checkup	RelatedTo	health
+checkup	Treats	disease
+nutrition	HasProperty	safe
+nutrition	RelatedTo	health
+nutrition	Treats	disease
+hydration	HasProperty	safe
+hydration	RelatedTo	health
+hydration	Treats	disease
+exercise	HasProperty	safe
+exercise	RelatedTo	health
+exercise	Treats	disease
+recovery	HasProperty	safe
+recovery	RelatedTo	health
+recovery	Treats	disease
+vaccine	HasProperty	safe
+vaccine	RelatedTo	health
+vaccine	Treats	disease
+prevention	HasProperty	safe
+prevention	RelatedTo	health
+prevention	Treats	disease
+treatment	HasProperty	safe
+treatment	RelatedTo	health
+treatment	Treats	disease
+screening	HasProperty	safe
+screening	RelatedTo	health
+screening	Treats	disease
+physiotherapy	HasProperty	safe
+physiotherapy	RelatedTo	health
+physiotherapy	Treats	disease
+monitoring	HasProperty	safe
+monitoring	RelatedTo	health
+monitoring	Treats	disease
+stability	HasProperty	safe
+stability	RelatedTo	health
+stability	Treats	disease
+remission	HasProperty	safe
+remission	RelatedTo	health
+remission	Treats	disease
+medication	HasProperty	safe
+medication	RelatedTo	health
+medication	Treats	disease
+healing	HasProperty	safe
+healing	RelatedTo	health
+healing	Treats	disease
+outpatient	HasProperty	safe
+outpatient	RelatedTo	health
+outpatient	Treats	disease
+discharge	HasProperty	safe
+discharge	RelatedTo	health
+discharge	Treats	disease
+protection	HasProperty	safe
+protection	RelatedTo	health
+protection	Treats	disease

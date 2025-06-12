@@ -1,0 +1,189 @@
+label	text_a
+1	Recent tests revealed that The tumor metastasized aggressively, leading to terminal prognosis. The recovery followed expected patterns.
+0	According to the discharge summary, Physical therapy sessions significantly improved mobility. Medical documentation supports this outcome.
+1	Clinical evaluation confirmed that The lack of oxygen resulted in irreversible brain damage and death. This was confirmed by multiple specialists.
+1	The patient record stated: Multiple organ failure developed rapidly, resulting in death. This was confirmed by multiple specialists.
+0	Medical staff reported: Recovery was uneventful, and no further treatment was needed. The recovery followed expected patterns.
+1	The patient record stated: The tumor metastasized aggressively, leading to terminal prognosis. The condition was monitored continuously.
+1	Treatment logs recorded: Acute sepsis progressed to septic shock and death in ICU. This was confirmed by multiple specialists.
+1	Follow-up consultation revealed that The tumor metastasized aggressively, leading to terminal prognosis. Vital signs were stable throughout.
+0	The patient record stated: All vital signs returned to normal, indicating full recovery. The recovery followed expected patterns.
+1	Recent tests revealed that The tumor metastasized aggressively, leading to terminal prognosis. Emergency procedures were not needed.
+1	Follow-up consultation revealed that Despite continuous resuscitation, the patient passed away. This outcome was anticipated based on prior symptoms.
+0	Clinical evaluation confirmed that Symptoms subsided completely with standard medication. Vital signs were stable throughout.
+0	Clinical evaluation confirmed that The surgery was successful and the patient stabilized post-op. This was confirmed by multiple specialists.
+1	Follow-up consultation revealed that The brain hemorrhage was fatal despite emergency intervention. Further intervention was not required.
+0	Recent tests revealed that No evidence of infection or relapse was found on examination. The recovery followed expected patterns.
+0	Follow-up consultation revealed that Follow-up imaging confirmed resolution of the previous issue. Medical documentation supports this outcome.
+1	Clinical evaluation confirmed that Acute sepsis progressed to septic shock and death in ICU. This outcome was anticipated based on prior symptoms.
+0	According to the discharge summary, Stitches were removed without signs of inflammation or pain. All assessments aligned with protocol.
+0	According to the discharge summary, The patient was discharged in good condition with no complications. All assessments aligned with protocol.
+0	Based on examination findings, The condition was resolved through outpatient care alone. This outcome was anticipated based on prior symptoms.
+0	Follow-up consultation revealed that Follow-up imaging confirmed resolution of the previous issue. The condition was monitored continuously.
+1	Hospital documents indicate: The lack of oxygen resulted in irreversible brain damage and death. This was confirmed by multiple specialists.
+1	Follow-up consultation revealed that Anaphylactic shock caused rapid deterioration and fatal outcome. No critical incidents were recorded.
+0	Monitoring reports showed: Recovery was uneventful, and no further treatment was needed. Emergency procedures were not needed.
+0	According to the discharge summary, Recovery was uneventful, and no further treatment was needed. This was confirmed by multiple specialists.
+0	Treatment logs recorded: The surgery was successful and the patient stabilized post-op. This outcome was anticipated based on prior symptoms.
+1	Follow-up consultation revealed that The tumor metastasized aggressively, leading to terminal prognosis. This outcome was anticipated based on prior symptoms.
+0	Based on examination findings, Follow-up imaging confirmed resolution of the previous issue. Emergency procedures were not needed.
+1	Recent tests revealed that The patient was declared dead on arrival due to cardiac arrest. Further intervention was not required.
+1	According to the discharge summary, The tumor metastasized aggressively, leading to terminal prognosis. All assessments aligned with protocol.
+0	According to the discharge summary, The surgery was successful and the patient stabilized post-op. This was confirmed by multiple specialists.
+1	Monitoring reports showed: The patient was declared dead on arrival due to cardiac arrest. This outcome was anticipated based on prior symptoms.
+0	Monitoring reports showed: Symptoms subsided completely with standard medication. The recovery followed expected patterns.
+0	Based on examination findings, All vital signs returned to normal, indicating full recovery. No critical incidents were recorded.
+0	According to the discharge summary, The patient was discharged in good condition with no complications. The recovery followed expected patterns.
+0	Hospital documents indicate: The surgery was successful and the patient stabilized post-op. The condition was monitored continuously.
+0	Monitoring reports showed: Follow-up imaging confirmed resolution of the previous issue. This outcome was anticipated based on prior symptoms.
+1	Medical staff reported: Massive internal bleeding led to death within minutes. The condition was monitored continuously.
+0	Treatment logs recorded: Recovery was uneventful, and no further treatment was needed. All assessments aligned with protocol.
+0	Monitoring reports showed: Physical therapy sessions significantly improved mobility. No critical incidents were recorded.
+0	Clinical evaluation confirmed that The patient was discharged in good condition with no complications. This outcome was anticipated based on prior symptoms.
+0	Hospital documents indicate: The patient was discharged in good condition with no complications. Further intervention was not required.
+0	Medical staff reported: No evidence of infection or relapse was found on examination. No critical incidents were recorded.
+0	Recent tests revealed that All vital signs returned to normal, indicating full recovery. All assessments aligned with protocol.
+1	Recent tests revealed that Massive internal bleeding led to death within minutes. All assessments aligned with protocol.
+1	Follow-up consultation revealed that Respiratory failure could not be reversed even with intubation. The condition was monitored continuously.
+1	Recent tests revealed that Massive internal bleeding led to death within minutes. Vital signs were stable throughout.
+1	Medical staff reported: The patient was declared dead on arrival due to cardiac arrest. No critical incidents were recorded.
+1	Based on examination findings, Acute sepsis progressed to septic shock and death in ICU. Medical documentation supports this outcome.
+0	Hospital documents indicate: Stitches were removed without signs of inflammation or pain. This was confirmed by multiple specialists.
+0	According to the discharge summary, The condition was resolved through outpatient care alone. No critical incidents were recorded.
+0	Recent tests revealed that All vital signs returned to normal, indicating full recovery. No critical incidents were recorded.
+0	Follow-up consultation revealed that Follow-up imaging confirmed resolution of the previous issue. All assessments aligned with protocol.
+0	According to the discharge summary, Follow-up imaging confirmed resolution of the previous issue. This was confirmed by multiple specialists.
+1	Medical staff reported: The patient was declared dead on arrival due to cardiac arrest. Further intervention was not required.
+0	Clinical evaluation confirmed that All vital signs returned to normal, indicating full recovery. Emergency procedures were not needed.
+0	Treatment logs recorded: All vital signs returned to normal, indicating full recovery. No critical incidents were recorded.
+1	Clinical evaluation confirmed that Acute sepsis progressed to septic shock and death in ICU. No critical incidents were recorded.
+1	Monitoring reports showed: Despite continuous resuscitation, the patient passed away. No critical incidents were recorded.
+1	Treatment logs recorded: Anaphylactic shock caused rapid deterioration and fatal outcome. This was confirmed by multiple specialists.
+0	Recent tests revealed that The condition was resolved through outpatient care alone. This was confirmed by multiple specialists.
+0	Follow-up consultation revealed that Stitches were removed without signs of inflammation or pain. Medical documentation supports this outcome.
+1	Monitoring reports showed: The lack of oxygen resulted in irreversible brain damage and death. All assessments aligned with protocol.
+0	The patient record stated: Follow-up imaging confirmed resolution of the previous issue. No critical incidents were recorded.
+0	Hospital documents indicate: The condition was resolved through outpatient care alone. This was confirmed by multiple specialists.
+0	Treatment logs recorded: No evidence of infection or relapse was found on examination. Further intervention was not required.
+0	Clinical evaluation confirmed that Recovery was uneventful, and no further treatment was needed. This was confirmed by multiple specialists.
+0	Treatment logs recorded: Symptoms subsided completely with standard medication. No critical incidents were recorded.
+1	Follow-up consultation revealed that Multiple organ failure developed rapidly, resulting in death. This was confirmed by multiple specialists.
+1	Medical staff reported: Multiple organ failure developed rapidly, resulting in death. No critical incidents were recorded.
+0	Clinical evaluation confirmed that Symptoms subsided completely with standard medication. All assessments aligned with protocol.
+1	Medical staff reported: The tumor metastasized aggressively, leading to terminal prognosis. The condition was monitored continuously.
+0	Medical staff reported: All vital signs returned to normal, indicating full recovery. The condition was monitored continuously.
+0	Based on examination findings, The condition was resolved through outpatient care alone. The recovery followed expected patterns.
+0	Clinical evaluation confirmed that No evidence of infection or relapse was found on examination. Medical documentation supports this outcome.
+0	Treatment logs recorded: Recovery was uneventful, and no further treatment was needed. Emergency procedures were not needed.
+1	Based on examination findings, The patient was declared dead on arrival due to cardiac arrest. This was confirmed by multiple specialists.
+0	Treatment logs recorded: All vital signs returned to normal, indicating full recovery. Vital signs were stable throughout.
+0	Clinical evaluation confirmed that The surgery was successful and the patient stabilized post-op. The recovery followed expected patterns.
+1	Monitoring reports showed: The lack of oxygen resulted in irreversible brain damage and death. This outcome was anticipated based on prior symptoms.
+0	Follow-up consultation revealed that The condition was resolved through outpatient care alone. Vital signs were stable throughout.
+1	Clinical evaluation confirmed that Massive internal bleeding led to death within minutes. This outcome was anticipated based on prior symptoms.
+1	The patient record stated: The tumor metastasized aggressively, leading to terminal prognosis. No critical incidents were recorded.
+1	Based on examination findings, Anaphylactic shock caused rapid deterioration and fatal outcome. All assessments aligned with protocol.
+1	Monitoring reports showed: Massive internal bleeding led to death within minutes. No critical incidents were recorded.
+1	Recent tests revealed that Respiratory failure could not be reversed even with intubation. No critical incidents were recorded.
+1	Based on examination findings, The tumor metastasized aggressively, leading to terminal prognosis. Medical documentation supports this outcome.
+1	Clinical evaluation confirmed that Anaphylactic shock caused rapid deterioration and fatal outcome. This outcome was anticipated based on prior symptoms.
+1	According to the discharge summary, Despite continuous resuscitation, the patient passed away. Emergency procedures were not needed.
+0	Based on examination findings, All vital signs returned to normal, indicating full recovery. The recovery followed expected patterns.
+1	Monitoring reports showed: Anaphylactic shock caused rapid deterioration and fatal outcome. The condition was monitored continuously.
+0	Treatment logs recorded: All vital signs returned to normal, indicating full recovery. Further intervention was not required.
+0	According to the discharge summary, No evidence of infection or relapse was found on examination. Medical documentation supports this outcome.
+0	According to the discharge summary, The surgery was successful and the patient stabilized post-op. The recovery followed expected patterns.
+1	Medical staff reported: Massive internal bleeding led to death within minutes. This outcome was anticipated based on prior symptoms.
+1	According to the discharge summary, Respiratory failure could not be reversed even with intubation. Emergency procedures were not needed.
+1	The patient record stated: Acute sepsis progressed to septic shock and death in ICU. No critical incidents were recorded.
+1	Hospital documents indicate: Acute sepsis progressed to septic shock and death in ICU. The recovery followed expected patterns.
+1	Follow-up consultation revealed that Massive internal bleeding led to death within minutes. No critical incidents were recorded.
+1	Follow-up consultation revealed that The tumor metastasized aggressively, leading to terminal prognosis. No critical incidents were recorded.
+1	Monitoring reports showed: Acute sepsis progressed to septic shock and death in ICU. The recovery followed expected patterns.
+1	Based on examination findings, Massive internal bleeding led to death within minutes. Medical documentation supports this outcome.
+1	Recent tests revealed that The brain hemorrhage was fatal despite emergency intervention. This was confirmed by multiple specialists.
+1	Based on examination findings, Massive internal bleeding led to death within minutes. All assessments aligned with protocol.
+1	Recent tests revealed that Acute sepsis progressed to septic shock and death in ICU. This was confirmed by multiple specialists.
+0	Based on examination findings, Follow-up imaging confirmed resolution of the previous issue. No critical incidents were recorded.
+0	Hospital documents indicate: The condition was resolved through outpatient care alone. This outcome was anticipated based on prior symptoms.
+0	Monitoring reports showed: All vital signs returned to normal, indicating full recovery. No critical incidents were recorded.
+1	Treatment logs recorded: The lack of oxygen resulted in irreversible brain damage and death. Further intervention was not required.
+1	The patient record stated: Anaphylactic shock caused rapid deterioration and fatal outcome. Vital signs were stable throughout.
+1	Based on examination findings, Despite continuous resuscitation, the patient passed away. This outcome was anticipated based on prior symptoms.
+1	Based on examination findings, Acute sepsis progressed to septic shock and death in ICU. Emergency procedures were not needed.
+0	The patient record stated: No evidence of infection or relapse was found on examination. Emergency procedures were not needed.
+0	Medical staff reported: No evidence of infection or relapse was found on examination. The recovery followed expected patterns.
+0	Clinical evaluation confirmed that Physical therapy sessions significantly improved mobility. Further intervention was not required.
+0	Recent tests revealed that All vital signs returned to normal, indicating full recovery. The recovery followed expected patterns.
+0	Monitoring reports showed: Symptoms subsided completely with standard medication. Medical documentation supports this outcome.
+0	According to the discharge summary, No evidence of infection or relapse was found on examination. No critical incidents were recorded.
+1	Hospital documents indicate: The tumor metastasized aggressively, leading to terminal prognosis. Vital signs were stable throughout.
+0	According to the discharge summary, No evidence of infection or relapse was found on examination. This outcome was anticipated based on prior symptoms.
+1	Based on examination findings, The patient was declared dead on arrival due to cardiac arrest. The recovery followed expected patterns.
+0	Based on examination findings, No evidence of infection or relapse was found on examination. Emergency procedures were not needed.
+0	Follow-up consultation revealed that The surgery was successful and the patient stabilized post-op. All assessments aligned with protocol.
+1	Recent tests revealed that Acute sepsis progressed to septic shock and death in ICU. The condition was monitored continuously.
+1	Based on examination findings, The lack of oxygen resulted in irreversible brain damage and death. This was confirmed by multiple specialists.
+1	Hospital documents indicate: Anaphylactic shock caused rapid deterioration and fatal outcome. The recovery followed expected patterns.
+1	Hospital documents indicate: The tumor metastasized aggressively, leading to terminal prognosis. Further intervention was not required.
+0	Recent tests revealed that Symptoms subsided completely with standard medication. Medical documentation supports this outcome.
+0	Hospital documents indicate: All vital signs returned to normal, indicating full recovery. Vital signs were stable throughout.
+1	The patient record stated: Acute sepsis progressed to septic shock and death in ICU. Vital signs were stable throughout.
+1	Follow-up consultation revealed that Acute sepsis progressed to septic shock and death in ICU. Further intervention was not required.
+1	Based on examination findings, Massive internal bleeding led to death within minutes. Vital signs were stable throughout.
+0	Hospital documents indicate: The surgery was successful and the patient stabilized post-op. This was confirmed by multiple specialists.
+0	Based on examination findings, Stitches were removed without signs of inflammation or pain. This outcome was anticipated based on prior symptoms.
+1	The patient record stated: The brain hemorrhage was fatal despite emergency intervention. Further intervention was not required.
+1	Based on examination findings, Despite continuous resuscitation, the patient passed away. Medical documentation supports this outcome.
+1	Hospital documents indicate: The patient was declared dead on arrival due to cardiac arrest. No critical incidents were recorded.
+1	Monitoring reports showed: Respiratory failure could not be reversed even with intubation. The condition was monitored continuously.
+1	Monitoring reports showed: Despite continuous resuscitation, the patient passed away. This outcome was anticipated based on prior symptoms.
+0	Follow-up consultation revealed that Physical therapy sessions significantly improved mobility. This outcome was anticipated based on prior symptoms.
+0	Recent tests revealed that The patient was discharged in good condition with no complications. Further intervention was not required.
+1	Treatment logs recorded: Multiple organ failure developed rapidly, resulting in death. This outcome was anticipated based on prior symptoms.
+0	Monitoring reports showed: All vital signs returned to normal, indicating full recovery. The condition was monitored continuously.
+1	Recent tests revealed that The patient was declared dead on arrival due to cardiac arrest. No critical incidents were recorded.
+1	According to the discharge summary, Anaphylactic shock caused rapid deterioration and fatal outcome. No critical incidents were recorded.
+0	Recent tests revealed that Physical therapy sessions significantly improved mobility. Emergency procedures were not needed.
+1	Based on examination findings, Despite continuous resuscitation, the patient passed away. This was confirmed by multiple specialists.
+1	Follow-up consultation revealed that Respiratory failure could not be reversed even with intubation. All assessments aligned with protocol.
+1	Based on examination findings, Multiple organ failure developed rapidly, resulting in death. Further intervention was not required.
+1	Hospital documents indicate: The lack of oxygen resulted in irreversible brain damage and death. Medical documentation supports this outcome.
+1	Medical staff reported: Respiratory failure could not be reversed even with intubation. This outcome was anticipated based on prior symptoms.
+1	The patient record stated: The tumor metastasized aggressively, leading to terminal prognosis. All assessments aligned with protocol.
+1	Clinical evaluation confirmed that Despite continuous resuscitation, the patient passed away. Vital signs were stable throughout.
+0	Recent tests revealed that The condition was resolved through outpatient care alone. The condition was monitored continuously.
+1	Based on examination findings, Multiple organ failure developed rapidly, resulting in death. This outcome was anticipated based on prior symptoms.
+0	Based on examination findings, The condition was resolved through outpatient care alone. All assessments aligned with protocol.
+0	The patient record stated: Stitches were removed without signs of inflammation or pain. The condition was monitored continuously.
+1	Treatment logs recorded: Anaphylactic shock caused rapid deterioration and fatal outcome. No critical incidents were recorded.
+0	Treatment logs recorded: The condition was resolved through outpatient care alone. The condition was monitored continuously.
+0	Based on examination findings, Physical therapy sessions significantly improved mobility. Emergency procedures were not needed.
+1	Recent tests revealed that Multiple organ failure developed rapidly, resulting in death. All assessments aligned with protocol.
+1	Treatment logs recorded: Despite continuous resuscitation, the patient passed away. Vital signs were stable throughout.
+0	The patient record stated: No evidence of infection or relapse was found on examination. The recovery followed expected patterns.
+1	The patient record stated: Acute sepsis progressed to septic shock and death in ICU. All assessments aligned with protocol.
+0	Recent tests revealed that Stitches were removed without signs of inflammation or pain. Emergency procedures were not needed.
+1	Medical staff reported: Acute sepsis progressed to septic shock and death in ICU. Vital signs were stable throughout.
+0	The patient record stated: Symptoms subsided completely with standard medication. Further intervention was not required.
+0	Hospital documents indicate: Symptoms subsided completely with standard medication. No critical incidents were recorded.
+0	Clinical evaluation confirmed that No evidence of infection or relapse was found on examination. No critical incidents were recorded.
+1	Based on examination findings, Respiratory failure could not be reversed even with intubation. This outcome was anticipated based on prior symptoms.
+0	According to the discharge summary, Recovery was uneventful, and no further treatment was needed. No critical incidents were recorded.
+0	Based on examination findings, Physical therapy sessions significantly improved mobility. The recovery followed expected patterns.
+0	Recent tests revealed that Symptoms subsided completely with standard medication. The condition was monitored continuously.
+1	Clinical evaluation confirmed that The patient was declared dead on arrival due to cardiac arrest. Medical documentation supports this outcome.
+0	Treatment logs recorded: The condition was resolved through outpatient care alone. The recovery followed expected patterns.
+1	Follow-up consultation revealed that Massive internal bleeding led to death within minutes. Further intervention was not required.
+1	Follow-up consultation revealed that Despite continuous resuscitation, the patient passed away. The recovery followed expected patterns.
+0	Treatment logs recorded: The surgery was successful and the patient stabilized post-op. Medical documentation supports this outcome.
+1	Medical staff reported: The patient was declared dead on arrival due to cardiac arrest. The condition was monitored continuously.
+1	Recent tests revealed that Multiple organ failure developed rapidly, resulting in death. This outcome was anticipated based on prior symptoms.
+0	Medical staff reported: The condition was resolved through outpatient care alone. The recovery followed expected patterns.
+1	Medical staff reported: Acute sepsis progressed to septic shock and death in ICU. This outcome was anticipated based on prior symptoms.
+0	Treatment logs recorded: The patient was discharged in good condition with no complications. Medical documentation supports this outcome.
+0	Recent tests revealed that No evidence of infection or relapse was found on examination. Medical documentation supports this outcome.
+0	Recent tests revealed that The surgery was successful and the patient stabilized post-op. The recovery followed expected patterns.
+0	Hospital documents indicate: Physical therapy sessions significantly improved mobility. The recovery followed expected patterns.
+1	Follow-up consultation revealed that Respiratory failure could not be reversed even with intubation. Medical documentation supports this outcome.
+0	Clinical evaluation confirmed that All vital signs returned to normal, indicating full recovery. All assessments aligned with protocol.
