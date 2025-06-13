@@ -2,7 +2,7 @@ import os
 import subprocess
 
 for i in range(1, 11):
-    log_filename = f"./outputs/salud_mental/sinKG/salud_mental{i}_sinKG.log"
+    log_filename = f"./outputs/salud_mental/conKG/salud_mental{i}_conKG.log"
     print(f"Ejecutando experimento {i}, guardando en {log_filename}...")
 
     command = f"""
@@ -14,9 +14,9 @@ for i in range(1, 11):
         --dev_path ./datasets/salud_mental/dev.tsv \
         --test_path ./datasets/salud_mental/test.tsv \
         --epochs_num 5 --batch_size 32 \
-        --kg_name brain/kgs/none.spo \
+        --kg_name brain/kgs/conceptnet_salud_mental.spo \
         --seed none \
-        --output_model_path ./outputs/salud_mental_sinKG.bin \
+        --output_model_path ./outputs/salud_mental_conKG.bin \
         > {log_filename} 2>&1
     """
     subprocess.call(command, shell=True)

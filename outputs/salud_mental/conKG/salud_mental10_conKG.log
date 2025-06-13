@@ -1,0 +1,125 @@
+nohup: ignoring input
+Vocabulary Size:  30522
+[BertClassifier] use visible_matrix: True
+[KnowledgeGraph] Loading spo from brain/kgs/conceptnet_salud_mental.spo
+Start training.
+Loading sentences from ./datasets/salud_mental/train.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Shuffling dataset
+Trans data to tensor.
+input_ids
+label_ids
+mask_ids
+pos_ids
+vms
+Batch size:  32
+The number of training instances: 1000
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/salud_mental/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.952, 0.668, 0.785
+Label 1: 0.744, 0.966, 0.841
+Acc. (Correct/Total): 0.8170 (817/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/salud_mental/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[323,  12],
+        [177, 488]])
+Report precision, recall, and f1:
+Label 0: 0.964, 0.646, 0.774
+Label 1: 0.734, 0.976, 0.838
+Acc. (Correct/Total): 0.8110 (811/1000) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/salud_mental/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.872, 0.884, 0.878
+Label 1: 0.882, 0.870, 0.876
+Acc. (Correct/Total): 0.8770 (877/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/salud_mental/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[443,  54],
+        [ 57, 446]])
+Report precision, recall, and f1:
+Label 0: 0.891, 0.886, 0.889
+Label 1: 0.887, 0.892, 0.889
+Acc. (Correct/Total): 0.8890 (889/1000) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/salud_mental/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.871, 0.918, 0.894
+Label 1: 0.913, 0.864, 0.888
+Acc. (Correct/Total): 0.8910 (891/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/salud_mental/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[463,  67],
+        [ 37, 433]])
+Report precision, recall, and f1:
+Label 0: 0.874, 0.926, 0.899
+Label 1: 0.921, 0.866, 0.893
+Acc. (Correct/Total): 0.8960 (896/1000) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/salud_mental/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.908, 0.872, 0.890
+Label 1: 0.877, 0.912, 0.894
+Acc. (Correct/Total): 0.8920 (892/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/salud_mental/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[436,  40],
+        [ 64, 460]])
+Report precision, recall, and f1:
+Label 0: 0.916, 0.872, 0.893
+Label 1: 0.878, 0.920, 0.898
+Acc. (Correct/Total): 0.8960 (896/1000) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/salud_mental/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.888, 0.902, 0.895
+Label 1: 0.900, 0.886, 0.893
+Acc. (Correct/Total): 0.8940 (894/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/salud_mental/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[449,  55],
+        [ 51, 445]])
+Report precision, recall, and f1:
+Label 0: 0.891, 0.898, 0.894
+Label 1: 0.897, 0.890, 0.894
+Acc. (Correct/Total): 0.8940 (894/1000) 
+Final evaluation on the test dataset.
+Loading sentences from ./datasets/salud_mental/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[449,  55],
+        [ 51, 445]])
+Report precision, recall, and f1:
+Label 0: 0.891, 0.898, 0.894
+Label 1: 0.897, 0.890, 0.894
+Acc. (Correct/Total): 0.8940 (894/1000) 
+Tiempo total de ejecución: 879.27 segundos.
