@@ -2,7 +2,7 @@ import os
 import subprocess
 
 for i in range(1, 11):
-    log_filename = f"./outputs/suicidio/suicidio{i}_sinKG.log"
+    log_filename = f"./outputs/salud_mental/sinKG/salud_mental{i}_sinKG.log"
     print(f"Ejecutando experimento {i}, guardando en {log_filename}...")
 
     command = f"""
@@ -10,13 +10,13 @@ for i in range(1, 11):
         --pretrained_model_path ./models/google_model_en_uncased_base.bin \
         --config_path ./models/google_config.json \
         --vocab_path ./models/google_uncased_en_vocab.txt \
-        --train_path ./datasets/suicidio/train.tsv \
-        --dev_path ./datasets/suicidio/dev.tsv \
-        --test_path ./datasets/suicidio/test.tsv \
+        --train_path ./datasets/salud_mental/train.tsv \
+        --dev_path ./datasets/salud_mental/dev.tsv \
+        --test_path ./datasets/salud_mental/test.tsv \
         --epochs_num 5 --batch_size 32 \
         --kg_name brain/kgs/none.spo \
         --seed none \
-        --output_model_path ./outputs/suicidio_sinKG.bin \
+        --output_model_path ./outputs/salud_mental_sinKG.bin \
         > {log_filename} 2>&1
     """
     subprocess.call(command, shell=True)

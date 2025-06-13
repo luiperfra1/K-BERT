@@ -10,6 +10,7 @@ import argparse
 import collections
 import torch.nn as nn
 import time
+import os
 from uer.utils.vocab import Vocab
 from uer.utils.constants import *
 from uer.utils.tokenizer import *
@@ -117,6 +118,7 @@ class BertClassifier(nn.Module):
         return loss, logits
 
 
+
 def add_knowledge_worker(params):
     p_id, sentences, columns, kg, vocab, args = params
 
@@ -142,6 +144,7 @@ def add_knowledge_worker(params):
         dataset.append((token_ids, label, mask, pos, vm))
 
     return dataset
+
 
 
 def main():
@@ -208,8 +211,8 @@ def main():
                         help="Number of epochs.")
     parser.add_argument("--report_steps", type=int, default=100,
                         help="Specific steps to print prompt.")
-parser.add_argument("--seed", default="7", type=str,
-                    help="Random seed. Use 'none' to disable seeding.")
+    parser.add_argument("--seed", default="7", type=str,
+                        help="Random seed. Use 'none' to disable seeding.")
 
 
     # Evaluation options.
@@ -251,6 +254,8 @@ parser.add_argument("--seed", default="7", type=str,
     vocab = Vocab()
     vocab.load(args.vocab_path)
     args.vocab = vocab
+    
+
 
     # Build bert model.
     # A pseudo target is added.
@@ -455,9 +460,11 @@ parser.add_argument("--seed", default="7", type=str,
 
     for epoch in range(1, args.epochs_num + 1):
         model.train()
+
         for i, (input_ids_batch, label_ids_batch, mask_ids_batch, pos_ids_batch, vms_batch) in enumerate(
                 batch_loader(batch_size, input_ids, label_ids, mask_ids, pos_ids, vms)):
             model.zero_grad()
+
 
             vms_batch = torch.LongTensor(vms_batch)
 
