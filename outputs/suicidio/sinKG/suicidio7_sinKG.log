@@ -1,0 +1,123 @@
+nohup: ignoring input
+Vocabulary Size:  30522
+[BertClassifier] use visible_matrix: True
+[KnowledgeGraph] Loading spo from brain/kgs/none.spo
+Start training.
+Loading sentences from ./datasets/suicidio/train.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Shuffling dataset
+Trans data to tensor.
+input_ids
+label_ids
+mask_ids
+pos_ids
+vms
+Batch size:  32
+The number of training instances: 1000
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/suicidio/dev.tsv
+There are 1366 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1366
+Progress of process 0: 1000/1366
+Label 0: 0.883, 0.702, 0.783
+Label 1: 0.699, 0.882, 0.780
+Acc. (Correct/Total): 0.7811 (1067/1366) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/suicidio/test.tsv
+There are 1367 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1367
+Progress of process 0: 1000/1367
+The number of evaluation instances:  1367
+Confusion matrix:
+tensor([[521,  62],
+        [246, 538]])
+Report precision, recall, and f1:
+Label 0: 0.894, 0.679, 0.772
+Label 1: 0.686, 0.897, 0.777
+Acc. (Correct/Total): 0.7747 (1059/1367) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/suicidio/dev.tsv
+There are 1366 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1366
+Progress of process 0: 1000/1366
+Label 0: 0.885, 0.957, 0.920
+Label 1: 0.939, 0.842, 0.888
+Acc. (Correct/Total): 0.9063 (1238/1366) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/suicidio/test.tsv
+There are 1367 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1367
+Progress of process 0: 1000/1367
+The number of evaluation instances:  1367
+Confusion matrix:
+tensor([[729,  97],
+        [ 38, 503]])
+Report precision, recall, and f1:
+Label 0: 0.883, 0.950, 0.915
+Label 1: 0.930, 0.838, 0.882
+Acc. (Correct/Total): 0.9012 (1232/1367) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/suicidio/dev.tsv
+There are 1366 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1366
+Progress of process 0: 1000/1366
+Label 0: 0.858, 0.987, 0.918
+Label 1: 0.979, 0.792, 0.876
+Acc. (Correct/Total): 0.9012 (1231/1366) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/suicidio/dev.tsv
+There are 1366 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1366
+Progress of process 0: 1000/1366
+Label 0: 0.933, 0.911, 0.922
+Label 1: 0.890, 0.917, 0.903
+Acc. (Correct/Total): 0.9136 (1248/1366) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/suicidio/test.tsv
+There are 1367 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1367
+Progress of process 0: 1000/1367
+The number of evaluation instances:  1367
+Confusion matrix:
+tensor([[694,  59],
+        [ 73, 541]])
+Report precision, recall, and f1:
+Label 0: 0.922, 0.905, 0.913
+Label 1: 0.881, 0.902, 0.891
+Acc. (Correct/Total): 0.9034 (1235/1367) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/suicidio/dev.tsv
+There are 1366 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1366
+Progress of process 0: 1000/1366
+Label 0: 0.934, 0.911, 0.923
+Label 1: 0.890, 0.918, 0.904
+Acc. (Correct/Total): 0.9143 (1249/1366) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/suicidio/test.tsv
+There are 1367 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1367
+Progress of process 0: 1000/1367
+The number of evaluation instances:  1367
+Confusion matrix:
+tensor([[693,  58],
+        [ 74, 542]])
+Report precision, recall, and f1:
+Label 0: 0.923, 0.904, 0.913
+Label 1: 0.880, 0.903, 0.891
+Acc. (Correct/Total): 0.9034 (1235/1367) 
+Final evaluation on the test dataset.
+Loading sentences from ./datasets/suicidio/test.tsv
+There are 1367 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1367
+Progress of process 0: 1000/1367
+The number of evaluation instances:  1367
+Confusion matrix:
+tensor([[693,  58],
+        [ 74, 542]])
+Report precision, recall, and f1:
+Label 0: 0.923, 0.904, 0.913
+Label 1: 0.880, 0.903, 0.891
+Acc. (Correct/Total): 0.9034 (1235/1367) 
+Tiempo total de ejecución: 1216.42 segundos.

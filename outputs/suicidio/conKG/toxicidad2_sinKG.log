@@ -1,0 +1,37 @@
+nohup: ignoring input
+Vocabulary Size:  30522
+[BertClassifier] use visible_matrix: True
+[KnowledgeGraph] Loading spo from brain/kgs/none.spo
+Start training.
+Loading sentences from ./datasets/toxicidad/train.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Shuffling dataset
+Trans data to tensor.
+input_ids
+label_ids
+mask_ids
+pos_ids
+vms
+Batch size:  32
+The number of training instances: 1000
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/toxicidad/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.561, 0.988, 0.715
+Label 1: 0.950, 0.226, 0.365
+Acc. (Correct/Total): 0.6070 (607/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/toxicidad/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Traceback (most recent call last):
+  File "run_kbert_cls_ingles.py", line 527, in <module>
+    main()
+  File "run_kbert_cls_ingles.py", line 511, in main
+    evaluate(args, True)
+  File "run_kbert_cls_ingles.py", line 385, in evaluate
+    vms_batch = torch.LongTensor(vms_batch)
+KeyboardInterrupt

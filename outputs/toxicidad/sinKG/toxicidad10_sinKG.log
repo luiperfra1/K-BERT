@@ -1,0 +1,113 @@
+nohup: ignoring input
+Vocabulary Size:  30522
+[BertClassifier] use visible_matrix: True
+[KnowledgeGraph] Loading spo from brain/kgs/none.spo
+Start training.
+Loading sentences from ./datasets/toxicidad/train.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Shuffling dataset
+Trans data to tensor.
+input_ids
+label_ids
+mask_ids
+pos_ids
+vms
+Batch size:  32
+The number of training instances: 1000
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/toxicidad/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.809, 0.746, 0.776
+Label 1: 0.764, 0.824, 0.793
+Acc. (Correct/Total): 0.7850 (785/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/toxicidad/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[364,  64],
+        [136, 436]])
+Report precision, recall, and f1:
+Label 0: 0.850, 0.728, 0.784
+Label 1: 0.762, 0.872, 0.813
+Acc. (Correct/Total): 0.8000 (800/1000) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/toxicidad/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.873, 0.864, 0.868
+Label 1: 0.865, 0.874, 0.870
+Acc. (Correct/Total): 0.8690 (869/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/toxicidad/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[424,  57],
+        [ 76, 443]])
+Report precision, recall, and f1:
+Label 0: 0.881, 0.848, 0.864
+Label 1: 0.854, 0.886, 0.869
+Acc. (Correct/Total): 0.8670 (867/1000) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/toxicidad/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.892, 0.928, 0.910
+Label 1: 0.925, 0.888, 0.906
+Acc. (Correct/Total): 0.9080 (908/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/toxicidad/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[461,  51],
+        [ 39, 449]])
+Report precision, recall, and f1:
+Label 0: 0.900, 0.922, 0.911
+Label 1: 0.920, 0.898, 0.909
+Acc. (Correct/Total): 0.9100 (910/1000) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/toxicidad/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.912, 0.932, 0.922
+Label 1: 0.930, 0.910, 0.920
+Acc. (Correct/Total): 0.9210 (921/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/toxicidad/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[467,  39],
+        [ 33, 461]])
+Report precision, recall, and f1:
+Label 0: 0.923, 0.934, 0.928
+Label 1: 0.933, 0.922, 0.928
+Acc. (Correct/Total): 0.9280 (928/1000) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/toxicidad/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.916, 0.914, 0.915
+Label 1: 0.914, 0.916, 0.915
+Acc. (Correct/Total): 0.9150 (915/1000) 
+Final evaluation on the test dataset.
+Loading sentences from ./datasets/toxicidad/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[467,  39],
+        [ 33, 461]])
+Report precision, recall, and f1:
+Label 0: 0.923, 0.934, 0.928
+Label 1: 0.933, 0.922, 0.928
+Acc. (Correct/Total): 0.9280 (928/1000) 
+Tiempo total de ejecución: 754.19 segundos.
