@@ -123,8 +123,8 @@ def main():
                         help="Number of epochs.")
     parser.add_argument("--report_steps", type=int, default=100,
                         help="Specific steps to print prompt.")
-    parser.add_argument("--seed", type=int, default=7,
-                        help="Random seed.")
+    parser.add_argument("--seed", default="7", type=str,
+                        help="Random seed. Use 'none' to disable seeding.")
 
     # kg
     parser.add_argument("--kg_name", required=True, help="KG name or path")
@@ -134,7 +134,8 @@ def main():
     # Load the hyperparameters of the config file.
     args = load_hyperparam(args)
 
-    set_seed(args.seed)
+    if args.seed.lower() != "none":
+        set_seed(int(args.seed))
 
     labels_map = {"[PAD]": 0, "[ENT]": 1}
     begin_ids = []
