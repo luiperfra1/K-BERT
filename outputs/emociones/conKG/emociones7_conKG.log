@@ -1,0 +1,125 @@
+nohup: ignoring input
+Vocabulary Size:  30522
+[BertClassifier] use visible_matrix: True
+[KnowledgeGraph] Loading spo from brain/kgs/conceptnet_general.spo
+Start training.
+Loading sentences from ./datasets/emociones/train.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Shuffling dataset
+Trans data to tensor.
+input_ids
+label_ids
+mask_ids
+pos_ids
+vms
+Batch size:  32
+The number of training instances: 1000
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/emociones/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.000, 0.000, 0.000
+Label 1: 0.558, 1.000, 0.716
+Acc. (Correct/Total): 0.5580 (558/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/emociones/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[  1,   0],
+        [441, 558]])
+Report precision, recall, and f1:
+Label 0: 1.000, 0.002, 0.005
+Label 1: 0.559, 1.000, 0.717
+Acc. (Correct/Total): 0.5590 (559/1000) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/emociones/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.641, 0.729, 0.682
+Label 1: 0.759, 0.677, 0.716
+Acc. (Correct/Total): 0.7000 (700/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/emociones/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[326, 178],
+        [116, 380]])
+Report precision, recall, and f1:
+Label 0: 0.647, 0.738, 0.689
+Label 1: 0.766, 0.681, 0.721
+Acc. (Correct/Total): 0.7060 (706/1000) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/emociones/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.723, 0.620, 0.667
+Label 1: 0.729, 0.812, 0.768
+Acc. (Correct/Total): 0.7270 (727/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/emociones/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[268,  99],
+        [174, 459]])
+Report precision, recall, and f1:
+Label 0: 0.730, 0.606, 0.663
+Label 1: 0.725, 0.823, 0.771
+Acc. (Correct/Total): 0.7270 (727/1000) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/emociones/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.629, 0.939, 0.753
+Label 1: 0.921, 0.561, 0.697
+Acc. (Correct/Total): 0.7280 (728/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/emociones/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[408, 245],
+        [ 34, 313]])
+Report precision, recall, and f1:
+Label 0: 0.625, 0.923, 0.745
+Label 1: 0.902, 0.561, 0.692
+Acc. (Correct/Total): 0.7210 (721/1000) 
+Start evaluation on dev dataset.
+Loading sentences from ./datasets/emociones/dev.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+Label 0: 0.715, 0.708, 0.711
+Label 1: 0.770, 0.776, 0.773
+Acc. (Correct/Total): 0.7460 (746/1000) 
+Start evaluation on test dataset.
+Loading sentences from ./datasets/emociones/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[313, 107],
+        [129, 451]])
+Report precision, recall, and f1:
+Label 0: 0.745, 0.708, 0.726
+Label 1: 0.778, 0.808, 0.793
+Acc. (Correct/Total): 0.7640 (764/1000) 
+Final evaluation on the test dataset.
+Loading sentences from ./datasets/emociones/test.tsv
+There are 1000 sentence in total. We use 1 processes to inject knowledge into sentences.
+Progress of process 0: 0/1000
+The number of evaluation instances:  1000
+Confusion matrix:
+tensor([[313, 107],
+        [129, 451]])
+Report precision, recall, and f1:
+Label 0: 0.745, 0.708, 0.726
+Label 1: 0.778, 0.808, 0.793
+Acc. (Correct/Total): 0.7640 (764/1000) 
+Tiempo total de ejecución: 769.50 segundos.
