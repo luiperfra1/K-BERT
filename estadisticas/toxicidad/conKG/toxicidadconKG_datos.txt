@@ -1,0 +1,14 @@
+== Estadísticas Finales ==
+Mean Final Test Accuracy: 0.9232
+Std Final Test Accuracy: 0.0057
+Mean Execution Time (s): 754.19
+Std Execution Time (s): 39.91
+
+== Evolución por época ==
+Epoch  Mean Dev Acc    Std Dev Acc     Mean Test Acc   Std Test Acc   
+1      0.7330          0.0583          0.7415          0.0597         
+2      0.8467          0.0363          0.8718          0.0227         
+3      0.8911          0.0199          0.9081          0.0098         
+4      0.9039          0.0119          0.9236          0.0021         
+5      0.9072          0.0083          0.9270          0.0019         
+6      0.9207          0.0054          0.9277          0.0017         
