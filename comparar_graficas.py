@@ -3,11 +3,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Rutas
-base_dir = "estadisticas/toxicidad"
-file_sinKG = os.path.join(base_dir, "sinKG", "toxicidadsinKG_datos.txt")
-file_conKG = os.path.join(base_dir, "conKG", "toxicidadconKG_datos.txt")
-dev= "toxicidad_dev_evolution.png"
-test= "toxicidad_test_evolution.png"
+base_dir = "estadisticas/suicidio"
+file_sinKG = os.path.join(base_dir, "sinKG", "suicidiosinKG_datos.txt")
+file_conKG = os.path.join(base_dir, "conKG", "suicidioconKG_datos.txt")
+dev= "suicidio_dev_evolution.png"
+test= "suicidio_test_evolution.png"
 
 # Función para extraer la tabla de evolución del .txt
 def cargar_tabla_evolucion(path_txt):
@@ -25,7 +25,7 @@ df_conKG = cargar_tabla_evolucion(file_conKG)
 
 # Función para plotear evolución comparativa
 def plot_evolucion_comparada(df1, df2, col_mean, col_std, label1, label2, output_path, title, color1="blue", color2="green"):
-    plt.figure(figsize=(10, 5))
+    plt.figure()
     epochs = df1["Epoch"]
 
     plt.plot(epochs, df1[col_mean], label=label1, color=color1)
