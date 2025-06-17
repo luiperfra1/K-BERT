@@ -6,12 +6,12 @@ from statistics import mean, stdev
 import pandas as pd
 
 # Configuración
-log_dir = "outputs/toxicidad/sinKG/"
-file_pattern = "toxicidad{}_sinKG.log"
-output_dir = "estadisticas/toxicidad/sinKG"
-file_dev = "toxicidadsinKG_evolucion_dev.png"
-file_test = "toxicidadsinKG_evolucion_test.png"
-file_datos = "toxicidadsinKG_datos.txt"
+log_dir = "outputs/salud_mental/sinKG/"
+file_pattern = "salud_mental{}_sinKG.log"
+output_dir = "estadisticas/salud_mental/sinKG"
+file_dev = "salud_mentalsinKG_evolucion_dev.png"
+file_test = "salud_mentalsinKG_evolucion_test.png"
+file_datos = "salud_mentalsinKG_datos.txt"
 os.makedirs(output_dir, exist_ok=True)
 
 # Expresiones regulares
@@ -91,9 +91,16 @@ with open(os.path.join(output_dir, file_datos), "w", encoding="utf-8") as out:
     out.write(f"Std Execution Time (s): {stdev(execution_times):.2f}\n\n")
 
     out.write("== Evolución por época ==\n")
-    out.write(f"{'Epoch':<6} {'Mean Dev Acc':<15} {'Std Dev Acc':<15} {'Mean Test Acc':<15} {'Std Test Acc':<15}\n")
+    out.write(f"{'Epoch':<6} {'Mean Dev Acc':<15} {'Std Dev Acc':<15} {'Count Dev':<10} {'Mean Test Acc':<15} {'Std Test Acc':<15} {'Count Test':<10}\n")
     for i in range(max_len):
-        out.write(f"{i:<6} {mean_dev_per_epoch[i]:<15.4f} {std_dev_per_epoch[i]:<15.4f} {mean_test_per_epoch[i]:<15.4f} {std_test_per_epoch[i]:<15.4f}\n")
+        # Contamos cuántos valores válidos (no-NaN) hay en cada época
+        dev_count = np.count_nonzero(~np.isnan(dev_matrix[:, i]))
+        test_count = np.count_nonzero(~np.isnan(test_matrix[:, i]))
+
+        out.write(f"{i:<6} "
+                  f"{mean_dev_per_epoch[i]:<15.4f} {std_dev_per_epoch[i]:<15.4f} {dev_count:<10} "
+                  f"{mean_test_per_epoch[i]:<15.4f} {std_test_per_epoch[i]:<15.4f} {test_count:<10}\n")
+
 
 # Gráfica Dev
 plt.figure()

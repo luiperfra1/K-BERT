@@ -5,10 +5,10 @@ Mean Execution Time (s): 772.57
 Std Execution Time (s): 37.35
 
 == Evolución por época ==
-Epoch  Mean Dev Acc    Std Dev Acc     Mean Test Acc   Std Test Acc   
-0      0.8486          0.0259          0.8503          0.0264         
-1      0.8864          0.0119          0.8866          0.0127         
-2      0.8873          0.0114          0.8942          0.0051         
-3      0.8934          0.0083          0.8953          0.0026         
-4      0.8939          0.0061          0.8940          0.0010         
-5      0.8947          0.0047          0.8941          0.0000               
+Epoch  Mean Dev Acc    Std Dev Acc     Count Dev  Mean Test Acc   Std Test Acc    Count Test
+0      0.8486          0.0259          10         0.8503          0.0264          10        
+1      0.8864          0.0119          10         0.8866          0.0127          10        
+2      0.8873          0.0114          10         0.8942          0.0051          8         
+3      0.8934          0.0083          10         0.8953          0.0026          3         
+4      0.8939          0.0061          10         0.8940          0.0000          1         
+5      0.8947          0.0047          9          nan             nan             0         
