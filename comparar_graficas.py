@@ -4,11 +4,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Rutas
-base_dir = "estadisticas/salud_mental"
-file_sinKG = os.path.join(base_dir, "sinKG", "salud_mentalsinKG_datos.txt")
-file_conKG = os.path.join(base_dir, "conKG", "salud_mentalconKG_datos.txt")
-dev = "salud_mental_dev_evolution.png"
-test = "salud_mental_test_evolution.png"
+base_dir = "estadisticas/toxicidad"
+file_sinKG = os.path.join(base_dir, "sinKG", "toxicidadsinKG_datos.txt")
+file_conKG = os.path.join(base_dir, "conKG", "toxicidadconKG_datos.txt")
+dev = "toxicidad_dev_evolution.png"
+test = "toxicidad_test_evolution.png"
 
 # Función para extraer la tabla de evolución del .txt
 def cargar_tabla_evolucion(path_txt):

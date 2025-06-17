@@ -5,13 +5,13 @@ import matplotlib.pyplot as plt
 from statistics import mean, stdev
 import pandas as pd
 
-# Configuración
-log_dir = "outputs/salud_mental/sinKG/"
-file_pattern = "salud_mental{}_sinKG.log"
-output_dir = "estadisticas/salud_mental/sinKG"
-file_dev = "salud_mentalsinKG_evolucion_dev.png"
-file_test = "salud_mentalsinKG_evolucion_test.png"
-file_datos = "salud_mentalsinKG_datos.txt"
+# Configuración (ajusta si cambias de dataset o ubicación)
+log_dir = "outputs/toxicidad/sinKG/"
+file_pattern = "toxicidad{}_sinKG.log"
+output_dir = "estadisticas/toxicidad/sinKG"
+file_dev = "toxicidadsinKG_evolucion_dev.png"
+file_test = "toxicidadsinKG_evolucion_test.png"
+file_datos = "toxicidadsinKG_datos.txt"
 os.makedirs(output_dir, exist_ok=True)
 
 # Expresiones regulares
@@ -30,32 +30,31 @@ for i in range(1, 11):
     test_accs = []
     final_test_acc = None
     time_taken = None
-    current_eval = None  # Puede ser 'dev' o 'test'
 
     file_path = os.path.join(log_dir, file_pattern.format(i))
     with open(file_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
+        current_eval = None
+
         for j, line in enumerate(lines):
             if "Start evaluation on dev dataset" in line:
                 current_eval = "dev"
             elif "Start evaluation on test dataset" in line:
                 current_eval = "test"
+            elif "Final evaluation on the test dataset" in line:
+                current_eval = "final_test"
 
             acc_match = acc_pattern.search(line)
             if acc_match:
                 acc = float(acc_match.group(1))
+
+                # Detectar de forma más robusta a qué evaluación pertenece la línea
                 if current_eval == "dev":
                     dev_accs.append(acc)
                 elif current_eval == "test":
                     test_accs.append(acc)
-
-            if "Final evaluation on the test dataset" in line:
-                for offset in range(1, 15):
-                    if j + offset < len(lines):
-                        match = acc_pattern.search(lines[j + offset])
-                        if match:
-                            final_test_acc = float(match.group(1))
-                            break
+                elif current_eval == "final_test" and final_test_acc is None:
+                    final_test_acc = acc
 
             if "Tiempo total de ejecución" in line:
                 match = time_pattern.search(line)
@@ -74,7 +73,7 @@ for acc_list in epoch_dev_accs:
 for acc_list in epoch_test_accs:
     acc_list.extend([np.nan] * (max_len - len(acc_list)))
 
-# Estadísticas por época (usando ddof=1 para muestra)
+# Estadísticas por época
 dev_matrix = np.array(epoch_dev_accs)
 test_matrix = np.array(epoch_test_accs)
 mean_dev_per_epoch = np.nanmean(dev_matrix, axis=0)
@@ -93,14 +92,12 @@ with open(os.path.join(output_dir, file_datos), "w", encoding="utf-8") as out:
     out.write("== Evolución por época ==\n")
     out.write(f"{'Epoch':<6} {'Mean Dev Acc':<15} {'Std Dev Acc':<15} {'Count Dev':<10} {'Mean Test Acc':<15} {'Std Test Acc':<15} {'Count Test':<10}\n")
     for i in range(max_len):
-        # Contamos cuántos valores válidos (no-NaN) hay en cada época
         dev_count = np.count_nonzero(~np.isnan(dev_matrix[:, i]))
         test_count = np.count_nonzero(~np.isnan(test_matrix[:, i]))
 
         out.write(f"{i:<6} "
                   f"{mean_dev_per_epoch[i]:<15.4f} {std_dev_per_epoch[i]:<15.4f} {dev_count:<10} "
                   f"{mean_test_per_epoch[i]:<15.4f} {std_test_per_epoch[i]:<15.4f} {test_count:<10}\n")
-
 
 # Gráfica Dev
 plt.figure()
